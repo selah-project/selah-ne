@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 3:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तब तिमीले एलोहीम र मानिसहरूको आँखामा अनुग्रह र असल बुद्धि पाउनेछौ।",
+  "tokens": [
+    {
+      "surface": "ומצא",
+      "gloss": "तब तिमीले पाउनेछौ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ושכל",
+      "gloss": "र बुद्धि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "र मानिसहरूको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:58.228973510Z",
+  "model": "glm-5.3"
+}

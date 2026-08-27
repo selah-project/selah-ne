@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 4:11",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "त्यसैगरी, यदि दुई जना सँगै सुत्छन्, उनीहरूलाई न्यानो हुन्छ; तर एक्लोलाई कसरी न्यानो होस्?",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "त्यसैगरी"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "ישכבו",
+      "gloss": "सुत्छन्"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई जना"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "न्यानो हुन्छ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनीहरूलाई"
+    },
+    {
+      "surface": "ולאחד",
+      "gloss": "तर एक्लोलाई"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "יחם",
+      "gloss": "न्यानो होस्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:38.078288403Z",
+  "model": "glm-5.3"
+}

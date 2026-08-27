@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "2-samuel 23:36",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "यिगआल, नातानको छोरा, मित्सोभाबाट; बानी ⟨the⟩ गादी।",
+  "tokens": [
+    {
+      "surface": "יגאל",
+      "gloss": "यिगआल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "मצבה",
+      "gloss": "मित्सोभाबाट"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "हגדי",
+      "gloss": "गादी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:59:51.355537642Z",
+  "model": "glm-5.3"
+}

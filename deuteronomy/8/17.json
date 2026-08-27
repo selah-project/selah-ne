@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 8:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र ⟨तिमीले⟩ आफ्नो मुटुमा भन्नेछौ: मेरो शक्ति र मेरो हातको बलले मलाई यो सम्पत्ति ⟨את⟩ बनाइदियो।",
+  "tokens": [
+    {
+      "surface": "ואמרת",
+      "gloss": "र भन्नेछौ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "आफ्नो मुटुमा"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "मेरो शक्ति"
+    },
+    {
+      "surface": "ועצם",
+      "gloss": "र बल"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "मेरो हातको"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाइदियो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो सम्पत्ति"
+    },
+    {
+      "surface": "החיל",
+      "gloss": "सम्पत्ति"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:57:07.968751617Z",
+  "model": "glm-5.3"
+}

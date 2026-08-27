@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 3:6",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "अन्धकारमा उहाँले मलाई बसाउनुभयो, ध्रुवकालका मृतकहरूझैं।",
+  "tokens": [
+    {
+      "surface": "במחשכים",
+      "gloss": "अन्धकारमा"
+    },
+    {
+      "surface": "הושיבני",
+      "gloss": "मलाई बसाउनुभयो"
+    },
+    {
+      "surface": "כמתי",
+      "gloss": "मृतकहरूझैं"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ध्रुवकालका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:21.180945393Z",
+  "model": "glm-5.3"
+}

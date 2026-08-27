@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 11:23",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "यहवेको महिमा नगरको बीचबाट माथि उक्लियो, र नगरको पूर्वतिर रहेको पहाडमाथि उभियो।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "उक्लियो"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगरको"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "उभियो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "מקדם",
+      "gloss": "पूर्वतिर"
+    },
+    {
+      "surface": "לעיר",
+      "gloss": "नगरको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:08:17.680461320Z",
+  "model": "glm-5.3"
+}

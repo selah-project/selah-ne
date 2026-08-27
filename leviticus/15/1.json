@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 15:1",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र यहवेले मोशे र अहरोनसित बोल्नुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सित"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र …सित"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:00.550752697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 11:8",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "तिनीहरूको मासु नखाऊ, र तिनीहरूको लास नछुऊ — तिनीहरू तिमीहरूका लागि अशुद्ध छन्।",
+  "tokens": [
+    {
+      "surface": "מבשרם",
+      "gloss": "तिनीहरूको मासु"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "ובנבלתם",
+      "gloss": "र तिनीहरूको लास"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגעו",
+      "gloss": "छुऊ"
+    },
+    {
+      "surface": "טמאים",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הם",
+      "gloss": "तिनीहरू"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:40.554840957Z",
+  "model": "glm-5.3"
+}

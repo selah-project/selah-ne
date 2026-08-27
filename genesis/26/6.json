@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 26:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र यित्सखाक गेरारमा बसाइँ गर्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "र बसाइँ गर्नुभयो"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सखाक"
+    },
+    {
+      "surface": "בגרר",
+      "gloss": "गेरारमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:47.321553198Z",
+  "model": "glm-5.3"
+}

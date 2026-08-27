@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 10:1",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "राजा अखश्वेरोशले पृथ्वीमाथि र समुद्रका टापुहरूमाथि कर लगाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "लगाउनुभयो"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחשרש",
+      "gloss": "अखश्वेरोश"
+    },
+    {
+      "surface": "מס",
+      "gloss": "कर"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ואיי",
+      "gloss": "र टापुहरू"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्रका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:55:26.313857050Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 7:16",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अति धर्मी नबन, र अति बुद्धिमान् नदेखाऊ — किन लाटो भई बर्बाद हुन्छस्?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बन"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "अति"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תתחכם",
+      "gloss": "बुद्धिमान् नदेखाऊ"
+    },
+    {
+      "surface": "יותר",
+      "gloss": "अति"
+    },
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "תשומם",
+      "gloss": "बर्बाद हुन्छस्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:43.754230618Z",
+  "model": "glm-5.3"
+}

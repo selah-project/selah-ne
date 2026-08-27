@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 2:4",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "उसले मलाई मदिराको घरमा लगे, र उसको निशान ममाथि प्रेम ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "הביאני",
+      "gloss": "उसले मलाई लगे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "היין",
+      "gloss": "मदिराको"
+    },
+    {
+      "surface": "ודגלו",
+      "gloss": "र उसको निशान"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    },
+    {
+      "surface": "אהבה",
+      "gloss": "प्रेम"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:38.080345320Z",
+  "model": "glm-5.3"
+}

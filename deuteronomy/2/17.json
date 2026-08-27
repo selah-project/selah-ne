@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 2:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "त्यसैले यहवेले मलाई वचन दिनुभयो, भन्नुहुँदै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "वचन दिनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:29.617682089Z",
+  "model": "glm-5.3"
+}

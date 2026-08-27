@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 29:32",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "अनि सातौँ दिनमा सात वटा बोका, दुई वटा भाले, चार्दश वटा एक वर्षका भाले पाठाहरू, निर्दोष।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "अनि …दिनमा"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातौँ"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "बोका"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "भाले"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "पाठाहरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "एक वर्ष"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दश"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-08-26T20:49:12.424897999Z",
+  "model": "glm-5.3"
+}

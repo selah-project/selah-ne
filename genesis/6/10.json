@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 6:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र नोखले तीन छोराहरू जन्म दिए — ⟨את⟩ शेम, ⟨את⟩ खाम र ⟨את⟩ याफेत।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "र जन्म दिए"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोखले"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "याफेत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेत"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:54.504295507Z",
+  "model": "glm-5.3"
+}

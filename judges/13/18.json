@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 13:18",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र यहवेको दूतले उसलाई भने, यो किन सोध्छौ मेरो नामका लागि? र ⟨त्यो⟩ अद्भुत छ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "תשאल",
+      "gloss": "सोध्छौ"
+    },
+    {
+      "surface": "לשמי",
+      "gloss": "मेरो नामका लागि"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "र त्यो"
+    },
+    {
+      "surface": "פלאי",
+      "gloss": "अद्भुत"
+    }
+  ],
+  "timestamp": "2026-08-26T21:25:51.353804053Z",
+  "model": "glm-5.3"
+}

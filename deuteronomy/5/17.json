@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 5:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "हत्या नगर।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "हत्या गर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:19.186026535Z",
+  "model": "glm-5.3"
+}

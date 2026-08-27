@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 9:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र शिलोनीहरूमध्येबाट: असायाह पहिलो जन्मेको, र उसका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "र…मध्येबाट"
+    },
+    {
+      "surface": "השילוני",
+      "gloss": "शिलोनीहरू"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "असायाह"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "पहिलो जन्मेको"
+    },
+    {
+      "surface": "ובניו",
+      "gloss": "र उसका छोराहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:01.180046545Z",
+  "model": "glm-5.3"
+}

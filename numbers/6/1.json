@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 6:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "यहवेले मोशेलाई यसो भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्न"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:01.985678153Z",
+  "model": "glm-5.3"
+}

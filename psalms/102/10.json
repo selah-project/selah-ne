@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 102:10",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 102,
+  "translation": "किनकि मैले खरानीलाई रोटीझैँ खाएँ, र रुँदै आफ्नो पेय मिसाएँ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אפר",
+      "gloss": "खरानीलाई"
+    },
+    {
+      "surface": "כלחם",
+      "gloss": "रोटीझैँ"
+    },
+    {
+      "surface": "אכלתי",
+      "gloss": "मैले खाएँ"
+    },
+    {
+      "surface": "ושקוי",
+      "gloss": "र आफ्नो पेय"
+    },
+    {
+      "surface": "बבכי",
+      "gloss": "रुँदै"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "मिसाएँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:31.353884136Z",
+  "model": "glm-5.3"
+}

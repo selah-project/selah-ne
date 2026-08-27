@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 38:7",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "यहूदाको जेठो एर यहवेका आँखामा दुष्ट थियो, र यहवेले उलाई मार्नुभयो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाको"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेका"
+    },
+    {
+      "surface": "וימתהו",
+      "gloss": "उलाई मार्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    }
+  ],
+  "timestamp": "2026-08-26T19:56:42.820729276Z",
+  "model": "glm-5.3"
+}

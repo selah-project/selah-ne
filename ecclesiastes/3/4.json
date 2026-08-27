@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 3:4",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "रुने घडी, र हाँस्ने घडी; विलाप गर्ने घडी, र नाच्ने घडी।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "घडी"
+    },
+    {
+      "surface": "לבכות",
+      "gloss": "रुने"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र…घडी"
+    },
+    {
+      "surface": "לשחוק",
+      "gloss": "हाँस्ने"
+    },
+    {
+      "surface": "עת",
+      "gloss": "घडी"
+    },
+    {
+      "surface": "ספוד",
+      "gloss": "विलाप गर्ने"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र…घडी"
+    },
+    {
+      "surface": "רקוד",
+      "gloss": "नाच्ने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:47.813195102Z",
+  "model": "glm-5.3"
+}

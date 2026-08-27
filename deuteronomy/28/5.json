@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 28:5",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "धन्य ⟨होस्⟩ तिम्रो टोकरी र तिम्रो मुछ्ने-भाँडो।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "तिम्रो टोकरी"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "र तिम्रो मुछ्ने-भाँडो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:35.788776865Z",
+  "model": "glm-5.3"
+}

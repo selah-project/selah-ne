@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 27:21",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "धिक्कारित ⟨होस्⟩ जो कुनै पनि पशुसँग सम्भोग गर्छ; र सबै जनताले भन्नेछन्: आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कारित"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सम्भोग गर्छ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै पनि"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "र भन्नेछन्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:22.173380460Z",
+  "model": "glm-5.3"
+}

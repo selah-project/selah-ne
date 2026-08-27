@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 28:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "यहवेले मोशेलाई व्यवस्था दिनुभयो, भन्नुहुँदै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "व्यवस्था दिनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:49.394016673Z",
+  "model": "glm-5.3"
+}

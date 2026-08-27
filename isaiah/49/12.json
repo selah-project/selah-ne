@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 49:12",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "हेर, यी टाढाबाट आउनेछन्; र हेर, यी उत्तरबाट र पश्चिमबाट; र यी सिनिम देशबाट।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "टाढाबाट"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "आउनेछन्"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तरबाट"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "र पश्चिमबाट"
+    },
+    {
+      "surface": "ואלה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देशबाट"
+    },
+    {
+      "surface": "סינים",
+      "gloss": "सिनिम"
+    }
+  ],
+  "timestamp": "2026-08-26T22:39:11.405243908Z",
+  "model": "glm-5.3"
+}

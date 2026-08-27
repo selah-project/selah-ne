@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 2:13",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "दोस्रो नदीको नाउँ गिहोन हो, त्यो नै कुशको सम्पूर्ण भूमिलाई ⟨את⟩ घेर्ने हो।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "नाउँ"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदीको"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "גיחון",
+      "gloss": "गिहोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो नै"
+    },
+    {
+      "surface": "הסובב",
+      "gloss": "घेर्ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सम्पूर्ण कुशको भूमि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कुश"
+    }
+  ],
+  "timestamp": "2026-08-26T19:40:47.091047824Z",
+  "model": "glm-5.3"
+}

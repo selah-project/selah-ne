@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 27:8",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र तिमीले ⟨את⟩ यस तोराहका सबै वचनहरू ढुङ्गाहरूमाथि राम्ररी स्पष्ट रूपमा लेख्नेछौ।",
+  "tokens": [
+    {
+      "surface": "וכתבת",
+      "gloss": "लेख्नेछौ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ढुङ्गाहरू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यस तोराहका सबै वचनहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "यस तोराहका"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यस"
+    },
+    {
+      "surface": "באר",
+      "gloss": "स्पष्ट रूपमा"
+    },
+    {
+      "surface": "היטב",
+      "gloss": "राम्ररी"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:43.342180277Z",
+  "model": "glm-5.3"
+}

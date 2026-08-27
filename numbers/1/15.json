@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 1:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "नाफ्तालीका लागि — अखिरा, एनानको छोरा।",
+  "tokens": [
+    {
+      "surface": "לנפתלי",
+      "gloss": "नाफ्तालीका लागि"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखिरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनानको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:46.699580634Z",
+  "model": "glm-5.3"
+}

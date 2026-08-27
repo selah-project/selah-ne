@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 2:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र यसो भयो: जब युद्धका सबै मानिसहरू जनताबाट माझबाट मर्न टुङ्ग्याइए,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र यसो भयो"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תמו",
+      "gloss": "टुङ्ग्याइए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "המलחमה",
+      "gloss": "युद्धका"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मर्न"
+    },
+    {
+      "surface": "मקרב",
+      "gloss": "माझबाट"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T20:54:17.152878628Z",
+  "model": "glm-5.3"
+}

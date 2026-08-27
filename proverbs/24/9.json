@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 24:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "मूर्खताको षड्यन्त्र पाप हो, र उपहासकर्ता मानिसहरूलाई घृणित छ।",
+  "tokens": [
+    {
+      "surface": "זמת",
+      "gloss": "षड्यन्त्र"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "मूर्खताको"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप हो"
+    },
+    {
+      "surface": "ותועבת",
+      "gloss": "र घृणित"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "मानिसहरूलाई"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "उपहासकर्ता"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:22.781992747Z",
+  "model": "glm-5.3"
+}

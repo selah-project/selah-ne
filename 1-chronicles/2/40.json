@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 2:40",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र एलएसाले ⟨את⟩ सिस्माइलाई जन्म दिए, र सिस्माइले ⟨את⟩ शल्लूमलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ואלעשה",
+      "gloss": "र एलएसाले"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सिस्माइलाई"
+    },
+    {
+      "surface": "ססמי",
+      "gloss": "सिस्माइ"
+    },
+    {
+      "surface": "וססמי",
+      "gloss": "र सिस्माइले"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शल्लूमलाई"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शल्लूम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:10.155982516Z",
+  "model": "glm-5.3"
+}

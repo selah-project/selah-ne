@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 3:2",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "अनि उनले दोस्रो महिनाको दोस्रो दिनमा, आफ्नो राज्यको चौथो वर्षमा, बनाउन थाले।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "थाले"
+    },
+    {
+      "surface": "לבनות",
+      "gloss": "बनाउन"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "בשני",
+      "gloss": "दोस्रो दिनमा"
+    },
+    {
+      "surface": "בשनת",
+      "gloss": "वर्षमा"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चौथो"
+    },
+    {
+      "surface": "למלכותו",
+      "gloss": "आफ्नो राज्यको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:23:53.708342066Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "lamentations 3:35",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "एल्योनको अनुहारअगाडि मानिसको न्यायलाई बाङ्गो पार्नुहुन्न —",
+  "tokens": [
+    {
+      "surface": "להטות",
+      "gloss": "बाङ्गो पार्नुहुन्न"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्यायलाई"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "פני",
+      "gloss": "…को अनुहार"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योनको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:13.179287447Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 18:12",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "अब त्सरुयाको छोरा अभिशैले नुनतालको खोँचमा एदोमलाई ⟨את⟩ कुट्यो — अठार हजार।",
+  "tokens": [
+    {
+      "surface": "ואבשי",
+      "gloss": "अभिशैले"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "צרויה",
+      "gloss": "त्सरुयाको"
+    },
+    {
+      "surface": "הכה",
+      "gloss": "कुट्यो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एदोमलाई"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोमलाई"
+    },
+    {
+      "surface": "בגיא",
+      "gloss": "खोँचमा"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "नुनतालको"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:03.150000375Z",
+  "model": "glm-5.3"
+}

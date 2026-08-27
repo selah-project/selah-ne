@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 5:16",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "यसको तरकस खुला चिहानजस्तै छ, तिनीहरू सबै बलवान् छन्।",
+  "tokens": [
+    {
+      "surface": "אשפתו",
+      "gloss": "यसको तरकस"
+    },
+    {
+      "surface": "כקבר",
+      "gloss": "चिहानजस्तै"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुला"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "तिनीहरू सबै"
+    },
+    {
+      "surface": "גבורים",
+      "gloss": "बलवान्"
+    }
+  ],
+  "timestamp": "2026-08-26T22:46:58.914490023Z",
+  "model": "glm-5.3"
+}

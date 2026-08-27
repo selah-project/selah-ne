@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 50:19",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "र योसेफले तिनीहरूलाई भन्नुभयो: नडराउ, किनभने म ⟨के⟩ एलोहीमको साटोमा ⟨छु⟩?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "तिनीहरूलाई"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תיראו",
+      "gloss": "डराउ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "התחת",
+      "gloss": "को साटोमा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    }
+  ],
+  "timestamp": "2026-08-26T20:04:07.466132650Z",
+  "model": "glm-5.3"
+}

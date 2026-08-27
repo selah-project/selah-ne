@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "joshua 19:44",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र एल्तेकेह, र गिब्बेतोन, र बआलात।",
+  "tokens": [
+    {
+      "surface": "ואלתקה",
+      "gloss": "र एल्तेकेह"
+    },
+    {
+      "surface": "וגבתון",
+      "gloss": "र गिब्बेतोन"
+    },
+    {
+      "surface": "ובעלת",
+      "gloss": "र बआलात"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:32.272000079Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 4:17",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र यहवेले मोशे र अहरोनसित बोल्नुभयो, भन्दै,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सित"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र सित"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:37:08.211511234Z",
+  "model": "glm-5.3"
+}

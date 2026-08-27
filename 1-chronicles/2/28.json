@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 2:28",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "वट ओनामका छोराहरू भए — शम्माइ र यादा; र शम्माइका छोराहरू: नादाब र अभिशुर।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओनामका"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माइ"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "र यादा"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माइका"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואבישור",
+      "gloss": "र अभिशुर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:56.041511144Z",
+  "model": "glm-5.3"
+}

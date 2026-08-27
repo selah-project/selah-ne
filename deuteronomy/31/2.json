@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 31:2",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "उनले उनीहरूलाई भने: आज म एक सय बीस वर्षको ⟨छु⟩; म अझै निस्कन र भित्रन सक्दिनँ; र यहवेले मलाई भन्नुभयो: तिमी यो यर्दनलाई ⟨את⟩ पार गर्नेछैनौ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनीहरूलाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "वर्षको"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "सक्दिनँ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सक्दिनँ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "निस्कन"
+    },
+    {
+      "surface": "ולבוא",
+      "gloss": "भित्रन"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "पार गर्नेछैनौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यर्दन"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:07:49.378737722Z",
+  "model": "glm-5.3"
+}

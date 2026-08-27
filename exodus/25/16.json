@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 25:16",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र तिमीले सन्दूकमा ⟨את⟩ साक्षीलाई राख्नेछौ, जुन म तिमीलाई दिनेछु।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "र तिमी राख्नेछौ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "הארן",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "साक्षीलाई"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "म दिनेछु"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:14:40.566492362Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 8:12",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "कहिल्यै न… भने — खाएर तृप्त भएपछि, र असल घरहरू बनाएर तिनमा बसेपछि।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "कहिल्यै न… भने"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाएर"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "र तृप्त भएपछि"
+    },
+    {
+      "surface": "ובתים",
+      "gloss": "र घरहरू"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "असल"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाएर"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "र बसेपछि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:57:01.727946946Z",
+  "model": "glm-5.3"
+}

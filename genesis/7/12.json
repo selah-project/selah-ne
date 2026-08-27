@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 7:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र वर्षा पृथ्वीमाथि हुन थाल्यो — चालीस दिन र चालीस रात।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "הגשם",
+      "gloss": "वर्षा"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "र चालीस"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:41.124594639Z",
+  "model": "glm-5.3"
+}

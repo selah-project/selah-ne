@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "nehemiah 12:20",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "सल्लाइका कल्लाइ; अमोकका एबेर।",
+  "tokens": [
+    {
+      "surface": "לסלי",
+      "gloss": "सल्लाइका"
+    },
+    {
+      "surface": "קלי",
+      "gloss": "कल्लाइ"
+    },
+    {
+      "surface": "לעמוק",
+      "gloss": "अमोकका"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबेर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:04.410256134Z",
+  "model": "glm-5.3"
+}

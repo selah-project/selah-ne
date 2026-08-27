@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 73:14",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 73,
+  "translation": "र म सारा दिन पीडित भएँ, र मेरो ताडना हरेक बिहान ⟨आउँछ⟩।",
+  "tokens": [
+    {
+      "surface": "ואहי",
+      "gloss": "र म भएँ"
+    },
+    {
+      "surface": "נגוע",
+      "gloss": "पीडित"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ותוכחתי",
+      "gloss": "र मेरो ताडना"
+    },
+    {
+      "surface": "לבקרים",
+      "gloss": "हरेक बिहान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:02:43.097752780Z",
+  "model": "glm-5.3"
+}

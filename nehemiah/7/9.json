@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 7:9",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "शेफत्याहका छोराहरू — तीन सय उनहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שפטיה",
+      "gloss": "शेफत्याहका"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "उनहत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:11:28.283552209Z",
+  "model": "glm-5.3"
+}

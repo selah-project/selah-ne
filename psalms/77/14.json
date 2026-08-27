@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 77:14",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 77,
+  "translation": "एलोहीम, पवित्रतामा ⟨छ⟩ तिम्रो मार्ग; कुन एल महान छ एलोहीमझैँ?",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בקדש",
+      "gloss": "पवित्रतामा"
+    },
+    {
+      "surface": "דרכך",
+      "gloss": "तिम्रो मार्ग"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कुन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान"
+    },
+    {
+      "surface": "כאלהים",
+      "gloss": "एलोहीमझैँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:03:24.227657569Z",
+  "model": "glm-5.3"
+}

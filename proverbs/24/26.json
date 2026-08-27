@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 24:26",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "सिधा उत्तर फर्काउनेका ⟨स्वादलाई⟩ ओठाले चुम्बन गर्छ।",
+  "tokens": [
+    {
+      "surface": "שפתים",
+      "gloss": "ओठाहरू"
+    },
+    {
+      "surface": "ישק",
+      "gloss": "चुम्बन गर्छ"
+    },
+    {
+      "surface": "משיב",
+      "gloss": "फर्काउने"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "נכחים",
+      "gloss": "सिधा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:01.920646698Z",
+  "model": "glm-5.3"
+}

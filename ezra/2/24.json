@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezra 2:24",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "अज्मावेतका सन्तान, चालीस र दुई।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "अज्मावेत"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:40.430979790Z",
+  "model": "glm-5.3"
+}

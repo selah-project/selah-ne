@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 150:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 150,
+  "translation": "सबै सास-भएकाले याहको स्तुति गरून्; याहको स्तुति गर।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הנשמה",
+      "gloss": "सास-भएकाले"
+    },
+    {
+      "surface": "תהלל",
+      "gloss": "स्तुति गरून्"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति गर"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:00.918223553Z",
+  "model": "glm-5.3"
+}

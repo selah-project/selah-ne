@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 8:22",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "के गिलअदमा गोली छैन? के त्यहाँ वैद्य छैन? किनकि किन मेरो जनको छोरीको निको भएन?",
+  "tokens": [
+    {
+      "surface": "הצרי",
+      "gloss": "गोली"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "בגלעד",
+      "gloss": "गिलअदमा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "के"
+    },
+    {
+      "surface": "רפא",
+      "gloss": "वैद्य"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "किन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "निको भयो"
+    },
+    {
+      "surface": "ארכת",
+      "gloss": "निको"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरीको"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरो जनको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:48:40.716658431Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 23:14",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "हाक, तर्शीशका जहाजहरू, किनकि तिम्रो गढ उजाड भयो।",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "हाक"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाजहरू"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तर्शीशका"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "उजाड भयो"
+    },
+    {
+      "surface": "מעזכן",
+      "gloss": "तिम्रो गढ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:29:37.612696966Z",
+  "model": "glm-5.3"
+}

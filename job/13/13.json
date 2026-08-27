@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 13:13",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "मबाट चुप बस, र म बोल्नेछु — र ममाथि जे पनि आउनेछ।",
+  "tokens": [
+    {
+      "surface": "החרישו",
+      "gloss": "चुप बस"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मबाट"
+    },
+    {
+      "surface": "वאדברה",
+      "gloss": "र म बोल्नेछु"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "र आउनेछ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "जे पनि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:32:41.090660618Z",
+  "model": "glm-5.3"
+}

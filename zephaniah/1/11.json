@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zephaniah 1:11",
+  "book": "zephaniah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "मख्तेशका बासिन्दाहरू हो, गर्जनु — किनकि सबै कनान-जन नाश भए, चाँदी बोक्नेहरू सबै काटिए।",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "गर्जनु"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बासिन्दाहरू"
+    },
+    {
+      "surface": "המכतש",
+      "gloss": "मख्तेशका"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "नाश भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जन"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान-"
+    },
+    {
+      "surface": "נכרתו",
+      "gloss": "काटिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "נטילי",
+      "gloss": "बोक्नेहरू"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    }
+  ],
+  "timestamp": "2026-08-26T23:43:47.426043773Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 9:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "बुद्धिको ⟨आरम्भ⟩ यहवेको भय ⟨हो⟩, र पवित्रहरूको ज्ञान बुझ ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "תחלת",
+      "gloss": "आरम्भ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "र ज्ञान"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्रहरूको"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुझ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:10.286746117Z",
+  "model": "glm-5.3"
+}

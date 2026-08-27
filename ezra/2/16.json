@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezra 2:16",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "आटेरका छोराहरू, खिज्कियाकाहरू, अनान्न।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "आटेरका"
+    },
+    {
+      "surface": "ליחזקיה",
+      "gloss": "खिज्कियाकाहरू"
+    },
+    {
+      "surface": "תשעिझ",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "आठ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:39.638679476Z",
+  "model": "glm-5.3"
+}

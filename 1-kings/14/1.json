@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 14:1",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "त्यस समयमा यारभामको छोरा अभियाह बिरामी भयो।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "त्यस समयमा"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "बिरामी भयो"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अभियाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यारभामको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:02:11.506905767Z",
+  "model": "glm-5.3"
+}

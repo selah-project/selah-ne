@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "isaiah 49:24",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "के बलवानबाट लुट खोसिन सक्छ, वा धर्मीको बन्धुआ उम्कन सक्छ?",
+  "tokens": [
+    {
+      "surface": "היקח",
+      "gloss": "के खोसिन सक्छ"
+    },
+    {
+      "surface": "מגבור",
+      "gloss": "बलवानबाट"
+    },
+    {
+      "surface": "מלקוח",
+      "gloss": "लुट"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "वा"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "बन्धुआ"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मीको"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "उम्कन सक्छ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:39:39.084182321Z",
+  "model": "glm-5.3"
+}

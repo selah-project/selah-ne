@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 11:13",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "मसँग कहाँबाट मासु ⟨⟩ छ, यो सबै जनतालाई दिन? किनकि तिनीहरू ममाथि रोई भन्छन्: हामीलाई मासु देऊ, हामी खाऔँ।",
+  "tokens": [
+    {
+      "surface": "מאין",
+      "gloss": "कहाँबाट"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "לתת",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनतालाई"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יבכו",
+      "gloss": "रोई"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्छन्"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हामीलाई"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "ונאכלה",
+      "gloss": "र खाऔँ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:34.383917165Z",
+  "model": "glm-5.3"
+}

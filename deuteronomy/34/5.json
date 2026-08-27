@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 34:5",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "त्यहाँ यहवेका दास मोशेको मृत्यु भयो, मोआबको भूमिमा, यहवेको वचनअनुसार।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मृत्यु भयो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेको"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेका"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "भूमिमा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबको"
+    },
+    {
+      "surface": "על",
+      "gloss": "अनुसार"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:09:17.245576273Z",
+  "model": "glm-5.3"
+}

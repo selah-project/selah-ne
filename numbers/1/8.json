@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 1:8",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "इस्साखारका लागि नेतानेल, त्सुआरका छोरा।",
+  "tokens": [
+    {
+      "surface": "ליששכר",
+      "gloss": "इस्साखारका लागि"
+    },
+    {
+      "surface": "נתנאל",
+      "gloss": "नेतानेल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "צוער",
+      "gloss": "त्सुआरका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:36.518543235Z",
+  "model": "glm-5.3"
+}

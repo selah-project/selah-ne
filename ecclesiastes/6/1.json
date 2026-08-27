@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 6:1",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "एउटा विपत्ति छ जुन मैले सूर्यतले देखेँ, र त्यो मानिसमाथि ठूलो छ।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "विपत्ति"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले देखेँ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तले"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "ורבה",
+      "gloss": "र ठूलो"
+    },
+    {
+      "surface": "היא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिस"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:27.555847300Z",
+  "model": "glm-5.3"
+}

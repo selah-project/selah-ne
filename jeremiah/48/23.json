@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 48:23",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र किर्याताइममाथि, र बेथ-गामुलमाथि, र बेथ-मेओनमाथि।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "קריתים",
+      "gloss": "किर्याताइममाथि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "גמול",
+      "gloss": "-गामुलमाथि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "-मेओनमाथि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:06:43.164951615Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 37:22",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "उत्तरबाट सुनौलो चमक आउँछ; एलोआहमाथि भयमय महिमा छ।",
+  "tokens": [
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तरबाट"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनौलो"
+    },
+    {
+      "surface": "יאתה",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोआह"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भयमय"
+    },
+    {
+      "surface": "הוד",
+      "gloss": "महिमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:41:14.694177296Z",
+  "model": "glm-5.3"
+}

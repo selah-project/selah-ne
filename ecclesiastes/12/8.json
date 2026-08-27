@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 12:8",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "शून्य शून्यताको, हकोहेलेतले भन्छ; सम्पूर्ण शून्य।",
+  "tokens": [
+    {
+      "surface": "הבל",
+      "gloss": "शून्य"
+    },
+    {
+      "surface": "הבלים",
+      "gloss": "शून्यताको"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्छ"
+    },
+    {
+      "surface": "הקוהלת",
+      "gloss": "हकोहेलेतले"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "शून्य"
+    }
+  ],
+  "timestamp": "2026-08-27T00:52:46.683824839Z",
+  "model": "glm-5.3"
+}

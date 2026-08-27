@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "nehemiah 7:50",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "रेआयाका छोराहरू, रेत्सिनका छोराहरू, नेकोदाका छोराहरू,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ראיה",
+      "gloss": "रेआयाका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "רצין",
+      "gloss": "रेत्सिनका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "נקודא",
+      "gloss": "नेकोदाका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:59.640883318Z",
+  "model": "glm-5.3"
+}

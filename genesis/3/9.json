@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 3:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यहवे एलोहीमले हादामलाई बोलाउनुभयो र उहाँले उसलाई भन्नुभयो, \"तँ कहाँ छस्?\"",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलाउनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "हादाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कहाँ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:40:53.169611954Z",
+  "model": "glm-5.3"
+}

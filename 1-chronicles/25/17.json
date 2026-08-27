@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 25:17",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "दशौँ शिमी, उनका छोराहरू र उनका भाइहरू — बाह्रौँ थिए।",
+  "tokens": [
+    {
+      "surface": "העשירי",
+      "gloss": "दशौँ"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उनका छोराहरू"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उनका भाइहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्र"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(जना)"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:28.271813562Z",
+  "model": "glm-5.3"
+}

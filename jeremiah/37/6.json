@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 37:6",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "र यहवेको वचन नबी यिर्मेयाहूकहाँ आयो, भन्दैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-कहाँ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:01:58.389576022Z",
+  "model": "glm-5.3"
+}

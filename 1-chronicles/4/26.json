@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 4:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र मिश्माका छोराहरू: खम्मुएल उसको छोरा, जाक्कुर उसको छोरा, शिमी उसको छोरा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "משמע",
+      "gloss": "मिश्माका"
+    },
+    {
+      "surface": "חמואל",
+      "gloss": "खम्मुएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "जाक्कुर"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:18.451062127Z",
+  "model": "glm-5.3"
+}

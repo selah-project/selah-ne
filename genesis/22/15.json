@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 22:15",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "यहवेको दूतले स्वर्गबाट अभ्राहामलाई दोस्रो पटक बोलाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलाउनुभयो"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दोस्रो पटक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "स्वर्ग"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:59.491545826Z",
+  "model": "glm-5.3"
+}

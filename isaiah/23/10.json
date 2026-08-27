@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 23:10",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "आफ्नो भूमि पार गर, जस्तै नदी ⟨झैँ⟩, तर्शिशकी छोरी — अब कुनै पट्टा छैन।",
+  "tokens": [
+    {
+      "surface": "עברי",
+      "gloss": "पार गर"
+    },
+    {
+      "surface": "ארצך",
+      "gloss": "आफ्नो भूमि"
+    },
+    {
+      "surface": "כיאר",
+      "gloss": "जस्तै नदी ⟨झैँ⟩"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तर्शिशकी"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "מזח",
+      "gloss": "पट्टा"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    }
+  ],
+  "timestamp": "2026-08-26T22:30:03.259928314Z",
+  "model": "glm-5.3"
+}

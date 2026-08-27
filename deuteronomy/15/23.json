@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 15:23",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "केवल ⟨את⟩ त्यसको रगत भने खानेछैनौ; जमिनमाथि पानीजस्तै त्यसलाई उम्केर फाल्नेछौ।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्यसको रगत"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "त्यसको रगत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खानेछैनौ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिन"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "त्यसलाई उम्केर फाल्नेछौ"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पानीजस्तै"
+    }
+  ],
+  "timestamp": "2026-08-26T21:00:00.909613015Z",
+  "model": "glm-5.3"
+}

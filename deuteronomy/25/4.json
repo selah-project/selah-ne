@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 25:4",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "दहान्दा गर्दा ⟨र⟩ बललाई थुतुनोले रोक्नु हुँदैन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "हुँदैन"
+    },
+    {
+      "surface": "תחסם",
+      "gloss": "थुतुनोले रोक्नु"
+    },
+    {
+      "surface": "שור",
+      "gloss": "बललाई"
+    },
+    {
+      "surface": "בדישו",
+      "gloss": "दहान्दा गर्दा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:52.033984409Z",
+  "model": "glm-5.3"
+}

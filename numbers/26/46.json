@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 26:46",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "अशेरकी छोरीको नाम सेरख ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "र नाम"
+    },
+    {
+      "surface": "बת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "अशेर"
+    },
+    {
+      "surface": "שרח",
+      "gloss": "सेरख"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:55.775978292Z",
+  "model": "glm-5.3"
+}

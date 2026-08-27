@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 14:7",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र एलिशामा, र बेलियादा, र एलिफलेत।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "र एलिशामा"
+    },
+    {
+      "surface": "ובעלידע",
+      "gloss": "र बेलियादा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "र एलिफलेत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:25.612747969Z",
+  "model": "glm-5.3"
+}

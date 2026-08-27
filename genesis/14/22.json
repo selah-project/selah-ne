@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 14:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तर अभ्राहामले सेदोमका राजालाई भने, “मैले यहवे, एल एल्योन, आकाश र पृथ्वीका अर्जकतिर ⟨the⟩ हात उठाएको छु।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र-भने"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सेदोम"
+    },
+    {
+      "surface": "הרימתי",
+      "gloss": "उठाएको-छु"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "मेरो-हात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तिर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "अर्जक"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "וארץ",
+      "gloss": "र-पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:45:49.851235372Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 11:41",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "उरिय्याह हित्ती, जावाद, अखलाईको छोरा।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "उरिय्याह"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हित्ती"
+    },
+    {
+      "surface": "זבד",
+      "gloss": "जावाद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "अखलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:34.593461173Z",
+  "model": "glm-5.3"
+}

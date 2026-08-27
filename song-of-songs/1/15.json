@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "song-of-songs 1:15",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "हेर, तिमी सुन्दर छौ, मेरी सखी; हेर, तिमी सुन्दर छौ; तिम्रा आँखाहरू परेवाहरू हुन्।",
+  "tokens": [
+    {
+      "surface": "הנך",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "רעיתי",
+      "gloss": "मेरी सखी"
+    },
+    {
+      "surface": "הנך",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तिम्रा आँखाहरू"
+    },
+    {
+      "surface": "יונים",
+      "gloss": "परेवाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:39.045461567Z",
+  "model": "glm-5.3"
+}

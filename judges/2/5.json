@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 2:5",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र तिनीहरूले त्यो ठाउँको नाउँ बोखिम भनी बोलाए, र त्यहाँ यहवेका लागि बलि चढाए।",
+  "tokens": [
+    {
+      "surface": "ויקראו",
+      "gloss": "बोलाए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाउँ"
+    },
+    {
+      "surface": "हमקום",
+      "gloss": "ठाउँ"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "בכים",
+      "gloss": "बोखिम"
+    },
+    {
+      "surface": "ויזבחו",
+      "gloss": "बलि चढाए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T21:20:15.749889758Z",
+  "model": "glm-5.3"
+}

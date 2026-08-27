@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 2:25",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "वट यरखमेएलका छोराहरू भए — खेत्सरोनको जेठो: जेठो राम, र बुनाह, र ओरेन, र ओत्सेम, अखियाह।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरखमेएलका"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "खेत्सरोनको"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "ובונה",
+      "gloss": "र बुनाह"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "र ओरेन"
+    },
+    {
+      "surface": "ואצם",
+      "gloss": "र ओत्सेम"
+    },
+    {
+      "surface": "אחיה",
+      "gloss": "अखियाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:56.040934088Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 42:2",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "ऊ कराउनेछैन, र उचाल्नेछैन, र गल्लीमा आफ्नो स्वर सुनाउनेछैन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יצעק",
+      "gloss": "ऊ कराउनेछ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "उचाल्नेछ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "ישמיע",
+      "gloss": "सुनाउनेछ"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "गल्लीमा"
+    },
+    {
+      "surface": "קולו",
+      "gloss": "आफ्नो स्वर"
+    }
+  ],
+  "timestamp": "2026-08-26T22:36:41.915777927Z",
+  "model": "glm-5.3"
+}

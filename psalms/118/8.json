@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 118:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 118,
+  "translation": "यहवेमा शरण लिनु असल हो, मानिसमा भरोसा राख्नुभन्दा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "לחסות",
+      "gloss": "शरण लिनु"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवेमा"
+    },
+    {
+      "surface": "मבטח",
+      "gloss": "भन्दा-भरोसा राख्नु"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मानिसमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:15.739486327Z",
+  "model": "glm-5.3"
+}

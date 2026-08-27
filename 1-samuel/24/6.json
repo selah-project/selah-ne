@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-samuel 24:6",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "त्यसपछि दाउदको मुटुले उहाँलाई ⟨את⟩ कुरिए, किनकि उहाँले शाउलको ⟨את⟩ काप्रो काटेका थिए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "ויך",
+      "gloss": "कुरिए"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मुटुले"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउदको"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ उहाँलाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटेका थिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "काप्रो"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "काप्रो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाउलको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:41:27.361121139Z",
+  "model": "glm-5.3"
+}

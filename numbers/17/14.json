@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 17:14",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "महामारीमा मर्नेहरू चौध हजार सात सय भए, कोरखको कारण मर्नेहरूबाहेक।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मर्नेहरू"
+    },
+    {
+      "surface": "במגפה",
+      "gloss": "महामारीमा"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चौध"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(चौध)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "बाहेक"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मर्नेहरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "कारण"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "(कारण)"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरख"
+    }
+  ],
+  "timestamp": "2026-08-26T20:43:39.953351928Z",
+  "model": "glm-5.3"
+}

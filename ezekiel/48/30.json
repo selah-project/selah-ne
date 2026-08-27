@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 48:30",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र यिनै ⟨हुन्⟩ ⟨the⟩ सहरका निस्कने-सीमाहरू: उत्तर छेउबाट पाँच सय र चार हजार नाप।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यिनै"
+    },
+    {
+      "surface": "תוצאת",
+      "gloss": "निस्कने-सीमाहरू"
+    },
+    {
+      "surface": "हעיר",
+      "gloss": "सहरका"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "छेउबाट"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "र चार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "नाप"
+    }
+  ],
+  "timestamp": "2026-08-26T23:32:13.510948808Z",
+  "model": "glm-5.3"
+}

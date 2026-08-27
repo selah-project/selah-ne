@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 1:6",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "मैले भनेँ, अहा! अदोनाइ यहवे, हेर, म बोल्न जान्दिनँ, किनकि म बालक हुँ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "मैले भनेँ"
+    },
+    {
+      "surface": "אהה",
+      "gloss": "अहा!"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "म जान्दिनँ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्न"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    }
+  ],
+  "timestamp": "2026-08-26T22:44:36.570700961Z",
+  "model": "glm-5.3"
+}

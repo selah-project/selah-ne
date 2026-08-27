@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 129:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 129,
+  "translation": "तिनीहरू छतका घाँसजस्ता हुन्, जुन उखेलिनुअघि नै सुक्छ।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "हुन्"
+    },
+    {
+      "surface": "כחציר",
+      "gloss": "घाँसजस्ता"
+    },
+    {
+      "surface": "גגות",
+      "gloss": "छतका"
+    },
+    {
+      "surface": "שקדמת",
+      "gloss": "अघि नै"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "उखेलिनु"
+    },
+    {
+      "surface": "יבש",
+      "gloss": "सुक्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:34.394882534Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 5:11",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अनोशका सबै दिनहरू पाँच वर्ष र नौ सय वर्ष भए, र उ मर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "अनोशका"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "र नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर्‍यो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:59.879615319Z",
+  "model": "glm-5.3"
+}

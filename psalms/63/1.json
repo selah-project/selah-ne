@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 63:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 63,
+  "translation": "दाउदको भजन, उहाँ यहूदाको जंगलमा हुँदा।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "भजन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाउदको"
+    },
+    {
+      "surface": "בהיותו",
+      "gloss": "उहाँ हुँदा"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "जंगलमा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:00:10.812401829Z",
+  "model": "glm-5.3"
+}

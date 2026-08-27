@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezra 2:11",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "बेबाइका छोराहरू, छ सय तेईस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "बेबाइका"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "र तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:39.030432038Z",
+  "model": "glm-5.3"
+}

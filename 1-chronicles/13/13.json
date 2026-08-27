@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 13:13",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "तर दाउिदले ⟨את⟩ सन्दुकलाई आफूकहाँ दाउिदको नगरमा हटाएन, र ⟨⟨את⟩ त्यसलाई⟩ गित्ती ओबेद-एदोमको घरतर्फ घुमायो।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र ... न"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "हटाएन"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाउिदले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सन्दुकलाई"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "सन्दुक"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "आफूकहाँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगरमा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाउिदको"
+    },
+    {
+      "surface": "ויטהו",
+      "gloss": "घुमायो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "ओबेद"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "הגתי",
+      "gloss": "गित्ती"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:17.346289558Z",
+  "model": "glm-5.3"
+}

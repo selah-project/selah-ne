@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 9:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र बकबक्कर, खेरेश र गलाल, र मिखाको छोरा मत्तन्याह — जिक्रीको छोरा, आसाफको छोरा।",
+  "tokens": [
+    {
+      "surface": "ובקבקר",
+      "gloss": "र बकबक्कर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "खेरेश"
+    },
+    {
+      "surface": "וגלל",
+      "gloss": "र गलाल"
+    },
+    {
+      "surface": "ומתניה",
+      "gloss": "र मत्तन्याह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "मיכא",
+      "gloss": "मिखाको"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "זכרי",
+      "gloss": "जिक्रीको"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:11.325967710Z",
+  "model": "glm-5.3"
+}

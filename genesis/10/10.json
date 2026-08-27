@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 10:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "उनको राज्यको सुरुवात बाभेल, एरेक, अक्कद र कल्नेह थियो — शिनार देशमा।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "थियो"
+    },
+    {
+      "surface": "ראשית",
+      "gloss": "सुरुवात"
+    },
+    {
+      "surface": "ממלכתו",
+      "gloss": "उनको राज्य"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाभेल"
+    },
+    {
+      "surface": "וארך",
+      "gloss": "एरेक"
+    },
+    {
+      "surface": "ואכד",
+      "gloss": "अक्कद"
+    },
+    {
+      "surface": "וכלנה",
+      "gloss": "कल्नेह"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "שנער",
+      "gloss": "शिनार"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:09.680293322Z",
+  "model": "glm-5.3"
+}

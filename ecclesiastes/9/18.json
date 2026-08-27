@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 9:18",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "युद्धका हतियारहरूभन्दा बुद्धि उत्तम छ, र एक पापीले धेरै असल नष्ट गर्छ।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "מכלי",
+      "gloss": "हतियारहरूभन्दा"
+    },
+    {
+      "surface": "קרב",
+      "gloss": "युद्धका"
+    },
+    {
+      "surface": "וחוטא",
+      "gloss": "र पापी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नष्ट गर्छ"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "असल"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "धेरै"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:08.139746575Z",
+  "model": "glm-5.3"
+}

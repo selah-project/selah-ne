@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 26:51",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "यी ⟨हुन्⟩ इस्राएलका सन्तानहरूका गणना भएकाहरू — छ हजार सय र एक हजार सात सय तीस।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "פקודי",
+      "gloss": "गणना भएकाहरूका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरूका"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:15.680359740Z",
+  "model": "glm-5.3"
+}

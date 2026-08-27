@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 27:20",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "तर यदि ऊ ⟨את⟩ खेत फिर्ता लिँदैन, वा यदि ऊ ⟨את⟩ खेत अरू ⟨the⟩ मानिसलाई बेच्छ भने, त्यो अझै कहिल्यै फिर्ता लिइनेछैन।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "तर यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "फिर्ता लिँदैन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "वा यदि"
+    },
+    {
+      "surface": "מכר",
+      "gloss": "बेच्छ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मानिसलाई"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अरू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "कहिल्यै ... होइन"
+    },
+    {
+      "surface": "יגאל",
+      "gloss": "फिर्ता लिइनेछैन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:34:57.688679126Z",
+  "model": "glm-5.3"
+}

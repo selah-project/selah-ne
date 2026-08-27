@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 43:16",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 43,
+  "translation": "र अरएल बाह्र ⟨हात⟩ लामो, बाह्र ⟨हात⟩ चौडा — आफ्ना चार कुनामा वर्गाकार ।",
+  "tokens": [
+    {
+      "surface": "והאראיל",
+      "gloss": "र अरएल"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "बाह्र(दुई)"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लामो"
+    },
+    {
+      "surface": "בשתים",
+      "gloss": "बाह्रमा"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौडा"
+    },
+    {
+      "surface": "רבוע",
+      "gloss": "वर्गाकार"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "ארבעת",
+      "gloss": "चार"
+    },
+    {
+      "surface": "רבעיו",
+      "gloss": "आफ्ना कुना"
+    }
+  ],
+  "timestamp": "2026-08-26T23:30:09.635561784Z",
+  "model": "glm-5.3"
+}

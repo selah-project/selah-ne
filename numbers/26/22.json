@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 26:22",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "यी हुन् यहूदाका कुलहरू तिनीहरूको गणनाअनुसार — छहत्तर हजार पाँच सय।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुलहरू"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "לפקדיהם",
+      "gloss": "तिनीहरूको गणनाअनुसार"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छ"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "त्तर"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:48.729951049Z",
+  "model": "glm-5.3"
+}

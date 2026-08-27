@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 19:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र तिमी इस्राएलका नगाहरूका विषयमा एउटा विलाप उठाओ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "र तिमी"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उठाओ"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "विलाप"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...का विषयमा"
+    },
+    {
+      "surface": "נשיאי",
+      "gloss": "नगाहरूका"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-27T02:09:13.843555211Z",
+  "model": "glm-5.3"
+}

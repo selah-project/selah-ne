@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 3:8",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "जब पनि म कराउँछु र मद्दतको लागि चिच्याउँछु, उहाँले मेरो प्रार्थना रोक्नुभयो।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "जब पनि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "म कराउँछु"
+    },
+    {
+      "surface": "ואשוע",
+      "gloss": "र मद्दतको लागि चिच्याउँछु"
+    },
+    {
+      "surface": "שתם",
+      "gloss": "रोक्नुभयो"
+    },
+    {
+      "surface": "תפלתי",
+      "gloss": "मेरो प्रार्थना"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:21.181310345Z",
+  "model": "glm-5.3"
+}

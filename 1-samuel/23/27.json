@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-samuel 23:27",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र एक दूत शाउलकहाँ आयो, भन्दै: शीघ्र गर, र आउ — किनभने पलिश्तीहरूले ⟨the⟩ देशमा छापा मारेका छन्।",
+  "tokens": [
+    {
+      "surface": "ומלאך",
+      "gloss": "र एक दूत"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "शीघ्र गर"
+    },
+    {
+      "surface": "ולכה",
+      "gloss": "र आउ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "פשטו",
+      "gloss": "छापा मारे"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीहरूले"
+    },
+    {
+      "surface": "על",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "⟨the⟩ देश"
+    }
+  ],
+  "timestamp": "2026-08-26T21:41:43.528821948Z",
+  "model": "glm-5.3"
+}

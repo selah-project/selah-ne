@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 16:30",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "उहाँको सामुबाट सारा पृथ्वी काँपोस्; साथै जगत स्थिर होस्, नहाडोस्।",
+  "tokens": [
+    {
+      "surface": "חילו",
+      "gloss": "काँपोस्"
+    },
+    {
+      "surface": "מלפניו",
+      "gloss": "उहाँको सामुबाट"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "אף",
+      "gloss": "साथै"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "स्थिर होस्"
+    },
+    {
+      "surface": "תבל",
+      "gloss": "जगत"
+    },
+    {
+      "surface": "בל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תמוט",
+      "gloss": "हाडोस्"
+    }
+  ],
+  "timestamp": "2026-08-27T01:25:54.344712264Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 10:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "मूर्खतालाई उच्च स्थानहरूमा राखिन्छ, र धनीहरू निम्न स्थानमा बस्छन् ।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "राखिन्छ"
+    },
+    {
+      "surface": "הסכל",
+      "gloss": "मूर्खतालाई"
+    },
+    {
+      "surface": "במרומים",
+      "gloss": "उच्च स्थानहरूमा"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "ועשירים",
+      "gloss": "र धनीहरू"
+    },
+    {
+      "surface": "בשפל",
+      "gloss": "निम्न स्थानमा"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बस्छन्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:51.793256586Z",
+  "model": "glm-5.3"
+}

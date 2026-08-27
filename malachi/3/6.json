@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "malachi 3:6",
+  "book": "malachi",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "किनकि म ⟨हुँ⟩ यहवे, म परिवर्तन भइनँ, र तिमीहरू, याकोभका सन्तानहरू, क्षय भएका छैनौ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "שניתי",
+      "gloss": "म परिवर्तन भइनँ"
+    },
+    {
+      "surface": "ואתם",
+      "gloss": "र तिमीहरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरू"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभका"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैनौ"
+    },
+    {
+      "surface": "כליתם",
+      "gloss": "क्षय भएका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:28.772312330Z",
+  "model": "glm-5.3"
+}

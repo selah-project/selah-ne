@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 9:4",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र मोशेले इस्राएलका छोराहरूसँग पेसह गर्न बोल्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूसँग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "לעשת",
+      "gloss": "गर्न"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पेसह"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:35.668886838Z",
+  "model": "glm-5.3"
+}

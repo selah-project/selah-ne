@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "isaiah 37:34",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "जुन बाटोले ⟨the⟩ ऊ आयो, त्यही बाटोले ऊ फर्किनेछ, र ⟨the⟩ यस सहरभित्र आउनेछैन — यहवेको वचन।",
+  "tokens": [
+    {
+      "surface": "בדרך",
+      "gloss": "बाटोले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यही [बाटोले]"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फर्किनेछ"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र …भित्र"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आउनेछ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:34:55.306956797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 6:4",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "तब मैले उत्तर दिएँ र मसँग बोल्ने स्वर्गदूतलाई भनेँ: यी के हुन्, मेरा अदोनाइ?",
+  "tokens": [
+    {
+      "surface": "ואען",
+      "gloss": "उत्तर दिएँ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "र भनेँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "स्वर्गदूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बोल्ने"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "मेरा अदोनाइ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:39.328389260Z",
+  "model": "glm-5.3"
+}

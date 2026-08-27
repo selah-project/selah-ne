@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 10:5",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र याइर मर्‍यो, र उनलाई कामोनमा गाडियो।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "र मर्‍यो"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याइर"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "र गाडियो"
+    },
+    {
+      "surface": "בקמון",
+      "gloss": "कामोनमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:25:03.718730813Z",
+  "model": "glm-5.3"
+}

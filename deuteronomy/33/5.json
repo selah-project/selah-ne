@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 33:5",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र यिशुरुनमा ⟨उहाँ⟩ राजा भए, जब जनताका प्रमुखहरू एकसाथ भेला भए — यिस्राएलका गणहरू।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भए"
+    },
+    {
+      "surface": "בישרון",
+      "gloss": "यिशुरुनमा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בהתאסף",
+      "gloss": "भेला भएको बेला"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "प्रमुखहरू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनताका"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "गणहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:08:54.442887405Z",
+  "model": "glm-5.3"
+}

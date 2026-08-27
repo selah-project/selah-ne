@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 13:19",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "को ⟨हो⟩ ऊ जो मसँग वाद गर्नेछ? किनकि अब म ⟨चुप⟩ रहन्छु र ⟨मर्छु⟩।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "वाद गर्नेछ"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אחריש",
+      "gloss": "चुप रहन्छु"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "र मर्छु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:32:39.381438879Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 4:27",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "किनकि यहवेले यसो भन्नुभयो: सारा भूमि उजाड बन्नेछ, तर पूर्ण ⟨विनाश⟩ म गर्नेछैनाँ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "उजाड"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बन्नेछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "וכלה",
+      "gloss": "तर पूर्ण ⟨विनाश⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אעשה",
+      "gloss": "गर्नेछैनाँ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:19.656041124Z",
+  "model": "glm-5.3"
+}

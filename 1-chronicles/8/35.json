@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 8:35",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "मिखाका छोराहरू: पिथोन, मेलेख, तारेआ र अखाज।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिखाका"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "पिथोन"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "र मेलेख"
+    },
+    {
+      "surface": "ותארע",
+      "gloss": "र तारेआ"
+    },
+    {
+      "surface": "ואחז",
+      "gloss": "र अखाज"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:32.286615113Z",
+  "model": "glm-5.3"
+}

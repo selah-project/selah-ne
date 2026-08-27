@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 38:5",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "पारास, कूश र फूत ⟨את⟩–सँगै, तिनीहरू सबै ढाल र टोपी ⟨लगाई⟩ ।",
+  "tokens": [
+    {
+      "surface": "פרס",
+      "gloss": "पारास"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "र फूत"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩–सँगै",
+      "marks": "पारास, कूश र फूत"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "तिनीहरू सबै"
+    },
+    {
+      "surface": "מגן",
+      "gloss": "ढाल"
+    },
+    {
+      "surface": "וכובע",
+      "gloss": "र टोपी"
+    }
+  ],
+  "timestamp": "2026-08-26T23:27:58.969551138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 14:9",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "व यहवे राजा हुनुहुनेछ सम्पूर्ण ⟨the⟩ पृथ्वीमाथि; त्यस दिनमा यहवे एक हुनुहुनेछ, र उहाँको नाम एक हुनेछ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "व हुनुहुनेछ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाको रूपमा"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनुहुनेछ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושמו",
+      "gloss": "र उहाँको नाम"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:48:58.719454842Z",
+  "model": "glm-5.3"
+}

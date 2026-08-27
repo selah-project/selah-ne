@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 5:18",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अब त जाऊ, काम गरू; र पराल तिमीहरूलाई दिइने छैन, तर ईँटाको तोको तिमीहरू दिनेछौ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब त"
+    },
+    {
+      "surface": "लכו",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "עבדו",
+      "gloss": "काम गरू"
+    },
+    {
+      "surface": "ותבן",
+      "gloss": "र पराल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ינתן",
+      "gloss": "दिइने छैन"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "ותכן",
+      "gloss": "तर तोको"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "ईँटाको"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "दिनेछौ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:50:19.774387404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 3:1",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "म त्यही पुरुष हुँ जसले उहाँको कोपको रडमा दुःख देखेको छु।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "त्यही पुरुष"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखेको छु"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "בשבט",
+      "gloss": "रडमा"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "उहाँको कोप"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:28.185211065Z",
+  "model": "glm-5.3"
+}

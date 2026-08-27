@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 20:46",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र बिन्यामीनका घाइतेहरू कुल त्यस दिन पच्चीस हजार जना तरवार तान्ने पुरुष भए; ⟨את⟩ यी सबै वीर पुरुषहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "हנפלים",
+      "gloss": "घाइतेहरू"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "बिन्यामीनका"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": " twenty"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "जना पुरुष"
+    },
+    {
+      "surface": "שלף",
+      "gloss": "तान्ने"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यी सबै"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुषहरू"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "वीर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:29:23.422091022Z",
+  "model": "glm-5.3"
+}

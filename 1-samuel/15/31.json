@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-samuel 15:31",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र शमुएल शाउलपछि फर्किए, र शाउलले यहवेलाई दण्डवत् गर्यो।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "र फर्किए"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "र दण्डवत् गर्यो"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलले"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T21:36:50.218287854Z",
+  "model": "glm-5.3"
+}

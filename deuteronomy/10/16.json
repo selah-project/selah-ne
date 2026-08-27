@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 10:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "तर तिमीहरू ⟨את⟩ आफ्नो हृदयको छाला काट, र आफ्नो घाँटी अझै कडा नबनाऊ।",
+  "tokens": [
+    {
+      "surface": "ומלתם",
+      "gloss": "काट"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हृदयको छाला"
+    },
+    {
+      "surface": "ערלת",
+      "gloss": "छाला"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "तिमीहरूको हृदयको"
+    },
+    {
+      "surface": "וערפכם",
+      "gloss": "र तिमीहरूको घाँटी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקשו",
+      "gloss": "कडा बनाऊ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:57:58.137191181Z",
+  "model": "glm-5.3"
+}

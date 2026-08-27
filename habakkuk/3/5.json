@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "habakkuk 3:5",
+  "book": "habakkuk",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उसको अगाडि दबेर जान्छ, र रेशेफ उसका पाइतालामा निस्कन्छ।",
+  "tokens": [
+    {
+      "surface": "לפניו",
+      "gloss": "उसको अगाडि"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "दबेर"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "र निस्कन्छ"
+    },
+    {
+      "surface": "רשף",
+      "gloss": "रेशेफ"
+    },
+    {
+      "surface": "לרגליו",
+      "gloss": "उसका पाइतालामा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:43:41.307100868Z",
+  "model": "glm-5.3"
+}

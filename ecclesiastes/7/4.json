@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 7:4",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बुद्धिमानहरूको मुटु शोकगृहमा हुन्छ, र मूर्खहरूको मुटु रमाइलोको घरमा हुन्छ।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "मुटु"
+    },
+    {
+      "surface": "חכמים",
+      "gloss": "बुद्धिमानहरूको"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "शोकको"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "र मुटु"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खहरूको"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "रमाइलोको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:07.684047136Z",
+  "model": "glm-5.3"
+}

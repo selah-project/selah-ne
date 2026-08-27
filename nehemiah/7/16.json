@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "nehemiah 7:16",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बेबाइका सन्तान, छ सय अठाईस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "בבי",
+      "gloss": "बेबाइ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשरים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושमנה",
+      "gloss": "अठाईस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:42.619495549Z",
+  "model": "glm-5.3"
+}

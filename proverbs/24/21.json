@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 24:21",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "हे मेरा छोरा, यहवेलाई र ⟨את⟩ राजालाई डराऊ; परिवर्तनकारीहरूसँग घुलमिल नहुऊ।",
+  "tokens": [
+    {
+      "surface": "ירא",
+      "gloss": "डराऊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरा छोरा"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "र राजा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "שונים",
+      "gloss": "परिवर्तनकारीहरू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नहुऊ"
+    },
+    {
+      "surface": "תתערב",
+      "gloss": "घुलमिल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:58.885554857Z",
+  "model": "glm-5.3"
+}

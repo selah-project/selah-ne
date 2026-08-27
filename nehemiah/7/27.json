@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 7:27",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अनातोतका मानिसहरू, एक सय बीस र आठ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "अनातोत"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र आठ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:53.475339888Z",
+  "model": "glm-5.3"
+}

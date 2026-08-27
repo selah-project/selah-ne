@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 14:8",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "चतुरको बुद्धि ⟨आफ्नो⟩ बाटो बुझ्नु हो, र मूर्खहरूको मूर्खता छल हो।",
+  "tokens": [
+    {
+      "surface": "חכמת",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुरको"
+    },
+    {
+      "surface": "הבין",
+      "gloss": "बुझ्नु"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "आफ्नो बाटो"
+    },
+    {
+      "surface": "ואולת",
+      "gloss": "र मूर्खता"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खहरूको"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:17.192628273Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 6:35",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र यी अहरोनका छोराहरू हुन्: एलाजार उनका छोरा, पिन्खास उनका छोरा, अविशुआ उनका छोरा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोनका"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "बנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिन्खास"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "अविशुआ"
+    },
+    {
+      "surface": "बנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:43.664407968Z",
+  "model": "glm-5.3"
+}

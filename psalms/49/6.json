@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 49:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "किन डराउँछु दुष्टका दिनहरूमा, मेरा एडीहरूको अधर्मले मलाई घेर्छ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "डराउँछु"
+    },
+    {
+      "surface": "בימי",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "עקבי",
+      "gloss": "मेरा एडीहरू"
+    },
+    {
+      "surface": "יסובני",
+      "gloss": "मलाई घेर्छ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:12.519115408Z",
+  "model": "glm-5.3"
+}

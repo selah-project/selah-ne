@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 24:22",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "तै पनि काइन नष्ट हुनेछ — कति सम्म? अश्शूरले तिमीलाई बन्दी बनाउनेछ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि तै पनि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "לבער",
+      "gloss": "नष्ट हुन"
+    },
+    {
+      "surface": "קין",
+      "gloss": "काइन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कति"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "תשבך",
+      "gloss": "बन्दी बनाउनेछ तिमीलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:33.347658884Z",
+  "model": "glm-5.3"
+}

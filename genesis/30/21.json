@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 30:21",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "त्यसपछि उनले एक छोरी जन्माइन्, र उनले ⟨את⟩ उनको नाम दीनाह राखिन्।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "त्यसपछि"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जन्माइन्"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "राखिन्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उनको नाम"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उनको नाम"
+    },
+    {
+      "surface": "דינה",
+      "gloss": "दीनाह"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:22.692450031Z",
+  "model": "glm-5.3"
+}

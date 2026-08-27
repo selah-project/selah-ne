@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "2-samuel 22:32",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "किनकि यहवेबाहेक को एल हो? र हाम्रा एलोहीमबाहेक को चट्टान हो?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "बाहेक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "र को"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "बाहेक"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हाम्रा एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:54:30.415195407Z",
+  "model": "glm-5.3"
+}

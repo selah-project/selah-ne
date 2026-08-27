@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 11:21",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "रेऊले सेरूगलाई जन्म दिएपछि दुई सय सात वर्ष बाँच्यो, र उनले छोराछोरी ⟨את⟩ जन्माए।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्यो"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेऊ"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सेरूग"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "सेरूग"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "र दुई सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्माए"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "र छोरीहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:54.755652625Z",
+  "model": "glm-5.3"
+}

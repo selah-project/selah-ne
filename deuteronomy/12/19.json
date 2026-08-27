@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 12:19",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "आफैलाई सावधान राख, कि जति दिन तिमी आफ्नो भूमिमा बाँच्छौ, लेवीलाई ⟨את⟩ कहिल्यै नछाडी।",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "सावधान राख"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफैलाई"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कि ... न"
+    },
+    {
+      "surface": "תעזב",
+      "gloss": "छाडी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लेवीलाई"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जति"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "आफ्नो भूमिमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:43.827707295Z",
+  "model": "glm-5.3"
+}

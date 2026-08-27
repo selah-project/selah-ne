@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "2-samuel 23:35",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "खेत्स्रो ⟨the⟩ कार्मेली, पाअराइ ⟨the⟩ अर्बी।",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "खेत्स्रो"
+    },
+    {
+      "surface": "הכרमלי",
+      "gloss": "कार्मेली"
+    },
+    {
+      "surface": "पערי",
+      "gloss": "पाअराइ"
+    },
+    {
+      "surface": "הארבי",
+      "gloss": "अर्बी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:59:51.355292704Z",
+  "model": "glm-5.3"
+}

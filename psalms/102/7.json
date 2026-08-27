@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 102:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 102,
+  "translation": "म जङ्गलको काकको समान भएँ, म खण्डहरको उल्लुझैँ भएँ।",
+  "tokens": [
+    {
+      "surface": "דמיתי",
+      "gloss": "म ... समान भएँ"
+    },
+    {
+      "surface": "לקאת",
+      "gloss": "काकको"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "जङ्गलको"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "म भएँ"
+    },
+    {
+      "surface": "ככוס",
+      "gloss": "उल्लुझैँ"
+    },
+    {
+      "surface": "חרבות",
+      "gloss": "खण्डहरको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:20.964341844Z",
+  "model": "glm-5.3"
+}

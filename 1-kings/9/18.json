@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 9:18",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र ⟨את⟩ बालात, र ⟨את⟩ तमार ⟨the⟩ जङ्गलमा, ⟨the⟩ देशमा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "बालात"
+    },
+    {
+      "surface": "בעלת",
+      "gloss": "बालात"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "तमार"
+    },
+    {
+      "surface": "תמר",
+      "gloss": "तमार"
+    },
+    {
+      "surface": "במדबר",
+      "gloss": "जङ्गलमा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:01:30.786086854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 42:19",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "पश्चिमतर्फतर्फ फर्केर उनले नाप्नुभयो, पाँच सय कुलो, नाप्ने कुलाले।",
+  "tokens": [
+    {
+      "surface": "סבב",
+      "gloss": "फर्केर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "הים",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "उनले नाप्नुभयो"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "कुलो"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "कुलाले"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नाप्ने"
+    }
+  ],
+  "timestamp": "2026-08-26T23:29:25.386787591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 10:5",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "खत्तुश, शेबन्याह, मल्लुख।",
+  "tokens": [
+    {
+      "surface": "חטוש",
+      "gloss": "खत्तुश"
+    },
+    {
+      "surface": "שבניה",
+      "gloss": "शेबन्याह"
+    },
+    {
+      "surface": "मלוך",
+      "gloss": "मल्लुख"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:49.163545924Z",
+  "model": "glm-5.3"
+}

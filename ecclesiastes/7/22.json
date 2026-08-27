@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ecclesiastes 7:22",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "किनकि पनि धेरै पटक तिम्रो मनले जानेको छ कि पनि तिमीले अरूहरूलाई गाली गरेका छौ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "पटक"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेको छ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तिम्रो मनले"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "את",
+      "gloss": "तिमीले"
+    },
+    {
+      "surface": "קללת",
+      "gloss": "गाली गरेका छौ"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अरूहरूलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:14.429982509Z",
+  "model": "glm-5.3"
+}

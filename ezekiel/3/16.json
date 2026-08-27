@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 3:16",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र सात दिनको अन्त्यमा यहवेको वचन मलाई आयो, भन्दै।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र ⟨यो⟩ भयो"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "…को अन्त्यमा"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनको"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र ⟨यो⟩ भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:12:15.134848929Z",
+  "model": "glm-5.3"
+}

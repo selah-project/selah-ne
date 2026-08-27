@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 36:26",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र यी हुन् दिशानका छोराहरू: हेम्दान र एश्बान र यित्रान र केरान।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "दिशान"
+    },
+    {
+      "surface": "חמדן",
+      "gloss": "हेम्दान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "र एश्बान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "र यित्रान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "र केरान"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:45.721738793Z",
+  "model": "glm-5.3"
+}

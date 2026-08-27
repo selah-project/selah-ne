@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 2:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र नakhशोनले ⟨את⟩ सल्मालाई जन्म दियो, र सल्माले ⟨את⟩ बोअज़लाई जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "ונחשון",
+      "gloss": "र नakhशोनले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सल्मालाई"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "सल्मा"
+    },
+    {
+      "surface": "ושלמא",
+      "gloss": "र सल्माले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोअज़लाई"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज़"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:13.993889024Z",
+  "model": "glm-5.3"
+}

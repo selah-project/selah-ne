@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 83:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 83,
+  "translation": "गेबाल, र अम्मोन, र अमालेक; पलिश्ती तीरका बासिन्दाहरूसँग।",
+  "tokens": [
+    {
+      "surface": "גבל",
+      "gloss": "गेबाल"
+    },
+    {
+      "surface": "ועמון",
+      "gloss": "र अम्मोन"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "र अमालेक"
+    },
+    {
+      "surface": "פלשת",
+      "gloss": "पलिश्ती"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बासिन्दाहरू"
+    },
+    {
+      "surface": "צור",
+      "gloss": "तीरका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:14.536741915Z",
+  "model": "glm-5.3"
+}

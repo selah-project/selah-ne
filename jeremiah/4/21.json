@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 4:21",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "कति समयसम्म म ध्वजा देख्नेछु, म शोफरको आवाज सुन्नेछु?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कति समय"
+    },
+    {
+      "surface": "אראה",
+      "gloss": "म देख्नेछु"
+    },
+    {
+      "surface": "נס",
+      "gloss": "ध्वजा"
+    },
+    {
+      "surface": "אשמעה",
+      "gloss": "म सुन्नेछु"
+    },
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "शोफर"
+    }
+  ],
+  "timestamp": "2026-08-26T22:46:18.757249645Z",
+  "model": "glm-5.3"
+}

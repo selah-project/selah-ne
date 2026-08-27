@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 38:22",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "हिज्कियाले भन्नुभयो — ⟨⟨यो⟩⟩ कुन चिह्न ⟨हो⟩ कि मी यहवेको भवनमा जानेछु?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "हिज्कियाले"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कुन"
+    },
+    {
+      "surface": "אות",
+      "gloss": "चिह्न"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אעלה",
+      "gloss": "जानेछु"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवनमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:34:49.983415940Z",
+  "model": "glm-5.3"
+}

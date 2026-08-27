@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 35:6",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "र निलो ⟨the⟩ रङ, र बैजनी, र किर्मीज-रातो, र सन-कपडा, र बाख्राको रौँ।",
+  "tokens": [
+    {
+      "surface": "ותכלत",
+      "gloss": "निलो रङ"
+    },
+    {
+      "surface": "וארגמן",
+      "gloss": "बैजनी"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "किर्मीज-रातो"
+    },
+    {
+      "surface": "שני",
+      "gloss": "रातो"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "सन-कपडा"
+    },
+    {
+      "surface": "ועזים",
+      "gloss": "बाख्राको रौँ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:19:04.828051339Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 11:29",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र एन-रिम्मोनमा, र त्सोरआमा, र यार्मुतमा।",
+  "tokens": [
+    {
+      "surface": "ובעין",
+      "gloss": "र एन-रिम्मोनमा"
+    },
+    {
+      "surface": "רמון",
+      "gloss": ""
+    },
+    {
+      "surface": "ובצרעה",
+      "gloss": "र त्सोरआमा"
+    },
+    {
+      "surface": "ובירמות",
+      "gloss": "र यार्मुतमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:06.541481796Z",
+  "model": "glm-5.3"
+}

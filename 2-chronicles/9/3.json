@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 9:3",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र शेबाकी रानीले शलोमोको ⟨את⟩ बुद्धि र त्यो घर देखी जुन उसले बनाएको थियो।",
+  "tokens": [
+    {
+      "surface": "ותרא",
+      "gloss": "र देखी"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "रानीले"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेबाकी"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुद्धि"
+    },
+    {
+      "surface": "חכמת",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोको"
+    },
+    {
+      "surface": "והבית",
+      "gloss": "र त्यो घर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाएको थियो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:35:57.996616402Z",
+  "model": "glm-5.3"
+}

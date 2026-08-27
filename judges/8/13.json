@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "judges 8:13",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र गिदोन, योआशको छोरा, युद्धबाट फर्किए — हेरेसको उकालोबाट।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "र फर्किए"
+    },
+    {
+      "surface": "גדעון",
+      "gloss": "गिदोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआश"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "המלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "उकालोबाट"
+    },
+    {
+      "surface": "हחרס",
+      "gloss": "हेरेस"
+    }
+  ],
+  "timestamp": "2026-08-26T21:23:17.762106918Z",
+  "model": "glm-5.3"
+}

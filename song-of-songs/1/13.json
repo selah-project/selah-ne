@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 1:13",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "मरको पोको — मेरो प्रिय मलाई ⟨हो⟩; मेरा स्तनहरूबीच ⟨ऊ⟩ रातभरि बास लिन्छ।",
+  "tokens": [
+    {
+      "surface": "צרור",
+      "gloss": "पोको"
+    },
+    {
+      "surface": "המר",
+      "gloss": "मरको"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "मेरो प्रिय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "मेरा स्तनहरू"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "बास लिन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:39.045071837Z",
+  "model": "glm-5.3"
+}

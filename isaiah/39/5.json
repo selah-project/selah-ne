@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 39:5",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 39,
+  "translation": "तब येशयाहूले हिज्कियाहूलाई भने: यहवे त्सेवाओतको वचन सुन।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब…भने"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "येशयाहूले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "हिज्कियाहू"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सेवाओत"
+    }
+  ],
+  "timestamp": "2026-08-26T22:35:37.879986140Z",
+  "model": "glm-5.3"
+}

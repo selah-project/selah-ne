@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 10:22",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "यहवेको आशीर्वाद ⟨सो⟩ धनी बनाउँछ, र ⟨उहाँले⟩ त्यससँग कष्ट थप्नुहुन्न।",
+  "tokens": [
+    {
+      "surface": "ברכת",
+      "gloss": "आशीर्वाद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨सो⟩"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "धनी बनाउँछ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र ... न"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "थप्नुहुन्न"
+    },
+    {
+      "surface": "עצב",
+      "gloss": "कष्ट"
+    },
+    {
+      "surface": "עמה",
+      "gloss": "त्यससँग"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:38.678040623Z",
+  "model": "glm-5.3"
+}

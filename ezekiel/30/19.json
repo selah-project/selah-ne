@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezekiel 30:19",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "यसरी म मिस्रमा दण्डहरू गर्नेछु, र तिनीहरू जान्नेछन् कि म यहवे हुँ।",
+  "tokens": [
+    {
+      "surface": "ועשיתי",
+      "gloss": "गर्नेछु"
+    },
+    {
+      "surface": "שפטים",
+      "gloss": "दण्डहरू"
+    },
+    {
+      "surface": "במצרים",
+      "gloss": "मिस्रमा"
+    },
+    {
+      "surface": "וידעו",
+      "gloss": "र तिनीहरू जान्नेछन्"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T23:23:22.871094739Z",
+  "model": "glm-5.3"
+}

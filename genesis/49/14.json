@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 49:14",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "यिस्साखार हड्डीले बलियो गधा हो, दुई बाडबीच लड्किन्छ।",
+  "tokens": [
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साखार"
+    },
+    {
+      "surface": "חמר",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "גרם",
+      "gloss": "हड्डीले बलियो"
+    },
+    {
+      "surface": "רבץ",
+      "gloss": "लड्किन्छ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "המשפתים",
+      "gloss": "दुई बाड"
+    }
+  ],
+  "timestamp": "2026-08-26T20:02:52.508188604Z",
+  "model": "glm-5.3"
+}

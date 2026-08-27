@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 1:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "बरु यहवेको तोरामा नै ⟨उसको⟩ रुचि छ, र ⟨उसको⟩ तोरामा ऊ दिन र रात ध्यान गर्छ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "बरु"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "בתורת",
+      "gloss": "तोरामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "חפצו",
+      "gloss": "⟨उसको⟩ रुचि"
+    },
+    {
+      "surface": "ובתורתו",
+      "gloss": "र ⟨उसको⟩ तोरामा"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "ध्यान गर्छ"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולילה",
+      "gloss": "र रात"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:30.356307731Z",
+  "model": "glm-5.3"
+}

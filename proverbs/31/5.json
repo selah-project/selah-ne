@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 31:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "कि नतः ⟨उसले⟩ पियोस् र विधान बिर्सोस्, र दुःखीहरूका सबै सन्तानको न्याय बिगारोस्।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "कि नतः"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "पियोस्"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "र बिर्सोस्"
+    },
+    {
+      "surface": "מחקק",
+      "gloss": "विधान"
+    },
+    {
+      "surface": "וישנה",
+      "gloss": "र बिगारोस्"
+    },
+    {
+      "surface": "דין",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुःखीहरूका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:48.808632750Z",
+  "model": "glm-5.3"
+}

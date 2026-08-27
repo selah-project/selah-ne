@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 8:11",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "किनकि निर्णय गरिँदैन खराब कामको छिटो, त्यसैले मानिसका छोराहरूको मुटु भरिन्छ तिनीहरूमा खराबी गर्न।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "गरिँदैन"
+    },
+    {
+      "surface": "פתגם",
+      "gloss": "निर्णय"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "कामको"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "छिटो"
+    },
+    {
+      "surface": "על",
+      "gloss": "त्यसको कारणले"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरिन्छ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मुटु"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिसका"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "तिनीहरूमा"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "गर्न"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराबी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:22.090294540Z",
+  "model": "glm-5.3"
+}

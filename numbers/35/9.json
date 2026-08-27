@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 35:9",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "यहवेले मोशेसँग बोल्नुभयो, भन्दै यी कुरा भन्नुभयो ⟨कि⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:52:01.485029593Z",
+  "model": "glm-5.3"
+}

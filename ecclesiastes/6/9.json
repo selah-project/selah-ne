@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 6:9",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "आँखाको देखाइ नेफेशको भौँतारिनुभन्दा उत्तम ⟨हो⟩; यो पनि हेवेल र रुखको सङ्कट हो।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "देखाइ"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखाको"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "भौँतारिनुभन्दा"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नेफेशको"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेवेल"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "र सङ्कट"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रुखको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:56.068517189Z",
+  "model": "glm-5.3"
+}

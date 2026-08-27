@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 21:16",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "बुद्धिको बाटोबाट भट्कने मानिस रेफाइमहरूको सभामा विश्राम लिनेछ।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "תועה",
+      "gloss": "भट्कने"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "बाटोबाट"
+    },
+    {
+      "surface": "השכל",
+      "gloss": "बुद्धिको"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभामा"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाइमहरूको"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "विश्राम लिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:39.247756923Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 23:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "आफ्नो स्वामीबाट छुटेर तिमीसित आएको दासलाई उसको स्वामीकहाँ बुझाऊ न।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תסגיר",
+      "gloss": "बुझाऊ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दासलाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "उसको स्वामी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "छुटेर आएको"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीसित"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "אדניו",
+      "gloss": "उसको स्वामी"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:25.687865201Z",
+  "model": "glm-5.3"
+}

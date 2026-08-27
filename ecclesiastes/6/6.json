@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 6:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र यदि ऊ हजार वर्ष दुई पटक बाँच्दैमा, तर असल देखेको छैन भने — के सबै एउटै ठाउँमा जाँदैनन्?",
+  "tokens": [
+    {
+      "surface": "ואלו",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "חיה",
+      "gloss": "बाँच्दैमा"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "दुई पटक"
+    },
+    {
+      "surface": "וטובה",
+      "gloss": "तर असल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखेको"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "के ... दैनन्?"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाउँ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जाँदैनन्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:13.153489843Z",
+  "model": "glm-5.3"
+}

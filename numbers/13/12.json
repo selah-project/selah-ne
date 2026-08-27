@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 13:12",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "दानको कुलका लागि गेमल्लीका छोरा अम्मिएल।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "कुलका लागि"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दानको"
+    },
+    {
+      "surface": "עמיאל",
+      "gloss": "अम्मिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "גמלי",
+      "gloss": "गेमल्लीका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:05.929671941Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 16:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "यहवेको घृणा हो हरेक उच्च-हृदय; हात लाई हात ⟨जोडिए पनि⟩ ऊ निर्दोष ठहरिने छैन।",
+  "tokens": [
+    {
+      "surface": "תועבת",
+      "gloss": "घृणा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "उच्च"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ליד",
+      "gloss": "लाई हात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "निर्दोष ठहरिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:11.203467256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "exodus 28:31",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र तँले ⟨את⟩ एपोदको बाह्रै नीलो रङ्गको पोशाक बनाउनेछस्।",
+  "tokens": [
+    {
+      "surface": "ועשית",
+      "gloss": "बनाउनेछस्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पोशाक"
+    },
+    {
+      "surface": "מעיל",
+      "gloss": "पोशाक"
+    },
+    {
+      "surface": "האפוד",
+      "gloss": "एपोदको"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूर्णरूपमा"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नीलो रङ्गको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:16:03.197639338Z",
+  "model": "glm-5.3"
+}

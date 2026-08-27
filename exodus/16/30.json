@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 16:30",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "तब जनता सातौँ दिनमा विश्राम गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "וישבתו",
+      "gloss": "विश्राम गर्‍यो"
+    },
+    {
+      "surface": "हעם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "सातौँ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:01.585207152Z",
+  "model": "glm-5.3"
+}

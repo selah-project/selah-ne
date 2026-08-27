@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 29:2",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "⟨the⟩ महान परीक्षाहरू जुन तिम्रा आँखाहरूले देखे, ⟨the⟩ चिन्हहरू र ⟨the⟩ महान आश्चर्यहरू ती",
+  "tokens": [
+    {
+      "surface": "המסות",
+      "gloss": "परीक्षाहरू"
+    },
+    {
+      "surface": "הגדלת",
+      "gloss": "महान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "देखे"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तिम्रा आँखाहरूले"
+    },
+    {
+      "surface": "हאתת",
+      "gloss": "चिन्हहरू"
+    },
+    {
+      "surface": "והמפתים",
+      "gloss": "र आश्चर्यहरू"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "महान"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ती"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:55.178655328Z",
+  "model": "glm-5.3"
+}

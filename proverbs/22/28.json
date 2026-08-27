@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 22:28",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "आफ्ना पुर्खाहरूले राखेका पुराना सीमाढुङ्गा नसार।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תסג",
+      "gloss": "नसार"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमाढुङ्गा"
+    },
+    {
+      "surface": "עוײם",
+      "gloss": "पुराना"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "राखेका"
+    },
+    {
+      "surface": "אבותיך",
+      "gloss": "आफ्ना पुर्खाहरूले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:00.345579617Z",
+  "model": "glm-5.3"
+}

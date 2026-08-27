@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "numbers 31:37",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र भेडबाट यहवेको लागि ⟨कर⟩ छ सय पाँच र सत्सत्तरी थियो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र … थियो"
+    },
+    {
+      "surface": "המכס",
+      "gloss": "⟨कर⟩"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको लागि"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेड"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "र सत्सत्तरी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:54.317877144Z",
+  "model": "glm-5.3"
+}

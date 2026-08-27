@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 2:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र खेत्सरोनका छोराहरू जो उसका निम्ति जन्मिए — ⟨את⟩ यरakhमेल, र ⟨את⟩ राम, र ⟨את⟩ कलुबाइ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "खेत्सरोनका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जन्मिए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसका निम्ति"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यरakhमेल"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरakhमेल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "राम"
+    },
+    {
+      "surface": "רם",
+      "gloss": "राम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "कलुबाइ"
+    },
+    {
+      "surface": "כלובי",
+      "gloss": "कलुबाइ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:13.993503783Z",
+  "model": "glm-5.3"
+}

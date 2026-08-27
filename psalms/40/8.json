@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 40:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "तब मैले भनेँ: हेर, म आएँ; पुस्तकको पोटीमा मेरो बारेमा लेखिएको छ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मैले भनेँ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "באתי",
+      "gloss": "म आएँ"
+    },
+    {
+      "surface": "במגלת",
+      "gloss": "पोटीमा"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पुस्तकको"
+    },
+    {
+      "surface": "כתוב",
+      "gloss": "लेखिएको छ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मेरो बारेमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:56.690981822Z",
+  "model": "glm-5.3"
+}

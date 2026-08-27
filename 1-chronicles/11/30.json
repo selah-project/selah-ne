@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 11:30",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "माखराइ नेतोफाथी, खेलेद बानाका छोरा, नेतोफाथी।",
+  "tokens": [
+    {
+      "surface": "מהרי",
+      "gloss": "माखराइ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "नेतोफाथी"
+    },
+    {
+      "surface": "חלד",
+      "gloss": "खेलेद"
+    },
+    {
+      "surface": "बן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "बाना"
+    },
+    {
+      "surface": "הנטופתי",
+      "gloss": "नेतोफाथी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:03.210942104Z",
+  "model": "glm-5.3"
+}

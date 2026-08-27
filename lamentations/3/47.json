@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "lamentations 3:47",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "आतंक र जालो ⟨हाम्रो⟩ भयो — उजाडता र विनाश।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "आतंक"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "र जालो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "⟨हाम्रो⟩"
+    },
+    {
+      "surface": "השאת",
+      "gloss": "उजाडता"
+    },
+    {
+      "surface": "והשבר",
+      "gloss": "र विनाश"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:09.441195041Z",
+  "model": "glm-5.3"
+}

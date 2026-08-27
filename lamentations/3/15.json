@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 3:15",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उहाँले मलाई तीताहरूले तृप्त पार्नुभयो, उहाँले मलाई वर्मुथले रिझाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "השבिढני",
+      "gloss": "तृप्त पार्नुभयो"
+    },
+    {
+      "surface": "במרורים",
+      "gloss": "तीताहरूले"
+    },
+    {
+      "surface": "הרוני",
+      "gloss": "रिझाउनुभयो"
+    },
+    {
+      "surface": "לענה",
+      "gloss": "वर्मुथले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:22.078566622Z",
+  "model": "glm-5.3"
+}

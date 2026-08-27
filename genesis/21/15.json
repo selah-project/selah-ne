@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 21:15",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र छेमीबाट पानी सकियो, र उनले ⟨את⟩ बालकलाई झाडीहरूमध्ये एउटाको तल राखिन्।",
+  "tokens": [
+    {
+      "surface": "ויכלו",
+      "gloss": "सकियो"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "החמת",
+      "gloss": "छेमी"
+    },
+    {
+      "surface": "ותשלך",
+      "gloss": "राखिन्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बालकलाई"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "बालकलाई"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटाको"
+    },
+    {
+      "surface": "השיחם",
+      "gloss": "झाडीहरूमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-26T19:47:50.136224426Z",
+  "model": "glm-5.3"
+}

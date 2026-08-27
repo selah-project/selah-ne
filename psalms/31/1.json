@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 31:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "सङ्गीत-निर्देशकका लागि, दाऊदको मिज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "सङ्गीत-निर्देशकका लागि"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊदको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:14:38.170110680Z",
+  "model": "glm-5.3"
+}

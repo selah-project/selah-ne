@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 31:26",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "उनको मुख बुद्धिमा खुल्छ, र खेसेदको तोराह ⟨छ⟩ उनको जिब्रोमाथि।",
+  "tokens": [
+    {
+      "surface": "פיה",
+      "gloss": "उनको मुख"
+    },
+    {
+      "surface": "פתחה",
+      "gloss": "खुल्छ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "बुद्धिमा"
+    },
+    {
+      "surface": "ותורת",
+      "gloss": "र तोराह"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "खेसेदको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "לשונה",
+      "gloss": "उनको जिब्रो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:49.125978412Z",
+  "model": "glm-5.3"
+}

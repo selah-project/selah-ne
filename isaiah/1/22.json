@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 1:22",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तेरो चाँदी खार बनेको छ, तेरो मदिरा पानीले मिसाइएको छ।",
+  "tokens": [
+    {
+      "surface": "כספך",
+      "gloss": "तेरो चाँदी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "बनेको छ"
+    },
+    {
+      "surface": "לסיגים",
+      "gloss": "खार"
+    },
+    {
+      "surface": "סבאך",
+      "gloss": "तेरो मदिरा"
+    },
+    {
+      "surface": "מהול",
+      "gloss": "मिसाइएको छ"
+    },
+    {
+      "surface": "במिझ",
+      "gloss": "पानीले"
+    }
+  ],
+  "timestamp": "2026-08-26T22:22:32.033355944Z",
+  "model": "glm-5.3"
+}

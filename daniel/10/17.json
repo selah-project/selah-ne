@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 10:17",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "किनकि मेरो अदोनाइको यो दासले कसरी मेरो यो अदोनाइसँग बोल्न सक्छ? अब ⟨ममा⟩ कुनै शक्ति उभिँदैन, र श्वास पनि ममा बाँकी रहेको छैन।",
+  "tokens": [
+    {
+      "surface": "והיך",
+      "gloss": "किनकि कसरी"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सक्छ"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोल्न"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "र म"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "उभिँदैन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "כח",
+      "gloss": "शक्ति"
+    },
+    {
+      "surface": "ונשמה",
+      "gloss": "र श्वास"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "נשארה",
+      "gloss": "बाँकी रहेको"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ममा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:29.648522766Z",
+  "model": "glm-5.3"
+}

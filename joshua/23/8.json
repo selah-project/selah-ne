@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 23:8",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "बरु आफ्ना एलोहीम यहवेमा नै टाँसिइरहनु — आजको ⟨the⟩ यस दिनसम्म जसरी गर्यौ, त्यसरी नै।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "बरु"
+    },
+    {
+      "surface": "אם",
+      "gloss": "नै"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवेमा"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "आफ्ना एलोहीम"
+    },
+    {
+      "surface": "תדבקו",
+      "gloss": "टाँसिइरहनु"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसरी"
+    },
+    {
+      "surface": "עשיתם",
+      "gloss": "गर्यौ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:56:23.484106911Z",
+  "model": "glm-5.3"
+}

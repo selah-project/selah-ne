@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 26:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र उहाँले हामीलाई यस स्थानमा ल्याउनुभयो, र हामीलाई ⟨את⟩ यो भूमि दिनुभयो — दूध र मह बग्ने भूमि।",
+  "tokens": [
+    {
+      "surface": "ויבאנו",
+      "gloss": "र ल्याउनुभयो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "यस स्थान"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "र दिनुभयो"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हामीलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो भूमि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "זבת",
+      "gloss": "बग्ने"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "र मह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:04.284842755Z",
+  "model": "glm-5.3"
+}

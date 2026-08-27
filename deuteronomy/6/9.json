@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 6:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र तिनीहरूलाई आफ्नो घरका ढोकाका टुँडिकाहरूमा र आफ्ना ढोकाहरूमा लेख्।",
+  "tokens": [
+    {
+      "surface": "וכתבתם",
+      "gloss": "र लेख्"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מזוזת",
+      "gloss": "ढोकाका टुँडिकाहरूमा"
+    },
+    {
+      "surface": "ביתך",
+      "gloss": "आफ्नो घरका"
+    },
+    {
+      "surface": "ובשעריך",
+      "gloss": "र आफ्ना ढोकाहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:42.118215193Z",
+  "model": "glm-5.3"
+}

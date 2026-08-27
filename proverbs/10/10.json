@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 10:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "आँखा झिम्काउने दुख दिन्छ, र ओठ निधार्ने मूर्ख ढल्नेछ।",
+  "tokens": [
+    {
+      "surface": "קרץ",
+      "gloss": "झिम्काउने"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँखा"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिन्छ"
+    },
+    {
+      "surface": "עצבת",
+      "gloss": "दुख"
+    },
+    {
+      "surface": "ואויל",
+      "gloss": "र मूर्ख"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठ निधार्ने"
+    },
+    {
+      "surface": "ילבט",
+      "gloss": "ढल्नेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T02:17:31.707565287Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 30:11",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र लेआहले भनिन्, भाग्य आयो! र उनले ⟨את⟩ उसको नाम गाद राखिन्।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "भनिन्"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआहले"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "भाग्य आयो"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "राखिन्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसको नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसको नाम"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:15.452616287Z",
+  "model": "glm-5.3"
+}

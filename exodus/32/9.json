@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 32:9",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र यहवेले मोशेलाई भन्नुभयो: मैले ⟨את⟩ यस जनतालाई देखें, र हेर, यो कडा-घाँटी भएको जनता हो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "मשה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले देखें"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यस जनतालाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कडा"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "घाँटी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:18:14.512026295Z",
+  "model": "glm-5.3"
+}

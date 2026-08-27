@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 10:28",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "धार्मिकहरूको आशा ⟨हो⟩ आनन्द, तर दुष्टहरूको आशा नाश हुनेछ।",
+  "tokens": [
+    {
+      "surface": "תוחלת",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धार्मिकहरूको"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनन्द"
+    },
+    {
+      "surface": "ותקות",
+      "gloss": "तर आशा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरूको"
+    },
+    {
+      "surface": "תאבד",
+      "gloss": "नाश हुनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:28.371511554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 12:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र यिर्मेयाह, र यखजिएल, र योखानान, र योजाभाद ⟨את⟩ गेदेराथी —",
+  "tokens": [
+    {
+      "surface": "וירמיה",
+      "gloss": "र यिर्मेयाह"
+    },
+    {
+      "surface": "ויחזיאל",
+      "gloss": "र यखजिएल"
+    },
+    {
+      "surface": "ויוחנן",
+      "gloss": "र योखानान"
+    },
+    {
+      "surface": "ויוזבד",
+      "gloss": "र योजाभाद"
+    },
+    {
+      "surface": "הגדרתי",
+      "gloss": "गेदेराथी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:46.553944488Z",
+  "model": "glm-5.3"
+}

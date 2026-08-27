@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 41:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "सङ्गीत-निर्देशकका लागि, दाउदको मिजमोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "सङ्गीत-निर्देशकका लागि"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाउदको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:21.051217873Z",
+  "model": "glm-5.3"
+}

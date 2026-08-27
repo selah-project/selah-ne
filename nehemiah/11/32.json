@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 11:32",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "अनातोत, नोभ, अनन्याह।",
+  "tokens": [
+    {
+      "surface": "ענתות",
+      "gloss": "अनातोत"
+    },
+    {
+      "surface": "נב",
+      "gloss": "नोभ"
+    },
+    {
+      "surface": "ענניה",
+      "gloss": "अनन्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:06.542037605Z",
+  "model": "glm-5.3"
+}

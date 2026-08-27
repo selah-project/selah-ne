@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 36:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "यी हुन् दिशानका छोराहरू: उत्स र अरान।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "דישן",
+      "gloss": "दिशान"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "र अरान"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:45.722027859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 6:9",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "यहवेको वचन ममतर्फ यसो भन्दै आयो —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममतर्फ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:46:22.019192541Z",
+  "model": "glm-5.3"
+}

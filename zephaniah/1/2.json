@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zephaniah 1:2",
+  "book": "zephaniah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "म ⟨अवश्य⟩ सङ्कलन गर्नेछु ⟨अवश्य⟩ सबै ⟨अवश्य⟩ पृथ्वीको अनुहारबाट हटाउनेछु, यहवेको घोषणा।",
+  "tokens": [
+    {
+      "surface": "אסף",
+      "gloss": "सङ्कलन गर्नेछु"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "हटाउनेछु"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…बाट"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अनुहार"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "पृथ्वीको"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "घोषणा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:44:02.161880049Z",
+  "model": "glm-5.3"
+}

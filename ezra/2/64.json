@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "ezra 2:64",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "सारै सभा एकैसँग ⟨गनियो⟩ — चालीस हजार दुई हजार तीन सय साठी।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सारै"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एकैसँग"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दुई हजार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:06:26.095892457Z",
+  "model": "glm-5.3"
+}

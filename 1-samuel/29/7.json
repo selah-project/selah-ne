@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-samuel 29:7",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "'अब फर्क, र शान्तिसँग जा, र पलिश्तीका सरदारहरूका आँखामा खराबी नगर।'",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "फर्क"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "र जा"
+    },
+    {
+      "surface": "בשלום",
+      "gloss": "शान्तिसँग"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "गर"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराबी"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "סרני",
+      "gloss": "सरदारहरूका"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:42:49.995874678Z",
+  "model": "glm-5.3"
+}

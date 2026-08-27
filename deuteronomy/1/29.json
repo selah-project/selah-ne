@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "deuteronomy 1:29",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तब मैले तिमीहरूलाई भाँच्‍छुँ — तिमीहरू नतात्तियो, नत तिनीहरूलाई डराउ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "तब मैले भनेँ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תערצון",
+      "gloss": "तिमीहरू आत्तिने"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:45.555610697Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "lamentations 3:27",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "आफ्नो जवानीमा जुवा बोक्ने पुरुषको लागि असल ⟨हुन्छ⟩।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "לגבר",
+      "gloss": "पुरुषको लागि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "बोक्ने"
+    },
+    {
+      "surface": "על",
+      "gloss": "जुवा"
+    },
+    {
+      "surface": "בנעוריו",
+      "gloss": "आफ्नो जवानीमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:45.150041651Z",
+  "model": "glm-5.3"
+}

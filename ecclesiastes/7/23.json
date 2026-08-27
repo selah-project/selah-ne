@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 7:23",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यी सबै कुरा मैले ज्ञानले परीक्षण गरेँ; मैले भनेँ, म बुद्धिमान हुनेछु, तर त्यो मभन्दा टाढा छ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यी कुरा"
+    },
+    {
+      "surface": "נסיתי",
+      "gloss": "परीक्षण गरेँ"
+    },
+    {
+      "surface": "בחכמה",
+      "gloss": "ज्ञानले"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "भनेँ"
+    },
+    {
+      "surface": "אחכמה",
+      "gloss": "बुद्धिमान हुनेछु"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "तर त्यो"
+    },
+    {
+      "surface": "רחוקה",
+      "gloss": "टाढा"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मभन्दा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:14.430158643Z",
+  "model": "glm-5.3"
+}

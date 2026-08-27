@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 12:4",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र उसले यहूदाका ⟨the⟩ किल्लाबन्दी नगरहरूलाई ⟨את⟩ कब्जा गर्यो, र येरुशालाइमसम्म आयो।",
+  "tokens": [
+    {
+      "surface": "וילכד",
+      "gloss": "र कब्जा गर्यो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नगरहरूलाई"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "नगरहरू"
+    },
+    {
+      "surface": "המצרות",
+      "gloss": "किल्लाबन्दी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "र आयो"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "येरुशालाइम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:41.064225072Z",
+  "model": "glm-5.3"
+}

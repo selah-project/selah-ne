@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 37:9",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "भित्री कोठाबाट आँधी आउँछ, र बिखराइहरूबाट चिसो ।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "החדר",
+      "gloss": "भित्री कोठा"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "סופה",
+      "gloss": "आँधी"
+    },
+    {
+      "surface": "וממזרים",
+      "gloss": "र बिखराइहरूबाट"
+    },
+    {
+      "surface": "קרה",
+      "gloss": "चिसो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:40:47.901605979Z",
+  "model": "glm-5.3"
+}

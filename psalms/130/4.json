@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 130:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 130,
+  "translation": "किनभने तिम्रैसँग ⟨is⟩ क्षमा, ताकि तिमी आदरणीय बन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तिम्रैसँग"
+    },
+    {
+      "surface": "הסליחה",
+      "gloss": "क्षमा"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "תורא",
+      "gloss": "तिमी आदरणीय बन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:16:04.670105442Z",
+  "model": "glm-5.3"
+}

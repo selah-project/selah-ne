@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 49:25",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "कसरी छोडिएको छैन प्रशंसाको नगर, मेरो हर्षको नगर!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עזבה",
+      "gloss": "छोडिएको"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תהלה",
+      "gloss": "प्रशंसा"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "משושי",
+      "gloss": "मेरो हर्ष"
+    }
+  ],
+  "timestamp": "2026-08-26T23:07:35.544573797Z",
+  "model": "glm-5.3"
+}

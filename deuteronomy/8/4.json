@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 8:4",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "तिम्रो लुगा तिम्रो शरीरमा पुरानो भएन, र तिम्रो खुट्टा फुलेन — यी चालीस वर्षसम्म।",
+  "tokens": [
+    {
+      "surface": "שמלתך",
+      "gloss": "तिम्रो लुगा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "भएन"
+    },
+    {
+      "surface": "בלתה",
+      "gloss": "पुरानो भयो"
+    },
+    {
+      "surface": "מעליך",
+      "gloss": "तिम्रो शरीरमा"
+    },
+    {
+      "surface": "ורגלך",
+      "gloss": "र तिम्रो खुट्टा"
+    },
+    {
+      "surface": "लא",
+      "gloss": "गरेन"
+    },
+    {
+      "surface": "בצקה",
+      "gloss": "फुल्यो"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-26T20:57:36.167667198Z",
+  "model": "glm-5.3"
+}

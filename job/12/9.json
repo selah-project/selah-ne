@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 12:9",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "यी सबैमा कसले जान्दैन कि यहवेको हातले ⟨את⟩ यो गर्नुभयो?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्दैन"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "यी सबैमा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "गर्नुभयो"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:33:03.636108383Z",
+  "model": "glm-5.3"
+}

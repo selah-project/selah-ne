@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "deuteronomy 28:38",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "धेरै बीउ खेतमा निकाल्नेछौ, तर थोरै भेला गर्नेछौ, किनकि टिडीले त्यसलाई खाइदिनेछ।",
+  "tokens": [
+    {
+      "surface": "זרע",
+      "gloss": "बीउ"
+    },
+    {
+      "surface": "רב",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "תוציא",
+      "gloss": "निकाल्नेछौ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेतमा"
+    },
+    {
+      "surface": "ומעט",
+      "gloss": "तर थोरै"
+    },
+    {
+      "surface": "תאסף",
+      "gloss": "भेला गर्नेछौ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יחסלנו",
+      "gloss": "त्यसलाई खाइदिनेछ"
+    },
+    {
+      "surface": "הארבה",
+      "gloss": "टिडीले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:27.016577952Z",
+  "model": "glm-5.3"
+}

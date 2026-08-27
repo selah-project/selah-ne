@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 3:17",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "येकोन्याह बन्दीका छोराहरू ⟨थिए⟩: शेअल्तिएल उसको छोरा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "יכניה",
+      "gloss": "येकोन्याह"
+    },
+    {
+      "surface": "אסר",
+      "gloss": "बन्दी"
+    },
+    {
+      "surface": "שאלתיאל",
+      "gloss": "शेअल्तिएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:27.523750322Z",
+  "model": "glm-5.3"
+}

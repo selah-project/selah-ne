@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 35:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "तिनीहरू वायुअगाडि तुसा झैँ हुन्, र यहवेको दूतले धपाउँदै छ।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "तिनीहरू हुन्"
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "तुसा झैँ"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वायु"
+    },
+    {
+      "surface": "ומלאך",
+      "gloss": "र दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "דוחה",
+      "gloss": "धपाउँदै छ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:55:18.856331078Z",
+  "model": "glm-5.3"
+}

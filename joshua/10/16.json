@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "joshua 10:16",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "तर ती पाँच राजाहरू भागे, र मक्केदामा भएको गुफामा लुके।",
+  "tokens": [
+    {
+      "surface": "וינסו",
+      "gloss": "र भागे"
+    },
+    {
+      "surface": "חמשת",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजाहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ती"
+    },
+    {
+      "surface": "ויחבאו",
+      "gloss": "र लुके"
+    },
+    {
+      "surface": "במערה",
+      "gloss": "गुफामा"
+    },
+    {
+      "surface": "במקדה",
+      "gloss": "मक्केदामा भएको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:12:59.692492309Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 11:8",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र ⟨את⟩ गत, ⟨את⟩ मारेशा र ⟨את⟩ जिफ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "गत"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मारेशा"
+    },
+    {
+      "surface": "מרשה",
+      "gloss": "मारेशा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "जिफ"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जिफ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:26.044635141Z",
+  "model": "glm-5.3"
+}

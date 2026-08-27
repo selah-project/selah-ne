@@ -1,0 +1,56 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 1:23",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र ⟨את⟩ ओफिर, र ⟨את⟩ खविलाह, र ⟨את⟩ योवव; यी सबै योक्तानका छोराहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "ओफिर"
+    },
+    {
+      "surface": "אופיר",
+      "gloss": "ओफिर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "खविलाह"
+    },
+    {
+      "surface": "חוילה",
+      "gloss": "खविलाह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "योवव"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योवव"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יקטן",
+      "gloss": "योक्तानका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:13.072722320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 18:22",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र बेथ-हा-अराबा, र त्सेमाराइम, र बेथ-एल;",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "हा-अराबा"
+    },
+    {
+      "surface": "וצמרים",
+      "gloss": "र त्सेमाराइम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:55.990145291Z",
+  "model": "glm-5.3"
+}

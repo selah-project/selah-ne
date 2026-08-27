@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 10:3",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र गोमेरका छोराहरू: अश्केनाज, रिफत र तोगर्मा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेरका"
+    },
+    {
+      "surface": "אשכנז",
+      "gloss": "अश्केनाज"
+    },
+    {
+      "surface": "וריפת",
+      "gloss": "र रिफत"
+    },
+    {
+      "surface": "ותגרמה",
+      "gloss": "र तोगर्मा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:28.621638512Z",
+  "model": "glm-5.3"
+}

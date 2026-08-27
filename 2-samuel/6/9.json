@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-samuel 6:9",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "त्यस दिन दाउदले यहवेलाई ⟨את⟩ डराए, र भने, यहवेको सन्दूक मसँग कसरी आउनेछ?",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "डराए"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउदले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवेलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "त्यस दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "איך",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आउनेछ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दूक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:58:20.529521192Z",
+  "model": "glm-5.3"
+}

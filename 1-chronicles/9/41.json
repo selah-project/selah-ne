@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 9:41",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "मिखाका छोराहरू थिए: पिथोन, मेलेख र तख्रेया।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिखा"
+    },
+    {
+      "surface": "פיתון",
+      "gloss": "पिथोन"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "र मेलेख"
+    },
+    {
+      "surface": "ותחרע",
+      "gloss": "र तख्रेया"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:44.898941813Z",
+  "model": "glm-5.3"
+}

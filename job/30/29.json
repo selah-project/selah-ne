@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 30:29",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "म सियारहरूको दाजु भएँ, र याँनाका छोरीहरूको साथी।",
+  "tokens": [
+    {
+      "surface": "אח",
+      "gloss": "दाजु"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "भएँ"
+    },
+    {
+      "surface": "לתנים",
+      "gloss": "सियारहरूको"
+    },
+    {
+      "surface": "ורע",
+      "gloss": "र साथी"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "छोरीहरूको"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "याँनाका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:37:45.610036765Z",
+  "model": "glm-5.3"
+}

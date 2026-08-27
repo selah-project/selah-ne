@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 14:22",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र दुई टर्टल-कबुतर, वा दुई परेवाका चल्ला, जे उसको हात पुग्छ; र एउटा पाप-offering हुनेछ र अर्को बाल-offering;",
+  "tokens": [
+    {
+      "surface": "ושתי",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "टर्टल-कबुतर"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "चल्ला"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "परेवाका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "पुग्छ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उसको हात"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "र हुनेछ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप-offering"
+    },
+    {
+      "surface": "והאחד",
+      "gloss": "र अर्को"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "बाल-offering"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:25.937284234Z",
+  "model": "glm-5.3"
+}

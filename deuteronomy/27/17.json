@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 27:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "धिक्कारित ⟨हो⟩ ऊ जसले आफ्नो सङ्गीको सीमाना सार्छ, र सबै जनताले भन्नेछन्: आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कारित"
+    },
+    {
+      "surface": "מסיג",
+      "gloss": "सार्छ"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमाना"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आफ्नो सङ्गीको"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "र भन्नेछन्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:24.300471883Z",
+  "model": "glm-5.3"
+}

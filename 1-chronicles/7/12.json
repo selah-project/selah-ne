@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 7:12",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "शुप्पीम र हुप्पीम इरका छोराहरू थिए; हुशीम अहेरका छोराहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ושפם",
+      "gloss": "शुप्पीम"
+    },
+    {
+      "surface": "וחפם",
+      "gloss": "हुप्पीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "इरका"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "हुशीम"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अहेरका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:42.572876547Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 1:25",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तिनीहरूको गणना गद कुलका लागि पाँच र चालीस हजार छ सय र पचास थियो।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "तिनीहरूको गणना"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "कुलका लागि"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गद"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "र चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "र पचास"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:55.188457722Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "1-chronicles 1:40",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "शोबलका छोराहरू: अल्यान, र मनाखत, र एभल, शेफी र ओनाम; र त्सिबोनका छोराहरू: अय्या र अना।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שובל",
+      "gloss": "शोबल"
+    },
+    {
+      "surface": "עלין",
+      "gloss": "अल्यान"
+    },
+    {
+      "surface": "ומנחת",
+      "gloss": "र मनाखत"
+    },
+    {
+      "surface": "ועיבל",
+      "gloss": "र एभल"
+    },
+    {
+      "surface": "שפי",
+      "gloss": "शेफी"
+    },
+    {
+      "surface": "ואונם",
+      "gloss": "र ओनाम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "צבעון",
+      "gloss": "त्सिबोन"
+    },
+    {
+      "surface": "איה",
+      "gloss": "अय्या"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "र अना"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:17.408779950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 12:3",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र आठौँ दिनमा उसको अग्रत्वचको मासु परिच्छेदन गरिनेछ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "र … दिनमा"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठौँ"
+    },
+    {
+      "surface": "ימול",
+      "gloss": "परिच्छेदन गरिनेछ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "ערלתו",
+      "gloss": "उसको अग्रत्वचको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:42.861677171Z",
+  "model": "glm-5.3"
+}

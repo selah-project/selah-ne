@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 102:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 102,
+  "translation": "मेरा दिनहरू तन्केको छायाँझैँ ⟨हुन्⟩, र म ⟨हुँ⟩ घाँसझैँ सुकेको।",
+  "tokens": [
+    {
+      "surface": "ימי",
+      "gloss": "मेरा दिनहरू"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "छायाँझैँ"
+    },
+    {
+      "surface": "נטוי",
+      "gloss": "तन्केको"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "र म"
+    },
+    {
+      "surface": "כעשב",
+      "gloss": "घाँसझैँ"
+    },
+    {
+      "surface": "איבש",
+      "gloss": "सुकेको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:31.354116767Z",
+  "model": "glm-5.3"
+}

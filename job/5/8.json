@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 5:8",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "तर म त एल निधार्छु, र एलोहीममा आफ्नो विषय राख्छु।",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "तर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म त"
+    },
+    {
+      "surface": "אדרש",
+      "gloss": "निधार्छु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "… नजिक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र … मा"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אשים",
+      "gloss": "राख्छु"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "आफ्नो विषय"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:25.325474757Z",
+  "model": "glm-5.3"
+}

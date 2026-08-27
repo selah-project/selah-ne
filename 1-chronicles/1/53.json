@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "1-chronicles 1:53",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अलूफ केनज, अलूफ तेमान, अलूफ मिब्त्सार।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "केनज"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "मिब्त्सार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:57.798477122Z",
+  "model": "glm-5.3"
+}

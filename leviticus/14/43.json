@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 14:43",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तर यदि चोट फर्किएर घरमा उम्रनेछ — ⟨את⟩ ढुङ्गाहरू निकालिएपछि, ⟨את⟩ घर खुर्किएपछि र पोतिएपछि —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "तर यदि"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फर्किनेछ"
+    },
+    {
+      "surface": "हנגע",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "ופרח",
+      "gloss": "र उम्रनेछ"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "निकालिएको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ढुङ्गाहरू"
+    },
+    {
+      "surface": "האבנים",
+      "gloss": "ढुङ्गाहरू"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "र पछि"
+    },
+    {
+      "surface": "הקצות",
+      "gloss": "खुर्किएको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ואחרי",
+      "gloss": "र पछि"
+    },
+    {
+      "surface": "הטוח",
+      "gloss": "पोतिएको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:05.108060908Z",
+  "model": "glm-5.3"
+}

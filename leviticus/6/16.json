@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 6:16",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र पुरोहितको ⟨प्रत्येक⟩ अन्नबलि पूर्ण रूपमा ⟨जलाइनेछ⟩ — खाइनेछैन।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र प्रत्येक"
+    },
+    {
+      "surface": "מנחת",
+      "gloss": "अन्नबलि"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "पुरोहितको"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूर्ण रूपमा"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाइनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:26.189000921Z",
+  "model": "glm-5.3"
+}

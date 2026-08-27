@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 3:1",
+  "book": "zephaniah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "हा त्यो विद्रोही र अशुद्ध, त्यो दमन गर्ने सहरका लागि!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हा"
+    },
+    {
+      "surface": "מראה",
+      "gloss": "विद्रोही"
+    },
+    {
+      "surface": "ונגאלה",
+      "gloss": "र अशुद्ध"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "दमन गर्ने"
+    }
+  ],
+  "timestamp": "2026-08-26T23:44:13.046285129Z",
+  "model": "glm-5.3"
+}

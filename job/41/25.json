@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 41:25",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "धूलोमाथि उसको कुनै शासन छैन; ऊ ⟨he is⟩ भयरहित बनाइएको छ।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "על",
+      "gloss": "-माथि"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धूलो"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "उसको शासन"
+    },
+    {
+      "surface": "העשו",
+      "gloss": "बनाइएको छ"
+    },
+    {
+      "surface": "לבלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "חת",
+      "gloss": "भय"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:20.823760849Z",
+  "model": "glm-5.3"
+}

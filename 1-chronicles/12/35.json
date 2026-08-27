@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 12:35",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र नप्तालीबाट हजार प्रमुखहरू, र तिनीहरूसँग ढाल र भालासहित सैंतीस हजार ⟨थिए⟩।",
+  "tokens": [
+    {
+      "surface": "ומנפתלי",
+      "gloss": "र नप्तालीबाट"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "प्रमुखहरू"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ועמהם",
+      "gloss": "र तिनीहरूसँग"
+    },
+    {
+      "surface": "בצנה",
+      "gloss": "ढालसहित"
+    },
+    {
+      "surface": "וחנית",
+      "gloss": "र भाला"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "सैंतीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": ""
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:49.958745080Z",
+  "model": "glm-5.3"
+}

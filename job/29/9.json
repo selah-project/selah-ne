@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 29:9",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "सरदारहरू बोली रोक्थे, र आफ्नो मुखमा हात राख्थे।",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "सरदारहरू"
+    },
+    {
+      "surface": "עצרו",
+      "gloss": "रोक्थे"
+    },
+    {
+      "surface": "במלים",
+      "gloss": "बोलीमा"
+    },
+    {
+      "surface": "וכף",
+      "gloss": "र छेउमा"
+    },
+    {
+      "surface": "ישימו",
+      "gloss": "राख्थे"
+    },
+    {
+      "surface": "לפיהם",
+      "gloss": "आफ्नो मुख"
+    }
+  ],
+  "timestamp": "2026-08-27T00:37:26.985453298Z",
+  "model": "glm-5.3"
+}

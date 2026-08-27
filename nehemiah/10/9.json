@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "nehemiah 10:9",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "माअज्याह, बिल्गै, शेमायाह — यी ⟨are⟩ ⟨the⟩ पुरोहितहरू।",
+  "tokens": [
+    {
+      "surface": "מעזיה",
+      "gloss": "माअज्याह"
+    },
+    {
+      "surface": "בלגי",
+      "gloss": "बिल्गै"
+    },
+    {
+      "surface": "שמעיה",
+      "gloss": "शेमायाह"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "पुरोहितहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:10.280169307Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "nehemiah 7:48",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "लेबानाका सन्तान, खगाबाका सन्तान, शल्माइका सन्तान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…का सन्तान"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "लेबाना"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का सन्तान"
+    },
+    {
+      "surface": "חגבה",
+      "gloss": "खगाबा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का सन्तान"
+    },
+    {
+      "surface": "שלמי",
+      "gloss": "शल्माइ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:57.976068872Z",
+  "model": "glm-5.3"
+}

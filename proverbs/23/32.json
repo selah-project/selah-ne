@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "proverbs 23:32",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "त्यसको अन्त्य सर्पझैँ टोक्छ, र विषधर सर्पझैँ डस्छ।",
+  "tokens": [
+    {
+      "surface": "אחריתו",
+      "gloss": "त्यसको अन्त्य"
+    },
+    {
+      "surface": "כנחש",
+      "gloss": "सर्पझैँ"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "टोक्छ"
+    },
+    {
+      "surface": "וכצפעני",
+      "gloss": "विषधर सर्पझैँ"
+    },
+    {
+      "surface": "יפרש",
+      "gloss": "डस्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:45.561684677Z",
+  "model": "glm-5.3"
+}

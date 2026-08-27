@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 8:19",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र म मेरो जनता र तिम्रो जनताबीच छुट्टाइ राख्नेछु; भोलि यो चिन्ह हुनेछ।",
+  "tokens": [
+    {
+      "surface": "ושמתי",
+      "gloss": "र म राख्नेछु"
+    },
+    {
+      "surface": "פדת",
+      "gloss": "छुट्टाइ"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरो जनता"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र बीच"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तिम्रो जनता"
+    },
+    {
+      "surface": "למחר",
+      "gloss": "भोलि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "האת",
+      "gloss": "चिन्ह"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:07:11.315710220Z",
+  "model": "glm-5.3"
+}

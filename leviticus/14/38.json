@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 14:38",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तब कोहेन घरबाट घरको ढोकातिर निस्कनुहुनेछ, र उहाँले ⟨את⟩ घरलाई सात दिनसम्म बन्द गर्नुहुनेछ।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "तब निस्कनुहुनेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तिर"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घरको"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "र बन्द गर्नुहुनेछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घरलाई"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:01.422206306Z",
+  "model": "glm-5.3"
+}

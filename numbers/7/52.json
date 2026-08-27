@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "numbers 7:52",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एउटा बादुर, बाख्राको, पापबलिका लागि।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बादुर"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्राको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:30.684848982Z",
+  "model": "glm-5.3"
+}

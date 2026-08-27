@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 23:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र अभ्राहामले देशका जनताका अगाडि झुकेर दण्डवत् गरे।",
+  "tokens": [
+    {
+      "surface": "וישתחו",
+      "gloss": "र झुकेर दण्डवत् गरे"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहामले"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनताका"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशका"
+    }
+  ],
+  "timestamp": "2026-08-26T19:49:08.202626034Z",
+  "model": "glm-5.3"
+}

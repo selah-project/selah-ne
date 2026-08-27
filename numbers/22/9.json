@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 22:9",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "र एलोहीम बिलामकहाँ आउनुभयो र भन्नुभयो, यी मानिसहरू का हुन् जो तिम्रोसँग छन्?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आउनुभयो"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "מי",
+      "gloss": "का"
+    },
+    {
+      "surface": "האנשים",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तिम्रोसँग"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:18.348500289Z",
+  "model": "glm-5.3"
+}

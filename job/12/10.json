@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 12:10",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "जसको हातमा हरेक जीवित प्राणीको नेफेश ⟨is⟩, र सबै मानव मांसको रुआख ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जसको"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "हातमा"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नेफेश"
+    },
+    {
+      "surface": "कל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित प्राणीको"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "र रुआख"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मांसको"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानव"
+    }
+  ],
+  "timestamp": "2026-08-27T00:33:03.636319617Z",
+  "model": "glm-5.3"
+}

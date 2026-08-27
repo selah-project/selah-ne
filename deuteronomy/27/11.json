@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 27:11",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "त्यस दिन मोशेले ⟨את⟩ जनतालाई यो आज्ञा दिनुभयो:",
+  "tokens": [
+    {
+      "surface": "ויצו",
+      "gloss": "आज्ञा दिनुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जनतालाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनतालाई"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:30.507392154Z",
+  "model": "glm-5.3"
+}

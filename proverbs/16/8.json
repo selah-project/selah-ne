@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 16:8",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "धार्मिकतासहित थोरै ⟨हुनु⟩ राम्रो हो, न्यायविहीन धेरै उपजभन्दा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोरै"
+    },
+    {
+      "surface": "בצדקה",
+      "gloss": "धार्मिकतासहित"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "भन्दा धेरै"
+    },
+    {
+      "surface": "תבואות",
+      "gloss": "उपज"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "विहीन"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:11.203988790Z",
+  "model": "glm-5.3"
+}

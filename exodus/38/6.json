@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 38:6",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "र उनले ⟨את⟩ बाँझहरू बनाए — शित्तिमका काठका — र ⟨את⟩ तिनलाई तामाले थापे।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बाँझहरू"
+    },
+    {
+      "surface": "הבדים",
+      "gloss": "बाँझहरू"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "काठका"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्तिम"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "थापे"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩ तिनलाई"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "तामाले"
+    }
+  ],
+  "timestamp": "2026-08-26T20:20:59.771057331Z",
+  "model": "glm-5.3"
+}

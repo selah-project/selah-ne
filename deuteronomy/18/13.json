@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 18:13",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "तिमी आफ्ना परमेश्वर यहवेसँग निष्कलङ्क बन।",
+  "tokens": [
+    {
+      "surface": "תמים",
+      "gloss": "निष्कलङ्क"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आफ्ना परमेश्वर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:01:29.859121357Z",
+  "model": "glm-5.3"
+}

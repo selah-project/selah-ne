@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 8:11",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र ⟨את⟩ मेरो जनकी छोरीको चोटलाई तुच्छ गरी निको पारे, भन्दै: शान्ति, शान्ति — तर शान्ति छैन।",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "निको पारे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चोट"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरीको"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरो जनकी"
+    },
+    {
+      "surface": "על",
+      "gloss": "तुच्छ गरी"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "तुच्छरूपमा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "तर छैन"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    }
+  ],
+  "timestamp": "2026-08-27T02:05:14.755260030Z",
+  "model": "glm-5.3"
+}

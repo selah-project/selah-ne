@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 33:15",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र प्राचीन पर्वतहरूको शिखरबाट, र सदाकालीन गिरिहरूको उत्कृष्ट वस्तुबाट।",
+  "tokens": [
+    {
+      "surface": "ומראש",
+      "gloss": "र शिखरबाट"
+    },
+    {
+      "surface": "הררי",
+      "gloss": "पर्वतहरूको"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "प्राचीन"
+    },
+    {
+      "surface": "וממגד",
+      "gloss": "र उत्कृष्टबाट"
+    },
+    {
+      "surface": "गבעות",
+      "gloss": "गिरिहरूको"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदाकालीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:55:58.084108583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 73:22",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 73,
+  "translation": "र म ⟨हुँ⟩ अज्ञानी र जान्दिनँ; तिमीसँग जनावर भएँ।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "र म"
+    },
+    {
+      "surface": "בער",
+      "gloss": "अज्ञानी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र जान्दिनँ"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "जान्दिनँ"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "जनावर"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "भएँ"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तिमीसँग"
+    }
+  ],
+  "timestamp": "2026-08-27T00:03:06.018247061Z",
+  "model": "glm-5.3"
+}

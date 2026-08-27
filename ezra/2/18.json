@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezra 2:18",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "योराका सन्तानहरू, एक सय बाह्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरू"
+    },
+    {
+      "surface": "יורה",
+      "gloss": "योराका"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-बाह्र"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:28.558912815Z",
+  "model": "glm-5.3"
+}

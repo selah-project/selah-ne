@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 4:5",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "मूर्खले आफ्ना दुवै हात ⟨את⟩ बाँध्छ ⟨र⟩ आफ्नै ⟨את⟩ मासु खान्छ।",
+  "tokens": [
+    {
+      "surface": "הכסיל",
+      "gloss": "मूर्खले"
+    },
+    {
+      "surface": "חבק",
+      "gloss": "बाँध्छ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्ना दुवै हात"
+    },
+    {
+      "surface": "ידיו",
+      "gloss": "आफ्ना दुवै हात"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "र खान्छ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नै मासु"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "आफ्नै मासु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:48.555505741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 21:24",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "अनि मोशेले अह्रोनलाई, र उनका छोराहरूलाई, र यिस्राएलका सबै छोराहरूलाई ⟨it⟩ बताए।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "अनि ... बताए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "...लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अह्रोन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र ...लाई"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उनका छोराहरू"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र ...लाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:32:18.274423852Z",
+  "model": "glm-5.3"
+}

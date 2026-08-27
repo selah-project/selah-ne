@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 25:24",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "कुन्दी, छानाको छेउमा बस्नु कलह गर्ने स्त्रीसँग र साझाको घरभन्दा राम्रो ⟨हुन्छ⟩।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "बस्नु"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "कुन्दी"
+    },
+    {
+      "surface": "גג",
+      "gloss": "छानाको"
+    },
+    {
+      "surface": "मאשת",
+      "gloss": "स्त्रीसँग"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "कलह गर्ने"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र घर"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "साझाको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:27.937509852Z",
+  "model": "glm-5.3"
+}

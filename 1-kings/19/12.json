@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 19:12",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र भूकम्पपछि आगो — यहवे आगोमा हुनुहुन्न; र आगोपछि एउटा हल्का सन्नाटाको स्वर।",
+  "tokens": [
+    {
+      "surface": "ואחר",
+      "gloss": "र पछि"
+    },
+    {
+      "surface": "הרעש",
+      "gloss": "भूकम्प"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואחר",
+      "gloss": "र पछि"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आगो"
+    },
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "דממה",
+      "gloss": "सन्नाटाको"
+    },
+    {
+      "surface": "דקה",
+      "gloss": "हल्का"
+    }
+  ],
+  "timestamp": "2026-08-26T22:07:21.866419599Z",
+  "model": "glm-5.3"
+}

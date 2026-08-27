@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 7:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "लादान उनका छोरा, अम्मिहुद उनका छोरा, एलिशामा उनका छोरा।",
+  "tokens": [
+    {
+      "surface": "לעדן",
+      "gloss": "लादान"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मिहुद"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "אלישמע",
+      "gloss": "एलिशामा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:21:48.276387700Z",
+  "model": "glm-5.3"
+}

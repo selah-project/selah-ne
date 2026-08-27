@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 3:5",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "ढुङ्गा फाल्ने समय, र ढुङ्गा जम्मा गर्ने समय; आलिङ्गन गर्ने समय, र आलिङ्गनबाट टाढा रहने समय।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "להשליך",
+      "gloss": "फाल्ने"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ढुङ्गा"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र समय"
+    },
+    {
+      "surface": "כנוס",
+      "gloss": "जम्मा गर्ने"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ढुङ्गा"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "לחבוק",
+      "gloss": "आलिङ्गन गर्ने"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र समय"
+    },
+    {
+      "surface": "לרחק",
+      "gloss": "टाढा रहने"
+    },
+    {
+      "surface": "מחבק",
+      "gloss": "आलिङ्गनबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:05.695401107Z",
+  "model": "glm-5.3"
+}

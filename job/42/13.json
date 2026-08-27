@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 42:13",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "अनि उनका सात छोराहरू र तीन छोरीहरू भए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उनका"
+    },
+    {
+      "surface": "שבענה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "र तीन"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "छोरीहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:57.584404250Z",
+  "model": "glm-5.3"
+}

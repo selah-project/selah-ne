@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 15:1",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "तब एलिफाजले — तेमानीले — उत्तर दियो र भन्यो।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दियो"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाज"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "तेमानी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:33:48.306225200Z",
+  "model": "glm-5.3"
+}

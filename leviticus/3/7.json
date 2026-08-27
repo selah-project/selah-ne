@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "leviticus 3:7",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यदि ऊ आफ्नो भेटीका निम्ति एउटा भाले चढाउँछ, त्यसलाई ⟨את⟩ यहवेको सामु चढाउनेछ",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "भाले"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מקריב",
+      "gloss": "चढाउँछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भेटी"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "आफ्नो भेटी"
+    },
+    {
+      "surface": "והקריב",
+      "gloss": "चढाउनेछ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "त्यसलाई"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:22:29.311115258Z",
+  "model": "glm-5.3"
+}

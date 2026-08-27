@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "jeremiah 48:24",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र केरियोतमाथि, र बोत्स्रामाथि, र मोआबको देशका सबै सहरहरूमाथि — टाढाका र नजिकाका।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "קריות",
+      "gloss": "केरियोतमाथि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "בצרה",
+      "gloss": "बोत्स्रामाथि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "सहरहरू"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देशका"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबको"
+    },
+    {
+      "surface": "הרחקות",
+      "gloss": "टाढाका"
+    },
+    {
+      "surface": "והקרבות",
+      "gloss": "र नजिकाका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:06:43.165084996Z",
+  "model": "glm-5.3"
+}

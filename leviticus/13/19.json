@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 13:19",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र व्रणको ठाउँमा सेतो उभारो वा सेतो, रातो-रातो दाग भएको हुन्छ, तब त्यो पुरोहितकहाँ देखाइनेछ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "र भयो त"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "ठाउँमा"
+    },
+    {
+      "surface": "השחין",
+      "gloss": "व्रणको"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उभारो"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "सेतो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "सेतो"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "रातो-रातो"
+    },
+    {
+      "surface": "ונראה",
+      "gloss": "तब देखाइनेछ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:26.599552043Z",
+  "model": "glm-5.3"
+}

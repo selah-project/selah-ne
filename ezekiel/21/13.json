@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 21:13",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "यहवेको वचन मतिर आयो, भन्नुहुँदा:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "वयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतिर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:18:22.637947675Z",
+  "model": "glm-5.3"
+}

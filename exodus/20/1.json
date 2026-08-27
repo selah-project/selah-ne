@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 20:1",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र एलोहीमले ⟨את⟩ सबै ⟨the⟩ यी वचनहरू बोल्नुभयो, भन्नुहुँदै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र…बोल्नुभयो"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै यी वचनहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:40.760518835Z",
+  "model": "glm-5.3"
+}

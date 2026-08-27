@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ecclesiastes 2:25",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "किनकि म ⟨बाहेक⟩ कसले खान सक्छ, र कसले यसमा व्यग्र हुन सक्छ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खान सक्छ"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "र कसले"
+    },
+    {
+      "surface": "יחוש",
+      "gloss": "व्यग्र हुन सक्छ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "⟨बाहेक⟩"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "म"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:43.501736270Z",
+  "model": "glm-5.3"
+}

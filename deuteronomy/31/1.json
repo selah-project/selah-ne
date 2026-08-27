@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 31:1",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "मोशे गए र यी वचनहरू ⟨את⟩ सम्पूर्ण यिस्राएललाई बोले।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "बोले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचनहरू"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–लाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-26T21:07:49.378471200Z",
+  "model": "glm-5.3"
+}

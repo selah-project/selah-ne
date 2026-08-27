@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 21:31",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र यिस्राएल एमोरीहरूको देशमा बसोबास गर्न थाल्यो।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "बसोबास गर्न थाल्यो"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "האמרי",
+      "gloss": "एमोरीहरूको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:02.198432638Z",
+  "model": "glm-5.3"
+}

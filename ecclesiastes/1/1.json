@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 1:1",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "कोहेलेतका वचनहरू — दाऊदको छोरा, येरुशालाइममा राजा।",
+  "tokens": [
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेतका"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊदको"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "येरुशालाइममा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:37.426753951Z",
+  "model": "glm-5.3"
+}

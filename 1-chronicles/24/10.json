@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 24:10",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "सातौँ हकोजलाई, आठौँ अवियालाई।",
+  "tokens": [
+    {
+      "surface": "להקוץ",
+      "gloss": "हकोजलाई"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "सातौँ"
+    },
+    {
+      "surface": "לאביה",
+      "gloss": "अवियालाई"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:30.175636889Z",
+  "model": "glm-5.3"
+}

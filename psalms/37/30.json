@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "psalms 37:30",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "धर्मीको मुख बुद्धि बाच्नेछ, र उसको जिब्रो न्याय बोल्नेछ।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मीको"
+    },
+    {
+      "surface": "יהגה",
+      "gloss": "बाच्नेछ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ולשונו",
+      "gloss": "र उसको जिब्रो"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "बोल्नेछ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    }
+  ],
+  "timestamp": "2026-08-26T23:55:41.779210072Z",
+  "model": "glm-5.3"
+}

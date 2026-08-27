@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "lamentations 5:3",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "हामी अनाथ भयौँ, पिता छैन; हाम्रा आमाहरू ⟨are⟩ विधवाझैँ।",
+  "tokens": [
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "היינו",
+      "gloss": "भयौँ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אמתינו",
+      "gloss": "हाम्रा आमाहरू"
+    },
+    {
+      "surface": "כאלמנות",
+      "gloss": "विधवाझैँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:21.139828038Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "micah 6:3",
+  "book": "micah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "मेरा जनता हो, मैले तिमीलाई के गरेँ, र केमा तिमीलाई थकाएँ? मसित उत्तर दे।",
+  "tokens": [
+    {
+      "surface": "עמי",
+      "gloss": "मेरा जनता हो"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "गरेँ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "र केमा"
+    },
+    {
+      "surface": "הלאתיך",
+      "gloss": "तिमीलाई थकाएँ"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "उत्तर दे"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मसित"
+    }
+  ],
+  "timestamp": "2026-08-26T23:41:49.462990852Z",
+  "model": "glm-5.3"
+}

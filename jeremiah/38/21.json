@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 38:21",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "र तिमी बाहिर जान अस्वीकार गर्दछौ भने, यहवेले मलाई देखाउनुभएको ⟨the⟩ वचन यही हो।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "अस्वीकार गर्छौ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "לצאת",
+      "gloss": "बाहिर जान"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यही"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "הראני",
+      "gloss": "मलाई देखाउनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T23:02:40.216232921Z",
+  "model": "glm-5.3"
+}

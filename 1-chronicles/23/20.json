@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 23:20",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "उज्जिएलका छोराहरू — मिखाह ⟨सरदार⟩, र यिश्शियाह ⟨दोस्रो⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज्जिएलका"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिखाह"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨सरदार⟩"
+    },
+    {
+      "surface": "וישיה",
+      "gloss": "र यिश्शियाह"
+    },
+    {
+      "surface": "השני",
+      "gloss": "⟨दोस्रो⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:45.740948862Z",
+  "model": "glm-5.3"
+}

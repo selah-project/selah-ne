@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 6:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "कति समय, हे आलसी, तँ सुत्नेछस्? कति समय आफ्नो निन्द्राबाट उठ्नेछस्?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "समयसम्म"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कति"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "हे आलसी"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "सुत्नेछस्"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "कति"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "उठ्नेछस्"
+    },
+    {
+      "surface": "משנתך",
+      "gloss": "आफ्नो निन्द्राबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:37.623744615Z",
+  "model": "glm-5.3"
+}

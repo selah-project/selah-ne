@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 21:21",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "दौरा गर्ने मानिस धर्मिता र खेसेदको, जीवन पाउँछ — धर्मिता र महिमा।",
+  "tokens": [
+    {
+      "surface": "רדף",
+      "gloss": "दौरा गर्ने मानिस"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धर्मिता"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "र खेसेद"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पाउँछ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धर्मिता"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "र महिमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:16.675245573Z",
+  "model": "glm-5.3"
+}

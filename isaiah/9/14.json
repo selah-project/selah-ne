@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 9:14",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "वृद्ध र उपहार-पाउने मुख ऊ ⟨⟨⟩⟩टाउको हो, र झूट सिकाउने नबी ऊ पुच्छर हो।",
+  "tokens": [
+    {
+      "surface": "זקן",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "ונשוא",
+      "gloss": "र उपहार-पाउने"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "टाउको"
+    },
+    {
+      "surface": "ונביא",
+      "gloss": "र नबी"
+    },
+    {
+      "surface": "מורה",
+      "gloss": "सिकाउने"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूट"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "הזנב",
+      "gloss": "पुच्छर"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:07.312818070Z",
+  "model": "glm-5.3"
+}

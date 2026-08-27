@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 6:6",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र यी वचनहरू, जुन म आज तिमीलाई आज्ञा दिँदैछु, तिम्रो मुटुमाथि रहनेछन्।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "र रहनेछन्"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "⟨the⟩ वचनहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तिमीलाई आज्ञा दिँदैछु"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "तिम्रो मुटु"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:48.998865717Z",
+  "model": "glm-5.3"
+}

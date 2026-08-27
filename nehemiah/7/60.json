@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "nehemiah 7:60",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "सबै नेतीनिमहरू र शलोमोका दासहरूका छोराहरू ⟨थिए⟩ तीन सय बयानब्बे।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הנתינים",
+      "gloss": "नेतीनिमहरू"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासहरूका"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोका"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "बयान"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:04.022895739Z",
+  "model": "glm-5.3"
+}

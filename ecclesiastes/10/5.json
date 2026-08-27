@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 10:5",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "एउटा अनिष्ट छ जुन मैले सूर्यतल देखेँ — शासकको अगाडिबाट निस्कने भूलजस्तै ।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "अनिष्ट"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले देखेँ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "כשגגה",
+      "gloss": "भूलजस्तै"
+    },
+    {
+      "surface": "שיצא",
+      "gloss": "निस्कने"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "अगाडिबाट"
+    },
+    {
+      "surface": "השליט",
+      "gloss": "शासकको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:51.792985085Z",
+  "model": "glm-5.3"
+}

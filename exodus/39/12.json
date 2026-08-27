@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 39:12",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 39,
+  "translation": "र तेस्रो पङ्क्ति — लेशेम, शेभो र अखलामाह।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "र पङ्क्ति"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "लेशेम"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "शेभो"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "र अखलामाह"
+    }
+  ],
+  "timestamp": "2026-08-26T20:21:10.364835236Z",
+  "model": "glm-5.3"
+}

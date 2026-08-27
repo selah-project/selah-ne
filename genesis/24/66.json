@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "genesis 24:66",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "तब सेवकले यित्सखाकलाई ⟨את⟩ सबै कुराहरू बतायो जो उसले गरेको थियो।",
+  "tokens": [
+    {
+      "surface": "ויספר",
+      "gloss": "तब सेवकले बतायो"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सखाकलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै कुराहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गरेको थियो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:49:22.470299327Z",
+  "model": "glm-5.3"
+}

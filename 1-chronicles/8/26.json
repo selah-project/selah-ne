@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 8:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र शमशेराइ, र शेखर्याह, र अतल्याह।",
+  "tokens": [
+    {
+      "surface": "ושמשרי",
+      "gloss": "र शमशेराइ"
+    },
+    {
+      "surface": "ושחריה",
+      "gloss": "र शेखर्याह"
+    },
+    {
+      "surface": "ועתליה",
+      "gloss": "र अतल्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:00.774294554Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "lamentations 3:33",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "किनकि उहाँले आफ्नै मनबाट दुःख दिनुहुन्न, र मानिसका सन्तानलाई शोकमा डुबाउनुहुन्न।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "दुःख दिनुहुन्न"
+    },
+    {
+      "surface": "מלבו",
+      "gloss": "आफ्नै मनबाट"
+    },
+    {
+      "surface": "ויגה",
+      "gloss": "र शोक दिनुहुन्न"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का सन्तान"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिसको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:13.178816097Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 13:13",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "सदोमका मानिसहरू दुष्ट र पापी थिए — यहवेसमक्ष अत्यन्तै।",
+  "tokens": [
+    {
+      "surface": "ואנשי",
+      "gloss": "र ⟨…⟩ का मानिसहरू"
+    },
+    {
+      "surface": "סדם",
+      "gloss": "सदोम"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "וחטאים",
+      "gloss": "र पापी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेसमक्ष"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्तै"
+    }
+  ],
+  "timestamp": "2026-08-26T19:45:32.929290369Z",
+  "model": "glm-5.3"
+}

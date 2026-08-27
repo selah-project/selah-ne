@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "zechariah 7:4",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र मलाई यहवे सेबाओतको वचन भयो, भन्दैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेबाओतको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:46:55.388677791Z",
+  "model": "glm-5.3"
+}

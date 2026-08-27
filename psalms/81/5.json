@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 81:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 81,
+  "translation": "किनकि यिस्राएलका लागि ⟨यो⟩ विधान हो, याकोभका एलोहीमको नियम।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "חק",
+      "gloss": "विधान"
+    },
+    {
+      "surface": "לישראל",
+      "gloss": "यिस्राएलका लागि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨यो⟩"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "नियम"
+    },
+    {
+      "surface": "לאלהי",
+      "gloss": "…का एलोहीमका लागि"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:28.990706920Z",
+  "model": "glm-5.3"
+}

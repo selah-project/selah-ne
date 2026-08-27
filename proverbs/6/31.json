@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 6:31",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र ऊ भेटिएमा सात गुणा तिर्नेछ; ⟨את⟩ आफ्नो घरको सम्पूर्ण धन दिनेछ।",
+  "tokens": [
+    {
+      "surface": "ונמצא",
+      "gloss": "र ऊ भेटिएमा"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "तिर्नेछ"
+    },
+    {
+      "surface": "שבעתים",
+      "gloss": "सात गुणा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो घरको सम्पूर्ण धन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आफ्नो घरको"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:34.773009876Z",
+  "model": "glm-5.3"
+}

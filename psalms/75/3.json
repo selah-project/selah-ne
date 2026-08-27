@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 75:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 75,
+  "translation": "जब म ⟨नियुक्त⟩ समय लिनेछु, म आफैँ सीधा न्याय गर्नेछु।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "אקח",
+      "gloss": "म लिनेछु"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "नियुक्त समय"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म आफैँ"
+    },
+    {
+      "surface": "מישרים",
+      "gloss": "सीधा ⟨न्याय⟩"
+    },
+    {
+      "surface": "אשפט",
+      "gloss": "गर्नेछु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:03:28.464769689Z",
+  "model": "glm-5.3"
+}

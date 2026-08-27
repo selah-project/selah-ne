@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-samuel 5:22",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र पलिश्तीहरू फेरि चढ्न थपे, र रफाइमको उपत्यकामा फैलिए।",
+  "tokens": [
+    {
+      "surface": "ויספו",
+      "gloss": "थपे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेरि"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीहरू"
+    },
+    {
+      "surface": "לעלות",
+      "gloss": "चढ्न"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "फैलिए"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "उपत्यकामा"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रफाइम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:46:00.130821510Z",
+  "model": "glm-5.3"
+}

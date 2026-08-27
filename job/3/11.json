@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 3:11",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "किन म गर्भमा मरिनँ? किन पेटबाट निस्किएर म मरिनँ?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "मरिनँ ... न"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "गर्भमा"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "मरिनँ"
+    },
+    {
+      "surface": "מבטן",
+      "gloss": "पेटबाट"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "निस्किएर"
+    },
+    {
+      "surface": "ואגוע",
+      "gloss": "मरिनँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:29:44.183176402Z",
+  "model": "glm-5.3"
+}

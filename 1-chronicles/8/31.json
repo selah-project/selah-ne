@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 8:31",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र गेदोर, र अख्यो, र जाखेर।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "र गेदोर"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र अख्यो"
+    },
+    {
+      "surface": "וזכר",
+      "gloss": "र जाखेर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:06.462071430Z",
+  "model": "glm-5.3"
+}

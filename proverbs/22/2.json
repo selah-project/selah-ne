@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "proverbs 22:2",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "धनी र निर्धन भेट्छन् ⟨एक-अर्कालाई⟩; ⟨उनीहरू⟩ सबैलाई बनाउने यहवे हुनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "र निर्धन"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "भेट्छन्"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाउने"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "सबैलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:14.372647321Z",
+  "model": "glm-5.3"
+}

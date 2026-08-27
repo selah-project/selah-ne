@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 12:23",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "केवल यो कुरामा दृढ रहो — रगत नखाऊ; किनकि रगत नै ⟨वा⟩ नेफेश हो, र तिमीले नेफेशलाई मासुसँगै खानु हुँदैन।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "חזק",
+      "gloss": "दृढ रहो"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "न"
+    },
+    {
+      "surface": "אכל",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "नै ⟨वा⟩"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "नेफेश"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "तिमीले खानु हुँदैन"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "नेफेशलाई"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँगै"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मासु"
+    }
+  ],
+  "timestamp": "2026-08-26T20:58:56.923424161Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 29:23",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "मानिसको घमण्डले उसलाई झुकाउँछ, तर नम्र आत्मालाई महिमाले टिकाउँछ।",
+  "tokens": [
+    {
+      "surface": "גאות",
+      "gloss": "घमण्ड"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "תשפילנו",
+      "gloss": "उसलाई झुकाउँछ"
+    },
+    {
+      "surface": "ושפל",
+      "gloss": "तर नम्र"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्मालाई"
+    },
+    {
+      "surface": "יתמך",
+      "gloss": "टिकाउँछ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमाले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:50.393949994Z",
+  "model": "glm-5.3"
+}

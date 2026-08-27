@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "song-of-songs 6:3",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "म ⟨is⟩ मेरो प्रियको हुँ, र मेरो प्रिय म ⟨is⟩ मेरो हुनुहुन्छ — ⟨ה⟩ कुमुदहरूमध्ये चराउने ती।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "मेरो प्रियको"
+    },
+    {
+      "surface": "ודודי",
+      "gloss": "र मेरो प्रिय"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "चराउने"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "कुमुदहरूमध्ये"
+    }
+  ],
+  "timestamp": "2026-08-27T00:43:47.141519268Z",
+  "model": "glm-5.3"
+}

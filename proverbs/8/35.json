@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "proverbs 8:35",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "किनकि मलाई पाउने ⟨उसले⟩ जीवन पाउँछ, र यहवेबाट प्रसन्नता निकाल्छ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "मलाई पाउने"
+    },
+    {
+      "surface": "מצאי",
+      "gloss": "पाउँछ"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ויפק",
+      "gloss": "र निकाल्छ"
+    },
+    {
+      "surface": "רצון",
+      "gloss": "प्रसन्नता"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवेबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:13.476677661Z",
+  "model": "glm-5.3"
+}

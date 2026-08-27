@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "amos 3:8",
+  "book": "amos",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "सिंह गर्ज्यो — को नडराउँछ? अदोनाइ यहवेले बोल्नुभयो — को अगमवाणी नगर्ने?",
+  "tokens": [
+    {
+      "surface": "אריה",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "שאג",
+      "gloss": "गर्ज्यो"
+    },
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יירא",
+      "gloss": "डराउँछ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "लא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ינבא",
+      "gloss": "अगमवाणी गर्ने"
+    }
+  ],
+  "timestamp": "2026-08-26T23:37:33.466836638Z",
+  "model": "glm-5.3"
+}

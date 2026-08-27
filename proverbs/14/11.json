@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 14:11",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "दुष्टहरूको घर नष्ट हुनेछ, र सीधाहरूको पाल फुल्नेछ।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरूको"
+    },
+    {
+      "surface": "ישמד",
+      "gloss": "नष्ट हुनेछ"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "र…पाल"
+    },
+    {
+      "surface": "ישרים",
+      "gloss": "सीधाहरूको"
+    },
+    {
+      "surface": "יפריח",
+      "gloss": "फुल्नेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:28.191551733Z",
+  "model": "glm-5.3"
+}

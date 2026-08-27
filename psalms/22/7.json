@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 22:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "तर म ⟨आँखार⟩ हुँ, मान्छे होइन — मानिसहरूको निन्दा, प्रजाको तिरस्कृत।",
+  "tokens": [
+    {
+      "surface": "ואנכי",
+      "gloss": "तर म"
+    },
+    {
+      "surface": "תולעת",
+      "gloss": "आँखार"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मान्छे"
+    },
+    {
+      "surface": "חרפת",
+      "gloss": "निन्दा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसहरूको"
+    },
+    {
+      "surface": "ובזוי",
+      "gloss": "तिरस्कृत"
+    },
+    {
+      "surface": "עם",
+      "gloss": "प्रजाको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:52:41.642332624Z",
+  "model": "glm-5.3"
+}

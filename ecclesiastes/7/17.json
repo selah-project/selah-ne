@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 7:17",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "धेरै दुष्ट कर्म नगर र मूर्ख नबन; आफ्नै समय नआउँदै किन मर्ने ?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תרשע",
+      "gloss": "दुष्ट कर्म"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बन"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "मर्ने"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "नआउँदै"
+    },
+    {
+      "surface": "עתך",
+      "gloss": "आफ्नै समय"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:17.017658242Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 7:3",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "तिनलाई आफ्ना औँलाहरूमा बाँध, आफ्नो हृदयको पाटीमा तिनलाई लेख।",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "तिनलाई बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "אצבעתיך",
+      "gloss": "आफ्ना औँलाहरूमा"
+    },
+    {
+      "surface": "כתבם",
+      "gloss": "तिनलाई लेख"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "לוח",
+      "gloss": "पाटीमा"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "आफ्नो हृदयको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:04.368370381Z",
+  "model": "glm-5.3"
+}

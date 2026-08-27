@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "joshua 15:56",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र यिज्रेएल, र योक्देआम, र त्जानोआख।",
+  "tokens": [
+    {
+      "surface": "ויזרעאל",
+      "gloss": "र यिज्रेएल"
+    },
+    {
+      "surface": "ויקדעם",
+      "gloss": "र योक्देआम"
+    },
+    {
+      "surface": "וזנוח",
+      "gloss": "र त्जानोआख"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:28.467392742Z",
+  "model": "glm-5.3"
+}

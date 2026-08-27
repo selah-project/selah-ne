@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 4:2",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "यहवेले उहाँलाई भन्नुभयो: तिम्रो हातमा यो के हो? उहाँले भने: एउटा हातो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उहाँलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "यो के"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "तिम्रो हातमा"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "हातो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:04:30.263539353Z",
+  "model": "glm-5.3"
+}

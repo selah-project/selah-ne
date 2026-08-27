@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 30:9",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "किनकि ⟨⟨यो⟩⟩ एउटा विद्रोही जनता हो, झूटा छोराहरू, यहवेको तोरात सुन्न नचाहने छोराहरू।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "מרי",
+      "gloss": "विद्रोही"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨यो⟩ हो"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "כחשים",
+      "gloss": "झूटा"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "चाहन्थे"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "सुन्न"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरात"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:31:25.023293060Z",
+  "model": "glm-5.3"
+}

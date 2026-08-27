@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 113:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 113,
+  "translation": "उहाँलाई प्रमुखहरूसँग, आफ्नो जनताका प्रमुखहरूसँग बसाउन।",
+  "tokens": [
+    {
+      "surface": "להושיבי",
+      "gloss": "बसाउन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "נדיבים",
+      "gloss": "प्रमुखहरू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "נדיבי",
+      "gloss": "प्रमुखहरू"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "जनताका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:24.904617946Z",
+  "model": "glm-5.3"
+}

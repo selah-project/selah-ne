@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "esther 8:16",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "यहूदीहरूका लागि उज्यालो र आनन्द, र हर्ष तथा सम्मान भयो।",
+  "tokens": [
+    {
+      "surface": "ליהודים",
+      "gloss": "यहूदीहरूका लागि"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "אורה",
+      "gloss": "उज्यालो"
+    },
+    {
+      "surface": "ושמחה",
+      "gloss": "र आनन्द"
+    },
+    {
+      "surface": "וששן",
+      "gloss": "र हर्ष"
+    },
+    {
+      "surface": "ויקר",
+      "gloss": "तथा सम्मान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:55:10.612328693Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 6:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "एल्काना — एल्कानाका छोराहरू: त्सोफै उसको छोरा, र नखत उसको छोरा।",
+  "tokens": [
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "צופי",
+      "gloss": "त्सोफै"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "ונחת",
+      "gloss": "र नखत"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:34.674378012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 40:8",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "र उसले ⟨את⟩ ⟨the⟩ ढोकाको बरान्दा ⟨the⟩ भवनतिरबाट नाप्यो — एक बिँडी।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "र नाप्यो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ढोकाको बरान्दा"
+    },
+    {
+      "surface": "אלם",
+      "gloss": "बरान्दा"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोकाको"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "भवनतिरबाट"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "बिँडी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:28:34.262913047Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 24:17",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र एक मानिसले जब कुनै मानिसको नेफेशलाई हानी गर्छ, मृत्युदण्डले मर्नुपर्नेछ।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "र एक मानिस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יכה",
+      "gloss": "हानी गर्छ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नेफेश"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्युदण्डले"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मर्नुपर्नेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:32:52.292680327Z",
+  "model": "glm-5.3"
+}

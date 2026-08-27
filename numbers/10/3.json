@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "numbers 10:3",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र तिनमा फुक्दा तिमीहरूकहाँ सबै सभा भेला हुनेछिन् मोआदको तम्बूको ढोकामा।",
+  "tokens": [
+    {
+      "surface": "ותקעו",
+      "gloss": "र फुक्दा"
+    },
+    {
+      "surface": "בהן",
+      "gloss": "तिनमा"
+    },
+    {
+      "surface": "ונועדו",
+      "gloss": "र भेला हुनेछिन्"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीहरूकहाँ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ढोकामा"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बूको"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोआदको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:19.128329304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "exodus 20:9",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "छ दिन तिमी काम गर्नेछौ र आफ्नो सम्पूर्ण काम गर्नेछौ।",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "छ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "תעבד",
+      "gloss": "तिमी काम गर्नेछौ"
+    },
+    {
+      "surface": "ועשית",
+      "gloss": "र गर्नेछौ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "מלאכתך",
+      "gloss": "आफ्नो काम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:12:18.857793527Z",
+  "model": "glm-5.3"
+}

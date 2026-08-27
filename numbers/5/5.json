@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 5:5",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र यहवेले मोशेसँग बोल्नुभयो भन्नुहुँदै —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:21.147085594Z",
+  "model": "glm-5.3"
+}

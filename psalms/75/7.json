@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 75:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 75,
+  "translation": "किनकि पूर्वबाट होइन र पश्चिमबाट, न मरुभूमिबाट हो, उन्नति।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ממוצא",
+      "gloss": "पूर्वबाट"
+    },
+    {
+      "surface": "וממערב",
+      "gloss": "र पश्चिमबाट"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "न होइन"
+    },
+    {
+      "surface": "ממדבר",
+      "gloss": "मरुभूमिबाट"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "उन्नति"
+    }
+  ],
+  "timestamp": "2026-08-27T00:03:24.611631298Z",
+  "model": "glm-5.3"
+}

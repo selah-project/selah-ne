@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "habakkuk 2:9",
+  "book": "habakkuk",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "हाय ⟨त्यसलाई जसले⟩ घरका लागि खराब लाभ लुट्छ, आफ्नो गुँड अगाडि अगमा राख्न, खराबीको हातबाट बच्न!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "लुट्छ"
+    },
+    {
+      "surface": "בצע",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "לביתו",
+      "gloss": "घरका लागि"
+    },
+    {
+      "surface": "לשום",
+      "gloss": "राख्न"
+    },
+    {
+      "surface": "במרום",
+      "gloss": "अगमा"
+    },
+    {
+      "surface": "קנו",
+      "gloss": "आफ्नो गुँड"
+    },
+    {
+      "surface": "להנצל",
+      "gloss": "बच्न"
+    },
+    {
+      "surface": "מכף",
+      "gloss": "हातबाट"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराबीको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:43:07.601607376Z",
+  "model": "glm-5.3"
+}

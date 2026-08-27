@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 23:14",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "अनि मोशे — एलोहीमका मानिस — उसका छोराहरू लेवीको ⟨the⟩ गोत्रमा गनिए।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "अनि मोशे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीमका"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसका छोराहरू"
+    },
+    {
+      "surface": "יקראו",
+      "gloss": "गनिए"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "הלוי",
+      "gloss": "लेवीको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:03.359569455Z",
+  "model": "glm-5.3"
+}

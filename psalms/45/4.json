@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 45:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 45,
+  "translation": "हे वीर, तिम्रो तरवार जंघामा बाँध; तिम्रो वैभव र तिम्रो महिमा।",
+  "tokens": [
+    {
+      "surface": "חגור",
+      "gloss": "बाँध"
+    },
+    {
+      "surface": "חרבך",
+      "gloss": "तिम्रो तरवार"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "ירך",
+      "gloss": "जंघामा"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "हे वीर"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "तिम्रो वैभव"
+    },
+    {
+      "surface": "והדרך",
+      "gloss": "र तिम्रो महिमा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:14:40.497809659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 32:37",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र ⟨उहाँले⟩ भन्नुहुनेछ, कहाँ छन् तिनीहरूका देवता, ⟨उनीहरूले⟩ शरण लिएको चट्टान?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "र भन्नुहुनेछ"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אלהימו",
+      "gloss": "तिनीहरूका देवता"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "חסיו",
+      "gloss": "शरण लिएको"
+    },
+    {
+      "surface": "בו",
+      "gloss": "⟨उनीहरूले⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:36.663326767Z",
+  "model": "glm-5.3"
+}

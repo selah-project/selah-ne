@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 10:16",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "हाय तिमीलाई, हे देश, जब तिम्रो राजा बालक हुन्छ, र तिम्रा सरदारहरू बिहानै खाना खान्छन्!",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "हे देश"
+    },
+    {
+      "surface": "שמלכך",
+      "gloss": "तिम्रो राजा"
+    },
+    {
+      "surface": "נער",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "ושריך",
+      "gloss": "र तिम्रा सरदारहरू"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहानै"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाना खान्छन्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:59.901456590Z",
+  "model": "glm-5.3"
+}

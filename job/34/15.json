@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "job 34:15",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "सबै शरीर एकसाथ थाला थाल्थ्यो, र मानिस धुलोमा फर्कन्थ्यो।",
+  "tokens": [
+    {
+      "surface": "יגוע",
+      "gloss": "थाला थाल्थ्यो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "शरीर"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "ואדם",
+      "gloss": "र मानिस"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "עפר",
+      "gloss": "धुलो"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फर्कन्थ्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:39:45.462986460Z",
+  "model": "glm-5.3"
+}

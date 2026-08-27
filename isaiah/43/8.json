@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 43:8",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 43,
+  "translation": "बाहिर निकाल — आँखाहरू ⟨भएको⟩ अन्धो जनता, र कानहरू ⟨भएका⟩ बधिरहरू।",
+  "tokens": [
+    {
+      "surface": "הוציא",
+      "gloss": "निकाल"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अन्धो"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "र आँखाहरू"
+    },
+    {
+      "surface": "יש",
+      "gloss": "भएको"
+    },
+    {
+      "surface": "וחרשים",
+      "gloss": "र बधिरहरू"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "र कानहरू"
+    },
+    {
+      "surface": "למו",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T22:37:06.675942406Z",
+  "model": "glm-5.3"
+}

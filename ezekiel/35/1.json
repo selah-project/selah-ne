@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 35:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "र यहवेको वचन मतर्फ आयो, भन्नको लागि।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतर्फ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:26:46.139361980Z",
+  "model": "glm-5.3"
+}

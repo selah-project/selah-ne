@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 9:6",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र शूशान किल्लामा यहूदीहरूले मारी र नाश गरे पाँच सय जना पुरुषलाई।",
+  "tokens": [
+    {
+      "surface": "ובשושן",
+      "gloss": "र शूशानमा"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "किल्ला"
+    },
+    {
+      "surface": "הרגו",
+      "gloss": "मारी"
+    },
+    {
+      "surface": "היהודים",
+      "gloss": "यहूदीहरूले"
+    },
+    {
+      "surface": "ואבד",
+      "gloss": "र नाश गरे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "איש",
+      "gloss": "जना पुरुष"
+    }
+  ],
+  "timestamp": "2026-08-27T00:54:41.951253509Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 1:4",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "एउटा पुस्ता जान्छ, अनि एउटा पुस्ता आउँछ; तर पृथ्वी सदाको लागि उभिइरहन्छे।",
+  "tokens": [
+    {
+      "surface": "דור",
+      "gloss": "एउटा पुस्ता"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "ודור",
+      "gloss": "अनि एउटा पुस्ता"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "तर पृथ्वी"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदाको लागि"
+    },
+    {
+      "surface": "עמדת",
+      "gloss": "उभिइरहन्छे"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:37.427237586Z",
+  "model": "glm-5.3"
+}

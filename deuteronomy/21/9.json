@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 21:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र तिमीले ⟨the⟩ निर्दोष रगतलाई आफ्नो मध्यबाट हटाउनेछौ, किनकि तिमीले यहवेका आँखामा जुन ⟨the⟩ ठीक छ त्यो गर्नेछौ।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "र तिमी"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "हटाउनेछौ"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "הנקי",
+      "gloss": "निर्दोष"
+    },
+    {
+      "surface": "מקרבך",
+      "gloss": "आफ्नो मध्यबाट"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "गर्नेछौ"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "ठीक"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T21:01:56.772388197Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 7:20",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "पानीहरू पहाडहरूभन्दा पन्ध्र हात माथि बलवान् भए, र पहाडहरू ढाकिए।",
+  "tokens": [
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात (कोभिट)"
+    },
+    {
+      "surface": "מלמעלה",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "גברו",
+      "gloss": "बलवान् भए"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानीहरू"
+    },
+    {
+      "surface": "ויכסו",
+      "gloss": "ढाकिए"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाडहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:29.341708638Z",
+  "model": "glm-5.3"
+}

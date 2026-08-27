@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "lamentations 3:54",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "पानीहरू मेरो टाउकोमाथि बगे; मैले भनेँ — म ⟨विच्छिन्न⟩ भएँ।",
+  "tokens": [
+    {
+      "surface": "צפו",
+      "gloss": "बगे"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानीहरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ראשי",
+      "gloss": "मेरो टाउको"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मैले भनेँ"
+    },
+    {
+      "surface": "נגזרתי",
+      "gloss": "म विच्छिन्न भएँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:26.791220647Z",
+  "model": "glm-5.3"
+}

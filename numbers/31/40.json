@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 31:40",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र मानिस-प्राण सोह्र हजार, र तिनको यहवेको लागि कर बत्तीस प्राण थियो।",
+  "tokens": [
+    {
+      "surface": "ונפש",
+      "gloss": "र प्राण"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सोह्र"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "र तिनको कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको लागि"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बत्तीस"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "-"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:54.318392815Z",
+  "model": "glm-5.3"
+}

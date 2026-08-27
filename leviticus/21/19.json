@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 21:19",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "वा कुनै मानिस जसमा खुट्टा भाँचिएको छ, वा हात भाँचिएको छ।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कुनै मानिस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसमा"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "छ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "भाँचिएको"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "खुट्टा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "भाँचिएको"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:45.364031935Z",
+  "model": "glm-5.3"
+}

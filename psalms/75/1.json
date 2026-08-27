@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 75:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 75,
+  "translation": "महत्वपूर्ण ठाउँमा — 'नष्ट नगर्नुहोस्' — आसाफको मिजमोर, गीत।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "महत्वपूर्ण ठाउँमा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नष्ट"
+    },
+    {
+      "surface": "תשחת",
+      "gloss": "नगर्नुहोस्"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "आसाफको"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    }
+  ],
+  "timestamp": "2026-08-27T00:03:28.464378573Z",
+  "model": "glm-5.3"
+}

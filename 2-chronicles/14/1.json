@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 14:1",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "अनि असाले यहवे, आफ्ना एलोहीमका आँखामा असल र सरल ⟨काम⟩ गरे।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "अनि…गरे"
+    },
+    {
+      "surface": "असा",
+      "gloss": "असाले"
+    },
+    {
+      "surface": "हतोब",
+      "gloss": "असल"
+    },
+    {
+      "surface": "वहयशर",
+      "gloss": "र सरल"
+    },
+    {
+      "surface": "बेइनि",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "यहवे",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "एलोहिव",
+      "gloss": "आफ्ना एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:37:32.735385893Z",
+  "model": "glm-5.3"
+}

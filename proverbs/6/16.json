@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 6:16",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "यी छ वटा कुरा यहवेले घृणा गर्नुहुन्छ, र उहाँको नफ्रुलाई घृणित सात वटा छन्।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "घृणा गर्नुहुन्छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "र सात"
+    },
+    {
+      "surface": "תועבות",
+      "gloss": "घृणित कुरा"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "उहाँको नफ्रुलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:35.978153299Z",
+  "model": "glm-5.3"
+}

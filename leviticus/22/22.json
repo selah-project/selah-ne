@@ -1,0 +1,101 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 22:22",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "अन्धो वा भाँचिएको वा टुटेको वा घाउभरी वा खुस्रो वा लोतो — यी ⟨कुरा⟩ यहवेलाई नचढाऊ, र यीमध्येबाट यहवेको वेदीमाथि अग्नि-भेट नदेऊ।",
+  "tokens": [
+    {
+      "surface": "עורת",
+      "gloss": "अन्धो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "שבור",
+      "gloss": "भाँचिएको"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "חרוץ",
+      "gloss": "टुटेको"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "יבלת",
+      "gloss": "घाउभरी"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "खुस्रो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "लोतो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "नचढाऊ"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "ואשה",
+      "gloss": "र-अग्नि-भेट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תתנו",
+      "gloss": "नदेऊ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "यीमध्येबाट"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:33:01.577917443Z",
+  "model": "glm-5.3"
+}

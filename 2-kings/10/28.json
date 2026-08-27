@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-kings 10:28",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "यसरी येहूले यिस्राएलबाट बाललाई ⟨את⟩ नाश गरे।",
+  "tokens": [
+    {
+      "surface": "וישמד",
+      "gloss": "नाश गरे"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "येहूले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बाललाई"
+    },
+    {
+      "surface": "הבעל",
+      "gloss": "बाललाई"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिस्राएलबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T22:14:28.777294588Z",
+  "model": "glm-5.3"
+}

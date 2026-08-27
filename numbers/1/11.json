@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 1:11",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "बिन्यामीनका लागि — अविदान, गिदोनीका छोरा।",
+  "tokens": [
+    {
+      "surface": "לבנימן",
+      "gloss": "बिन्यामीनका लागि"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "अविदान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "गिदोनीका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:29.818400956Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 57:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 57,
+  "translation": "जाग, हे मेरो काभोद; जाग, हे नेबेल र किन्नर; म ⟨उषालाई⟩ जगाउँछु।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "כבודי",
+      "gloss": "मेरो काभोद"
+    },
+    {
+      "surface": "עורה",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "הנבל",
+      "gloss": "नेबेल"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "र किन्नर"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "म …जगाउँछु"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "उषालाई"
+    }
+  ],
+  "timestamp": "2026-08-26T23:59:33.059964028Z",
+  "model": "glm-5.3"
+}

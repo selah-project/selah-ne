@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 7:11",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "उत्तराधिकारसँग बुद्धि असल छ, र घाम देख्नेहरूका लागि ⟨यो⟩ बढी फाइदाजनक छ।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "असल छ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "נחלה",
+      "gloss": "उत्तराधिकार"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "र बढी फाइदाजनक"
+    },
+    {
+      "surface": "לראי",
+      "gloss": "देख्नेहरूका लागि"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "घाम"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:21.332006734Z",
+  "model": "glm-5.3"
+}

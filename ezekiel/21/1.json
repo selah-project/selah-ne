@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 21:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "यहवेको वचन ममा आयो, यसो भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:18:34.272128657Z",
+  "model": "glm-5.3"
+}

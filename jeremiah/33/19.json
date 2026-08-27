@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 33:19",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र यहवेको वचन यिर्मयाहूलाई भयो, भन्ने ⟨कुरा⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "לאמור",
+      "gloss": "भन्ने"
+    }
+  ],
+  "timestamp": "2026-08-26T22:59:05.009812108Z",
+  "model": "glm-5.3"
+}

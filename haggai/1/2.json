@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "haggai 1:2",
+  "book": "haggai",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "यसो भन्नुभयो सेनाहरूका यहवेले, भन्नुहोस्: यो जनताले भने, 'आउने ⟨होइन⟩ समय, यहवेको भवन बनाउने समय।'",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाहरूका"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहोस्"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "भने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउने"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "להבנות",
+      "gloss": "बनाउने"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:04.521017790Z",
+  "model": "glm-5.3"
+}

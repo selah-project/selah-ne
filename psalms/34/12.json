@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 34:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "आऊ, हे छोराहरू, मलाई सुन; म तिमीहरूलाई यहवेको भय सिकाउँछु।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आऊ"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "हे छोराहरू"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלמדכם",
+      "gloss": "म तिमीहरूलाई सिकाउँछु"
+    }
+  ],
+  "timestamp": "2026-08-26T23:54:35.278780883Z",
+  "model": "glm-5.3"
+}

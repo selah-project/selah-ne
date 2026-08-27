@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 8:3",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "अनि शलोमो खमात-त्सोवाहमा गए, र त्यसलाई आफ्नो अधीनमा लिए।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "अनि…गए"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "खमात"
+    },
+    {
+      "surface": "צובה",
+      "gloss": "त्सोवाह"
+    },
+    {
+      "surface": "ויחזק",
+      "gloss": "र…आफ्नो अधीनमा लिए"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "त्यसलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:39.729075986Z",
+  "model": "glm-5.3"
+}

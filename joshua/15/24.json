@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 15:24",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "जिफ, र तेलेम, र बेआलोत।",
+  "tokens": [
+    {
+      "surface": "זיף",
+      "gloss": "जिफ"
+    },
+    {
+      "surface": "וטלם",
+      "gloss": "र तेलेम"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "र बेआलोत"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:16.761452457Z",
+  "model": "glm-5.3"
+}

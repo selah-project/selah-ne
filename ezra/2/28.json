@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "ezra 2:28",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "बेत-एल र हाइका मानिसहरू — दुई सय तेइस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "र हाइ"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:54.900693139Z",
+  "model": "glm-5.3"
+}

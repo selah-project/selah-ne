@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "leviticus 7:27",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "जुन कुनै नेफेश कुनै रगत खान्छ, त्यही नेफेश आफ्ना मानिसहरूबाट काटिनेछ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जुन कुनै"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नेफेश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खान्छ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "ונכרתה",
+      "gloss": "काटिनेछ"
+    },
+    {
+      "surface": "הנפש",
+      "gloss": "नेफेश"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "מעמיה",
+      "gloss": "आफ्ना मानिसहरूबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:24.100743356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "ezra 2:22",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "नेतोफाका मानिसहरू, पचास र छ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "נטפה",
+      "gloss": "नेतोफा"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "र छ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:40.430783526Z",
+  "model": "glm-5.3"
+}

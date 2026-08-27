@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ruth 4:21",
+  "book": "ruth",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र सल्मोनले ⟨את⟩ बोअजलाई जन्म दिए, र बोअजले ⟨את⟩ ओबेदलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ושלמון",
+      "gloss": "र सल्मोनले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बोअज"
+    },
+    {
+      "surface": "בעז",
+      "gloss": "बोअज"
+    },
+    {
+      "surface": "ובעז",
+      "gloss": "र बोअजले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओबेद"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओबेद"
+    }
+  ],
+  "timestamp": "2026-08-27T00:45:08.236853508Z",
+  "model": "glm-5.3"
+}

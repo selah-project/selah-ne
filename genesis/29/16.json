@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 29:16",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र लाभानका दुई छोरीहरू थिए; जेठीको नाम लेआह र कान्छीको नाम राखेल थियो।",
+  "tokens": [
+    {
+      "surface": "וללבן",
+      "gloss": "र लाभानका"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "छोरीहरू"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "जेठीको"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "र नाम"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "कान्छीको"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राखेल"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:49.427374601Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 18:8",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "तेरो बुबाको श्रीमतीको नाङ्गोपन तिमी खोल्नेछैनौं; त्यो तेरो बुबाको नाङ्गोपन ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नाङ्गोपन"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "श्रीमती"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरो बुबाको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "तिमी खोल्नेछैनौं"
+    },
+    {
+      "surface": "ערות",
+      "gloss": "नाङ्गोपन"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "तेरो बुबाको"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:30:45.129172845Z",
+  "model": "glm-5.3"
+}

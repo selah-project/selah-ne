@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 16:24",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "कि तिमीले आफैलाई भवन बनायौ, र हरेक चोकमा आफैलाई उच्च स्थान बनायौ।",
+  "tokens": [
+    {
+      "surface": "ותבני",
+      "gloss": "र बनायौ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफैलाई"
+    },
+    {
+      "surface": "גב",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "ותעשי",
+      "gloss": "र बनायौ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफैलाई"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "उच्च स्थान"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "चोक"
+    }
+  ],
+  "timestamp": "2026-08-27T02:08:50.586020814Z",
+  "model": "glm-5.3"
+}

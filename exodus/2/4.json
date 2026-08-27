@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 2:4",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र उसकी दिदीबहिनी टाढा उभिइन्, थाहा पाउन कि उसको के गरिन्छ।",
+  "tokens": [
+    {
+      "surface": "ותתצב",
+      "gloss": "र उभिइन्"
+    },
+    {
+      "surface": "אחתו",
+      "gloss": "उसकी दिदीबहिनी"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "टाढा"
+    },
+    {
+      "surface": "לדעה",
+      "gloss": "थाहा पाउन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गरिन्छ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:37.185865791Z",
+  "model": "glm-5.3"
+}

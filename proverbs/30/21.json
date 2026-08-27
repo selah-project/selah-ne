@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 30:21",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "तीन कुराका ⟨कारण⟩ धरती काँप्छ, र चारको ⟨कारण⟩ ⟨ऊ⟩ धान्न सक्दैन।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "तीन कुराका ⟨कारण⟩"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "רגזה",
+      "gloss": "काँप्छ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "धरती"
+    },
+    {
+      "surface": "ותחת",
+      "gloss": "र चारको ⟨कारण⟩"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "सक्दैन"
+    },
+    {
+      "surface": "תוכל",
+      "gloss": "धान्न सक्छ"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "धान्न"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:00.518842455Z",
+  "model": "glm-5.3"
+}

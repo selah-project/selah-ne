@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 2:34",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "येरिखोका छोराहरू — तीन सय पैँतालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "येरिखो"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ארबעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "र पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:53.095750844Z",
+  "model": "glm-5.3"
+}

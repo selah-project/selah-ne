@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 48:16",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "मोआबको विपत्ति आउन नजिक छ, र त्यसको दुःख धेरै चाँडो आउँछ।",
+  "tokens": [
+    {
+      "surface": "קרוב",
+      "gloss": "नजिक छ"
+    },
+    {
+      "surface": "איד",
+      "gloss": "विपत्ति"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबको"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "आउन"
+    },
+    {
+      "surface": "ורעתו",
+      "gloss": "र त्यसको दुःख"
+    },
+    {
+      "surface": "מהרה",
+      "gloss": "चाँडो आउँछ"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "धेरै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:03:28.553411157Z",
+  "model": "glm-5.3"
+}

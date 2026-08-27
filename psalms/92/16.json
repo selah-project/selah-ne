@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 92:16",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 92,
+  "translation": "⟨यो⟩ घोषणा गर्न कि यहवे सीधा ⟨छ⟩, मेरो चट्टान, र तिनीमा कुनै अन्याय छैन।",
+  "tokens": [
+    {
+      "surface": "להגיד",
+      "gloss": "घोषणा गर्न"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צורי",
+      "gloss": "मेरो चट्टान"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र ... छैन"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "בו",
+      "gloss": "तिनीमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:13.284149746Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 4:16",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र येहालेलेलका छोराहरू जिफ, जिफाह, तिर्या र असरेल थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "יהללאל",
+      "gloss": "येहालेलेल"
+    },
+    {
+      "surface": "זיף",
+      "gloss": "जिफ"
+    },
+    {
+      "surface": "וזיפה",
+      "gloss": "र जिफाह"
+    },
+    {
+      "surface": "תיריא",
+      "gloss": "तिर्या"
+    },
+    {
+      "surface": "ואשראל",
+      "gloss": "र असरेल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:56.572243690Z",
+  "model": "glm-5.3"
+}

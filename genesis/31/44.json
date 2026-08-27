@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 31:44",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "अब आऊ, म र तिमीबीच करार काटौं, र त्यो म र तिमीबीच साक्षी भइरहोस्।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "לכה",
+      "gloss": "आऊ"
+    },
+    {
+      "surface": "נכרתה",
+      "gloss": "काटौं"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "करार"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "र तिमीबीच"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "र भइरहोस्"
+    },
+    {
+      "surface": "לעד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "म ...बीच"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "र तिमीबीच"
+    }
+  ],
+  "timestamp": "2026-08-26T19:54:10.014604128Z",
+  "model": "glm-5.3"
+}

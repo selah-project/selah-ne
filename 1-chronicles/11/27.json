@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 11:27",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "शाम्मोत ⟨सें⟩ हारोरी, खेलेत्स ⟨सें⟩ पलोनी।",
+  "tokens": [
+    {
+      "surface": "שמות",
+      "gloss": "शाम्मोत"
+    },
+    {
+      "surface": "ההרורי",
+      "gloss": "हारोरी"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "खेलेत्स"
+    },
+    {
+      "surface": "हפלוני",
+      "gloss": "पलोनी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:07.203375509Z",
+  "model": "glm-5.3"
+}

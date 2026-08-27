@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 36:3",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र इश्माएलका छोरा नबायोतकी बहिनी, इश्माएलकी छोरी बासेमतलाई ⟨אत⟩।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "बासेमतलाई"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बासेमतलाई"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "इश्माएलकी"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिनी"
+    },
+    {
+      "surface": "נביות",
+      "gloss": "नबायोतकी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:52.060525461Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-kings 6:26",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "एउटा करूबको उचाइ दस हात थियो, र त्यस्तै दोस्रो करूब पनि।",
+  "tokens": [
+    {
+      "surface": "קומת",
+      "gloss": "उचाइ"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूबको"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "באמה",
+      "gloss": "हात (अम्मामा)"
+    },
+    {
+      "surface": "וכן",
+      "gloss": "र त्यस्तै"
+    },
+    {
+      "surface": "הכרוב",
+      "gloss": "करूब"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:59:24.101345603Z",
+  "model": "glm-5.3"
+}

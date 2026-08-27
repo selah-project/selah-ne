@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 35:1",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "अनि एलिहूले उत्तर दिनुभयो र भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिनुभयो"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलिहूले"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:39:15.667046648Z",
+  "model": "glm-5.3"
+}

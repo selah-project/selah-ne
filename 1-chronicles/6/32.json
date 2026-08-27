@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 6:32",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "मख्लीको छोरा, मूशीको छोरा, मेरारीको छोरा, लेवीको छोरा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "मख्ली"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מושי",
+      "gloss": "मूशी"
+    },
+    {
+      "surface": "बן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मेरारी"
+    },
+    {
+      "surface": "बן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:51.437565006Z",
+  "model": "glm-5.3"
+}

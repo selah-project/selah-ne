@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 10:17",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र ⟨את⟩ हिभी, र ⟨את⟩ अर्की, र ⟨את⟩ सिनी —",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "हिभी"
+    },
+    {
+      "surface": "החוי",
+      "gloss": "हिभी"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "अर्की"
+    },
+    {
+      "surface": "हער्कי",
+      "gloss": "अर्की"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "सिनी"
+    },
+    {
+      "surface": "हसिनी",
+      "gloss": "सिनी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:24.701776591Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 126:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 126,
+  "translation": "आँसुले रोप्नेहरू रिन्नाका साथ काट्नेछन्।",
+  "tokens": [
+    {
+      "surface": "הזרעים",
+      "gloss": "रोप्नेहरू"
+    },
+    {
+      "surface": "בדמעה",
+      "gloss": "आँसुले"
+    },
+    {
+      "surface": "ברנה",
+      "gloss": "रिन्नाका साथ"
+    },
+    {
+      "surface": "יקצרו",
+      "gloss": "काट्नेछन्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:05.983765609Z",
+  "model": "glm-5.3"
+}

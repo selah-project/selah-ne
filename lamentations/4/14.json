@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 4:14",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "अन्धाहरू गल्लीहरूमा भौतारिए, रगतले दूषित भए; कसैले तिनीहरूका लुगाहरू छुन सकेन।",
+  "tokens": [
+    {
+      "surface": "נעו",
+      "gloss": "भौतारिए"
+    },
+    {
+      "surface": "עורים",
+      "gloss": "अन्धाहरू"
+    },
+    {
+      "surface": "בחוצות",
+      "gloss": "गल्लीहरूमा"
+    },
+    {
+      "surface": "נגאלו",
+      "gloss": "दूषित भए"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "रगतले"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "יוכלו",
+      "gloss": "सक्ने"
+    },
+    {
+      "surface": "יגעו",
+      "gloss": "छुन"
+    },
+    {
+      "surface": "בלבשיהם",
+      "gloss": "तिनीहरूका लुगाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:16.219122234Z",
+  "model": "glm-5.3"
+}

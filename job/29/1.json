@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 29:1",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "अनि अय्यूबले आफ्नो मशाल ⟨उठाउन⟩ थप्यो र भन्यो —",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "थप्यो"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्यूबले"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "उठाउन"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "आफ्नो मशाल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:37:28.682790065Z",
+  "model": "glm-5.3"
+}

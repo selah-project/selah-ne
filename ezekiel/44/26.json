@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 44:26",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 44,
+  "translation": "र उसको शुद्धीकरणपछि उसलाई सात दिन गनिनेछ।",
+  "tokens": [
+    {
+      "surface": "ואחרי",
+      "gloss": "र …पछि"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "उसको शुद्धीकरण"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יספרו",
+      "gloss": "गनिनेछ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T23:30:31.425415881Z",
+  "model": "glm-5.3"
+}

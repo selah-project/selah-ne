@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 12:1",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "सात वर्षको छोरा यहोआश ⟨थियो⟩ ⟨जब ऊ⟩ राज्यमा बस्यो।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "יהואש",
+      "gloss": "यहोआश"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "राज्यमा बस्यो"
+    }
+  ],
+  "timestamp": "2026-08-26T22:15:22.025957850Z",
+  "model": "glm-5.3"
+}

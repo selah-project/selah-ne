@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 1:14",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र तिमीहरूले मलाई ⟨את⟩ उत्तर दियौ र भन्यौ: जुन कुरा तिमीले गर्न बोल्नुभयो, त्यो असल छ।",
+  "tokens": [
+    {
+      "surface": "ותענו",
+      "gloss": "र तिमीहरूले उत्तर दियौ"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "मलाई"
+    },
+    {
+      "surface": "ותאמרו",
+      "gloss": "र भन्यौ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "तिमीले बोल्नुभयो"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "गर्न"
+    }
+  ],
+  "timestamp": "2026-08-26T20:52:58.226538319Z",
+  "model": "glm-5.3"
+}

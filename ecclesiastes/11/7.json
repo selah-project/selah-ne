@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 11:7",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र ⟨the⟩ उज्यालो गुलियो छ, र आँखाहरूका लागि ⟨את⟩ सूर्यलाई देख्नु राम्रो छ।",
+  "tokens": [
+    {
+      "surface": "ומתוק",
+      "gloss": "र गुलियो"
+    },
+    {
+      "surface": "האור",
+      "gloss": "उज्यालो"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "र राम्रो"
+    },
+    {
+      "surface": "לעינים",
+      "gloss": "आँखाहरूका लागि"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देख्नु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सूर्यलाई"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्यलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:53.232428607Z",
+  "model": "glm-5.3"
+}

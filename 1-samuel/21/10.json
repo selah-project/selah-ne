@@ -1,0 +1,138 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-samuel 21:10",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "त्यसैले त्यही दिन दाउद उठेर शाउलको अनुहारबाट भागे र गतका राजा अकीशकहाँ आए।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": ""
+    },
+    {
+      "surface": "הכהן",
+      "gloss": ""
+    },
+    {
+      "surface": "חרב",
+      "gloss": ""
+    },
+    {
+      "surface": "גלית",
+      "gloss": ""
+    },
+    {
+      "surface": "הפלשתי",
+      "gloss": ""
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "הכית",
+      "gloss": ""
+    },
+    {
+      "surface": "בעמק",
+      "gloss": ""
+    },
+    {
+      "surface": "האלה",
+      "gloss": ""
+    },
+    {
+      "surface": "הנה",
+      "gloss": ""
+    },
+    {
+      "surface": "היא",
+      "gloss": ""
+    },
+    {
+      "surface": "לוטה",
+      "gloss": ""
+    },
+    {
+      "surface": "בשמלה",
+      "gloss": ""
+    },
+    {
+      "surface": "אחרי",
+      "gloss": ""
+    },
+    {
+      "surface": "האפוד",
+      "gloss": ""
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "त्यसलाई"
+    },
+    {
+      "surface": "תקח",
+      "gloss": ""
+    },
+    {
+      "surface": "लך",
+      "gloss": ""
+    },
+    {
+      "surface": "קח",
+      "gloss": ""
+    },
+    {
+      "surface": "כי",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": ""
+    },
+    {
+      "surface": "אחרת",
+      "gloss": ""
+    },
+    {
+      "surface": "זולתה",
+      "gloss": ""
+    },
+    {
+      "surface": "בזה",
+      "gloss": ""
+    },
+    {
+      "surface": "ויאमר",
+      "gloss": ""
+    },
+    {
+      "surface": "דוד",
+      "gloss": ""
+    },
+    {
+      "surface": "אין",
+      "gloss": ""
+    },
+    {
+      "surface": "כमוה",
+      "gloss": ""
+    },
+    {
+      "surface": "תננה",
+      "gloss": ""
+    },
+    {
+      "surface": "לי",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T21:40:24.519631979Z",
+  "model": "glm-5.3"
+}

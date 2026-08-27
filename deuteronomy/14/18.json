@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 14:18",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र बगला, र सारस आफ्नै जातिअनुसार, र हुदहुद, र चमेरो।",
+  "tokens": [
+    {
+      "surface": "והחסידה",
+      "gloss": "र बगला"
+    },
+    {
+      "surface": "והאנפה",
+      "gloss": "र सारस"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "आफ्नै जातिअनुसार"
+    },
+    {
+      "surface": "והדוכיפת",
+      "gloss": "र हुदहुद"
+    },
+    {
+      "surface": "והעטלף",
+      "gloss": "र चमेरो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:00.432201130Z",
+  "model": "glm-5.3"
+}

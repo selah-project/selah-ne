@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 6:10",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र आठौँ दिन ऊ दुई फाँटेहरू वा दुई परेवाका बच्चाहरू कोहानाकहाँ, मोआदको तम्बूको ढोकामा लिएर आउनेछ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "र दिनमा"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठौँ"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "ऊ आउनेछ"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "תרים",
+      "gloss": "फाँटेहरू"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बच्चाहरू"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "परेवाका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहानाक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ढोकामा"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्बूको"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोआदको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:37:46.375977417Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 16:16",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "तब याजक ऊरियाले राजा अहाजले आज्ञा दिएका सबै कुराअनुसार गरे।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "गरे"
+    },
+    {
+      "surface": "אוריה",
+      "gloss": "ऊरिया"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सबै कुराअनुसार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिए"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाज"
+    }
+  ],
+  "timestamp": "2026-08-26T22:18:09.051969594Z",
+  "model": "glm-5.3"
+}

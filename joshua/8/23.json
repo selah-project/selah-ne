@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 8:23",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र हावाईका राजालाई जीवितै पक्रे, र ⟨את⟩ उसलाई यहोशुआकहाँ ल्याए।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हावाईका राजा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हावाईका"
+    },
+    {
+      "surface": "תפשו",
+      "gloss": "पक्रे"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवितै"
+    },
+    {
+      "surface": "ויקרבו",
+      "gloss": "ल्याए"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ उसलाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:12:20.417188966Z",
+  "model": "glm-5.3"
+}

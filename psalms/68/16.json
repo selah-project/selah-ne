@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 68:16",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 68,
+  "translation": "एलोहीमको पहाड ⟨हो⟩ बाशानको पहाड; शिखरहरूको पहाड ⟨हो⟩ बाशानको पहाड।",
+  "tokens": [
+    {
+      "surface": "הר",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशानको"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "גבננים",
+      "gloss": "शिखरहरूको"
+    },
+    {
+      "surface": "הर",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "בשן",
+      "gloss": "बाशानको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:01:21.321805942Z",
+  "model": "glm-5.3"
+}

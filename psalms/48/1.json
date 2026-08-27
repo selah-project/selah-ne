@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 48:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "गीत, भजन, कोरखका छोराहरूको निम्ति।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "भजन"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरख"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:01.569409640Z",
+  "model": "glm-5.3"
+}

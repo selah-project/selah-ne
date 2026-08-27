@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 7:10",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "नभन्नु, “के भएको थियो कि पहिलाका दिनहरू यी दिनभन्दा असल थिए?” किनकि यसको विषयमा तपाईंले बुद्धिले सोध्नुभएको छैन।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "भन्नु"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भएको थियो"
+    },
+    {
+      "surface": "שהימים",
+      "gloss": "कि दिनहरू"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पहिलाका"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "असल"
+    },
+    {
+      "surface": "מאלה",
+      "gloss": "यी भन्दा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "מחכמה",
+      "gloss": "बुद्धिले"
+    },
+    {
+      "surface": "שאלת",
+      "gloss": "सोध्नुभएको"
+    },
+    {
+      "surface": "על",
+      "gloss": "को विषयमा"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यसको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:21.331819317Z",
+  "model": "glm-5.3"
+}

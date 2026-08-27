@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 2:18",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र अब तिमीलाई मिस्रको मार्गमा के — शिखोरको पानी पिउन? र तिमीलाई अश्शूरको मार्गमा के — नदीको पानी पिउन?",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "र अब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "मार्गमा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्र"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "पिउन"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "שחור",
+      "gloss": "शिखोर"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "र के"
+    },
+    {
+      "surface": "लך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "לדרך",
+      "gloss": "मार्गमा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "पिउन"
+    },
+    {
+      "surface": "मי",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "נהר",
+      "gloss": "नदी"
+    }
+  ],
+  "timestamp": "2026-08-27T02:04:46.933025779Z",
+  "model": "glm-5.3"
+}

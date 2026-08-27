@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 2:10",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र दाउद आफ्ना पुर्खाहरूसित सुते, र दाउदको सहरमा गाडिए।",
+  "tokens": [
+    {
+      "surface": "וישכב",
+      "gloss": "र सुते"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउद"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सित"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "आफ्ना पुर्खाहरू"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "र गाडिए"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहरमा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउदको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:00:01.351437384Z",
+  "model": "glm-5.3"
+}

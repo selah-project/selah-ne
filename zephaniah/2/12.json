@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "zephaniah 2:12",
+  "book": "zephaniah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "तिमीहरू पनि, हे कूशीहरू, मेरो तरवारका विद्ध — तिनीहरू नै हौ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तिमीहरू"
+    },
+    {
+      "surface": "כושים",
+      "gloss": "कूशीहरू"
+    },
+    {
+      "surface": "חללי",
+      "gloss": "विद्ध"
+    },
+    {
+      "surface": "חרבי",
+      "gloss": "मेरो तरवारका"
+    },
+    {
+      "surface": "המה",
+      "gloss": "तिनीहरू नै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:44:23.649901093Z",
+  "model": "glm-5.3"
+}

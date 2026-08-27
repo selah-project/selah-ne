@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 21:24",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र अभ्राहामले भने, म कसम खान्छु।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहामले"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "אשבע",
+      "gloss": "कसम खान्छु"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:07.154852133Z",
+  "model": "glm-5.3"
+}

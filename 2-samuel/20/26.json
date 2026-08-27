@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 20:26",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र पनि इरा याइरी दाऊदका लागि याजक ⟨भएको थियो⟩।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "र पनि"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "היארי",
+      "gloss": "याइरी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "⟨भएको थियो⟩"
+    },
+    {
+      "surface": "כהן",
+      "gloss": "याजक"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊदका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T21:52:20.555152793Z",
+  "model": "glm-5.3"
+}

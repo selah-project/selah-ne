@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 11:30",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "त्यसपछि मोशे — उनी आफै र इस्राएलका वृद्धहरूसहित — शिविरमा फर्किए।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "फर्किए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "शिविर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उनी आफै"
+    },
+    {
+      "surface": "וזקני",
+      "gloss": "र वृद्धहरूसहित"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:52.043020846Z",
+  "model": "glm-5.3"
+}

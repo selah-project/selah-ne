@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 8:19",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र याकीम, र ज़िख्री, र ज़ब्दी।",
+  "tokens": [
+    {
+      "surface": "ויקים",
+      "gloss": "र याकीम"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "र ज़िख्री"
+    },
+    {
+      "surface": "וזבדי",
+      "gloss": "र ज़ब्दी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:26.565881419Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 48:7",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र रउबेनको सीमामा, पूर्व छेउदेखि पश्चिम छेउसम्म — यहूदा, एक ⟨भाग⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ...मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रउबेन"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "...को छेउदेखि"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "छेउ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:31:44.624851545Z",
+  "model": "glm-5.3"
+}

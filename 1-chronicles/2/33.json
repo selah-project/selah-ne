@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 2:33",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र योनातानका छोराहरू पेलेत र जाजा थिए; यिनै यरह्मेएलका छोराहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातानका"
+    },
+    {
+      "surface": "פלת",
+      "gloss": "पेलेत"
+    },
+    {
+      "surface": "וזזא",
+      "gloss": "र जाजा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यिनै"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ירחמאל",
+      "gloss": "यरह्मेएलका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:59.495154941Z",
+  "model": "glm-5.3"
+}

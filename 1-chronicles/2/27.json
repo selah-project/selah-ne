@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 2:27",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "वट रामका छोराहरू भए — यरखमेएलको जेठो: मात्स, र यामिन, र एकेर।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "רם",
+      "gloss": "रामका"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "ירחमאל",
+      "gloss": "यरखमेएलको"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "मात्स"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "र यामिन"
+    },
+    {
+      "surface": "ועקר",
+      "gloss": "र एकेर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:56.041344559Z",
+  "model": "glm-5.3"
+}

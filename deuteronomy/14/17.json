@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 14:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र राजकौवा, र ⟨את⟩ राखम-गिद्ध, र ⟨את⟩ डुबुल्के-काग।",
+  "tokens": [
+    {
+      "surface": "והקאת",
+      "gloss": "र राजकौवा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "राखम-गिद्ध"
+    },
+    {
+      "surface": "הרחמה",
+      "gloss": "राखम-गिद्ध"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "डुबुल्के-काग"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "डुबुल्के-काग"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:00.431978095Z",
+  "model": "glm-5.3"
+}

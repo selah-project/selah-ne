@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 30:16",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "शेओल, र बन्ध गरिएको गर्भ, पानीले तृप्त नहुने भूमि, र ‘पुग्यो’ नभन्ने आगो।",
+  "tokens": [
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "ועצר",
+      "gloss": "र बन्ध गरिएको"
+    },
+    {
+      "surface": "רחם",
+      "gloss": "गर्भ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "तृप्त हुने"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानीले"
+    },
+    {
+      "surface": "ואש",
+      "gloss": "र आगो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "भन्ने"
+    },
+    {
+      "surface": "हון",
+      "gloss": "पुग्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:00.263938092Z",
+  "model": "glm-5.3"
+}

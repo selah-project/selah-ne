@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 13:9",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "शाउलले भन्नुभयो, मकहाँ ⟨the⟩ होमबलि र ⟨the⟩ शान्तिबलि नजिक ल्याउ, र उनले ⟨the⟩ होमबलि चढाए।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलले"
+    },
+    {
+      "surface": "הגשו",
+      "gloss": "नजिक ल्याउ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मकहाँ"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "होमबलि"
+    },
+    {
+      "surface": "והשלמים",
+      "gloss": "र शान्तिबलि"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "चढाए"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "होमबलि"
+    }
+  ],
+  "timestamp": "2026-08-26T21:34:49.527447483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 8:1",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "अनि बीस वर्षको अन्त्यमा — जसमा शलोमोले यहवेको घर र ⟨את⟩ आफ्नो घर बनाइसकेका थिए — त्यो भयो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि…भयो"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "अन्त्यमा"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसमा"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाइसकेका थिए"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवेको घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "आफ्नो घर"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आफ्नो घर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:39.728656866Z",
+  "model": "glm-5.3"
+}

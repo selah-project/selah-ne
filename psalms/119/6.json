@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 119:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "तब म लज्जित हुनेछैनँ, जब म तपाईंका सबै आज्ञाहरूतर्फ हेर्नेछु।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אבוש",
+      "gloss": "लज्जित हुनेछु"
+    },
+    {
+      "surface": "בהביטי",
+      "gloss": "जब म हेर्नेछु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तपाईंका आज्ञाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:35.179866436Z",
+  "model": "glm-5.3"
+}

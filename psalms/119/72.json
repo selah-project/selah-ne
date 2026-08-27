@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 72,
+  "ref": "psalms 119:72",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "तपाईंको मुखको तोराह मलाई हजारौँ सुन र चाँदीभन्दा उत्तम छ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम छ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोराह"
+    },
+    {
+      "surface": "פיך",
+      "gloss": "तपाईंको मुखको"
+    },
+    {
+      "surface": "מאלפי",
+      "gloss": "हजारौँभन्दा"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "וכסף",
+      "gloss": "र चाँदी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:14:14.708399806Z",
+  "model": "glm-5.3"
+}

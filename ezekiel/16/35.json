@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezekiel 16:35",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "त्यसकारण हे वेश्या, यहवेको वचन सुन।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "त्यसकारण"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "हे वेश्या"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:17:08.887038703Z",
+  "model": "glm-5.3"
+}

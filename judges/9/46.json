@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "judges 9:46",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र शेखेमको गढीका सबै स्वामीहरूले ⟨सुने⟩, र तिनीहरू एल-बेरितको घरको गढीभित्र पसे।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "सुने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בעלי",
+      "gloss": "स्वामीहरूले"
+    },
+    {
+      "surface": "מגדל",
+      "gloss": "गढीका"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेखेमको"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "पसे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "צריח",
+      "gloss": "गढी"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "बेरित"
+    }
+  ],
+  "timestamp": "2026-08-26T21:25:03.400576968Z",
+  "model": "glm-5.3"
+}

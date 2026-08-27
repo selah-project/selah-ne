@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 2:8",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र एइतानका छोराहरू: अजर्याह।",
+  "tokens": [
+    {
+      "surface": "ובנी",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "एइतानका"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:30.106551752Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 14:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "पानीमा भएका सबैमध्येबाट ⟨את⟩ यी तिमीहरू खाऊ; जुन चीजसँग पखेटा र खत्रो हुन्छ, त्यो सबै तिमीहरू खाऊ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यी"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सबैमध्येबाट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानीमा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यससँग"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पखेटा"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "र खत्रो"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाऊ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:57.386725114Z",
+  "model": "glm-5.3"
+}

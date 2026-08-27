@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 17:20",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "वाक्रो हृदय भएकोले असल पाउँदैन, र आफ्नो जिब्रो उल्टो बोल्ने खराबीमा खस्छ।",
+  "tokens": [
+    {
+      "surface": "עקש",
+      "gloss": "वाक्रो"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "पाउँछ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "र उल्टो बोल्ने"
+    },
+    {
+      "surface": "בלשונו",
+      "gloss": "आफ्नो जिब्रोले"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "खस्छ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "खराबीमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:18.778280978Z",
+  "model": "glm-5.3"
+}

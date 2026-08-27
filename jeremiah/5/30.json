@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "jeremiah 5:30",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "विस्मयकारी र भयानक कुरा भूमिमा भयो।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "विस्मयकारी कुरा"
+    },
+    {
+      "surface": "ושערורה",
+      "gloss": "र भयानक कुरा"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "भूमिमा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:04.458143361Z",
+  "model": "glm-5.3"
+}

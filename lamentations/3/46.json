@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "lamentations 3:46",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "आफ्नो मुख फराकिलो पारे हाम्रा सबै शत्रुहरूले हामीविरुद्ध।",
+  "tokens": [
+    {
+      "surface": "פצו",
+      "gloss": "फराकिलो पारे"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हामीविरुद्ध"
+    },
+    {
+      "surface": "פיהם",
+      "gloss": "आफ्नो मुख"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "איבינו",
+      "gloss": "हाम्रा शत्रुहरूले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:09.441052463Z",
+  "model": "glm-5.3"
+}

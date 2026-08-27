@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 34:6",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "र ⟨את⟩ तिनलाई खोंचमा गाडियो, मोआबको भूमिमा, बेइत-पेओरको अगाडि; र आजसम्म कुनै मानिसले ⟨את⟩ तिनको चिहान चिनेन।",
+  "tokens": [
+    {
+      "surface": "ויקבר",
+      "gloss": "गाडियो"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "तिनलाई"
+    },
+    {
+      "surface": "בגי",
+      "gloss": "खोंचमा"
+    },
+    {
+      "surface": "באरץ",
+      "gloss": "भूमिमा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबको"
+    },
+    {
+      "surface": "מול",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत-"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "पेओर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र ... न"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "चिनेन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कुनै मानिसले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तिनको चिहान"
+    },
+    {
+      "surface": "קברתו",
+      "gloss": "तिनको चिहान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "हיום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    }
+  ],
+  "timestamp": "2026-08-26T21:09:17.245862654Z",
+  "model": "glm-5.3"
+}

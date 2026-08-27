@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 49:20",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "ऊ ⟨his⟩ पिताहरूको पुस्तासम्म पुग्नेछ; सदाकालसम्म उनीहरू प्रकाश देख्नेछैनन्।",
+  "tokens": [
+    {
+      "surface": "תבוא",
+      "gloss": "पुग्नेछ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पुस्ता"
+    },
+    {
+      "surface": "אבותיו",
+      "gloss": "उसका पिताहरूको"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "נצח",
+      "gloss": "सदाकाल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יראו",
+      "gloss": "देख्नेछन्"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    }
+  ],
+  "timestamp": "2026-08-26T23:57:48.854958378Z",
+  "model": "glm-5.3"
+}

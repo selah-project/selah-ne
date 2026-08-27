@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 23:25",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "कुनै पनि सेवा-कार्य तिमीहरूले नगर; र यहवेलाई अग्नि-बलि चढाओ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कुनै पनि"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "कार्य"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-कार्य"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "गर"
+    },
+    {
+      "surface": "והקרבתם",
+      "gloss": "र चढाओ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "अग्नि-बलि"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:33:14.897403489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ecclesiastes 5:16",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "उसका सबै दिनहरूमा ऊ अँध्यारोमा खानेछ, र धेरै क्रोध, र उसका रोग र रिस पनि।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "उसका दिनहरूमा"
+    },
+    {
+      "surface": "בחשך",
+      "gloss": "अँध्यारोमा"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ऊ खानेछ"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "र धेरै क्रोध"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "וחליו",
+      "gloss": "उसका रोग"
+    },
+    {
+      "surface": "וקצף",
+      "gloss": "र रिस"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:11.285428417Z",
+  "model": "glm-5.3"
+}

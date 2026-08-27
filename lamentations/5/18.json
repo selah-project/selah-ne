@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "lamentations 5:18",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "सियोन पर्वत — जो उजाड भएको छ — यसको कारण; स्यालहरू त्यसमा हिँड्छन्।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "…को कारण"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "ששמם",
+      "gloss": "उजाड भएको छ"
+    },
+    {
+      "surface": "שועלिझ",
+      "gloss": "स्यालहरू"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "हिँड्छन्"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:18:43.013429709Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 4:1",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "कसरी मढियो सुन! कसरी बदलियो उत्तम खरापान! पवित्रताका ढुङ्गाहरू सबै गल्लीहरूको शिरमा खन्याइए।",
+  "tokens": [
+    {
+      "surface": "איכה",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "יועם",
+      "gloss": "मढियो"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "बदलियो"
+    },
+    {
+      "surface": "הכתם",
+      "gloss": "खरापान"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "תשתפכנה",
+      "gloss": "खन्याइए"
+    },
+    {
+      "surface": "אבני",
+      "gloss": "ढुङ्गाहरू"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्रताका"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "शिरमा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "חוצות",
+      "gloss": "गल्लीहरूको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:12.755910531Z",
+  "model": "glm-5.3"
+}

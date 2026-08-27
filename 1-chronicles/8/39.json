@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 8:39",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "और उनका दाजु एशेकका छोरा: उलाम उनका जेठो, येउश दोस्रो, एलिफेलेत तेस्रो।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और छोरा"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "एशेकका"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उनका दाजु"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "उलाम"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "יעוש",
+      "gloss": "येउश"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "एलिफेलेत"
+    },
+    {
+      "surface": "השלשי",
+      "gloss": "तेस्रो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:27.336918987Z",
+  "model": "glm-5.3"
+}

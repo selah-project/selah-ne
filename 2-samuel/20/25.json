@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 20:25",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र शेवा ⟨थिए⟩ लेखक; र त्सादोक र एभ्यातार ⟨थिए⟩ याजकहरू।",
+  "tokens": [
+    {
+      "surface": "ושיא",
+      "gloss": "र शेवा"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "लेखक"
+    },
+    {
+      "surface": "וצדוק",
+      "gloss": "र त्सादोक"
+    },
+    {
+      "surface": "ואביתר",
+      "gloss": "र एभ्यातार"
+    },
+    {
+      "surface": "כהנים",
+      "gloss": "याजकहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T21:52:20.554938063Z",
+  "model": "glm-5.3"
+}

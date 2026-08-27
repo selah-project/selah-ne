@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 10:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "उनी यहवेको सामु शिकारी वीर हुन्; त्यसैले भनिन्छ, \"निमरोदजस्तै यहवेको सामु शिकारी वीर।\"",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "उनी"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हुन्"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "वीर"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "शिकारी"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "כן",
+      "gloss": "-"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "भनिन्छ"
+    },
+    {
+      "surface": "כנמרד",
+      "gloss": "निमरोदजस्तै"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "वीर"
+    },
+    {
+      "surface": "ציד",
+      "gloss": "शिकारी"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:09.680060096Z",
+  "model": "glm-5.3"
+}

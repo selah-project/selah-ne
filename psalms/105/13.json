@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 105:13",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 105,
+  "translation": "र तिनीहरू जातिबाट जातिमा, राज्यबाट अर्को जनतिमा हिँडिरहे।",
+  "tokens": [
+    {
+      "surface": "ויתהלכו",
+      "gloss": "हिँडिरहे"
+    },
+    {
+      "surface": "מגוי",
+      "gloss": "जातिबाट"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जातिमा"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "מממלכה",
+      "gloss": "राज्यबाट"
+    },
+    {
+      "surface": "אל",
+      "gloss": "जनतिमा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनति"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्को"
+    }
+  ],
+  "timestamp": "2026-08-27T00:11:10.667784965Z",
+  "model": "glm-5.3"
+}

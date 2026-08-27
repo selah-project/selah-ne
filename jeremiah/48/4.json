@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 48:4",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "मोआब भाँचियो; त्यसका सानाहरूले चिच्चाह गराए।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "भाँचियो"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "השמיעו",
+      "gloss": "गराए"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "चिच्चाह"
+    },
+    {
+      "surface": "צעוריה",
+      "gloss": "त्यसका सानाहरूले"
+    }
+  ],
+  "timestamp": "2026-08-26T23:04:29.699856132Z",
+  "model": "glm-5.3"
+}

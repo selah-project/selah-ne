@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 12:1",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "तब इय्योभले उत्तर दिए र भने,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिए"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "इय्योभ"
+    },
+    {
+      "surface": "वיאמר",
+      "gloss": "भने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:33:13.578533724Z",
+  "model": "glm-5.3"
+}

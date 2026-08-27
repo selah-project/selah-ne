@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 33:26",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र तिनीहरू माखेलोतबाट यात्रा गरी ताखातमा डेरा बसाए।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "र यात्रा गरी"
+    },
+    {
+      "surface": "ממקהלת",
+      "gloss": "माखेलोतबाट"
+    },
+    {
+      "surface": "ויחनו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "בתחת",
+      "gloss": "ताखातमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:02.768615940Z",
+  "model": "glm-5.3"
+}

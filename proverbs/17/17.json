@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 17:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "सबै समयमा मित्रले प्रेम गर्छ, र दुःखको निम्ति भाइ जन्मिन्छ।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समयमा"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम गर्छ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "मित्रले"
+    },
+    {
+      "surface": "ואח",
+      "gloss": "र भाइ"
+    },
+    {
+      "surface": "לצרה",
+      "gloss": "दुःखको निम्ति"
+    },
+    {
+      "surface": "יולד",
+      "gloss": "जन्मिन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:18.777681550Z",
+  "model": "glm-5.3"
+}

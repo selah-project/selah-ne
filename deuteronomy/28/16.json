@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 28:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "श्रापित छस् तँ सहरमा, र श्रापित छस् तँ खेतमा।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "श्रापित छस्"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तँ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहरमा"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "र श्रापित छस्"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तँ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेतमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:59.618041621Z",
+  "model": "glm-5.3"
+}

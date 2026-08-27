@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 1:1",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "शलोमोका खोलाहरू — दाविदका छोरा, इस्राएलका राजाका —",
+  "tokens": [
+    {
+      "surface": "משלי",
+      "gloss": "खोलाहरू"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोका"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविदका"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाका"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:05.859899241Z",
+  "model": "glm-5.3"
+}

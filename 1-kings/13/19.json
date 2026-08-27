@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-kings 13:19",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "त्यसैले ऊ ⟨את⟩ उसकोसँग फर्कियो, र उसको घरमा रोटी खायो, र पानी पियो।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "फर्कियो"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसकोसँग"
+    },
+    {
+      "surface": "ויאכל",
+      "gloss": "खायो"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "उसको घरमा"
+    },
+    {
+      "surface": "וישת",
+      "gloss": "पियो"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-08-26T22:03:50.730397591Z",
+  "model": "glm-5.3"
+}

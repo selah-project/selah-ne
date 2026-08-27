@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 19:1",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "यसपछि नाखाश, अम्मोनका सन्तानहरूको राजा, मर्यो, र उनको छोरा उनको सट्टा राजा भयो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "यस"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर्यो"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "नाखाश"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरूको"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोनका"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राजा भयो"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनको छोरा"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उनको सट्टा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:23:33.522872110Z",
+  "model": "glm-5.3"
+}

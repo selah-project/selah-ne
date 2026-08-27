@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 6:13",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र शमुएलका छोराहरू: जेठो वाश्नी, र अबियाह।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र ...का छोराहरू"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएलका"
+    },
+    {
+      "surface": "הבכר",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "वाश्नी"
+    },
+    {
+      "surface": "ואביה",
+      "gloss": "र अबियाह"
+    }
+  ],
+  "timestamp": "2026-08-27T02:21:41.956979176Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 7:12",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "आऊ, मेरो प्रिय, हामी खेतमा निस्कऔं, कपर-गाउँहरूमा रात बिताऔं।",
+  "tokens": [
+    {
+      "surface": "לכה",
+      "gloss": "आऊ"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "मेरो प्रिय"
+    },
+    {
+      "surface": "נצא",
+      "gloss": "हामी निस्कऔं"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेतमा"
+    },
+    {
+      "surface": "נלינה",
+      "gloss": "हामी रात बिताऔं"
+    },
+    {
+      "surface": "בכפרים",
+      "gloss": "कपर-गाउँहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:44:44.718925427Z",
+  "model": "glm-5.3"
+}

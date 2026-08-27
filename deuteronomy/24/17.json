@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 24:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "तिमीले आगन्तुक र अनाथको न्याय बङ्ग्याउनु हुँदैन, र विधवाको लुगा धितो लिनु हुँदैन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "हुँदैन"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "बङ्ग्याउनु"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גר",
+      "gloss": "आगन्तुक"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र हुँदैन"
+    },
+    {
+      "surface": "תחבל",
+      "gloss": "धितो लिनु"
+    },
+    {
+      "surface": "בגד",
+      "gloss": "लुगा"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवाको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:51.527022260Z",
+  "model": "glm-5.3"
+}

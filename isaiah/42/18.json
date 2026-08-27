@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 42:18",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "बहिराहरू, सुन! र अन्धाहरू, हेर — देख्नका लागि!",
+  "tokens": [
+    {
+      "surface": "החרשים",
+      "gloss": "बहिराहरू"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुन!"
+    },
+    {
+      "surface": "והעורים",
+      "gloss": "र अन्धाहरू"
+    },
+    {
+      "surface": "הביטו",
+      "gloss": "हेर!"
+    },
+    {
+      "surface": "लראות",
+      "gloss": "देख्नका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T22:36:45.436134309Z",
+  "model": "glm-5.3"
+}

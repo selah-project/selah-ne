@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 9:15",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तब म फर्केँ र पहाडबाट ओर्लेँ, र पहाड आगोमा बलिरहेको थियो, र करारका दुई शिलापट्टिका मेरा दुई हातमाथि थिए।",
+  "tokens": [
+    {
+      "surface": "ואפן",
+      "gloss": "फर्केँ"
+    },
+    {
+      "surface": "וארד",
+      "gloss": "ओर्लेँ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "र पहाड"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बलिरहेको थियो"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "לחת",
+      "gloss": "शिलापट्टिका"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "करारका"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हात"
+    }
+  ],
+  "timestamp": "2026-08-26T20:57:31.765298040Z",
+  "model": "glm-5.3"
+}

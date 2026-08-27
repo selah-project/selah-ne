@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 8:3",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "उसको सामुन्नेबाट हतार नगर, ⟨जान सक्छौ⟩; खराब कुरामा नउभै; किनकि जे उसलाई मन लाग्छ, त्यही ऊ गर्छ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "हतार नगर"
+    },
+    {
+      "surface": "מפניו",
+      "gloss": "उसको सामुन्नेबाट"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "जान सक्छौ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "उभिनु"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "कुरामा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "יחפץ",
+      "gloss": "मन लाग्छ"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गर्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T02:19:11.701187441Z",
+  "model": "glm-5.3"
+}

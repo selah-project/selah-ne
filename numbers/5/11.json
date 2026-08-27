@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 5:11",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "तब यहवेले मोशेसँग बोल्नुभयो, भन्नुभयो",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "तब बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:37:41.690312267Z",
+  "model": "glm-5.3"
+}

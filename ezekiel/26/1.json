@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 26:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "अनि एघारौँ वर्षमा, महिनाको पहिलो दिन, यहवेको वचन ममा आयो, भन्दैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "בעשתי",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "एघारौँ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "באחד",
+      "gloss": "पहिलो दिनमा"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:20:24.037762074Z",
+  "model": "glm-5.3"
+}

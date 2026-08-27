@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 11:24",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "यी कामहरू बेनायाहूले गरे — यहोयादाका छोरा — र उनको नाउँ तीन वीरहरूमा ⟨नै⟩ थियो।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गरे"
+    },
+    {
+      "surface": "בניהו",
+      "gloss": "बेनायाहूले"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादाका"
+    },
+    {
+      "surface": "ולו",
+      "gloss": "र उनको"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाउँ"
+    },
+    {
+      "surface": "בשלושה",
+      "gloss": "तीन ... मा"
+    },
+    {
+      "surface": "הגברים",
+      "gloss": "वीरहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T02:22:28.976269805Z",
+  "model": "glm-5.3"
+}

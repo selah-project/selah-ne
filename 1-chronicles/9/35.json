@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 9:35",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र गिबोनमा बसे गिबोनका पिता यिएल ⟨र उनकी⟩ पत्नीको नाम माआखा।",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "र गिबोनमा"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबोनका"
+    },
+    {
+      "surface": "יעואל",
+      "gloss": "यिएल"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "र नाम"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उनकी पत्नीको"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माआखा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:23.632690898Z",
+  "model": "glm-5.3"
+}

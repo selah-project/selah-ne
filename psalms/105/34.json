@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "psalms 105:34",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 105,
+  "translation": "उहाँले भन्नुभयो, र टिड्डी आयो, र यलेक टिड्डी — र गणना छैन।",
+  "tokens": [
+    {
+      "surface": "אמר",
+      "gloss": "उहाँले भन्नुभयो"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "र आयो"
+    },
+    {
+      "surface": "ארבה",
+      "gloss": "टिड्डी"
+    },
+    {
+      "surface": "וילק",
+      "gloss": "र यलेक टिड्डी"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गणना"
+    }
+  ],
+  "timestamp": "2026-08-27T00:11:21.173009784Z",
+  "model": "glm-5.3"
+}

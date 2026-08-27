@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 22:20",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "जुन वस्तुमा खराबी छ, त्यो केही नचढाऊ, किनकि त्यो तिमीहरूका लागि स्वीकार्य हुनेछैन।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जुन…केही"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "מום",
+      "gloss": "खराबी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקריבו",
+      "gloss": "चढाऊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "לרצון",
+      "gloss": "स्वीकार्यताका लागि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:32:23.683750762Z",
+  "model": "glm-5.3"
+}

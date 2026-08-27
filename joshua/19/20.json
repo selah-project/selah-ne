@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 19:20",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र हरब्बित, किश्योन र एबेस,",
+  "tokens": [
+    {
+      "surface": "והרבית",
+      "gloss": "र हरब्बित"
+    },
+    {
+      "surface": "וקשיון",
+      "gloss": "र किश्योन"
+    },
+    {
+      "surface": "ואבץ",
+      "gloss": "र एबेस"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:42.555173515Z",
+  "model": "glm-5.3"
+}

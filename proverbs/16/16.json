@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 16:16",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "बुद्धि किन्नु कति राम्रो सुनभन्दा हो! र बुझ किन्नु चाँदीभन्दा रोजिएको छ।",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "किन्नु"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कति"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "מחרוץ",
+      "gloss": "सुनभन्दा"
+    },
+    {
+      "surface": "וקנות",
+      "gloss": "र किन्नु"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुझ"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "रोजिएको छ"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "चाँदीभन्दा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:24.428918184Z",
+  "model": "glm-5.3"
+}

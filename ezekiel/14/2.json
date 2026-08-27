@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 14:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र यहवेको वचन मेरो नजिक भयो, यसो भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र…भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरो नजिक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:14:50.629934177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 9:19",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तीन जना, यिनीहरू नोखका सन्तान हुन्; र यिनैबाट सारा पृथ्वी ⟨छरिएर⟩ फैलियो।",
+  "tokens": [
+    {
+      "surface": "שלשה",
+      "gloss": "तीन जना"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यिनीहरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोखका"
+    },
+    {
+      "surface": "ומאלה",
+      "gloss": "र यिनैबाट"
+    },
+    {
+      "surface": "נפצה",
+      "gloss": "छरिएर फैलियो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:32.188039782Z",
+  "model": "glm-5.3"
+}

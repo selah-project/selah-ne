@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "joshua 19:37",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र केदेश, र एद्रेइ, र एन-खात्सोर।",
+  "tokens": [
+    {
+      "surface": "וקדש",
+      "gloss": "र केदेश"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "र एद्रेइ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "र एन"
+    },
+    {
+      "surface": "חצור",
+      "gloss": "खात्सोर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:54.684432978Z",
+  "model": "glm-5.3"
+}

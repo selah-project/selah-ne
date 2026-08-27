@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 3:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उहाँले मलाई भन्नुभयो, हे मानिसका सन्तान, जे पाउँछौ त्यो खाऊ; यो ⟨the⟩ मगमारा खाऊ, र जाऊ, इस्राएलको घरानासँग बोल्।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "उहाँले भन्नुभयो"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसका"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे पाउँछौ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "पाउँछौ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "אכול",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो मगमारा"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "मगमारा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ולך",
+      "gloss": "र जाऊ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरानाको"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-26T23:12:05.142361937Z",
+  "model": "glm-5.3"
+}

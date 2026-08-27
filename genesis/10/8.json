@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 10:8",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "और कूशले ⟨את⟩ निमरोदलाई जन्म दियो; ऊ ⟨the⟩ जमिनमा बलवान बन्न थाल्यो।",
+  "tokens": [
+    {
+      "surface": "וכוש",
+      "gloss": "और कूश"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "निमरोद"
+    },
+    {
+      "surface": "נמרד",
+      "gloss": "निमरोद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "החל",
+      "gloss": "थाल्यो"
+    },
+    {
+      "surface": "להיות",
+      "gloss": "बन्न"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "जमिनमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:48:45.626857738Z",
+  "model": "glm-5.3"
+}

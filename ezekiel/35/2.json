@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 35:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "मानवको छोरा, आफ्नो अनुहार सेइर पर्वततर्फ राख, र त्यसविरुद्ध भविष्यवाणी गर।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानवको"
+    },
+    {
+      "surface": "שים",
+      "gloss": "राख"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "आफ्नो अनुहार"
+    },
+    {
+      "surface": "על",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "והנבא",
+      "gloss": "र भविष्यवाणी गर"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्यसविरुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-26T23:26:46.139667648Z",
+  "model": "glm-5.3"
+}

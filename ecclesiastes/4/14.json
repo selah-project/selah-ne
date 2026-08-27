@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 4:14",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "किनकि ऊ बन्दीहरूको घरबाट निस्किएर राजा बन्न गयो, किनकि उसकै राज्यमा ऊ गरिब जन्मिएको थियो।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "बाट घर"
+    },
+    {
+      "surface": "הסורים",
+      "gloss": "बन्दीहरूको"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निस्किएर"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजा बन्न"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "नै"
+    },
+    {
+      "surface": "במלכותו",
+      "gloss": "उसकै राज्यमा"
+    },
+    {
+      "surface": "נולד",
+      "gloss": "जन्मिएको थियो"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरिब"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:49.768233476Z",
+  "model": "glm-5.3"
+}

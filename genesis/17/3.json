@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 17:3",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अब्राम अनुहार धर ढले, र एलोहीमले उनलाई ⟨את⟩ वाणी गर्नुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ढले"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अब्राम"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आफ्नो अनुहार"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "र वाणी गर्नुभयो"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उनलाई"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T19:46:30.886029074Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "joshua 15:49",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र दन्ना, र किर्यत-सन्ना — त्यही ⟨हो⟩ देबिर।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "र दन्ना"
+    },
+    {
+      "surface": "וקרית",
+      "gloss": "र किर्यत"
+    },
+    {
+      "surface": "סנה",
+      "gloss": "सन्ना"
+    },
+    {
+      "surface": "היא",
+      "gloss": "त्यही ⟨हो⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "देबिर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:17.595779359Z",
+  "model": "glm-5.3"
+}

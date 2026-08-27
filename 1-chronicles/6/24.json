@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 6:24",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र उनका भाइ आसाफ — उनको दायाँतिर उभिने — आसाफ बेरेख्याहूका छोरा शिमेआका छोरा।",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "र उनका भाइ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफ"
+    },
+    {
+      "surface": "העמד",
+      "gloss": "उभिने"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि\/तिर"
+    },
+    {
+      "surface": "ימינו",
+      "gloss": "उनको दायाँ"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ברכיהו",
+      "gloss": "बेरेख्याहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שמעא",
+      "gloss": "शिमेआ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:51.272944729Z",
+  "model": "glm-5.3"
+}

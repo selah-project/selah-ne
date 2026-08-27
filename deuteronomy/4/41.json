@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "deuteronomy 4:41",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "त्यसबेला मोशेले यर्दनको पारि, सूर्योदयको दिशातिर तीन वटा नगरहरू छुट्याए।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "त्यसबेला"
+    },
+    {
+      "surface": "יבדיל",
+      "gloss": "छुट्याए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरहरू"
+    },
+    {
+      "surface": "בעבר",
+      "gloss": "पारि"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "यर्दनको"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "पूर्व दिशातिर"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूर्योदयको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:54:54.044766761Z",
+  "model": "glm-5.3"
+}

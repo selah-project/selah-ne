@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "esther 4:2",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "अनि राजाको ढोकाअगाडि सम्म आए, किनकि जुटोको कपडा लगाएर राजाको ढोकामा पस्न ⟨सकिँदैन⟩ थियो।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "अनि आए"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "थिएन"
+    },
+    {
+      "surface": "לבוא",
+      "gloss": "पस्न"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "בלבוש",
+      "gloss": "लगाएर"
+    },
+    {
+      "surface": "שק",
+      "gloss": "जुटोको कपडा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:53:45.938524322Z",
+  "model": "glm-5.3"
+}

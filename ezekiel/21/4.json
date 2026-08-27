@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 21:4",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "तब सबै बस्तुले देख्नेछ कि म यहवे हुँ, मैले त्यसलाई सल्काएको हुँ; त्यो निभ्नेछैन।",
+  "tokens": [
+    {
+      "surface": "וראו",
+      "gloss": "तब देख्नेछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "बस्तुले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בערתיה",
+      "gloss": "मैले त्यसलाई सल्काएको हुँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "निभ्नेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:18:34.272777706Z",
+  "model": "glm-5.3"
+}

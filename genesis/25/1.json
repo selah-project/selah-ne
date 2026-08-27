@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 25:1",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "अभ्राहामले फेरि ⟨एक⟩ स्त्री लिनुभयो, र तिनको नाम केतुराह थियो।",
+  "tokens": [
+    {
+      "surface": "ויסף",
+      "gloss": "फेरि"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहामले"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लिनुभयो"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "र तिनको नाम"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "केतुराह"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:24.121864954Z",
+  "model": "glm-5.3"
+}

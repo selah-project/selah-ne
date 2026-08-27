@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 26:21",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र उनीहरूले अर्को कुवा खने र त्यसमा पनि झगडा गरे, र उसले त्यसको नाउँ शित्नाह राख्यो।",
+  "tokens": [
+    {
+      "surface": "ויחפרו",
+      "gloss": "र खने"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कुवा"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "अर्को"
+    },
+    {
+      "surface": "ויריבו",
+      "gloss": "र झगडा गरे"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "र राख्यो"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "नाउँ"
+    },
+    {
+      "surface": "שטנה",
+      "gloss": "शित्नाह"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:49.135998991Z",
+  "model": "glm-5.3"
+}

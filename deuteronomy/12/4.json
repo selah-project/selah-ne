@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 12:4",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "तिमीहरूले आफ्ना एलोहीम यहवेलाई यसो गर्नेछैनौ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "गर्नेछैनौ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "आफ्ना एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:58:55.914104005Z",
+  "model": "glm-5.3"
+}

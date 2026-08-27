@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 7:11",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "मेरो कवच एलोहीममाथि ⟨छ⟩, सीधा हृदय भएकाहरूको उद्धारकर्ता।",
+  "tokens": [
+    {
+      "surface": "מגני",
+      "gloss": "मेरो कवच"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "उद्धारकर्ता"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "सीधा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-26T23:50:12.670360010Z",
+  "model": "glm-5.3"
+}

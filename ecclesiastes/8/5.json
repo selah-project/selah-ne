@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 8:5",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "आज्ञा पालन गर्नेले खराब कुरा जान्दैन, र समय र न्यायलाई बुद्धिमानको हृदयले जान्छ।",
+  "tokens": [
+    {
+      "surface": "שומר",
+      "gloss": "पालन गर्ने"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्दैन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र समय"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "र न्याय"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदयले"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमानको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:36.688598343Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 32:27",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "हेर, म नै यहवे हुँ, सबै शरीरको एलोहीम; मबाट कुनै पनि कुरा के अद्भुत होस्?",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "शरीरको"
+    },
+    {
+      "surface": "הממני",
+      "gloss": "मबाट"
+    },
+    {
+      "surface": "יפלא",
+      "gloss": "अद्भुत होस्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै पनि"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कुरा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:59:25.378002528Z",
+  "model": "glm-5.3"
+}

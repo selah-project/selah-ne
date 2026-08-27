@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "jeremiah 48:43",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "आतङ्क, र खाडल, र जालो बासिन्दा मोआब, यहवेको वचनअनुसार तिमीमाथि छ।",
+  "tokens": [
+    {
+      "surface": "פחד",
+      "gloss": "आतङ्क"
+    },
+    {
+      "surface": "ופחת",
+      "gloss": "र खाडल"
+    },
+    {
+      "surface": "ופח",
+      "gloss": "र जालो"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तिमीमाथि"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बासिन्दा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचनअनुसार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:06:56.144797562Z",
+  "model": "glm-5.3"
+}

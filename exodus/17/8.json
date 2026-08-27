@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 17:8",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र अमालेक आयो, र रेफिदीममा यिस्राएलसँग लड्यो।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "र आयो"
+    },
+    {
+      "surface": "עמलק",
+      "gloss": "अमालेक"
+    },
+    {
+      "surface": "וילחם",
+      "gloss": "र लड्यो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "ברפידם",
+      "gloss": "रेफिदीममा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:10:25.950074695Z",
+  "model": "glm-5.3"
+}

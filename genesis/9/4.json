@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 9:4",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तर आफ्नो नेफेशसहितको — आफ्नो रगतसहितको — मासु तिमीहरूले खानेछैनौ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "तर"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "בנפשו",
+      "gloss": "आफ्नो नेफेशसहितको"
+    },
+    {
+      "surface": "דמו",
+      "gloss": "आफ्नो रगतसहितको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खानेछैनौ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:06.624775149Z",
+  "model": "glm-5.3"
+}

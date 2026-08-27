@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 24:23",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "येरियाहका छोराहरू: अमर्याह ⟨the⟩ दोस्रो, याखाजिएल ⟨the⟩ तेस्रो, येकामाम ⟨the⟩ चौथो।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र…का छोराहरू"
+    },
+    {
+      "surface": "יריהו",
+      "gloss": "येरियाहका"
+    },
+    {
+      "surface": "אמריהו",
+      "gloss": "अमर्याह"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "יחזיאל",
+      "gloss": "याखाजिएल"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "יקמעם",
+      "gloss": "येकामाम"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:56.860556522Z",
+  "model": "glm-5.3"
+}

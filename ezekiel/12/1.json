@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 12:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "यहवेको वचन ममतर्फ आयो, भन्नुहुँदै,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममतर्फ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-27T02:08:15.208719736Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 16:23",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "र तिम्रा सबै दुष्कर्मपछि यो भयो — हाय, हाय तिम्रो निम्ति, अदोनाइ यहवेको वचन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "רעתך",
+      "gloss": "तिम्रा दुष्कर्म"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रो निम्ति"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-27T02:08:50.585805012Z",
+  "model": "glm-5.3"
+}

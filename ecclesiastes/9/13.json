@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 9:13",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "यो पनि मैले देखेँ — घामतलको बुद्धि, र त्यो मलाई ठूलो ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले देखेँ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "घाम"
+    },
+    {
+      "surface": "וגדולה",
+      "gloss": "र ठूलो"
+    },
+    {
+      "surface": "היא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:04.790182703Z",
+  "model": "glm-5.3"
+}

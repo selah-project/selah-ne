@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 89:28",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 89,
+  "translation": "पनि म उसलाई जेठो बनाउनेछु, पृथ्वीका राजाहरूमा सर्वोच्च।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "בכור",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "אתנהו",
+      "gloss": "उसलाई बनाउनेछु"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "सर्वोच्च"
+    },
+    {
+      "surface": "למלכי",
+      "gloss": "राजाहरूमा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वीका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:07:31.832249043Z",
+  "model": "glm-5.3"
+}

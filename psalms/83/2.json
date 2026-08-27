@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 83:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 83,
+  "translation": "हे एलोहीम, तपाईँ निर्वाण नहोस्; मौन नरहनुहोस् र शान्त नबस्नुहोस्, हे एल!",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "हे एलोहीम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न...होस्"
+    },
+    {
+      "surface": "דמי",
+      "gloss": "निर्वाण"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तपाईँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "नरहनुहोस्"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "मौन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र नबस्नुहोस्"
+    },
+    {
+      "surface": "תשקט",
+      "gloss": "शान्त"
+    },
+    {
+      "surface": "אל",
+      "gloss": "हे एल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:22.116757918Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 32:10",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "त्यसै दिन यहवेको क्रोध बल्यो, र उहाँ शपथ गर्नुभयो भन्नुहुँदै —",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "बल्यो"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यसै"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "शपथ गर्नुभयो"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:03.314276747Z",
+  "model": "glm-5.3"
+}

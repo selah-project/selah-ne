@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 6:36",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "बुक्की उनका छोरा, उज्जी उनका छोरा, जरख्याह उनका छोरा।",
+  "tokens": [
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज्जी"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "जरख्याह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:43.664553552Z",
+  "model": "glm-5.3"
+}

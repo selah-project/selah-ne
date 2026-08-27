@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 24:1",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र यहवेले मोशेलाई व्यवस्था गर्नुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र … व्यवस्था गर्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेलाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:33:22.049369540Z",
+  "model": "glm-5.3"
+}

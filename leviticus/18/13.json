@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 18:13",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "आफ्नी आमाकी बहिनीको नाङगोपन नखोल्; किनभने ऊ आमाकै मासु हो।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नाङगोपन"
+    },
+    {
+      "surface": "אחות",
+      "gloss": "बहिनीको"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "आमाकी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोल्"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "אמך",
+      "gloss": "आमाकै"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:59.975687294Z",
+  "model": "glm-5.3"
+}

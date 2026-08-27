@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 25:23",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र देदानलाई, र तेमालाई, र बुजलाई, र कपालका किनारा काट्नेहरू सबैलाई।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "देदान"
+    },
+    {
+      "surface": "דדן",
+      "gloss": "देदान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "तेमा"
+    },
+    {
+      "surface": "תימא",
+      "gloss": "तेमा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "बुज"
+    },
+    {
+      "surface": "בוז",
+      "gloss": "बुज"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "कपालका किनारा काट्नेहरू सबै"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "קצוצי",
+      "gloss": "काट्नेहरू"
+    },
+    {
+      "surface": "פאה",
+      "gloss": "किनारा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:54:16.182979357Z",
+  "model": "glm-5.3"
+}

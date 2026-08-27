@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-samuel 7:4",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अनि त्यही रातमा भयो, र यहवेको वचन नातानकहाँ आयो, यो भन्नको लागि।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रातमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्नको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T21:46:00.818205627Z",
+  "model": "glm-5.3"
+}

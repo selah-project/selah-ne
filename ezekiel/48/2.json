@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 48:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र दानको सीमामा, पूर्वी छेउदेखि पश्चिमी छेउसम्म — आशेर, एउटा ⟨भाग⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दानको"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "छेउदेखि"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्वी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "छेउ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिमी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेर"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:31:36.165488237Z",
+  "model": "glm-5.3"
+}

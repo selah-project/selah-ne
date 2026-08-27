@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 118:23",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 118,
+  "translation": "यहवेको ⟨את⟩-तर्फबाट यो भयो; यो हाम्रा आँखामा आश्चर्यजनक छ।",
+  "tokens": [
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-तर्फबाट",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "היא",
+      "gloss": "यो"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "आश्चर्यजनक"
+    },
+    {
+      "surface": "בעינינו",
+      "gloss": "हाम्रा आँखामा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:01.913344308Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 3:11",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र ⟨the⟩ पुरोहितले त्यसलाई वेदीमा बाल्नेछ — यहवेका लागि अग्नि-बलिको खाना",
+  "tokens": [
+    {
+      "surface": "והקטירו",
+      "gloss": "बाल्नेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "वेदीमा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "अग्नि-बलिको"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:22:27.015919240Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 12:14",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "यिर्मेयाहू दसौँ, मakhबन्नाइ एघारौँ।",
+  "tokens": [
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "העשירי",
+      "gloss": "दसौँ"
+    },
+    {
+      "surface": "מכבני",
+      "gloss": "मखबन्नाइ"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "एघार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(-ौँ)"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:32.799949602Z",
+  "model": "glm-5.3"
+}

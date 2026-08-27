@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 11:25",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र तिनीहरूको शव बोक्ने हरेकले आफ्ना लुगा धुनेछ र साँझसम्म अशुद्ध हुनेछ।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र हरेक"
+    },
+    {
+      "surface": "הנשא",
+      "gloss": "बोक्ने"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "तिनीहरूको शव"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "धुनेछ"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "आफ्ना लुगा"
+    },
+    {
+      "surface": "וטמא",
+      "gloss": "र अशुद्ध हुनेछ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:31.437777345Z",
+  "model": "glm-5.3"
+}

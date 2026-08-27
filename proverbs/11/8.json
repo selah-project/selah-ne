@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 11:8",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "धर्मी सङ्कटबाट निकालिन्छ, र दुष्ट उसको ठाउँमा आउँछ।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "मצרה",
+      "gloss": "सङ्कटबाट"
+    },
+    {
+      "surface": "नחלץ",
+      "gloss": "निकालिन्छ"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "र आउँछ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसको ठाउँमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:45.666615437Z",
+  "model": "glm-5.3"
+}

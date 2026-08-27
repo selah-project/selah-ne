@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 6:22",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र यहवेले मोशेसँग बोल्नुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:13.411520705Z",
+  "model": "glm-5.3"
+}

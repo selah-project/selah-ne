@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "nehemiah 8:5",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र एज्राले सबै जनताका आँखाअगाडि पुस्तक खोल्नुभयो — किनकि ऊ सबै जनताभन्दा माथि थियो — र उहाँले खोल्दा सबै जनता उभिए।",
+  "tokens": [
+    {
+      "surface": "ויפתח",
+      "gloss": "र खोल्नुभयो"
+    },
+    {
+      "surface": "עזרא",
+      "gloss": "एज्रा"
+    },
+    {
+      "surface": "हספר",
+      "gloss": "पुस्तक"
+    },
+    {
+      "surface": "לעיני",
+      "gloss": "आँखाअगाडि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थियो"
+    },
+    {
+      "surface": "וכפתחו",
+      "gloss": "र खोल्दा"
+    },
+    {
+      "surface": "עמדו",
+      "gloss": "उभिए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "हעם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:40.122347614Z",
+  "model": "glm-5.3"
+}

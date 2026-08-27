@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 33:31",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "होशियार होओ, अहियोब, मलाई सुन; मौन बस, अनि म बोल्नेछु।",
+  "tokens": [
+    {
+      "surface": "हקשב",
+      "gloss": "होशियार होओ"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अहियोब"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "मौन बस"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "अनि म"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोल्नेछु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:39:18.107778835Z",
+  "model": "glm-5.3"
+}

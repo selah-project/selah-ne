@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "lamentations 3:44",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तपाईंले बादलले आफूलाई ढाक्नुभयो, प्रार्थना नाघ्न नपाओस् भनी।",
+  "tokens": [
+    {
+      "surface": "סכותה",
+      "gloss": "ढाक्नुभयो"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "बादलले"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफूलाई"
+    },
+    {
+      "surface": "מעבור",
+      "gloss": "नाघ्न नपाओस् भनी"
+    },
+    {
+      "surface": "תפלה",
+      "gloss": "प्रार्थना"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:21.622859674Z",
+  "model": "glm-5.3"
+}

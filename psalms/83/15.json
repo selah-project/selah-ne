@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 83:15",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 83,
+  "translation": "जसरी आगोले जङ्गल बाल्छ, र ज्योतिले पहाडहरू दन्क्याउँछ।",
+  "tokens": [
+    {
+      "surface": "כאש",
+      "gloss": "जसरी आगो"
+    },
+    {
+      "surface": "תבער",
+      "gloss": "बाल्छ"
+    },
+    {
+      "surface": "יער",
+      "gloss": "जङ्गल"
+    },
+    {
+      "surface": "וכלהबה",
+      "gloss": "र ज्योतिले"
+    },
+    {
+      "surface": "תלהט",
+      "gloss": "दन्क्याउँछ"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाडहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:13.779306432Z",
+  "model": "glm-5.3"
+}

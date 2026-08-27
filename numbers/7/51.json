@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "numbers 7:51",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एउटा बछौरा, गोठको छोरा; एउटा भाले बेटो; एउटा एक वर्षको छोरा भाले भेडा, होमबलिका लागि।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछौरा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गोठको"
+    },
+    {
+      "surface": "איל",
+      "gloss": "भाले बेटो"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भाले भेडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक वर्षको"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "होमबलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:30.684737954Z",
+  "model": "glm-5.3"
+}

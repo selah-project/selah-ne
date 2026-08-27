@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 1:8",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "त्यसपछि मिस्रमाथि एउटा नयाँ राजा उठे, जसले योसेफलाई चिनेनन्।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठे"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नयाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्र"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "चिनेनन्"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "चिन्ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योसेफलाई"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:26.492972301Z",
+  "model": "glm-5.3"
+}

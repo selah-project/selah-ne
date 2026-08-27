@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 2:1",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र मैले ⟨את⟩ मेरा आँखाहरू उठाएँ, र देखेँ — र हेर, चारवटा सिङ्गहरू।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "उठाएँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेरा आँखाहरू"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आँखाहरू"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "देखेँ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "קרנות",
+      "gloss": "सिङ्गहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T23:46:35.752484926Z",
+  "model": "glm-5.3"
+}

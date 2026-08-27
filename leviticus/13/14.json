@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 13:14",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "तर जुन दिन उसमा जीवित मासु देखिन्छ, त्यसैले ऊ अशुद्ध ठहरिनेछ।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "तर जुन दिन"
+    },
+    {
+      "surface": "הראות",
+      "gloss": "देखिन्छ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमा"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध ठहरिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:14.446359649Z",
+  "model": "glm-5.3"
+}

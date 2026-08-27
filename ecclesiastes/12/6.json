@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 12:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "अझैसम्म जब चाँदीको डोरी टाढिएको छैन, र सुनको गोला भाँचिएको छैन, र घडा झरनामा फुटेको छैन, र चक्का खाडलतिर भाँचिएको छैन।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "अझैसम्म"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "टाढिएको"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "डोरी"
+    },
+    {
+      "surface": "הכסף",
+      "gloss": "चाँदीको"
+    },
+    {
+      "surface": "ותרץ",
+      "gloss": "र भाँचिएको छैन"
+    },
+    {
+      "surface": "גלת",
+      "gloss": "गोला"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सुनको"
+    },
+    {
+      "surface": "ותשבר",
+      "gloss": "र फुटेको छैन"
+    },
+    {
+      "surface": "כד",
+      "gloss": "घडा"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "המבוע",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "ונרץ",
+      "gloss": "र भाँचिएको छैन"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "चक्का"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तिर"
+    },
+    {
+      "surface": "הבור",
+      "gloss": "खाडल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:52:46.683562355Z",
+  "model": "glm-5.3"
+}

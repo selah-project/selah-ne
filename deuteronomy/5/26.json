@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 5:26",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "किनकि सबै शरीरधारीमध्ये कुन ⟨हो⟩, जसले जीवित एलोहीमको स्वर आगोको बीचबाट बोल्दै सुन्यो — हामीले जस्तै — र जियो?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कुन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "शरीरधारी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन्यो"
+    },
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोल्दै"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीचबाट"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आगोको"
+    },
+    {
+      "surface": "כמנו",
+      "gloss": "हामीले जस्तै"
+    },
+    {
+      "surface": "ויחי",
+      "gloss": "र जियो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:56:43.362948842Z",
+  "model": "glm-5.3"
+}

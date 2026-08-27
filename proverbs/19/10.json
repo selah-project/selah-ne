@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 19:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "विलासिता मूर्खका लागि उपयुक्त छैन, झन् कसरी सरदारहरूमाथि दासको शासन!",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "נאוה",
+      "gloss": "उपयुक्त"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "मूर्खका लागि"
+    },
+    {
+      "surface": "תענוג",
+      "gloss": "विलासिता"
+    },
+    {
+      "surface": "אף",
+      "gloss": "झन्"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "לעבד",
+      "gloss": "दासको"
+    },
+    {
+      "surface": "משל",
+      "gloss": "शासन"
+    },
+    {
+      "surface": "בשרים",
+      "gloss": "सरदारहरूमाथि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:45.044565781Z",
+  "model": "glm-5.3"
+}

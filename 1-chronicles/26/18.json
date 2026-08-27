@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 26:18",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "पर्बरमा, पश्चिमतिर, चार; मस्लामा दुई; पर्बरमा।",
+  "tokens": [
+    {
+      "surface": "לפרבר",
+      "gloss": "पर्बरमा"
+    },
+    {
+      "surface": "למערב",
+      "gloss": "पश्चिमतिर"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "למסלה",
+      "gloss": "मस्लामा"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "לפרבר",
+      "gloss": "पर्बरमा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:23:02.973143478Z",
+  "model": "glm-5.3"
+}

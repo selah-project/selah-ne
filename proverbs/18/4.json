@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 18:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "मानिसको मुखका वचनहरू गहिरा पानीजस्ता ⟨हुन्⟩, बुद्धिको उत्स बगिरहेको खोला ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עמקים",
+      "gloss": "गहिरा"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुखका"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "נחल",
+      "gloss": "खोला"
+    },
+    {
+      "surface": "נבע",
+      "gloss": "बगिरहेको"
+    },
+    {
+      "surface": "מקור",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:06.406278411Z",
+  "model": "glm-5.3"
+}

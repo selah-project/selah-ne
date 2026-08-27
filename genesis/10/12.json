@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 10:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र ⟨את⟩ रेसेन — निनवे र कलखबीचको — त्यो ⟨हो⟩ ठूलो सहर हो।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "रेसेन"
+    },
+    {
+      "surface": "רסן",
+      "gloss": "रेसेन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीचको"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवे"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "कलख"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "הגדלה",
+      "gloss": "ठूलो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:09.680605423Z",
+  "model": "glm-5.3"
+}

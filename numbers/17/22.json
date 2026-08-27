@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 17:22",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "मोशेले ⟨את⟩ छडीहरू यहवेको सामु साक्षी-पालमा राख्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וינח",
+      "gloss": "राख्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "छडीहरू"
+    },
+    {
+      "surface": "המטת",
+      "gloss": "छडीहरू"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "पालमा"
+    },
+    {
+      "surface": "העדת",
+      "gloss": "साक्षीको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:44:05.003659390Z",
+  "model": "glm-5.3"
+}

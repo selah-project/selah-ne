@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 9:26",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तर बिन्यामिनका सन्तान — इस्राएलीहरू — बसेको गोशेनको देशमा मात्र ओली परेन।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "तर…मात्र"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "גשן",
+      "gloss": "गोशेनको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "ברד",
+      "gloss": "ओली"
+    }
+  ],
+  "timestamp": "2026-08-26T20:07:20.439800320Z",
+  "model": "glm-5.3"
+}

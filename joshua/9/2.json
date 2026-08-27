@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 9:2",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तिनीहरू एकसाथ जम्मा भए, यहोशुआ र यिसराएलविरुद्ध लड्न — एउटै मुख।",
+  "tokens": [
+    {
+      "surface": "ויתקבצו",
+      "gloss": "जम्मा भए"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड्न"
+    },
+    {
+      "surface": "עם",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "र विरुद्ध"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिसराएल"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटै"
+    }
+  ],
+  "timestamp": "2026-08-26T21:13:53.246298223Z",
+  "model": "glm-5.3"
+}

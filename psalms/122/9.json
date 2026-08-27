@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 122:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 122,
+  "translation": "यहवे हाम्रा एलोहीमको घरको खातिर म तिम्राे कल्याण खोज्नेछु।",
+  "tokens": [
+    {
+      "surface": "למען",
+      "gloss": "को खातिर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हाम्रा एलोहीम"
+    },
+    {
+      "surface": "אבקשה",
+      "gloss": "म खोज्नेछु"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "कल्याण"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रो"
+    }
+  ],
+  "timestamp": "2026-08-27T02:16:40.210264218Z",
+  "model": "glm-5.3"
+}

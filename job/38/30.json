@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "job 38:30",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "पानी ढुङ्गाझैँ लुक्छन्, र गहिराइको सतह जम्छ।",
+  "tokens": [
+    {
+      "surface": "כאבן",
+      "gloss": "ढुङ्गाझैँ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "יתחבאו",
+      "gloss": "लुक्छन्"
+    },
+    {
+      "surface": "ופני",
+      "gloss": "र सतह"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "गहिराइको"
+    },
+    {
+      "surface": "יתלכדו",
+      "gloss": "जम्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:41:28.685946116Z",
+  "model": "glm-5.3"
+}

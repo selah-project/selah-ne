@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 6:26",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "यहवेले ⟨the⟩ आफ्नो अनुहार तिमीतर्फ उठाउनुहोस्, र तिमीलाई शान्ति दिनुहोस्।",
+  "tokens": [
+    {
+      "surface": "ישא",
+      "gloss": "उठाउनुहोस्"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आफ्नो अनुहार"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीतर्फ"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "र दिनुहोस्"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:07.985500506Z",
+  "model": "glm-5.3"
+}

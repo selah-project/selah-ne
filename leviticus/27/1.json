@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 27:1",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र यहवेले मोशेसँग बोल्नुभयो, भन्दै हुनुहुन्थ्यो —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै हुनुहुन्थ्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:28.349326477Z",
+  "model": "glm-5.3"
+}

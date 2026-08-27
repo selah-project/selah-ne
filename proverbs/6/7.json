@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 6:7",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "जससँग कुनै सेनापति छैन, न अधिकारी, न शासक।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जससँग"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "לה",
+      "gloss": ""
+    },
+    {
+      "surface": "קצין",
+      "gloss": "सेनापति"
+    },
+    {
+      "surface": "שטר",
+      "gloss": "अधिकारी"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "न शासक"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:14.657485123Z",
+  "model": "glm-5.3"
+}

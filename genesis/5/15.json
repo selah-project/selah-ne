@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 5:15",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "महललेल पैंतीस वर्ष बाँच्नुभयो, र उहाँले येरेदलाई ⟨את⟩ जन्म दिनुभयो।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्नुभयो"
+    },
+    {
+      "surface": "मהללאל",
+      "gloss": "महललेल"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "र साठी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिनुभयो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "येरेद"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "येरेद"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:08.185181965Z",
+  "model": "glm-5.3"
+}

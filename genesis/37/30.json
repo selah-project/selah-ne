@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 37:30",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "उसले आफ्ना दाजुभाइहरूकहाँ फर्केर भन्यो: „बालक छैन; अनि म, म कहाँ जान्छु?“",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "फर्केर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-कहाँ"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "आफ्ना दाजुभाइहरू"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "अनि म"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "בא",
+      "gloss": "जान्छु"
+    }
+  ],
+  "timestamp": "2026-08-27T01:49:08.303114506Z",
+  "model": "glm-5.3"
+}

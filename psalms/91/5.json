@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 91:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 91,
+  "translation": "रातको आतङ्कबाट तिमी डराउनेछैनौ, दिनमा उड्ने बाणबाट।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डराउनेछैनौ"
+    },
+    {
+      "surface": "מפחד",
+      "gloss": "आतङ्कबाट"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रातको"
+    },
+    {
+      "surface": "מחץ",
+      "gloss": "बाणबाट"
+    },
+    {
+      "surface": "יעוף",
+      "gloss": "उड्ने"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिनमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:24.044837384Z",
+  "model": "glm-5.3"
+}

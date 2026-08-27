@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 13:11",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "यूसेफको कुलका लागि, मनश्शेको कुलका लागि, सूसीका छोरा गद्दी।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "कुलका लागि"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "यूसेफको"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "कुलका लागि"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शेको"
+    },
+    {
+      "surface": "גדי",
+      "gloss": "गद्दी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "סוסי",
+      "gloss": "सूसीका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:05.929530253Z",
+  "model": "glm-5.3"
+}

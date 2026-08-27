@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezra 2:27",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "मिख्मासका मानिसहरू — एक सय बीस दुई।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "मिख्मास"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:54.900520962Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "judges 1:22",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र योसेफको घरानाले पनि बेत-एलतिर गरी चढ्यो, र यहवे तिनीहरूसँग थिए।",
+  "tokens": [
+    {
+      "surface": "ויעלו",
+      "gloss": "र चढ्यो"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरानाले"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफको"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "הם",
+      "gloss": "तिनीहरू"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "र यहवे"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "तिनीहरूसँग थिए"
+    }
+  ],
+  "timestamp": "2026-08-26T21:19:46.112789651Z",
+  "model": "glm-5.3"
+}

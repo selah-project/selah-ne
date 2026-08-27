@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 31:11",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "उसको पतिको हृदय उसमा भरोसा राख्छ, र उसलाई लाभको कमी हुँदैन।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा राख्छ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसमा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "בעלה",
+      "gloss": "उसको पतिको"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "र लाभ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "कमी हुँदैन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:51.801194439Z",
+  "model": "glm-5.3"
+}

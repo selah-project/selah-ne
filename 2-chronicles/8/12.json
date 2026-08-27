@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 8:12",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "तब शलोमोले यहवेका निम्ति वलिदानहरू यहवेको वेदीमा चढाए, जुन उनले भवनको अगाडि बनाएका थिए।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "चढाए"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोले"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "वलिदानहरू"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेका निम्ति"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाएका"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "האולם",
+      "gloss": "भवनको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:35:51.687209369Z",
+  "model": "glm-5.3"
+}

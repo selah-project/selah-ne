@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 24:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "नवौँ येशुअलाई, दशौँ शखन्याहूलाई।",
+  "tokens": [
+    {
+      "surface": "לישוע",
+      "gloss": "येशुअलाई"
+    },
+    {
+      "surface": "התשעי",
+      "gloss": "नवौँ"
+    },
+    {
+      "surface": "לשכניהו",
+      "gloss": "शखन्याहूलाई"
+    },
+    {
+      "surface": "העשרי",
+      "gloss": "दशौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:30.175781612Z",
+  "model": "glm-5.3"
+}

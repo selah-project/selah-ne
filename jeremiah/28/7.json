@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 28:7",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "तर अब त्यो वचन ⟨जुन⟩ म बोल्दैछु त्यसलाई आफ्ना कानहरूमा र सबै जनताका कानहरूमा सुन।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "तर"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "त्यो वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨यो⟩"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जुन⟩"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्दैछु"
+    },
+    {
+      "surface": "באזניך",
+      "gloss": "आफ्ना कानहरूमा"
+    },
+    {
+      "surface": "ובאזני",
+      "gloss": "र …का कानहरूमा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-08-27T02:06:49.764756292Z",
+  "model": "glm-5.3"
+}

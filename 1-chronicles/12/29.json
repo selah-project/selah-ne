@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 12:29",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र त्सादोक — एक जवान, बलवान् योद्धा — र उनका पिताको घरबाट बाइस जना सरदार।",
+  "tokens": [
+    {
+      "surface": "וצדוק",
+      "gloss": "र त्सादोक"
+    },
+    {
+      "surface": "נער",
+      "gloss": "जवान"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान् योद्धा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "पराक्रमको"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र घर"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "उनका पिताको"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:47.801186336Z",
+  "model": "glm-5.3"
+}

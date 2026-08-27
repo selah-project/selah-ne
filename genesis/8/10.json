@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 8:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र उसले अरू सात दिन पर्खिरह्यो, र फेरि परेवालाई ⟨את⟩ डुङ्गाबाट पठायो।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "र उसले पर्खिरह्यो"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अरू"
+    },
+    {
+      "surface": "ויסף",
+      "gloss": "र फेरि"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठायो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परेवालाई"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "परेवालाई"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "डुङ्गाबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:47.063197029Z",
+  "model": "glm-5.3"
+}

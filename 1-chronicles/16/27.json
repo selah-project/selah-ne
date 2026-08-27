@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 16:27",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "उहाँको सामु होद् र हादार ⟨छ⟩, उहाँको स्थानमा पराक्रम र आनन्द ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "הוד",
+      "gloss": "होद्"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "र हादार"
+    },
+    {
+      "surface": "לפניו",
+      "gloss": "उहाँको सामु"
+    },
+    {
+      "surface": "עז",
+      "gloss": "पराक्रम"
+    },
+    {
+      "surface": "וחדוה",
+      "gloss": "र आनन्द"
+    },
+    {
+      "surface": "במקמו",
+      "gloss": "उहाँको स्थानमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:22:25.206515984Z",
+  "model": "glm-5.3"
+}

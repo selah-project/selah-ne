@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "2-samuel 24:19",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र दाउद यहवेले आज्ञा दिनुभएअनुसार गादको वचनअनुसार माथि गए।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "माथि गए"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउद"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "वचनअनुसार"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादको"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसरी"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिनुभए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:55:06.331873284Z",
+  "model": "glm-5.3"
+}

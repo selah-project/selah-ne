@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 11:28",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "इरा, इक्केशको छोरा, ⟨सें⟩ तेकोई; अवीएजेर, ⟨सें⟩ अनातोती।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…को छोरा"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "इक्केश"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "तेकोई"
+    },
+    {
+      "surface": "אביעזר",
+      "gloss": "अवीएजेर"
+    },
+    {
+      "surface": "הענתותי",
+      "gloss": "अनातोती"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:07.203503018Z",
+  "model": "glm-5.3"
+}

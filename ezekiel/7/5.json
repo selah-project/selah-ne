@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 7:5",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यसो भन्नुभयो अदोनाइ यहवेले: एउटा विपत्ति, एउटै विपत्ति, हेर, आउँदैछ।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "विपत्ति"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "विपत्ति"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आउँदैछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:11:41.094182844Z",
+  "model": "glm-5.3"
+}

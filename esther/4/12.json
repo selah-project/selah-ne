@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "esther 4:12",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "उनीहरूले मर्दोखैलाई एस्तरका वचनहरू ⟨את⟩ बताए।",
+  "tokens": [
+    {
+      "surface": "ויגידו",
+      "gloss": "बताए"
+    },
+    {
+      "surface": "למרדכי",
+      "gloss": "मर्दोखैलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचनहरू"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तरका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:53:32.836918864Z",
+  "model": "glm-5.3"
+}

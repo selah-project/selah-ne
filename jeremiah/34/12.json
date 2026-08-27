@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 34:12",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "र यहवेको वचन यहवेको ⟨את⟩-पक्षबाट यिर्मियाहूलाई आयो, भन्दै हुँदै,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहू"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-पक्षबाट"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै हुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T22:59:43.519793806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 141,
+  "ref": "psalms 119:141",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "सानो र तुच्छ म छु, तापनि तिम्रा विधानहरू म बिर्सिनँ।",
+  "tokens": [
+    {
+      "surface": "צעיר",
+      "gloss": "सानो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "ונבזה",
+      "gloss": "र तुच्छ"
+    },
+    {
+      "surface": "פקדיך",
+      "gloss": "तिम्रा विधानहरू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "שכחתי",
+      "gloss": "म बिर्सिनँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:14:55.572087442Z",
+  "model": "glm-5.3"
+}

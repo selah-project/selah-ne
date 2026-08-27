@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 82:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 82,
+  "translation": "दुर्बल र अनाथको न्याय गर, हीन र निर्धनलाई धर्मी ठहराऊ।",
+  "tokens": [
+    {
+      "surface": "שפטו",
+      "gloss": "न्याय गर"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दुर्बल"
+    },
+    {
+      "surface": "וגתום",
+      "gloss": "र अनाथको"
+    },
+    {
+      "surface": "עני",
+      "gloss": "हीन"
+    },
+    {
+      "surface": "ורש",
+      "gloss": "र निर्धनलाई"
+    },
+    {
+      "surface": "הצדיקו",
+      "gloss": "धर्मी ठहराऊ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:18.575938897Z",
+  "model": "glm-5.3"
+}

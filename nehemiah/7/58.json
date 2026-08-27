@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "nehemiah 7:58",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यालाका छोराहरू, दार्कोनका छोराहरू, गिद्देलका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יעלא",
+      "gloss": "यालाका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "दार्कोनका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "गिद्देलका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:04.022551205Z",
+  "model": "glm-5.3"
+}

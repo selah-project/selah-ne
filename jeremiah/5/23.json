@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 5:23",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "तर यस जनताको हृदय बागी र विद्रोही भयो; तिनीहरू फर्किए र हिँडे।",
+  "tokens": [
+    {
+      "surface": "ולעם",
+      "gloss": "तर जनताको"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "סורר",
+      "gloss": "बागी"
+    },
+    {
+      "surface": "ומורה",
+      "gloss": "र विद्रोही"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "फर्किए"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "र हिँडे"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:50.394653533Z",
+  "model": "glm-5.3"
+}

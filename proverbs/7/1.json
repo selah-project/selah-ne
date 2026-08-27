@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 7:1",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "हे मेरो छोरा, मेरा वचनहरू राख, र मेरा आज्ञाहरू आफूसँग ⟨את⟩ लुकाऊ।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "हे मेरो छोरा"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "राख"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "मेरा वचनहरू"
+    },
+    {
+      "surface": "ומצותי",
+      "gloss": "र मेरा आज्ञाहरू"
+    },
+    {
+      "surface": "תצפן",
+      "gloss": "लुकाऊ"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ आफूसँग",
+      "marks": "आफूसँग"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:04.368043789Z",
+  "model": "glm-5.3"
+}

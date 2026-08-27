@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 22:7",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "धनी गरिबहरूमाथि शासन गर्छ, र ऋण लिने ऋण दिने मानिसको दास हुन्छ।",
+  "tokens": [
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ברשים",
+      "gloss": "गरिबहरूमाथि"
+    },
+    {
+      "surface": "ימשול",
+      "gloss": "शासन गर्छ"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "र दास"
+    },
+    {
+      "surface": "לוה",
+      "gloss": "ऋण लिने"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "מלוה",
+      "gloss": "ऋण दिने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:20.328159420Z",
+  "model": "glm-5.3"
+}

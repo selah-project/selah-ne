@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 58:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 58,
+  "translation": "तिनीहरूको विष सर्पको विषको समान ⟨छ⟩; बहिरो पतेनझैँ, जो आफ्नो कान बन्द गर्छ।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "למו",
+      "gloss": "तिनीहरूको"
+    },
+    {
+      "surface": "כדמות",
+      "gloss": "समान"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "सर्पको"
+    },
+    {
+      "surface": "כמו",
+      "gloss": "जस्तै"
+    },
+    {
+      "surface": "פתן",
+      "gloss": "पतेन"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बहिरो"
+    },
+    {
+      "surface": "יאטם",
+      "gloss": "बन्द गर्छ"
+    },
+    {
+      "surface": "אזנו",
+      "gloss": "आफ्नो कान"
+    }
+  ],
+  "timestamp": "2026-08-26T23:59:47.860791207Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 6:41",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र ⟨את⟩ नगरको खेत र ⟨את⟩ त्यसका चौरहरू उनीहरूले कलेबलाई, येफुन्नेका छोरालाई दिए।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "खेत"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगरको"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "चौरहरू"
+    },
+    {
+      "surface": "חצריה",
+      "gloss": "त्यसका चौरहरू"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "दिए"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "कलेबलाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरालाई"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "येफुन्नेका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:59.459816652Z",
+  "model": "glm-5.3"
+}

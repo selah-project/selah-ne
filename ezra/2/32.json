@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 2:32",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "खारिमका छोराहरू, तीन सय बीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "खारिम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "बीस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:42.581560279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 24:18",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "अनि मोशे बादलको बीचमा पसे र पहाडमाथि चढे; र मोशे पहाडमा चालीस दिन र चालीस रात बसे।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "अनि पसे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादलको"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "र चढे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र बसे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाडमा"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "र चालीस"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:52.768518421Z",
+  "model": "glm-5.3"
+}

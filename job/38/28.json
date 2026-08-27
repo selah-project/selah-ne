@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "job 38:28",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "पानीको कोही बा छ? वा कसले शीतका थोपाहरूलाई जन्म दिएको छ?",
+  "tokens": [
+    {
+      "surface": "היש",
+      "gloss": "छ? के"
+    },
+    {
+      "surface": "למטר",
+      "gloss": "पानीको"
+    },
+    {
+      "surface": "אב",
+      "gloss": "बा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिएको छ"
+    },
+    {
+      "surface": "אגלי",
+      "gloss": "थोपाहरूलाई"
+    },
+    {
+      "surface": "טל",
+      "gloss": "शीतका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:41:21.033794997Z",
+  "model": "glm-5.3"
+}

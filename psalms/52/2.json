@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 52:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 52,
+  "translation": "एदोमी दोएग आउँदा, उसले शाउललाई गर्न ⟨यो⟩ बतायो र उसलाई भन्यो: दाविद अखीमेलेखको घरमा आयो।",
+  "tokens": [
+    {
+      "surface": "בבוא",
+      "gloss": "आउँदा"
+    },
+    {
+      "surface": "דואג",
+      "gloss": "दोएग"
+    },
+    {
+      "surface": "האדמי",
+      "gloss": "एदोमी"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतायो"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाउललाई"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אחימלך",
+      "gloss": "अखीमेलेखको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:46.458225291Z",
+  "model": "glm-5.3"
+}

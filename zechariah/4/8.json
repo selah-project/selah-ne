@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "zechariah 4:8",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "अनि यहवेको वचन मतिर आयो, भन्दै ⟨कि⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतिर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-27T02:32:31.186730817Z",
+  "model": "glm-5.3"
+}

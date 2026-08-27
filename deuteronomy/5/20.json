@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 5:20",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र आफ्नो छिमेकीको विरुद्धमा झूटो साक्षी बनेर उत्तर नदे।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "उत्तर दे"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "आफ्नो छिमेकीको विरुद्धमा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूटो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:19.186454985Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 20:24",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र अदोराम ⟨the⟩ बाध्यकाममाथि थियो, र यहोशाफात, अखिलुदको छोरा, ⟨the⟩ अभिलेखको थियो।",
+  "tokens": [
+    {
+      "surface": "ואדרם",
+      "gloss": "र अदोराम"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "המס",
+      "gloss": "⟨the⟩ बाध्यकाममाथि"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "र यहोशाफात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אחילוד",
+      "gloss": "अखिलुदको"
+    },
+    {
+      "surface": "המזכिन",
+      "gloss": "⟨the⟩ अभिलेखको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:53:14.145395143Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 7:19",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र जुन मास कुनै अशुद्ध कुरामा छुनेछ त्यो खाइनेछैन — आगोमा जलाइनेछ; र मास ⟨is⟩ — जुन शुद्ध हुनेछ, त्यसले मास खानेछ।",
+  "tokens": [
+    {
+      "surface": "והבשר",
+      "gloss": "र मास"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "छुनेछ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कुनै पनि"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध कुरामा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाइनेछ"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "जलाइनेछ"
+    },
+    {
+      "surface": "והבשר",
+      "gloss": "र मास"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खानेछ"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मास"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:50.300472487Z",
+  "model": "glm-5.3"
+}

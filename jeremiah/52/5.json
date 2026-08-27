@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 52:5",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 52,
+  "translation": "र सहर घेराबन्दमा पर्‍यो, त्सिद्कियाहू राजाको एघारौँ वर्षसम्म।",
+  "tokens": [
+    {
+      "surface": "ותבא",
+      "gloss": "पर्‍यो"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "במצור",
+      "gloss": "घेराबन्दमा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "עשתי",
+      "gloss": "एघारौँको"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "צדקיהו",
+      "gloss": "त्सिद्कियाहू"
+    }
+  ],
+  "timestamp": "2026-08-26T23:10:28.341738099Z",
+  "model": "glm-5.3"
+}

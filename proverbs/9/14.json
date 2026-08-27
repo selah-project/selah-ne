@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 9:14",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "ऊ आफ्नो घरको ढोकामुनि बस्छे, सहरका उच्च स्थानहरूको आसनमा।",
+  "tokens": [
+    {
+      "surface": "וישבה",
+      "gloss": "र ऊ बस्छे"
+    },
+    {
+      "surface": "לפתח",
+      "gloss": "ढोकामुनि"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "आफ्नो घरको"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "आसन"
+    },
+    {
+      "surface": "מרמי",
+      "gloss": "उच्च स्थानहरूको"
+    },
+    {
+      "surface": "קרת",
+      "gloss": "सहरका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:12.490447156Z",
+  "model": "glm-5.3"
+}

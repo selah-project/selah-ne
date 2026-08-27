@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 11:16",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र ⟨את⟩ यानाको छोरी, र ⟨את⟩ तखमास, र ⟨את⟩ शखफ, र ⟨את⟩ नेत्स — त्यसको प्रकारअनुसार।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "यानाको छोरी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "היענा",
+      "gloss": "याना"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "तखमास"
+    },
+    {
+      "surface": "התחמס",
+      "gloss": "तखमास"
+    },
+    {
+      "surface": "ו׆ת",
+      "gloss": "⟨את⟩",
+      "marks": ""
+    },
+    {
+      "surface": "השחף",
+      "gloss": "शखफ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "नेत्स"
+    },
+    {
+      "surface": "הנץ",
+      "gloss": "नेत्स"
+    },
+    {
+      "surface": "למינהו",
+      "gloss": "त्यसको प्रकारअनुसार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:58.344850369Z",
+  "model": "glm-5.3"
+}

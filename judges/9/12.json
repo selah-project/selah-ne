@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "judges 9:12",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र रूखहरूले दाखको बिरुवालाई भने: तिमी आउ, हामीमाथि राज्य गर।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "र…भने"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "रूखहरूले"
+    },
+    {
+      "surface": "לגפן",
+      "gloss": "दाखको बिरुवालाई"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "את",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "מלוכי",
+      "gloss": "राज्य गर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हामीमाथि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:57:21.736228659Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 23:3",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र गरिबलाई उसको मुद्दामा विशेष सम्मान गर्ने होइन।",
+  "tokens": [
+    {
+      "surface": "ודל",
+      "gloss": "र गरिबलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תהדר",
+      "gloss": "विशेष सम्मान गर्ने"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "उसको मुद्दामा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:40.197003814Z",
+  "model": "glm-5.3"
+}

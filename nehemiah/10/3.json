@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "nehemiah 10:3",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "सेरायाह, अजर्याह, यिर्मेयाह,",
+  "tokens": [
+    {
+      "surface": "שריה",
+      "gloss": "सेरायाह"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्याह"
+    },
+    {
+      "surface": "ירמיה",
+      "gloss": "यिर्मेयाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:01.135106025Z",
+  "model": "glm-5.3"
+}

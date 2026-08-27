@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 32:19",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "जङ्गल ढल्दा असिना पर्नेछ, र सहर तल्लो ठाउँमा तल झर्नेछ।",
+  "tokens": [
+    {
+      "surface": "וברד",
+      "gloss": "र असिना"
+    },
+    {
+      "surface": "ברדת",
+      "gloss": "पर्नेछ"
+    },
+    {
+      "surface": "היער",
+      "gloss": "जङ्गल"
+    },
+    {
+      "surface": "ובשפलה",
+      "gloss": "र तल्लो ठाउँमा"
+    },
+    {
+      "surface": "תשפל",
+      "gloss": "तल झर्नेछ"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहर"
+    }
+  ],
+  "timestamp": "2026-08-26T22:32:14.213618572Z",
+  "model": "glm-5.3"
+}

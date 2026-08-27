@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 14:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "सबै बाटो बाट बहकेका छन्, सबै सँगै नै दूषित भएका छन्; असल गर्ने कोही छैन, एउटै पनि छैन।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "סר",
+      "gloss": "बहकेका छन्"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "सँगै"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "दूषित भएका छन्"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्ने"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:51:18.412713741Z",
+  "model": "glm-5.3"
+}

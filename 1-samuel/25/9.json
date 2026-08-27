@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-samuel 25:9",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "दाउदका जवानहरू आए र दाउदको नाममा यी सबै कुराहरू नाबाललाई भने, र ⟨उनीहरू⟩ चुप भए।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "जवानहरू"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउदका"
+    },
+    {
+      "surface": "וידברו",
+      "gloss": "भने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नाबाल"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाममा"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउदको"
+    },
+    {
+      "surface": "וינוחו",
+      "gloss": "चुप भए"
+    }
+  ],
+  "timestamp": "2026-08-26T21:40:54.779216258Z",
+  "model": "glm-5.3"
+}

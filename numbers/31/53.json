@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "numbers 31:53",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "किनकि सेनाका मानिसहरूले लुटे, प्रत्येक मानिसले आफ्नै लागि।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरूले"
+    },
+    {
+      "surface": "הצבא",
+      "gloss": "सेनाका"
+    },
+    {
+      "surface": "בזזו",
+      "gloss": "लुटे"
+    },
+    {
+      "surface": "איש",
+      "gloss": "प्रत्येक मानिस"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आफ्नै लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:42.119190546Z",
+  "model": "glm-5.3"
+}

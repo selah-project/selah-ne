@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 17:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अहरोन मोशेकहाँ, मोभ भेलाको तम्पोको ढोकामा फर्कियो, र महामारी रोकियो।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "फर्कियो"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "तम्पो"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोभ भेला"
+    },
+    {
+      "surface": "והמגפה",
+      "gloss": "र महामारी"
+    },
+    {
+      "surface": "נעצרה",
+      "gloss": "रोकियो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:43:39.953504809Z",
+  "model": "glm-5.3"
+}

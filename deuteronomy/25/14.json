@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 25:14",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "तिम्रो घरमा एपा र एपा — ठूलो र सानो — नहोओस्।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "होओस्"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रो"
+    },
+    {
+      "surface": "בביתך",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "איפה",
+      "gloss": "एपा"
+    },
+    {
+      "surface": "ואיפה",
+      "gloss": "र एपा"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "וקטנה",
+      "gloss": "र सानो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:03.701612215Z",
+  "model": "glm-5.3"
+}

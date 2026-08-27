@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 29:13",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र तिमीहरूसँग मात्र ⟨होइन⟩, म ⟨את⟩ यो करार र ⟨את⟩ यो शपथ काट्दैछु।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तिमीहरूसँग"
+    },
+    {
+      "surface": "לבדכם",
+      "gloss": "तिमीहरू मात्र"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काट्दैछु"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो करार"
+    },
+    {
+      "surface": "הברית",
+      "gloss": "यो करार"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "यो शपथ"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यो शपथ"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:55.699216687Z",
+  "model": "glm-5.3"
+}

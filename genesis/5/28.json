@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 5:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र लेमेख दुई र असी वर्ष र एक सय वर्ष बाँच्नुभयो, र उनले एक छोरा जन्म दिनुभयो।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्नुभयो"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लेमेख"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "र असी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "र एक सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिनुभयो"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:08.760634161Z",
+  "model": "glm-5.3"
+}

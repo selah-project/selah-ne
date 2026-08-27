@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 4:21",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र उनका भाइको नाम यूबाल ⟨हो⟩ — ऊ किन्नर र बाँसुरी बजाउने सबैको पिता भयो।",
+  "tokens": [
+    {
+      "surface": "ושם",
+      "gloss": "र नाम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उनका भाइको"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "यूबाल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबैको"
+    },
+    {
+      "surface": "תפש",
+      "gloss": "बजाउने"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "किन्नर"
+    },
+    {
+      "surface": "ועוגב",
+      "gloss": "र बाँसुरी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:03.363936349Z",
+  "model": "glm-5.3"
+}

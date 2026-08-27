@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-samuel 10:17",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र शमुएलले ⟨את⟩ ⟨the⟩ जनतालाई यहवेको निम्ति मिस्पाहमा भेला गराए।",
+  "tokens": [
+    {
+      "surface": "ויצעק",
+      "gloss": "भेला गराए"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जनता"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אל",
+      "gloss": "निम्ति"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "המצפה",
+      "gloss": "मिस्पाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:57:49.787283750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 25:19",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र महामारीपछि ⟨it came to pass⟩ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र-भयो"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "המגפה",
+      "gloss": "महामारी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:32.309692707Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 25:23",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र ⟨the⟩ जमिन सदाका लागि बेचिनु हुनेछैन, किनकि जमिन मेरो हो, किनकि तिमीहरू मसँग आगन्तुक र बासिन्दा हौ।",
+  "tokens": [
+    {
+      "surface": "והאरץ",
+      "gloss": "र जमिन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "हुनेछैन"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "बेचिनु"
+    },
+    {
+      "surface": "לצמתת",
+      "gloss": "सदाका लागि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो हो"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "आगन्तुक"
+    },
+    {
+      "surface": "ותושבים",
+      "gloss": "र बासिन्दा"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तिमीहरू"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मसँग"
+    }
+  ],
+  "timestamp": "2026-08-26T20:33:34.951836046Z",
+  "model": "glm-5.3"
+}

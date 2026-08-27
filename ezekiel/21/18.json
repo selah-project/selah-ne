@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 21:18",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "किनकि परीक्षण ⟨हो⟩, र के गर्नु यदि अस्वीकृत छडी समेत हुनेछैन? — अदोनाइ यहवेको वचन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "בחן",
+      "gloss": "परीक्षण"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "र के गर्नु"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "समेत"
+    },
+    {
+      "surface": "שבט",
+      "gloss": "छडी"
+    },
+    {
+      "surface": "מאסת",
+      "gloss": "अस्वीकृत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "…को वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T23:19:30.967397842Z",
+  "model": "glm-5.3"
+}

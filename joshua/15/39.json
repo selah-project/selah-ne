@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "joshua 15:39",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "लाखिश, र बोत्स्कत, र एग्लोन;",
+  "tokens": [
+    {
+      "surface": "לכיש",
+      "gloss": "लाखिश"
+    },
+    {
+      "surface": "ובצקת",
+      "gloss": "र बोत्स्कत"
+    },
+    {
+      "surface": "ועגלון",
+      "gloss": "र एग्लोन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:19.687108511Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 27:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र जमिनको सेवाका लागि खेतको काम गर्नेहरूमाथि एज्री, केलुबको छोरा।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... माथि"
+    },
+    {
+      "surface": "עשי",
+      "gloss": "गर्नेहरू"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेतको"
+    },
+    {
+      "surface": "לעבדת",
+      "gloss": "सेवाका लागि"
+    },
+    {
+      "surface": "האדמה",
+      "gloss": "जमिनको"
+    },
+    {
+      "surface": "עזרי",
+      "gloss": "एज्री"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "כלוב",
+      "gloss": "केलुबको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:29:32.972563935Z",
+  "model": "glm-5.3"
+}

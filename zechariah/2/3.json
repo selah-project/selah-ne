@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 2:3",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र यहवेले मलाई चार जना कारीगरहरू देखाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "ויראני",
+      "gloss": "देखाउनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "חרשים",
+      "gloss": "कारीगरहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T23:46:35.752839590Z",
+  "model": "glm-5.3"
+}

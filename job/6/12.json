@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 6:12",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "के ढुङ्गाहरूको शक्ति मेरो शक्ति हो? के मेरो मासु ताम्र ⟨हो⟩?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "के"
+    },
+    {
+      "surface": "כח",
+      "gloss": "शक्ति"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ढुङ्गाहरूको"
+    },
+    {
+      "surface": "כחי",
+      "gloss": "मेरो शक्ति"
+    },
+    {
+      "surface": "אם",
+      "gloss": "के"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "मेरो मासु"
+    },
+    {
+      "surface": "נחוש",
+      "gloss": "ताम्र"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:55.526671006Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "hosea 4:17",
+  "book": "hosea",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "मूर्तिहरूमा जोडिएको ⟨हो⟩ एफ्रायिम; उसलाई छोडिदेऊ।",
+  "tokens": [
+    {
+      "surface": "חבור",
+      "gloss": "जोडिएको"
+    },
+    {
+      "surface": "עצבים",
+      "gloss": "मूर्तिहरूमा"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्रायिम"
+    },
+    {
+      "surface": "הנח",
+      "gloss": "छोडिदेऊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T23:32:52.581407630Z",
+  "model": "glm-5.3"
+}

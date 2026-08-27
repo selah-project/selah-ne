@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezekiel 48:4",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र नाफ्तालीको सीमामा, पूर्वी छेउदेखि पश्चिमी छेउसम्म — मनश्शे, एउटा ⟨भाग⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्तालीको"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "छेउदेखि"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्वी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "छेउ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिमी"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:31:36.165865806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 6:37",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "चौथो शताब्दी-वर्षमा यहवेको घरको जग बसालियो, जिव महिनामा।",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षमा"
+    },
+    {
+      "surface": "הרביעית",
+      "gloss": "चौथो"
+    },
+    {
+      "surface": "יסד",
+      "gloss": "जग बसालियो"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בירח",
+      "gloss": "महिनामा"
+    },
+    {
+      "surface": "זו",
+      "gloss": "जिव"
+    }
+  ],
+  "timestamp": "2026-08-26T21:58:33.247380596Z",
+  "model": "glm-5.3"
+}

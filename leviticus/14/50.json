@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 14:50",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "और उसले ⟨את⟩ एउटा चरालाई माटोको भाँडोमा, बग्ने पानीमाथि काट्नुपर्नेछ।",
+  "tokens": [
+    {
+      "surface": "ושחט",
+      "gloss": "और काट्नुपर्नेछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एउटा चरालाई"
+    },
+    {
+      "surface": "הצפר",
+      "gloss": "चरालाई"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भाँडो"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "माटोको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "बग्ने\/जीवित"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:53.348162057Z",
+  "model": "glm-5.3"
+}

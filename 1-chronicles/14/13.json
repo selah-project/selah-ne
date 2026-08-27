@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 14:13",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र पलिस्तीहरूले फेरि थपे, र तिनीहरू उपत्यकामा फैलिए।",
+  "tokens": [
+    {
+      "surface": "ויסיפו",
+      "gloss": "थपे"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेरि"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिस्तीहरूले"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "फैलिए"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "उपत्यकामा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:22:02.831109430Z",
+  "model": "glm-5.3"
+}

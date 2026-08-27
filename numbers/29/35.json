@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 29:35",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "आठौँ दिनमा तिमीहरूका लागि ⟨एउटा⟩ ठूलो सभा होस्; कुनै पनि काम-सेवाको काम नगर्नु।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठौँ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ठूलो सभा"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होस्"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै पनि"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवाको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "गर्नु"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:05.959015484Z",
+  "model": "glm-5.3"
+}

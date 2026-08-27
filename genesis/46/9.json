@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 46:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 46,
+  "translation": "रुबेनका छोराहरू: खनोख, फल्लु, खेत्सरोन र कर्मी।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "…का छोराहरू"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रुबेन"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "खनोख"
+    },
+    {
+      "surface": "ופלוא",
+      "gloss": "फल्लु"
+    },
+    {
+      "surface": "וחצרון",
+      "gloss": "खेत्सरोन"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "कर्मी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:00:16.452809720Z",
+  "model": "glm-5.3"
+}

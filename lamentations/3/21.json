@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "lamentations 3:21",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यो ⟨म⟩ मेरो मुटुमा फर्काउँछु, त्यसैले ⟨म⟩ आशा गर्छु।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "אשיב",
+      "gloss": "फर्काउँछु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨म⟩ ... मा"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "मेरो मुटु"
+    },
+    {
+      "surface": "על",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "אוחיל",
+      "gloss": "आशा गर्छु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:26.927206771Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 1:9",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "त्यसैगरी वश्ती रानीले पनि राजा अखश्वेरोशको राजभवनमा स्त्रीहरूको ⟨the⟩ भोज गरिन्।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "त्यसैगरी…पनि"
+    },
+    {
+      "surface": "ושתי",
+      "gloss": "वश्ती"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "रानी"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "गरिन्"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "भोज"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रीहरूको"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवनमा"
+    },
+    {
+      "surface": "המלכות",
+      "gloss": "राज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "אחשורוש",
+      "gloss": "अखश्वेरोश"
+    }
+  ],
+  "timestamp": "2026-08-27T00:52:10.017064294Z",
+  "model": "glm-5.3"
+}

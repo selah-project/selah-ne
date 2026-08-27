@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 21:11",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र यदि उसले यी तीन ⟨कुरा⟩ उसका लागि गर्दैन, तब ऊ निःशुल्क निस्कनेछ, चाँदी बिना।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "गर्दैन"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गर्छ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसका लागि"
+    },
+    {
+      "surface": "ויצאה",
+      "gloss": "तब ऊ निस्कनेछ"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "निःशुल्क"
+    },
+    {
+      "surface": "אין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:12:28.704352665Z",
+  "model": "glm-5.3"
+}

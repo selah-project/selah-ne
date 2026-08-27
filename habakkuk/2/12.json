@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "habakkuk 2:12",
+  "book": "habakkuk",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "हाय ⟨त्यसलाई जसले⟩ रगतले सहर बनाउँछ, र अन्यायले किल्ला-सहर स्थापना गर्छ!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनाउँछ"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "בדמים",
+      "gloss": "रगतले"
+    },
+    {
+      "surface": "וכונן",
+      "gloss": "स्थापना गर्छ"
+    },
+    {
+      "surface": "קריה",
+      "gloss": "किल्ला-सहर"
+    },
+    {
+      "surface": "בעולה",
+      "gloss": "अन्यायले"
+    }
+  ],
+  "timestamp": "2026-08-26T23:43:07.602229012Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 29:23",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र ⟨the⟩ चौथो दिनमा दश पाडा, दुई भाला, चौध बोका — एक वर्षका, निर्दोष —।",
+  "tokens": [
+    {
+      "surface": "וביום",
+      "gloss": "र ⟨the⟩ दिनमा"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथो"
+    },
+    {
+      "surface": "פרים",
+      "gloss": "पाडाहरू"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दश"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "भालाहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "बोकाहरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का (एक वर्षका)"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चौध (चार)"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "…-दश (चौध)"
+    },
+    {
+      "surface": "תמימם",
+      "gloss": "निर्दोष"
+    }
+  ],
+  "timestamp": "2026-08-26T20:49:34.249150704Z",
+  "model": "glm-5.3"
+}

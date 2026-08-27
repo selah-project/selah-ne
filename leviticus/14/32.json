@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 14:32",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "यही ⟨हो⟩ त्यसको विधान, जसमा चर्मरोगको चोट छ, र जसको हात आफ्नो शुद्धीकरणमा पुग्दैन।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यही"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "विधान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसमा"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमा"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "चर्मरोगको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תשיג",
+      "gloss": "पुग्छ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "हात"
+    },
+    {
+      "surface": "בטהרתו",
+      "gloss": "आफ्नो शुद्धीकरणमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:20.524925738Z",
+  "model": "glm-5.3"
+}

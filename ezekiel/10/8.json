@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 10:8",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "करूबहरूमा मानिसको हातको आकृति देखियो — तिनका पखेटाहरूको तल।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देखियो"
+    },
+    {
+      "surface": "לכרבים",
+      "gloss": "करूबहरूमा"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "आकृति"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हातको"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "כנפיהם",
+      "gloss": "तिनका पखेटाहरूको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:14:12.237737070Z",
+  "model": "glm-5.3"
+}

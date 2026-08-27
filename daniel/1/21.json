@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 1:21",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र दानियेल ⟨कायम⟩ रहे कोरेश राजाको पहिलो वर्षसम्म।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र ⟨कायम⟩ रहे"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानियेल"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "पहिलो"
+    },
+    {
+      "surface": "לכורש",
+      "gloss": "कोरेशको"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:55:08.413268557Z",
+  "model": "glm-5.3"
+}

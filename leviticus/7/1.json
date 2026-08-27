@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 7:1",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र यो ⟨हो⟩ हाद-अपराधको विधि; त्यो पवित्रहरूको पवित्र ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "र यो"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "हाद-अपराधको"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्रहरूको"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो ⟨हो⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:33.000504642Z",
+  "model": "glm-5.3"
+}

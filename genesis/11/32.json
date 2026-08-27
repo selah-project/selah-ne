@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 11:32",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "तेरखका दिनहरू पाँच वर्ष र दुई सय वर्ष भए; र तेरख हारानमा मर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरखका"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "र दुई सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर्‍यो"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरख"
+    },
+    {
+      "surface": "בחרן",
+      "gloss": "हारानमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:33.644547110Z",
+  "model": "glm-5.3"
+}

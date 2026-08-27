@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 24:4",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र यो भयो — यसपछि योआशको मनमा यहवेको भवन ⟨नवीकरण⟩ गर्ने ⟨इच्छा⟩ जाग्यो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "यस"
+    },
+    {
+      "surface": "היה",
+      "gloss": "जाग्यो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "साथ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मनमा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआशको"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "नवीकरण गर्ने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भवन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:39:57.884798310Z",
+  "model": "glm-5.3"
+}

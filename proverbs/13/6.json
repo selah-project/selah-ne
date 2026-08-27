@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 13:6",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "धर्मले निर्दोषको मार्ग रक्षा गर्छ, तर दुष्टताले पापीलाई बिगार्छ।",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "धर्मले"
+    },
+    {
+      "surface": "תצר",
+      "gloss": "रक्षा गर्छ"
+    },
+    {
+      "surface": "תם",
+      "gloss": "निर्दोषको"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "मार्ग"
+    },
+    {
+      "surface": "ורשעה",
+      "gloss": "तर दुष्टताले"
+    },
+    {
+      "surface": "תסלף",
+      "gloss": "बिगार्छ"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पापीलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:46.753737815Z",
+  "model": "glm-5.3"
+}

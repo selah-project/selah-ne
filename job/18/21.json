@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "job 18:21",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "निश्चय यिनै हुन् ⟨the⟩ दुष्टका निवासहरू, र यही ⟨is⟩ ⟨the⟩ ठाउँ त्यसको, जसले एललाई चिन्दैन।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "निश्चय"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यिनै"
+    },
+    {
+      "surface": "משכנות",
+      "gloss": "निवासहरू"
+    },
+    {
+      "surface": "עול",
+      "gloss": "दुष्टका"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "र यही"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाउँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "चिन्दैन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:33:37.464951350Z",
+  "model": "glm-5.3"
+}

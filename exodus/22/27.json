@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 22:27",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "एलोहीमलाई गाली नगर्नू, र आफ्नो जनताको प्रमुखलाई श्राप नदेओ।",
+  "tokens": [
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקלל",
+      "gloss": "गाली गर्नू"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "र प्रमुखलाई"
+    },
+    {
+      "surface": "בעמך",
+      "gloss": "आफ्नो जनताको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאר",
+      "gloss": "श्राप देओ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:21.633549707Z",
+  "model": "glm-5.3"
+}

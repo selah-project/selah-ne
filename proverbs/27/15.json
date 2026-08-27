@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 27:15",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "झरीको दिनमा लगातार चुहिने थोपा र कलह गर्ने स्त्री एउटै ⟨छन्⟩।",
+  "tokens": [
+    {
+      "surface": "דלף",
+      "gloss": "चुहिने थोपा"
+    },
+    {
+      "surface": "טורד",
+      "gloss": "लगातार"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "סגריר",
+      "gloss": "झरीको"
+    },
+    {
+      "surface": "ואשת",
+      "gloss": "र स्त्री"
+    },
+    {
+      "surface": "מדונים",
+      "gloss": "कलह गर्ने"
+    },
+    {
+      "surface": "נשתוה",
+      "gloss": "एउटै छन्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:33.200318758Z",
+  "model": "glm-5.3"
+}

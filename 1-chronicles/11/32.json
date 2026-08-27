@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 11:32",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "खुराइ गाशका खोलाहरूबाट, अभिएल अर्बाथी।",
+  "tokens": [
+    {
+      "surface": "חורי",
+      "gloss": "खुराइ"
+    },
+    {
+      "surface": "מנחלי",
+      "gloss": "खोलाहरूबाट"
+    },
+    {
+      "surface": "געש",
+      "gloss": "गाशका"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "अभिएल"
+    },
+    {
+      "surface": "הערבתי",
+      "gloss": "अर्बाथी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:03.211235537Z",
+  "model": "glm-5.3"
+}

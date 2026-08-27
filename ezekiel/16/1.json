@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 16:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "र यहवेको वचन मेरो निकट आयो, यो भन्नको लागि —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मेरो निकट"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्नको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:15:43.734871987Z",
+  "model": "glm-5.3"
+}

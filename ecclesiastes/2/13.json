@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 2:13",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र मैले देखेँ कि ज्ञानमा मूर्खताभन्दा बढीपन छ, जस्तै उज्यालोमा अन्धकारभन्दा बढीपन छ।",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "र मैले देखेँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "שיש",
+      "gloss": "कि छ"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "बढीपन"
+    },
+    {
+      "surface": "לחכמה",
+      "gloss": "ज्ञानमा"
+    },
+    {
+      "surface": "מן",
+      "gloss": "भन्दा"
+    },
+    {
+      "surface": "הסכלות",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "כיתרון",
+      "gloss": "जस्तै बढीपन"
+    },
+    {
+      "surface": "האור",
+      "gloss": "उज्यालोमा"
+    },
+    {
+      "surface": "मן",
+      "gloss": "भन्दा"
+    },
+    {
+      "surface": "החשך",
+      "gloss": "अन्धकार"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:15.576356440Z",
+  "model": "glm-5.3"
+}

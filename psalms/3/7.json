@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 3:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "म डराउनेछैनँ — जुन हजारौँ जनता माथि वरिपरि बसेका छन्, तिनीहरूबाट।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "म डराउनेछैनँ"
+    },
+    {
+      "surface": "מרבבोת",
+      "gloss": "हजारौँबाट"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरिपरि"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "बसेका छन्"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माथि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:48:51.973310419Z",
+  "model": "glm-5.3"
+}

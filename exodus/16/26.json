@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 16:26",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "छ दिनसम्म त्यो टिप्नुहोस्, तर सातौँ दिनमा शब्बत हो — त्यसमा त्यो हुने छैन।",
+  "tokens": [
+    {
+      "surface": "ששת",
+      "gloss": "छ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनसम्म"
+    },
+    {
+      "surface": "תלקטהו",
+      "gloss": "टिप्नुहोस् त्यो"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "तर दिनमा"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातौँ"
+    },
+    {
+      "surface": "שבת",
+      "gloss": "शब्बत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुने"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:10:14.683025927Z",
+  "model": "glm-5.3"
+}

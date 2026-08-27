@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 4:11",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र तिमीहरू नजिक आयौ र ⟨the⟩ पहाडको तल उभियौ, र ⟨the⟩ पहाड आकाशको मुटुसम्म आगोमा बलिरहेको ⟨थियो⟩ — अन्धकार, बादल र गाढा धुँधुलो।",
+  "tokens": [
+    {
+      "surface": "ותקרבון",
+      "gloss": "र नजिक आयौ"
+    },
+    {
+      "surface": "ותעמדון",
+      "gloss": "र उभियौ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाडको"
+    },
+    {
+      "surface": "וההר",
+      "gloss": "र पहाड"
+    },
+    {
+      "surface": "בער",
+      "gloss": "बलिरहेको"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मुटु"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशको"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अन्धकार"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "וערפל",
+      "gloss": "र गाढा धुँधुलो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:48.848425283Z",
+  "model": "glm-5.3"
+}

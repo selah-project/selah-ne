@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 3:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उसका बाटाहरू ⟨are⟩ मनोहर बाटाहरू, र उसका सबै औपचारिक पगण्डहरू ⟨are⟩ शान्ति।",
+  "tokens": [
+    {
+      "surface": "דרכיה",
+      "gloss": "उसका बाटाहरू"
+    },
+    {
+      "surface": "דרכי",
+      "gloss": "बाटाहरू"
+    },
+    {
+      "surface": "נעם",
+      "gloss": "मनोहर"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "נתיבותיה",
+      "gloss": "उसका पगण्डहरू"
+    },
+    {
+      "surface": "शलोम",
+      "gloss": "शान्ति"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:38.976564506Z",
+  "model": "glm-5.3"
+}

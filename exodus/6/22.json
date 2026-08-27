@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "exodus 6:22",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "उज्जिएलका छोराहरू मिशाएल, एलत्साफन र सित्री थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज्जिएलका"
+    },
+    {
+      "surface": "מישאל",
+      "gloss": "मिशाएल"
+    },
+    {
+      "surface": "ואלצפן",
+      "gloss": "एलत्साफन"
+    },
+    {
+      "surface": "וסתרי",
+      "gloss": "सित्री"
+    }
+  ],
+  "timestamp": "2026-08-26T20:05:00.274002802Z",
+  "model": "glm-5.3"
+}

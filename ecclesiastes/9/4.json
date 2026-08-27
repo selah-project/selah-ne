@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 9:4",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "किनकि जो सबै जीवितहरूसँग जोडिएको छ, तिनीहरूमा भरोसा छ; किनकि जीवित कुकुर मरेको सिंहभन्दा राम्रो छ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יבחר",
+      "gloss": "जोडिएको छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवितहरू"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "בטחון",
+      "gloss": "भरोसा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לכלב",
+      "gloss": "कुकुरलाई"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "מן",
+      "gloss": "भन्दा"
+    },
+    {
+      "surface": "האריה",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "המת",
+      "gloss": "मरेको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:55.559703241Z",
+  "model": "glm-5.3"
+}

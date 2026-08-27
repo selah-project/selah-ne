@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 10:14",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "मूर्खले वचनहरू बढाउँछ; मानिसले जान्दैन के हुनेछ, र उसको पछि के हुनेछ — त्यो उसलाई कसले बताउनेछ?",
+  "tokens": [
+    {
+      "surface": "והסכל",
+      "gloss": "र मूर्खले"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढाउँछ"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्दैन"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिसले"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "र जो"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "उसको पछि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताउनेछ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:59.901159539Z",
+  "model": "glm-5.3"
+}

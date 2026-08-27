@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 11:35",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "अखियाम साकारको छोरा, हारारी; एलिफल ऊरको छोरा।",
+  "tokens": [
+    {
+      "surface": "אחיאם",
+      "gloss": "अखियाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "साकारको"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "हारारी"
+    },
+    {
+      "surface": "אליפל",
+      "gloss": "एलिफल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אור",
+      "gloss": "ऊरको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:59.541671998Z",
+  "model": "glm-5.3"
+}

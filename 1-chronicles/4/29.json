@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 4:29",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र बिल्हामा, र एत्सेममा, र तोलादमा।",
+  "tokens": [
+    {
+      "surface": "ובבלהה",
+      "gloss": "र बिल्हामा"
+    },
+    {
+      "surface": "ובעצם",
+      "gloss": "र एत्सेममा"
+    },
+    {
+      "surface": "ובתולד",
+      "gloss": "र तोलादमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:47.598900214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 45:22",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 45,
+  "translation": "मतर्फ फर्किए, र पृथ्वीका सबै छेउहरू मुक्ति पाए — किनभने म एल हुँ, र अरू कोही छैन।",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "फर्किए"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतर्फ"
+    },
+    {
+      "surface": "והושעו",
+      "gloss": "र मुक्ति पाए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אפסי",
+      "gloss": "छेउहरू"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वीका"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अरू कोही"
+    }
+  ],
+  "timestamp": "2026-08-26T22:38:17.429874041Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "habakkuk 2:11",
+  "book": "habakkuk",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "किनकि पर्खालाको ढुङ्गा चिच्याउनेछ, र काठबाट त्रिवेणा उत्तर दिनेछ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ढुङ्गा"
+    },
+    {
+      "surface": "מקיר",
+      "gloss": "पर्खालाबाट"
+    },
+    {
+      "surface": "תזעק",
+      "gloss": "चिच्याउनेछ"
+    },
+    {
+      "surface": "וכפיס",
+      "gloss": "र त्रिवेणा"
+    },
+    {
+      "surface": "מעץ",
+      "gloss": "काठबाट"
+    },
+    {
+      "surface": "יעננה",
+      "gloss": "उत्तर दिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:43:07.602093537Z",
+  "model": "glm-5.3"
+}

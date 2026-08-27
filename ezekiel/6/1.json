@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 6:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "अनि यहवेको वचन ममा आयो, भन्नुहुँदैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:11:35.822798753Z",
+  "model": "glm-5.3"
+}

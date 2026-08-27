@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "judges 9:14",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तब सबै रूखहरूले आतादलाई भने: \"तिमी आउ, हामीमाथि राजा बन।\"",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "तब…भने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "रूखहरूले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "האטד",
+      "gloss": "आताद"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा बन"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हामीमाथि"
+    }
+  ],
+  "timestamp": "2026-08-26T21:24:25.287750681Z",
+  "model": "glm-5.3"
+}

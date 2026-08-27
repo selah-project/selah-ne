@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 19:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "झूटा साक्षी निर्दोष ठहरिनेछैन, र झूटहरू फुकार्ने नष्ट हुनेछ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "שקרים",
+      "gloss": "झूटा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "निर्दोष ठहरिनेछ"
+    },
+    {
+      "surface": "ויפיח",
+      "gloss": "र फुकार्ने"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूटहरू"
+    },
+    {
+      "surface": "יאבד",
+      "gloss": "नष्ट हुनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:45.044369575Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "genesis 24:25",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "उसले त्यसलाई भनी, “हामीसँग पराल पनि छ, चारा पनि धेरै छ, र बास बस्ने स्थान पनि छ।”",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "उसले भनी"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "त्यसलाई"
+    },
+    {
+      "surface": "םם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "पराल"
+    },
+    {
+      "surface": "םם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "מספוא",
+      "gloss": "चारा"
+    },
+    {
+      "surface": "רב",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हामीसँग"
+    },
+    {
+      "surface": "םם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "ללון",
+      "gloss": "बास बस्ने"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:35.379134590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 21:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "अभावको मानिस ⟨हो⟩ खुशी प्रेम गर्ने; रक्त र तेल प्रेम गर्ने — धनी हुँदैन।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "מחסור",
+      "gloss": "अभावको"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम गर्ने"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "खुशी"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम गर्ने"
+    },
+    {
+      "surface": "יין",
+      "gloss": "रक्त"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "र तेल"
+    },
+    {
+      "surface": "לא",
+      "gloss": "हुँदैन"
+    },
+    {
+      "surface": "יעשיר",
+      "gloss": "धनी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:13.254284282Z",
+  "model": "glm-5.3"
+}

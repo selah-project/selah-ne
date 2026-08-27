@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 21:31",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "युद्धको दिनका लागि घोडा तयार गरिन्छ, तर उद्धार यहवेको ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "סוס",
+      "gloss": "घोडा"
+    },
+    {
+      "surface": "मוכן",
+      "gloss": "तयार गरिन्छ"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिनका लागि"
+    },
+    {
+      "surface": "मלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "וליהוה",
+      "gloss": "तर यहवेको"
+    },
+    {
+      "surface": "התשועה",
+      "gloss": "उद्धार"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:58.726942138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 44:10",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 44,
+  "translation": "कसले एक देवता गढ्यो, र ढालिएको मूर्ति — जुन केही लाभ दिँदैन?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "יצר",
+      "gloss": "गढ्यो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "देवता"
+    },
+    {
+      "surface": "ופסל",
+      "gloss": "र मूर्ति"
+    },
+    {
+      "surface": "נסך",
+      "gloss": "ढालिएको"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "ताकि न"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "लाभ दियोस्"
+    }
+  ],
+  "timestamp": "2026-08-26T22:38:09.911875756Z",
+  "model": "glm-5.3"
+}

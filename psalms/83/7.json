@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 83:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 83,
+  "translation": "एदोमका डेराहरू र इश्माएलीहरू, मोआब र हागरीहरू —",
+  "tokens": [
+    {
+      "surface": "אהלי",
+      "gloss": "डेराहरू"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोमका"
+    },
+    {
+      "surface": "וישמעאלים",
+      "gloss": "र इश्माएलीहरू"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "והגרים",
+      "gloss": "र हागरीहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:14.536515402Z",
+  "model": "glm-5.3"
+}

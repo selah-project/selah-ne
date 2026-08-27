@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 59,
+  "ref": "joshua 15:59",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र माआरात, र बेथ-अनोत, र एल्तेकोन — छ नगरहरू र तिनका गाउँहरू।",
+  "tokens": [
+    {
+      "surface": "ומערת",
+      "gloss": "र माआरात"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "ענות",
+      "gloss": "अनोत"
+    },
+    {
+      "surface": "ואלתקן",
+      "gloss": "र एल्तेकोन"
+    },
+    {
+      "surface": "ערिझ",
+      "gloss": "नगरहरू"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "र तिनका गाउँहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:31.604938086Z",
+  "model": "glm-5.3"
+}

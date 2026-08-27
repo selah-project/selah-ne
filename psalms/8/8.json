@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 8:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "भेडाचौरी र गाईवस्तु — ती सबै, र पनि खेतका जनावरहरू।",
+  "tokens": [
+    {
+      "surface": "צנה",
+      "gloss": "भेडाचौरी"
+    },
+    {
+      "surface": "ואלפים",
+      "gloss": "र गाईवस्तु"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "ती सबै"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "र पनि"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "जनावरहरू"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेतका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:51:04.642724568Z",
+  "model": "glm-5.3"
+}

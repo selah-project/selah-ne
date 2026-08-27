@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 8:5",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र मोशेले सभालाई भन्नुभयो: यहवेले गर्नुको लागि आज्ञा गर्नुभएको कुरा यही हो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यही"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा गर्नुभएको"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "गर्नुको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:17.148285316Z",
+  "model": "glm-5.3"
+}

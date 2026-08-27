@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 12:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "शिमोनका छोराहरूमध्ये सेनाका लागि बलवान योद्धा सात हजार र एक सय।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "मध्ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोनका"
+    },
+    {
+      "surface": "גבורי",
+      "gloss": "बलवान योद्धा"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "बल"
+    },
+    {
+      "surface": "לצבא",
+      "gloss": "सेनाका लागि"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאה",
+      "gloss": "र एक सय"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:23.651645902Z",
+  "model": "glm-5.3"
+}

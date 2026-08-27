@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 146:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 146,
+  "translation": "याहलाई स्तुति गर! हे मेरो नेफेश, यहवेलाई स्तुति गर!",
+  "tokens": [
+    {
+      "surface": "הללו",
+      "gloss": "स्तुति गर!"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याहलाई"
+    },
+    {
+      "surface": "הללי",
+      "gloss": "स्तुति गर"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरो नेफेश"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवेलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-27T00:17:45.895756167Z",
+  "model": "glm-5.3"
+}

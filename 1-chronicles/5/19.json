@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 5:19",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "तिनीहरूले हागरीहरूसँग — यितूर, नाफिश र नोदाबसँग — युद्ध गरे।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "गरे"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "ההגריאים",
+      "gloss": "हागरीहरू"
+    },
+    {
+      "surface": "ויטור",
+      "gloss": "र यितूर"
+    },
+    {
+      "surface": "ונפיש",
+      "gloss": "र नाफिश"
+    },
+    {
+      "surface": "ונודב",
+      "gloss": "र नोदाब"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:13.975920698Z",
+  "model": "glm-5.3"
+}

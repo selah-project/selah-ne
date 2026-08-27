@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "joshua 12:17",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "तप्पुआखको राजा, एक; खेपेरको राजा, एक।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "तप्पुआखको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חפר",
+      "gloss": "खेपेरको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:34.660264918Z",
+  "model": "glm-5.3"
+}

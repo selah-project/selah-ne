@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 4:25",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "मैले हेरेँ, र हेर्‍यौँ — मानिस नै छैन, र आकाशका सबै चराहरू भागेर गए।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले हेरेँ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर्‍यौँ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चराहरू"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशका"
+    },
+    {
+      "surface": "נדדו",
+      "gloss": "भागेर गए"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:19.655705677Z",
+  "model": "glm-5.3"
+}

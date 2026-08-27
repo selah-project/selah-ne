@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "genesis 19:36",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "यसरी लोतका दुई छोरीहरू आफ्ना पिताबाट गर्भवती भए।",
+  "tokens": [
+    {
+      "surface": "ותהרין",
+      "gloss": "गर्भवती भए"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "छोरीहरू"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोतका"
+    },
+    {
+      "surface": "מאביהן",
+      "gloss": "आफ्ना पिताबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:10.343970231Z",
+  "model": "glm-5.3"
+}

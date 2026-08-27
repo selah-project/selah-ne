@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 120:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 120,
+  "translation": "यहवे, मेरो नेफेशलाई झूटा ओठबाट र छलको जिब्रोबाट बचाउनुहोस्।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "हצילה",
+      "gloss": "बचाउनुहोस्"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरो नेफेशलाई"
+    },
+    {
+      "surface": "משפת",
+      "gloss": "ओठबाट"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूटा"
+    },
+    {
+      "surface": "מלשון",
+      "gloss": "जिब्रोबाट"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "छलको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:04.932158226Z",
+  "model": "glm-5.3"
+}

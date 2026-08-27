@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "judges 6:7",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र यसो भयो, जब यिस्राएलका छोराहरूले मिद्यानको कारणले यहवेतर्फ चिच्याए,",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र यसो भयो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "זעקו",
+      "gloss": "चिच्याए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूले"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "को कारणले"
+    },
+    {
+      "surface": "אדות",
+      "gloss": "(कारणले)"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    }
+  ],
+  "timestamp": "2026-08-26T21:22:52.889543479Z",
+  "model": "glm-5.3"
+}

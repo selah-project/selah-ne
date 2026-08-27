@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 41:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "बेलियालको⟨कुरा⟩ उसमाथि उम्लिइरहेको छ, र जो सुतिसकेको छ ऊ उठ्न थपिनेछैन।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "בליעל",
+      "gloss": "बेलियालको"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "उम्लिइरहेको छ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमाथि"
+    },
+    {
+      "surface": "ואשר",
+      "gloss": "र जो"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "सुतिसकेको छ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "थपिनेछ"
+    },
+    {
+      "surface": "לקום",
+      "gloss": "उठ्न"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:50.458821948Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 16:36",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "धन्य छ यहवे, यिस्राएलका एलोहीम, सदादेखि सदासम्म; र सबै जनताले भने: आमेन; र यहवेको स्तुति गरे।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "…का एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…देखि"
+    },
+    {
+      "surface": "העולם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "र …सम्म"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "सदा"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "र …भने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    },
+    {
+      "surface": "והלל",
+      "gloss": "र स्तुति गरे"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:00.614561694Z",
+  "model": "glm-5.3"
+}

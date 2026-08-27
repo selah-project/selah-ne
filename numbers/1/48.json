@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 1:48",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "यहवेले मोशेसँग बोल्नुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-27T01:52:54.998559266Z",
+  "model": "glm-5.3"
+}

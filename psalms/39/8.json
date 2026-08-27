@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 39:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 39,
+  "translation": "अब चाहिँ के नै पर्खेको छु मैले? अदोनाइ, मेरो आशा तपाईंमा नै ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब चाहिँ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के नै"
+    },
+    {
+      "surface": "קויתי",
+      "gloss": "पर्खेको छु मैले"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "תוחלतי",
+      "gloss": "मेरो आशा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तपाईंमा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "नै हो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:28.609285129Z",
+  "model": "glm-5.3"
+}

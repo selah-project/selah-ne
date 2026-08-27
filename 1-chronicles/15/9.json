@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 15:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "खेब्रोनका छोराहरूमध्ये: एलिएल ⟨हो> सरदार, र उनका दाजुभाइ असी।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूमध्ये"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेब्रोनका"
+    },
+    {
+      "surface": "אליאל",
+      "gloss": "एलिएल"
+    },
+    {
+      "surface": "हשר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उनका दाजुभाइ"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "असी"
+    }
+  ],
+  "timestamp": "2026-08-27T02:21:44.265649295Z",
+  "model": "glm-5.3"
+}

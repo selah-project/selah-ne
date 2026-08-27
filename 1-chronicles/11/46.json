@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-chronicles 11:46",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "एलिएल हमाखवी, र यरिबाइ र योशव्या एलनामका छोराहरू, र इत्मा हमोआबी।",
+  "tokens": [
+    {
+      "surface": "אליאל",
+      "gloss": "एलिएल"
+    },
+    {
+      "surface": "המחוים",
+      "gloss": "हमाखवी"
+    },
+    {
+      "surface": "ויריבי",
+      "gloss": "र यरिबाइ"
+    },
+    {
+      "surface": "ויושויה",
+      "gloss": "र योशव्या"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אלנעם",
+      "gloss": "एलनामका"
+    },
+    {
+      "surface": "ויתמה",
+      "gloss": "र इत्मा"
+    },
+    {
+      "surface": "המואבי",
+      "gloss": "हमोआबी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:44.092927576Z",
+  "model": "glm-5.3"
+}

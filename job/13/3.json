@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 13:3",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "तर म शद्दाइसँग बोल्नेछु, र एलसँग बहस गर्न चाहन्छु।",
+  "tokens": [
+    {
+      "surface": "אולם",
+      "gloss": "तर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सँग"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दाइ"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "बोल्नेछु"
+    },
+    {
+      "surface": "והוכח",
+      "gloss": "र बहस गर्न"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सँग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אחפץ",
+      "gloss": "चाहन्छु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:33:12.554202574Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 1:35",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "एसावका छोराहरू: एलिफाज, रउएल, यिउश र यालाम, र कोरह।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावका"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाज"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रउएल"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "र यिउश"
+    },
+    {
+      "surface": "ויעלם",
+      "gloss": "र यालाम"
+    },
+    {
+      "surface": "וקרח",
+      "gloss": "र कोरह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:33.864488921Z",
+  "model": "glm-5.3"
+}

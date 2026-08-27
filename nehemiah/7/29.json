@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "nehemiah 7:29",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "किर्यात-यारिम, केफिरा र बेरोतका मानिसहरू — सात सय तेत्लिस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यात"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "यारिमका"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "केफिरा"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "र बेरोत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "तेत्लिस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "र तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:44.882881307Z",
+  "model": "glm-5.3"
+}

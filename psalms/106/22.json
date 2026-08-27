@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 106:22",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 106,
+  "translation": "खामको देशमा अद्भुत कामहरू, सुफ समुद्रमाथि भयङ्कर कर्महरू।",
+  "tokens": [
+    {
+      "surface": "נפלאות",
+      "gloss": "अद्भुत (कामहरू)"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खाम"
+    },
+    {
+      "surface": "נוראות",
+      "gloss": "भयङ्कर कर्महरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "सुफ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:11:04.183434093Z",
+  "model": "glm-5.3"
+}

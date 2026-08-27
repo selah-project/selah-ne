@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 7:9",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बादल सिद्दिएर जान्छ; त्यसैगरी शेओलमा ओर्लने ⟨ऊ⟩ फेरि उक्लनेछैन।",
+  "tokens": [
+    {
+      "surface": "כלה",
+      "gloss": "सिद्दिएर"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसैगरी"
+    },
+    {
+      "surface": "יורד",
+      "gloss": "ओर्लने"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओलमा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "उक्लनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:57.038667409Z",
+  "model": "glm-5.3"
+}

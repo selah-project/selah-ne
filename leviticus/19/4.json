@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 19:4",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "मूर्तिहरूतर्फ नफर्क, र ढलोवाला एलोहीम आफैलाई नबनाऊ; म हुँ यहवे, तिमीहरूको एलोहीम।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תפנו",
+      "gloss": "फर्क"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…तर्फ"
+    },
+    {
+      "surface": "האלילים",
+      "gloss": "मूर्तिहरू"
+    },
+    {
+      "surface": "ואלהי",
+      "gloss": "र एलोहीम"
+    },
+    {
+      "surface": "מסכה",
+      "gloss": "ढलोवाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "बनाऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आफैलाई"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तिमीहरूको एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:30:35.780518625Z",
+  "model": "glm-5.3"
+}

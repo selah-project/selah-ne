@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 27:14",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र लेवीहरू उत्तर दिनेछन् र सबै इस्राएली मानिसहरूलाई उच्च स्वरले भन्नेछन्:",
+  "tokens": [
+    {
+      "surface": "וענו",
+      "gloss": "उत्तर दिनेछन्"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीहरू"
+    },
+    {
+      "surface": "ואמרו",
+      "gloss": "र भन्नेछन्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएली"
+    },
+    {
+      "surface": "קול",
+      "gloss": "स्वरले"
+    },
+    {
+      "surface": "רם",
+      "gloss": "उच्च"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:30.714154488Z",
+  "model": "glm-5.3"
+}

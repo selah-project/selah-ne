@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 2:11",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "यहवेको ⟨את⟩ भयसाथ सेवा गरौ; र काँप्दै आनन्द मनाओ।",
+  "tokens": [
+    {
+      "surface": "עבדו",
+      "gloss": "सेवा गरौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ביראה",
+      "gloss": "भयसाथ"
+    },
+    {
+      "surface": "וגילו",
+      "gloss": "र आनन्द मनाओ"
+    },
+    {
+      "surface": "ברעדה",
+      "gloss": "काँप्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:11.721735502Z",
+  "model": "glm-5.3"
+}

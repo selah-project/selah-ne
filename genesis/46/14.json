@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 46:14",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 46,
+  "translation": "जेबुलूनका छोराहरू — सेरेद, र एलोन, र यखलेल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबुलूनका"
+    },
+    {
+      "surface": "סרד",
+      "gloss": "सेरेद"
+    },
+    {
+      "surface": "ואלון",
+      "gloss": "र एलोन"
+    },
+    {
+      "surface": "ויחלאל",
+      "gloss": "र यखलेल"
+    }
+  ],
+  "timestamp": "2026-08-26T20:00:34.933483910Z",
+  "model": "glm-5.3"
+}

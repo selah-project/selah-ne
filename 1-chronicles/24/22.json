@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 24:22",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "यित्सहरीहरूमा: शेलोमोत; शेलोमोतका छोराहरूमा: याखात।",
+  "tokens": [
+    {
+      "surface": "ליצהרי",
+      "gloss": "यित्सहरीहरूमा"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "शेलोमोत"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूमा"
+    },
+    {
+      "surface": "שלמות",
+      "gloss": "शेलोमोतका"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "याखात"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:56.860423823Z",
+  "model": "glm-5.3"
+}

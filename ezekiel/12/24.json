@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 12:24",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "किनभने यिस्राएलको घरको बीचमा अब कुनै खोक्रो दर्शन न रहनेछ, न चिकनो भविष्यवाणी।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "रहनेछ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "खोक्रो"
+    },
+    {
+      "surface": "ומקסם",
+      "gloss": "न…भविष्यवाणी"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "चिकनो"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरको"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-27T02:08:55.511146855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "1-samuel 17:56",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र राजाले भने, “तिमी सोध, यो केटा कसको छोरा हो।”",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "सोध"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कस्को"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "העלם",
+      "gloss": "केटा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:37:52.580650220Z",
+  "model": "glm-5.3"
+}

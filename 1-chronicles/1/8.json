@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 1:8",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "खामका छोराहरू: कूश, मिस्राइम, पुट र कनान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खामका"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "मिस्राइम"
+    },
+    {
+      "surface": "פוט",
+      "gloss": "पुट"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "र कनान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:13.497460493Z",
+  "model": "glm-5.3"
+}

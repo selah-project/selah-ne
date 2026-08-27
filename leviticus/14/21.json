@@ -1,0 +1,97 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "leviticus 14:21",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तर यदि ऊ निर्धन हो र उसको हात <prefix>पुग्दैन<\/prefix>, तब ऊ दोष-offeringको लागि एउटा भाले पाठो लिनेछ, wave offeringको लागि, उसको प्रायश्चित्त गर्न, र एक इफाको दशौँ भाग मसिनो पीठो अन्न-bलामा मिसाइएको अन्न-offeringको लागि, र तेलको एक लोग;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "तर यदि"
+    },
+    {
+      "surface": "דל",
+      "gloss": "निर्धन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उसको हात"
+    },
+    {
+      "surface": "משגת",
+      "gloss": "पुग्दैन"
+    },
+    {
+      "surface": "ולקח",
+      "gloss": "र लिनेछ"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भाले पाठो"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "दोष-offering"
+    },
+    {
+      "surface": "לתנופה",
+      "gloss": "wave offeringको लागि"
+    },
+    {
+      "surface": "לכפר",
+      "gloss": "प्रायश्चित्त गर्न"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसको लागि"
+    },
+    {
+      "surface": "ועשרון",
+      "gloss": "र दशौँ भाग"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "मसिनो पीठो"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בלול",
+      "gloss": "मिसाइएको"
+    },
+    {
+      "surface": "בשמן",
+      "gloss": "तेलमा"
+    },
+    {
+      "surface": "למנחה",
+      "gloss": "अन्न-offeringको लागि"
+    },
+    {
+      "surface": "ולג",
+      "gloss": "र एक लोग"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:25.936976582Z",
+  "model": "glm-5.3"
+}

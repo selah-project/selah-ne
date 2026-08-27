@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezra 2:14",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "बिग्वैका छोराहरू, दुई हजार छपन्न।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "बिग्वैका"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दुई हजार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "छ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:39.638353167Z",
+  "model": "glm-5.3"
+}

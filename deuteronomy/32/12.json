@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 32:12",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "यहवेले एक्लै त्यसलाई हिँडाउनुभयो, र उहाँसँग कुनै अन्यज एल थिएन।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "एक्लै"
+    },
+    {
+      "surface": "ינחנו",
+      "gloss": "त्यसलाई हिँडाउनुभयो"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र ... थिएन"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उहाँसँग"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נכר",
+      "gloss": "अन्यज"
+    }
+  ],
+  "timestamp": "2026-08-26T21:07:21.407785742Z",
+  "model": "glm-5.3"
+}

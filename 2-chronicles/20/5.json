@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 20:5",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र यिहोशाफात यहूदा र येरुशालाइमको सभामा यहवेको भवनमा उभिए, नयाँ आँगनको अगाडि।",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "उभिए"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यिहोशाफात"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभामा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "र येरुशालाइम"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "भवनमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "החדשה",
+      "gloss": "नयाँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:40:06.656811225Z",
+  "model": "glm-5.3"
+}

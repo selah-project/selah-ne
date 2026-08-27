@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 40:13",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "अनि उनले ⟨את⟩ ⟨the⟩ ढोका नाप्नुभयो, कोठाको छतदेखि त्यसको छतसम्म — चौडाइ बीस र पाँच हात, ढोका सामु ढोका।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "नाप्नुभयो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ढोका"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "מגג",
+      "gloss": "छतदेखि"
+    },
+    {
+      "surface": "התא",
+      "gloss": "कोठा"
+    },
+    {
+      "surface": "לגגו",
+      "gloss": "त्यसको छतसम्म"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौडाइ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ढोका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:28:49.599297373Z",
+  "model": "glm-5.3"
+}

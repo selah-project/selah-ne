@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 33:17",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "तर अझै पनि ⟨the⟩ जनता उच्चस्थानहरूमा बलिदान गरिरहे — तर केवल आफ्ना एलोहीम यहवेलाई।",
+  "tokens": [
+    {
+      "surface": "אבל",
+      "gloss": "तर"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै पनि"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ जनता"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "बलिदान गरिरहे"
+    },
+    {
+      "surface": "בבמות",
+      "gloss": "उच्चस्थानहरूमा"
+    },
+    {
+      "surface": "רק",
+      "gloss": "तर केवल"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "आफ्ना एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:45:06.979648780Z",
+  "model": "glm-5.3"
+}

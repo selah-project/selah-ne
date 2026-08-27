@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-kings 13:10",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "त्यसैले उनी अर्को बाटोले गए, र त्यो बाटोबाट फर्किएनन् जुन बाटोले उनी बेत-एलमा आएका थिए।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "र उनी गए"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "बाटोले"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्को"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र नहीं"
+    },
+    {
+      "surface": "שב",
+      "gloss": "फर्किए"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "बाटोबाट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आएका थिए"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    }
+  ],
+  "timestamp": "2026-08-26T22:04:01.069079880Z",
+  "model": "glm-5.3"
+}

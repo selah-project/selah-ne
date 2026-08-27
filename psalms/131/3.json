@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 131:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 131,
+  "translation": "इस्राएल यहवेमाथि आशा राखोस्, अबदेखि सदासम्म।",
+  "tokens": [
+    {
+      "surface": "יחל",
+      "gloss": "आशा राखोस्"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यहवेमाथि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अबदेखि"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "र सम्म"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदासम्म"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:52.520258462Z",
+  "model": "glm-5.3"
+}

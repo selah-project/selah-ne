@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 15:13",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र सूचक दाऊदकहाँ आएर भन्यो, \"यिस्राएलका मानिसहरूको हृदय अब्शालोमपछि लागेको छ।\"",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आएर"
+    },
+    {
+      "surface": "המגיד",
+      "gloss": "सूचक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाऊद"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्न"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "יוראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अब्शालोम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:50:12.662310828Z",
+  "model": "glm-5.3"
+}

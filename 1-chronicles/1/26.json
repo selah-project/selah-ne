@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 1:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "सेरुग, नाखोर, तेराख।",
+  "tokens": [
+    {
+      "surface": "שרוג",
+      "gloss": "सेरुग"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "नाखोर"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेराख"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:57.908671745Z",
+  "model": "glm-5.3"
+}

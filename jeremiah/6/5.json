@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 6:5",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "उठ्नुहोस्, र रातमा चढौँ, र तिनका गढहरू तहस-नहस् गरौँ।",
+  "tokens": [
+    {
+      "surface": "קומו",
+      "gloss": "उठ्नुहोस्"
+    },
+    {
+      "surface": "ונעלה",
+      "gloss": "र चढौँ"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रातमा"
+    },
+    {
+      "surface": "ונשחיתה",
+      "gloss": "र तहस-नहस् गरौँ"
+    },
+    {
+      "surface": "ארמנותיה",
+      "gloss": "तिनका गढहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:24.607933439Z",
+  "model": "glm-5.3"
+}

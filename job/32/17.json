@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 32:17",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "म पनि उत्तर दिनेछु — मेरो भाग; म पनि मेरो ज्ञान देखाउनेछु।",
+  "tokens": [
+    {
+      "surface": "אענה",
+      "gloss": "उत्तर दिनेछु"
+    },
+    {
+      "surface": "אף",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "मेरो भाग"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "देखाउनेछु"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "मेरो ज्ञान"
+    },
+    {
+      "surface": "אף",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    }
+  ],
+  "timestamp": "2026-08-27T00:38:23.319900237Z",
+  "model": "glm-5.3"
+}

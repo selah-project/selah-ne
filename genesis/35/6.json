@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 35:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "र याकोभ लूजमा आइपुगे, जो कनान देशमा छ — त्यो ⟨is⟩ बेइत-एल — ऊ र उसका साथ भएका सबै जनता।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "र आइपुगे"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    },
+    {
+      "surface": "לוזה",
+      "gloss": "लूजमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "बארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसका साथ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:35.748931491Z",
+  "model": "glm-5.3"
+}

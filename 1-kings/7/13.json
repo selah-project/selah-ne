@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-kings 7:13",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र राजा शलोमोहले पठाए, र त्सोरबाट ⟨את⟩ खिरामलाई लिए।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "पठाए"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोहले"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "लिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खिरामलाई"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "खिरामलाई"
+    },
+    {
+      "surface": "מצר",
+      "gloss": "त्सोरबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T21:59:29.767652384Z",
+  "model": "glm-5.3"
+}

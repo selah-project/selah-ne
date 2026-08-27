@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 22:25",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "कि तिमी उसका बाटाहरू नसिक, र आफ्नो प्राणका लागि जालमा नपर।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "कि … न"
+    },
+    {
+      "surface": "תאלף",
+      "gloss": "नसिक"
+    },
+    {
+      "surface": "ארחתו",
+      "gloss": "उसका बाटाहरू"
+    },
+    {
+      "surface": "ולקחת",
+      "gloss": "र लिने नगर्दै"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "לנפשך",
+      "gloss": "आफ्नो प्राणका लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:00.345149924Z",
+  "model": "glm-5.3"
+}

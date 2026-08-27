@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 56:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 56,
+  "translation": "जुन दिन म डराउँछु, त्यही दिन म तिमीमा भरोसा गर्छु।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "जुन दिन"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "म डराउँछु"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीमा"
+    },
+    {
+      "surface": "אבטח",
+      "gloss": "भरोसा गर्छु"
+    }
+  ],
+  "timestamp": "2026-08-27T02:15:06.008815168Z",
+  "model": "glm-5.3"
+}

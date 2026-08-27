@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 12:9",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र त्यस दिनमा म येरुशालाइममाथि आउने सबै जातिहरूलाई ⟨את⟩ नष्ट गर्न खोज्नेछु।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "र हुनेछ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "त्यस दिनमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "אבקש",
+      "gloss": "म खोज्नेछु"
+    },
+    {
+      "surface": "להשמיד",
+      "gloss": "नष्ट गर्न"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै जातिहरूलाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जातिहरू"
+    },
+    {
+      "surface": "הבאים",
+      "gloss": "आउने"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "येरुशालाइम"
+    }
+  ],
+  "timestamp": "2026-08-26T23:48:20.647065923Z",
+  "model": "glm-5.3"
+}

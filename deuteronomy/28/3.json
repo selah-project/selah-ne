@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 28:3",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "धन्य छस् तँ सहरमा, र धन्य छस् तँ खेतमा।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तँ"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहरमा"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "र धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तँ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेतमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:06:43.409445268Z",
+  "model": "glm-5.3"
+}

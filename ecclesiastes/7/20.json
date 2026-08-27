@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 7:20",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "किनकि पृथ्वीमा यस्तो कुनै धर्मी मानिस छैन जो असल गर्छ र पाप गर्दैन ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वीमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गर्छ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र"
+    },
+    {
+      "surface": "יחטא",
+      "gloss": "पाप गर्दैन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:17.018247494Z",
+  "model": "glm-5.3"
+}

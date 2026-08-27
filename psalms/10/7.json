@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 10:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "उसको मुख श्राप र छल र ठगीले भरिएको छ; उसको जिब्रोमुनि कष्ट र अधर्म ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "श्राप"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "उसको मुख"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरिएको छ"
+    },
+    {
+      "surface": "ומרמות",
+      "gloss": "र छल"
+    },
+    {
+      "surface": "ותך",
+      "gloss": "र ठगी"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "मुनि"
+    },
+    {
+      "surface": "לשונו",
+      "gloss": "उसको जिब्रो"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "कष्ट"
+    },
+    {
+      "surface": "ואון",
+      "gloss": "र अधर्म"
+    }
+  ],
+  "timestamp": "2026-08-26T23:50:56.253625594Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 18:5",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र एक मानिस यदि धर्मी भएर न्याय र धार्मिकता गर्छ,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "र एक मानिस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "भएर"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "र गर्छ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "र धार्मिकता"
+    }
+  ],
+  "timestamp": "2026-08-26T23:17:08.480199270Z",
+  "model": "glm-5.3"
+}

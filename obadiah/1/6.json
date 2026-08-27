@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "obadiah 1:6",
+  "book": "obadiah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "कसरी एसाभ ⟨खोजिए⟩! कसरी उसका लुकाइएका धन ⟨बगेर⟩ निस्के!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "נחפשו",
+      "gloss": "खोजिए"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाभ"
+    },
+    {
+      "surface": "נבעו",
+      "gloss": "बगेर निस्के"
+    },
+    {
+      "surface": "מצפניו",
+      "gloss": "उसका लुकाइएका धन"
+    }
+  ],
+  "timestamp": "2026-08-26T23:39:14.321357627Z",
+  "model": "glm-5.3"
+}

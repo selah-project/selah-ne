@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 5:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "किनभने धेरै व्यस्तताको बीचमा सपना आउँछ, र धेरै कुराहरूको बीचमा मूर्खको स्वर ⟨आउँछ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "החלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "धेरै ... को बीचमा"
+    },
+    {
+      "surface": "ענין",
+      "gloss": "व्यस्तता"
+    },
+    {
+      "surface": "וקול",
+      "gloss": "र ... स्वर"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खको"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "धेरै ... को बीचमा"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "कुराहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:32.408523984Z",
+  "model": "glm-5.3"
+}

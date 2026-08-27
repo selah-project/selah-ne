@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 4:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र यहवेले काइनलाई भन्नुभयो, किन तिमीलाई क्रोध चढ्यो, र किन तिम्रो अनुहार ओरालियो?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "קין",
+      "gloss": "काइन"
+    },
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "חרה",
+      "gloss": "क्रोध चढ्यो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "र किन"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "ओरालियो"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "तिम्रो अनुहार"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:55.636691322Z",
+  "model": "glm-5.3"
+}

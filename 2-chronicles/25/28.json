@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 25:28",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र उनीहरूले उनलाई घोडाहरूमा हालेर उनका पुर्खाहरूसँग यहूदाको सहरमा ⟨את⟩ उनलाई गाडे।",
+  "tokens": [
+    {
+      "surface": "וישאהו",
+      "gloss": "हालेर"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "הסוסים",
+      "gloss": "घोडाहरूमा"
+    },
+    {
+      "surface": "ויקברו",
+      "gloss": "गाडे"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उनलाई"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "אבתיו",
+      "gloss": "उनका पुर्खाहरू"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहरमा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:42:25.087044479Z",
+  "model": "glm-5.3"
+}

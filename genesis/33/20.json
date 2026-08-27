@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 33:20",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र त्यहाँ एउटा वेदी उभार्यो, र त्यसलाई एल एलोहे-यिस्राएल भनेर बोलायो।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "र उभार्यो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "र बोलायो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यसलाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-26T19:54:56.407919072Z",
+  "model": "glm-5.3"
+}

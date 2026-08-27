@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "leviticus 14:33",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र यहवेले मोशे र अहारोनलाई भन्नुभयो, यो भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "यो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:21.284128009Z",
+  "model": "glm-5.3"
+}

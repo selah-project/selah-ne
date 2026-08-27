@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 28:25",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "हावाका लागि तौल बनाउन, र पानीहरूलाई नापले नाप्न।",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "बनाउन"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "हावाका लागि"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "तौल"
+    },
+    {
+      "surface": "ומים",
+      "gloss": "र पानीहरूलाई"
+    },
+    {
+      "surface": "תכן",
+      "gloss": "नाप्न"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "नापले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:37:26.244780999Z",
+  "model": "glm-5.3"
+}

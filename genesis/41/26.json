@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 41:26",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "सात वटा असल गाईहरू — सात वर्ष ⟨हुन्⟩, र सातवटा असल बालाहरू — सात वर्ष ⟨हुन्⟩; सपना एक ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "गाईहरू"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "असल"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨हुन्⟩"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "र सात"
+    },
+    {
+      "surface": "השבלים",
+      "gloss": "बालाहरू"
+    },
+    {
+      "surface": "הטבת",
+      "gloss": "असल"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "⟨हुन्⟩"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हो⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T19:58:17.713702504Z",
+  "model": "glm-5.3"
+}

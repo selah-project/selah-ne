@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 25:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "चाँदीबाट खराबी हटाऊ, तब शुद्ध पार्नेका लागि भाँडो निस्कन्छ।",
+  "tokens": [
+    {
+      "surface": "הגו",
+      "gloss": "हटाऊ"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "खराबी"
+    },
+    {
+      "surface": "מכסף",
+      "gloss": "चाँदीबाट"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निस्कन्छ"
+    },
+    {
+      "surface": "לצרף",
+      "gloss": "शुद्ध पार्नेका लागि"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भाँडो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:56.996437827Z",
+  "model": "glm-5.3"
+}

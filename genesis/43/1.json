@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 43:1",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 43,
+  "translation": "तर भूखमरी भने देशमा निकै गम्भीर भइरहेको थियो।",
+  "tokens": [
+    {
+      "surface": "והרעב",
+      "gloss": "तर भूखमरी"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "निकै गम्भीर"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:59:58.930189745Z",
+  "model": "glm-5.3"
+}

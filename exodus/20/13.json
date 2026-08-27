@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 20:13",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "तँ हत्या नगर्।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרצח",
+      "gloss": "हत्या गर्"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:48.294641236Z",
+  "model": "glm-5.3"
+}

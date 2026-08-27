@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 29:24",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र सबै सरदारहरू, वीरहरू, र त्यसरी नै राजा दाविदका सबै छोराहरूले राजा शलोमोहको अधीनमा हात दिए।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "השרים",
+      "gloss": "सरदारहरू"
+    },
+    {
+      "surface": "והגברים",
+      "gloss": "वीरहरू"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "र त्यसरी नै"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविदका"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "दिए"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "अधीनमा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोहको"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:30:28.156437435Z",
+  "model": "glm-5.3"
+}

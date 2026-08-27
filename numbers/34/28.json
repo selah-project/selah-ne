@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 34:28",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "अनि नाफ्तालीका छोराहरूको कुलका ⟨the⟩ नासी ⟨the⟩ पेदाहेल, अम्मिहूदको छोरा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "कुलका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "פדהאל",
+      "gloss": "पेदाहेल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עמיהוד",
+      "gloss": "अम्मिहूद"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:27.439280179Z",
+  "model": "glm-5.3"
+}

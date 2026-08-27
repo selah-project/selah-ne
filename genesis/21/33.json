@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 21:33",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "अनि अभ्राहामले बेर-शेबामा एउटा एशेल-रूख रोपे, र त्यहाँ उनले यहवे, एल ओलामको नाम बोलाए।",
+  "tokens": [
+    {
+      "surface": "ויטע",
+      "gloss": "रोपे"
+    },
+    {
+      "surface": "אשל",
+      "gloss": "एशेल-रूख"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "बेर-शेबामा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "बेर-शेबामा"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलाए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "ओलाम"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:12.832345064Z",
+  "model": "glm-5.3"
+}

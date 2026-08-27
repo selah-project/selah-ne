@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 33:5",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "उनले यहवेको भवनका दुई आँगनमा आकाशको सम्पूर्ण सेनाका लागि वेदीहरू बनाए।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "מזבחות",
+      "gloss": "वेदीहरू"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सम्पूर्ण …का लागि"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशको"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "दुई …मा"
+    },
+    {
+      "surface": "חצרות",
+      "gloss": "आँगन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:23:31.945113120Z",
+  "model": "glm-5.3"
+}

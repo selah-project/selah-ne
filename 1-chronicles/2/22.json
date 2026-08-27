@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 2:22",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र सेगुबले ⟨את⟩ याइरलाई जन्म दिए, र उसका लागि गिलअदको देशमा तेइस सहरहरू भए।",
+  "tokens": [
+    {
+      "surface": "ושגוב",
+      "gloss": "र सेगुबले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "याइर"
+    },
+    {
+      "surface": "יאיר",
+      "gloss": "याइर"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसका लागि"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלוש",
+      "gloss": "र तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "सहरहरू"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलअदको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:21.752071393Z",
+  "model": "glm-5.3"
+}

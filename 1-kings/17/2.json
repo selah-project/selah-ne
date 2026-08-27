@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 17:2",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अनि यहवेको वचन उहाँकहाँ आयो, भन्दै —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि…भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उहाँकहाँ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T22:06:09.195067880Z",
+  "model": "glm-5.3"
+}

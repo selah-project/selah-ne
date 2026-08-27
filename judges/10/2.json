@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "judges 10:2",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "उनले यिस्राएललाई छब्बीस वर्ष ⟨את⟩ कार्य गरे, र मरे, र शामिरमा गाडिए।",
+  "tokens": [
+    {
+      "surface": "וישפט",
+      "gloss": "कार्य गरे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिस्राएललाई"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "र तीन"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "ויקבר",
+      "gloss": "गाडिए"
+    },
+    {
+      "surface": "בשמיר",
+      "gloss": "शामिरमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:24:46.669849917Z",
+  "model": "glm-5.3"
+}

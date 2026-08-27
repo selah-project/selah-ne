@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 10:2",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "याफेतका छोराहरू: गोमेर, मागोग, मादाइ, यावान, तुवल, मेशेख र तिरास।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "याफेतका"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "र मागोग"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "र मादाइ"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "र यावान"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "र तुवल"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "र मेशेख"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "र तिरास"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:28.621463409Z",
+  "model": "glm-5.3"
+}

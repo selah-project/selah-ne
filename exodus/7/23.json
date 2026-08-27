@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 7:23",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र फारोह फर्किए र आफ्नो घरभित्र पसे, र यस कुरालाई पनि हृदयमा राखेनन्।",
+  "tokens": [
+    {
+      "surface": "ויפן",
+      "gloss": "र फर्किए"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारोह"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "र पसे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "आफ्नो घर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र ... राखेनन्"
+    },
+    {
+      "surface": "שת",
+      "gloss": "राख्नु"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "हृदयमा आफ्नो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "לזאת",
+      "gloss": "यस कुरालाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:05:53.100888071Z",
+  "model": "glm-5.3"
+}

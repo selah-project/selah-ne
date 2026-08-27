@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "leviticus 24:13",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "तब यहवेले मोशेसँग बोल्नुभयो, भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "तब बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:33:08.365381205Z",
+  "model": "glm-5.3"
+}

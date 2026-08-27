@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "judges 2:8",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र यहोशुआ, नूनको छोरा, यहवेको सेवक, मर्यो — सय र दश वर्षको छोरा।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर्यो"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नूनको"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "दश"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:20:15.750549560Z",
+  "model": "glm-5.3"
+}

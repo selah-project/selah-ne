@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "1-chronicles 2:52",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र शोबलका — किर्यत-येआरिमको पिताका — छोराहरू भए: हारोएह, र मनुखोथको आधा भाग।",
+  "tokens": [
+    {
+      "surface": "ובנים",
+      "gloss": "र छोराहरू भए"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "לשובל",
+      "gloss": "शोबलका"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत-"
+    },
+    {
+      "surface": "יערים",
+      "gloss": "येआरिमको"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "हारोएह"
+    },
+    {
+      "surface": "חצי",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "המנחות",
+      "gloss": "मनुखोथको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:21.866317096Z",
+  "model": "glm-5.3"
+}

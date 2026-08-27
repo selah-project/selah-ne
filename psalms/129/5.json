@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 129:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 129,
+  "translation": "लाज मानून् र पछाडि फर्कून्, त्सियोनका सबै शत्रुहरू।",
+  "tokens": [
+    {
+      "surface": "יבשו",
+      "gloss": "लाज मानून्"
+    },
+    {
+      "surface": "ויסגו",
+      "gloss": "र पछाडि फर्कून्"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पछाडि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "שנאי",
+      "gloss": "शत्रुहरूले"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "त्सियोन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:34.394570188Z",
+  "model": "glm-5.3"
+}

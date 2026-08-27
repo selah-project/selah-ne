@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 28:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "अनि याकोभ बेर-शेबाबाट निस्कियो र खारानतर्फ गयो।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "अनि निस्कियो"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    },
+    {
+      "surface": "מבאר",
+      "gloss": "बेर-शेबाबाट"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "बेर-शेबा"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "र गयो"
+    },
+    {
+      "surface": "חרנה",
+      "gloss": "खारानतर्फ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:51:38.617918074Z",
+  "model": "glm-5.3"
+}

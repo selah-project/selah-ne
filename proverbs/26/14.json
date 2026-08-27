@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 26:14",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "ढोका ⟨आफ्नै⟩ कब्जामा घुम्छ, र आलसी ⟨आफ्नै⟩ ओछ्यानमा ⟨घुम्छ⟩।",
+  "tokens": [
+    {
+      "surface": "הדלת",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "תסוב",
+      "gloss": "घुम्छ"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "צירה",
+      "gloss": "आफ्नै कब्जामा"
+    },
+    {
+      "surface": "ועצל",
+      "gloss": "र आलसी"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "מטתו",
+      "gloss": "आफ्नै ओछ्यानमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:39.675819334Z",
+  "model": "glm-5.3"
+}

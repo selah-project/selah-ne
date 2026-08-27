@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 13:24",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "वा जब मासुको छालामा आगोको पोलाइ हुन्छ, र पोलेको ठाउँको बाँचेको मासु सेतो दाग बन्छ — रातो-सेतो वा सेतो।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुन्छ"
+    },
+    {
+      "surface": "בערו",
+      "gloss": "छालामा"
+    },
+    {
+      "surface": "מכות",
+      "gloss": "पोलाइ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगोको"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "बन्छ"
+    },
+    {
+      "surface": "מחית",
+      "gloss": "बाँचेको मासु"
+    },
+    {
+      "surface": "המכוה",
+      "gloss": "पोलेको ठाउँको"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "सेतो"
+    },
+    {
+      "surface": "אדמדמת",
+      "gloss": "रातो-सेतो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "לבנה",
+      "gloss": "सेतो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:31.933883662Z",
+  "model": "glm-5.3"
+}

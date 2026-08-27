@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 21:17",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "यहवेको वचन तिश्बी एलियाहूकहाँ आयो ⟨भन्नू⟩:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–कहाँ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "तिश्बी"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नू"
+    }
+  ],
+  "timestamp": "2026-08-26T22:07:29.667975327Z",
+  "model": "glm-5.3"
+}

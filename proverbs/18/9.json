@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 18:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "जो आफ्नो काममा शिथिल हुन्छ, ऊ ⟨हो⟩ नाश गर्नेवालाकै भाइ हो।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "מתרפה",
+      "gloss": "शिथिल हुन्छ"
+    },
+    {
+      "surface": "במלאכתו",
+      "gloss": "आफ्नो काममा"
+    },
+    {
+      "surface": "אח",
+      "gloss": "भाइ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ ⟨हो⟩"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "…को धनी"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "नाश गर्नेवाला"
+    }
+  ],
+  "timestamp": "2026-08-27T02:17:46.681555367Z",
+  "model": "glm-5.3"
+}

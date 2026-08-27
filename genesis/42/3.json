@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 42:3",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "तब योसेफका दाजुभाइहरू दश जना मिस्रबाट अन्न किन्न तल झरे।",
+  "tokens": [
+    {
+      "surface": "וירדו",
+      "gloss": "तल झरे"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "दाजुभाइहरू"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफका"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दश जना"
+    },
+    {
+      "surface": "לשבר",
+      "gloss": "किन्न"
+    },
+    {
+      "surface": "בר",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "ממצרים",
+      "gloss": "मिस्रबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T19:58:45.075542400Z",
+  "model": "glm-5.3"
+}

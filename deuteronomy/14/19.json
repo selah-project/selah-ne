@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 14:19",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र हरेक सर्रेत्-उडुने ⟨the⟩ चरा तिमीहरूका लागि अशुद्ध ⟨is⟩ — तिनीहरू खाइने होइनन्।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र हरेक"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "सर्रेत्-उडुने"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "⟨the⟩ चरा"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨is⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יאכלו",
+      "gloss": "खाइने"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:58.009631764Z",
+  "model": "glm-5.3"
+}

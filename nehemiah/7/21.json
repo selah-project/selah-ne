@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "nehemiah 7:21",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "आटेरका छोराहरू — खिज्कियाका — अनब्बे र अठ्ठाइस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אטר",
+      "gloss": "आटेर"
+    },
+    {
+      "surface": "לחזקיה",
+      "gloss": "खिज्कियाका"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "अनब्बे"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र अठ्ठाइस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:55.916655218Z",
+  "model": "glm-5.3"
+}

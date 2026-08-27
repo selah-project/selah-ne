@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 10:27",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र अखियाह, खानान, अनान।",
+  "tokens": [
+    {
+      "surface": "ואחיה",
+      "gloss": "र अखियाह"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "अनान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:48.380560003Z",
+  "model": "glm-5.3"
+}

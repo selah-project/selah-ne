@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 10:32",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "बिन्यामिन, मल्लुख, शेमार्याह।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "मלוך",
+      "gloss": "मल्लुख"
+    },
+    {
+      "surface": "שמריה",
+      "gloss": "शेमार्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:09:39.854503227Z",
+  "model": "glm-5.3"
+}

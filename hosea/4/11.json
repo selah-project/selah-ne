@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "hosea 4:11",
+  "book": "hosea",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "व्यभिचार र दाखरस र नयाँ दाखरसले हृदय खोस्छन् ।",
+  "tokens": [
+    {
+      "surface": "זנות",
+      "gloss": "व्यभिचार"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "र दाखरस"
+    },
+    {
+      "surface": "ותירוש",
+      "gloss": "र नयाँ दाखरस"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "खोस्छन्"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-26T23:33:10.265662750Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 3:19",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तर म जान्दछु कि बलियो हात नभई मिस्रको राजाले तिमीहरूलाई ⟨את⟩ जान दिनेछैन।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "तर म"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जान्दछु"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिनेछ"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तिमीहरूलाई",
+      "marks": "तिमीहरूलाई"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रको"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "जान"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "नभई"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "חזקה",
+      "gloss": "बलियो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:05:10.310434192Z",
+  "model": "glm-5.3"
+}

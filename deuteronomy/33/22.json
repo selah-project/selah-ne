@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 33:22",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र दानका विषयमा भन्नुभयो: दान सिंहको बच्चा हो, बाशानबाट उफ्रन्छ।",
+  "tokens": [
+    {
+      "surface": "ולדן",
+      "gloss": "र दानका विषयमा"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "גור",
+      "gloss": "बच्चा"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "सिंहको"
+    },
+    {
+      "surface": "יזנק",
+      "gloss": "उफ्रन्छ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान"
+    }
+  ],
+  "timestamp": "2026-08-26T21:09:08.612517656Z",
+  "model": "glm-5.3"
+}

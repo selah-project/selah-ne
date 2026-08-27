@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "2-samuel 16:20",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "अबशालोमले अखीतोफेललाई भन्यो, आफूहरूलाई सल्लाह देऊ — हामी के गर्ने?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अबशालोमले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अखीतोफेल"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आफूहरूलाई"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सल्लाह"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "गर्ने"
+    }
+  ],
+  "timestamp": "2026-08-26T21:51:18.946873358Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 21:24",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "आँखाको बदलामा आँखा, दाँतको बदलामा दाँत, हातको बदलामा हात, खुट्टाको बदलामा खुट्टा।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "आँखा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "को बदलामा"
+    },
+    {
+      "surface": "עין",
+      "gloss": "आँखा"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "को बदलामा"
+    },
+    {
+      "surface": "שן",
+      "gloss": "दाँत"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "को बदलामा"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "खुट्टा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "को बदलामा"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "खुट्टा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:12:38.875239378Z",
+  "model": "glm-5.3"
+}

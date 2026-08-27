@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 24:26",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "त्यही दिन उम्कने व्यक्ति तिमीकहाँ आउनेछ, कानहरूलाई सुनाउन ⟨to you⟩।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "त्यही दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आउनेछ"
+    },
+    {
+      "surface": "हפליט",
+      "gloss": "उम्कने व्यक्ति"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीकहाँ"
+    },
+    {
+      "surface": "להשמעות",
+      "gloss": "सुनाउन"
+    },
+    {
+      "surface": "אזנים",
+      "gloss": "कानहरूलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T02:10:21.590968939Z",
+  "model": "glm-5.3"
+}

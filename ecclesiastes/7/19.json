@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ecclesiastes 7:19",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "हिक्मतले बुद्धिमानलाई बलियो बनाउँछ — सहरमा भएका दश शासकभन्दा बढी ।",
+  "tokens": [
+    {
+      "surface": "החכמה",
+      "gloss": "हिक्मत"
+    },
+    {
+      "surface": "תעז",
+      "gloss": "बलियो बनाउँछ"
+    },
+    {
+      "surface": "לחכם",
+      "gloss": "बुद्धिमानलाई"
+    },
+    {
+      "surface": "מעשרה",
+      "gloss": "दशभन्दा बढी"
+    },
+    {
+      "surface": "שליטים",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היו",
+      "gloss": "भएका"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहरमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:17.018094455Z",
+  "model": "glm-5.3"
+}

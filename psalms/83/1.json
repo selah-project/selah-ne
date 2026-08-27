@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 83:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 83,
+  "translation": "गीत, ज़िमरा-गीत, आसाफका लागि।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज्मोर (बाद्यसहितको गीत)"
+    },
+    {
+      "surface": "לאסף",
+      "gloss": "आसाफका लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:22.116500554Z",
+  "model": "glm-5.3"
+}

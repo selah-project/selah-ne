@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 149:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 149,
+  "translation": "जातिहरूमा प्रतिशोध गर्न, जनताहरूमा ताडनाहरू लागू गर्न;",
+  "tokens": [
+    {
+      "surface": "לעשות",
+      "gloss": "गर्न"
+    },
+    {
+      "surface": "נקמה",
+      "gloss": "प्रतिशोध"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जातिहरूमा"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "ताडनाहरू"
+    },
+    {
+      "surface": "בל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "אמים",
+      "gloss": "जनताहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:18.526368541Z",
+  "model": "glm-5.3"
+}

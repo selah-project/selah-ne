@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "nehemiah 7:51",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "गज्जामका छोराहरू, उज्जाका छोराहरू, पासेआखका छोराहरू,",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "גזם",
+      "gloss": "गज्जामका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उज्जाका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पासेआखका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:59.640991109Z",
+  "model": "glm-5.3"
+}

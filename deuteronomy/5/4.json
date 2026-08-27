@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 5:4",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अनुहारै-अनुहार यहवेले पर्वतमा, आगोको बीचबाट तिमीहरूसित बोल्नुभयो।",
+  "tokens": [
+    {
+      "surface": "פנים",
+      "gloss": "अनुहार"
+    },
+    {
+      "surface": "בפנים",
+      "gloss": "अनुहारसँग"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "עמכם",
+      "gloss": "तिमीहरूसित"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वतमा"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बीचबाट"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आगोको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:03.978142510Z",
+  "model": "glm-5.3"
+}

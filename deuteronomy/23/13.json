@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 23:13",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र तिम्रो निम्ति एउटा स्थान होस् शिविरबाट बाहिर, र तिमी त्यहाँ बाहिर निस्कनेछौ।",
+  "tokens": [
+    {
+      "surface": "ויד",
+      "gloss": "र एउटा स्थान"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होस्"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रो निम्ति"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "शिविरबाट"
+    },
+    {
+      "surface": "ויצאת",
+      "gloss": "र तिमी निस्कनेछौ"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहिर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:25.687326676Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 5:3",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र इस्राएलका सबै मानिसहरू पर्वमा राजाकहाँ भेला भए — त्यो ⟨सातौँ⟩ महिना हो।",
+  "tokens": [
+    {
+      "surface": "ויקהלו",
+      "gloss": "र भेला भए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "בחג",
+      "gloss": "पर्वमा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "החדש",
+      "gloss": "महिना"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "सातौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:32:58.993091Z",
+  "model": "glm-5.3"
+}

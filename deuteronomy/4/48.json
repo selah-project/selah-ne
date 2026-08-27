@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "deuteronomy 4:48",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "अरोएरदेखि, जो अर्नोन खोलाको किनारामा छ, लिएर सियोन पहाडसम्म — त्यही खेर्मोन हो।",
+  "tokens": [
+    {
+      "surface": "מערער",
+      "gloss": "अरोएरदेखि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनाराको"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "खोलाको"
+    },
+    {
+      "surface": "ארנן",
+      "gloss": "अर्नोन"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पहाड"
+    },
+    {
+      "surface": "שיאן",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यही …हो"
+    },
+    {
+      "surface": "חרמון",
+      "gloss": "खेर्मोन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:54:35.151263267Z",
+  "model": "glm-5.3"
+}

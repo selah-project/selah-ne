@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 2:7",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "जेबुलूनको गोत्र; र जेबुलूनका छोराहरूको नायक ⟨is⟩ एलिआभ, जो हेलोनका छोरा हुन्।",
+  "tokens": [
+    {
+      "surface": "מטה",
+      "gloss": "गोत्र"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबुलूनको"
+    },
+    {
+      "surface": "ונשיא",
+      "gloss": "र नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबुलूनका"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआभ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "हेलोनका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:36:13.191858133Z",
+  "model": "glm-5.3"
+}

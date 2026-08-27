@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "ezra 2:31",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "अर्को एलामका छोराहरू, एक हजार दुई सय उनन्चवन्न।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्को"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "उनन्चवन्न"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:42.581434012Z",
+  "model": "glm-5.3"
+}

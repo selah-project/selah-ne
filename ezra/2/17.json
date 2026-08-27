@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezra 2:17",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "बेत्साइका सन्तानहरू, तीन सय तेइस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरू"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "बेत्साइका"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "र तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:28.558570946Z",
+  "model": "glm-5.3"
+}

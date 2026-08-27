@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "job 28:14",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "थहोमले भन्छ, 'ममा होइन ⟨היא⟩'; र समुद्रले भन्छ, 'मसँग छैन।'",
+  "tokens": [
+    {
+      "surface": "תהום",
+      "gloss": "थहोम"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्छ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "היא",
+      "gloss": "⟨היא⟩ त्यो"
+    },
+    {
+      "surface": "וים",
+      "gloss": "र समुद्र"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्छ"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मसँग"
+    }
+  ],
+  "timestamp": "2026-08-27T00:36:28.101324952Z",
+  "model": "glm-5.3"
+}

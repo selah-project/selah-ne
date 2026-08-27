@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 33:27",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र तिनीहरू ताखातबाट यात्रा गरी तेराखमा डेरा ׬साए।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "र यात्रा गरी"
+    },
+    {
+      "surface": "मתחת",
+      "gloss": "ताखातबाट"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "בתרח",
+      "gloss": "तेराखमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:02.768747819Z",
+  "model": "glm-5.3"
+}

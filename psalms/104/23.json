@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 104:23",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 104,
+  "translation": "मानिस आफ्नो काममा निस्कन्छ, र साँझसम्म आफ्नो श्रममा।",
+  "tokens": [
+    {
+      "surface": "יצא",
+      "gloss": "निस्कन्छ"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "לפעלו",
+      "gloss": "आफ्नो काममा"
+    },
+    {
+      "surface": "ולעבדתו",
+      "gloss": "र आफ्नो श्रममा"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:10:05.153113081Z",
+  "model": "glm-5.3"
+}

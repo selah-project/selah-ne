@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 6:22",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "ताखातका छोरा असीरका छोरा एव्यासाफका छोरा कोराखका छोरा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "ताखात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אסיר",
+      "gloss": "असीर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אביסף",
+      "gloss": "एव्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोराख"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:51.272621738Z",
+  "model": "glm-5.3"
+}

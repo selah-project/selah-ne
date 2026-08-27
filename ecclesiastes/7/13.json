@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 7:13",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "हेर ⟨את⟩ काम एलोहीमको — किनकि जुन ⟨he⟩ बाङ्गो बनाइएको छ, त्यसलाई कसले सक्छ सिध्याउन?",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "काम"
+    },
+    {
+      "surface": "मעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "יוכל",
+      "gloss": "सक्छ"
+    },
+    {
+      "surface": "לתקן",
+      "gloss": "सिध्याउन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जुन बाङ्गो बनाइएको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "עותו",
+      "gloss": "बाङ्गो बनाइएको छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:43.753671735Z",
+  "model": "glm-5.3"
+}

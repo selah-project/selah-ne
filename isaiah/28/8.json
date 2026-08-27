@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 28:8",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "किनकि सबै टेबलहरू वान्ताले र फोहोरले भरिएका छन् — ⟨यहाँ⟩ सफा ठाउँ कतै छैन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "שלחנות",
+      "gloss": "टेबलहरू"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरिएका छन्"
+    },
+    {
+      "surface": "קיא",
+      "gloss": "वान्ता"
+    },
+    {
+      "surface": "צאה",
+      "gloss": "फोहोर"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाउँ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:31:01.385845762Z",
+  "model": "glm-5.3"
+}

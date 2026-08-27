@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 6:31",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "अम्त्सीको छोरा, बानीको छोरा, शेमेरको छोरा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אמצי",
+      "gloss": "अम्त्सी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שמר",
+      "gloss": "शेमेर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:51.437422158Z",
+  "model": "glm-5.3"
+}

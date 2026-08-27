@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-chronicles 7:9",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र आठौँ दिनमा उनीहरूले ठूलो सभा गरे, किनकि वेदीको अभिषेक उनीहरूले सात दिन गरे र पर्व सात दिन ⟨गरे⟩।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "र गरे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठौँ"
+    },
+    {
+      "surface": "עצרת",
+      "gloss": "ठूलो सभा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "अभिषेक"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदीको"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "गरे"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "והחג",
+      "gloss": "र पर्व"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:46.704770053Z",
+  "model": "glm-5.3"
+}

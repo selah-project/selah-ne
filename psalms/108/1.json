@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 108:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 108,
+  "translation": "गीत, दाऊदको मिजमोर।",
+  "tokens": [
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊदको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:12.766031240Z",
+  "model": "glm-5.3"
+}

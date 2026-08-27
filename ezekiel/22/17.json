@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 22:17",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "र यहवेको वचन मतर्फ आयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र-भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतर्फ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:21:00.282578560Z",
+  "model": "glm-5.3"
+}

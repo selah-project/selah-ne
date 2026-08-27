@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 23:8",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "लादानका छोराहरू — प्रमुख येखिएल, र जेताम, र योएल — तीन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "לעדן",
+      "gloss": "लादानका"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "יחיאל",
+      "gloss": "येखिएल"
+    },
+    {
+      "surface": "וזתם",
+      "gloss": "र जेताम"
+    },
+    {
+      "surface": "ויואל",
+      "gloss": "र योएल"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:37.171136693Z",
+  "model": "glm-5.3"
+}

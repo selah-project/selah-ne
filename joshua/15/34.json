@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "joshua 15:34",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र जानोख, र एइन-गन्निम, तप्पुख, र हाएइनाम।",
+  "tokens": [
+    {
+      "surface": "וזנוח",
+      "gloss": "जानोख"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "एइन"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "गन्निम"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "तप्पुख"
+    },
+    {
+      "surface": "והעינם",
+      "gloss": "हाएइनाम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:27.327610568Z",
+  "model": "glm-5.3"
+}

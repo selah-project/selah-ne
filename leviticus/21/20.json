@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 21:20",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "वा कुबडो, वा बाठो, वा आँखामा थोप्लो भएको, वा खु乐ामा रोग भएको, वा खुस्रो, वा पिडुलो भाँचिएको।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "גבן",
+      "gloss": "कुबडो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "דק",
+      "gloss": "बाठो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "תבלל",
+      "gloss": "आँखामा थोप्लो"
+    },
+    {
+      "surface": "בעינו",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "खु乐ामा रोग"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "ילפת",
+      "gloss": "खुस्रो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "भाँचिएको"
+    },
+    {
+      "surface": "אשך",
+      "gloss": "पिडुलो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:45.364172580Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 1:54",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अलूफ मग्दिएल, अलूफ इराम। यिनीहरू एदोमका अलूफहरू हुन्।",
+  "tokens": [
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "מגדיאל",
+      "gloss": "मग्दिएल"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अलूफ"
+    },
+    {
+      "surface": "עירם",
+      "gloss": "इराम"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यिनीहरू"
+    },
+    {
+      "surface": "אלופי",
+      "gloss": "अलूफहरू"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:57.798828460Z",
+  "model": "glm-5.3"
+}

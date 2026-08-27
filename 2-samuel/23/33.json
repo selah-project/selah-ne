@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 23:33",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "शाम्माह हहरारी, अखियाम शारार हारारीको छोरा।",
+  "tokens": [
+    {
+      "surface": "שמה",
+      "gloss": "शाम्माह"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "हहरारी"
+    },
+    {
+      "surface": "אחיאם",
+      "gloss": "अखियाम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שרר",
+      "gloss": "शारार"
+    },
+    {
+      "surface": "האררי",
+      "gloss": "हारारीको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:59:54.311160296Z",
+  "model": "glm-5.3"
+}

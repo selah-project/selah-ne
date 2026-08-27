@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 3:18",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र काँडा र दर्दर तिमीलाई उमार्नेछ, र तैँले ⟨את⟩ खेतको घाँस खानेछौ।",
+  "tokens": [
+    {
+      "surface": "וקוץ",
+      "gloss": "र काँडा"
+    },
+    {
+      "surface": "ודרדר",
+      "gloss": "र दर्दर"
+    },
+    {
+      "surface": "תצמיח",
+      "gloss": "उमार्नेछ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "ואכלת",
+      "gloss": "र खानेछौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेतको घाँस"
+    },
+    {
+      "surface": "עשב",
+      "gloss": "घाँस"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेतको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:48.443898645Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 20:3",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "मेरो अनुहारको सामु तिमीसँग अरू देवता ⟨shall⟩ हुनेछैनन्।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "…छैनन्"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछन्"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीसँग"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "…को सामु"
+    },
+    {
+      "surface": "פני",
+      "gloss": "मेरो अनुहार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:40.760986047Z",
+  "model": "glm-5.3"
+}

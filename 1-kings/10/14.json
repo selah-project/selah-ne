@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 10:14",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र एक वर्षमा शलोमोहलाई आउने सुनको तौल भयो — छ सय, साठी र छ किक्कर सुन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "तौल"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सुनको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँथ्यो"
+    },
+    {
+      "surface": "לשלמה",
+      "gloss": "शलोमोहलाई"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षमा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठी"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "र छ"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "किक्कर"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुन"
+    }
+  ],
+  "timestamp": "2026-08-26T22:02:04.287659246Z",
+  "model": "glm-5.3"
+}

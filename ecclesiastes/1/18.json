@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 1:18",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "किनकि बुद्धिको बाहुल्यमा दुःखको बाहुल्य ⟨हुन्छ⟩, र जसले ज्ञान बढाउँछ ⟨उसले⟩ पीडा बढाउँछ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "बाहुल्यमा"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "बाहुल्य"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "ויוסיף",
+      "gloss": "र बढाउँछ"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "יוסיף",
+      "gloss": "बढाउँछ"
+    },
+    {
+      "surface": "מכאוב",
+      "gloss": "पीडा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:23.858756893Z",
+  "model": "glm-5.3"
+}

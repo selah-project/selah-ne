@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "zechariah 3:3",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यहोशूआ फोहोर लत्ताकपडामा लुछेका थिए र दूतको सामु उभिएका थिए।",
+  "tokens": [
+    {
+      "surface": "ויהושע",
+      "gloss": "र यहोशूआ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "לבש",
+      "gloss": "लुछेका"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "कपडामा"
+    },
+    {
+      "surface": "צואים",
+      "gloss": "फोहोर"
+    },
+    {
+      "surface": "ועמד",
+      "gloss": "र उभिएका"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "को सामु"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "दूत"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:26.294495798Z",
+  "model": "glm-5.3"
+}

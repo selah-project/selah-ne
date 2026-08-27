@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 22:1",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "र ⟨הם⟩ तीन वर्ष बसे — अराम र यिस्राएलबीच युद्ध थिएन।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אין",
+      "gloss": "थिएन"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र …बीच"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-26T22:08:59.462041382Z",
+  "model": "glm-5.3"
+}

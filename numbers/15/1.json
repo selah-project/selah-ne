@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 15:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "अनि यहवेले मोशेसँग बोल्नुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "अनि-बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:43:10.316865285Z",
+  "model": "glm-5.3"
+}

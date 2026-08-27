@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 34:8",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "र मोशे छिटो झुके, धरतीतिर निहुरिए र दण्डवत् गरे।",
+  "tokens": [
+    {
+      "surface": "וימהר",
+      "gloss": "र छिटो गरे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ויקד",
+      "gloss": "र निहुरिए"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "धरतीतिर"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "र दण्डवत् गरे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:19:03.063899972Z",
+  "model": "glm-5.3"
+}

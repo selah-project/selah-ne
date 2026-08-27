@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 23:25",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "बालाकले बिल्आमलाई भन्यो: न त श्राप देऊ नै, न त आशीर्वाद देऊ नै।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाकले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिल्आम"
+    },
+    {
+      "surface": "גם",
+      "gloss": "न त"
+    },
+    {
+      "surface": "קב",
+      "gloss": "श्राप देऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नै"
+    },
+    {
+      "surface": "תקבנו",
+      "gloss": "त्यसलाई श्राप देऊ"
+    },
+    {
+      "surface": "גם",
+      "gloss": "न त"
+    },
+    {
+      "surface": "ברך",
+      "gloss": "आशीर्वाद देऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नै"
+    },
+    {
+      "surface": "תברכנו",
+      "gloss": "त्यसलाई आशीर्वाद देऊ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:46:41.443878640Z",
+  "model": "glm-5.3"
+}

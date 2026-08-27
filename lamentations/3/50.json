@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "lamentations 3:50",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "जबसम्म यहवे झुकेर हेर्नुहुनेछ र स्वर्गबाट देख्नुहुनेछ।",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "जबसम्म"
+    },
+    {
+      "surface": "ישקיף",
+      "gloss": "झुकेर हेर्नुहुनेछ"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "र देख्नुहुनेछ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "משמים",
+      "gloss": "स्वर्गबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:09.553321958Z",
+  "model": "glm-5.3"
+}

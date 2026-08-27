@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "2-samuel 5:18",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र पलिश्तीहरू आए, र रेफाइमको उपत्यकामा फैलिए।",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "र पलिश्तीहरू"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "וינטשו",
+      "gloss": "र फैलिए"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "उपत्यकामा"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रेफाइम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:46:12.169700203Z",
+  "model": "glm-5.3"
+}

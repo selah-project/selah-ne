@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 12:10",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "कोहेलेतले मनोरञ्जनका शब्दहरू पाउन खोज्नुभयो, र लेखिएको ⟨सरल⟩ — सत्यका शब्दहरू।",
+  "tokens": [
+    {
+      "surface": "בקש",
+      "gloss": "खोज्नुभयो"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेतले"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "पाउन"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "शब्दहरू"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "मनोरञ्जनका (रुचिका)"
+    },
+    {
+      "surface": "וכתוב",
+      "gloss": "र लेखिएको"
+    },
+    {
+      "surface": "ישר",
+      "gloss": "सरल"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "शब्दहरू"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्यका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:52:42.396890837Z",
+  "model": "glm-5.3"
+}

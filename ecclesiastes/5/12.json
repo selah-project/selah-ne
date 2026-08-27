@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 5:12",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "एउटा खतरनाक दुखत छ, जुन मैले सूर्यतले देखेँ — धनीको हानिका लागि जोगाइएको धन।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "दुखत"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "खतरनाक"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले देखेँ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "धन"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "जोगाइएको"
+    },
+    {
+      "surface": "לבעליו",
+      "gloss": "त्यसको धनीको"
+    },
+    {
+      "surface": "לרעתו",
+      "gloss": "त्यसको हानिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:36.543880126Z",
+  "model": "glm-5.3"
+}

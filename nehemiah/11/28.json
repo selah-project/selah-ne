@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 11:28",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र त्सिक्लागमा, र मेखोनामा र त्यसका गाउँहरूमा।",
+  "tokens": [
+    {
+      "surface": "ובצקלג",
+      "gloss": "र त्सिक्लागमा"
+    },
+    {
+      "surface": "ובמכנה",
+      "gloss": "र मेखोनामा"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "र त्यसका गाउँहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:40.679823534Z",
+  "model": "glm-5.3"
+}

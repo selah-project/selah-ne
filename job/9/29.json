@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "job 9:29",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "म त दोषी नै छु; किन यो? व्यर्थै म थकिन्छु।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "ארשע",
+      "gloss": "दोषी नै छु"
+    },
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थै"
+    },
+    {
+      "surface": "איגע",
+      "gloss": "थकिन्छु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:32:13.394467896Z",
+  "model": "glm-5.3"
+}

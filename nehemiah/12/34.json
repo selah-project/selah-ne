@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 12:34",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "यहूदा र बिन्यामीन, र शेमायाह र यिर्मेयाह",
+  "tokens": [
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "र बिन्यामीन"
+    },
+    {
+      "surface": "ושמעיה",
+      "gloss": "र शेमायाह"
+    },
+    {
+      "surface": "וירמיה",
+      "gloss": "र यिर्मेयाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:26.749153404Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "ezra 10:34",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "बानीका छोराहरूमध्ये: मादाइ, अमराम र ऊएल।",
+  "tokens": [
+    {
+      "surface": "מבני",
+      "gloss": "छोराहरूमध्ये"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानीका"
+    },
+    {
+      "surface": "מעדי",
+      "gloss": "मादाइ"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अमराम"
+    },
+    {
+      "surface": "ואואל",
+      "gloss": "र ऊएल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:09:42.705238860Z",
+  "model": "glm-5.3"
+}

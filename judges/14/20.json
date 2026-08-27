@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "judges 14:20",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र शिम्शोनकी पत्नी उसको साथीकी ⟨भइन्⟩, जो उसको मित्र ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "र भइन्"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "शिम्शोनकी"
+    },
+    {
+      "surface": "למרעהו",
+      "gloss": "उसको साथीकी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "मित्र"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:26:52.433307967Z",
+  "model": "glm-5.3"
+}

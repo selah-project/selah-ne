@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 3:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "जन्म लिने घडी, र मर्ने घडी; रोप्ने घडी, र रोपिएकोलाई उखेल्ने घडी।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "घडी"
+    },
+    {
+      "surface": "ללדת",
+      "gloss": "जन्म लिने"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र…घडी"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मर्ने"
+    },
+    {
+      "surface": "עת",
+      "gloss": "घडी"
+    },
+    {
+      "surface": "לטעת",
+      "gloss": "रोप्ने"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र…घडी"
+    },
+    {
+      "surface": "לעקור",
+      "gloss": "उखेल्ने"
+    },
+    {
+      "surface": "נטוע",
+      "gloss": "रोपिएकोलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:47.812945584Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "joshua 19:4",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र एल्तोलाद, बेतुल र खर्माह।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "र एल्तोलाद"
+    },
+    {
+      "surface": "ובתול",
+      "gloss": "र बेतुल"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "र खर्माह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:45.714472183Z",
+  "model": "glm-5.3"
+}

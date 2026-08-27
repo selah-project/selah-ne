@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 3:10",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "समथर भूमिका सबै सहरहरू, र सबै गिलाद, र सबै बाशान, साल्खा र एद्रेइसम्म — बाशानमा ओगको राज्यका सहरहरू।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "सहरहरू"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "समथर भूमिका"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "साल्खा"
+    },
+    {
+      "surface": "ואדרעי",
+      "gloss": "र एद्रेइ"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "सहरहरू"
+    },
+    {
+      "surface": "ממלכת",
+      "gloss": "राज्यका"
+    },
+    {
+      "surface": "עוג",
+      "gloss": "ओग"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "बाशानमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:36.018193993Z",
+  "model": "glm-5.3"
+}

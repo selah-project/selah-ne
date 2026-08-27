@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 11:4",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "दिनहरू बितेपछि अम्मोनका छोराहरू इस्राएलसित युद्ध गर्न थाले।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "מימים",
+      "gloss": "दिनहरू बितेपछि"
+    },
+    {
+      "surface": "וילחמו",
+      "gloss": "युद्ध गरे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोनका"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सित"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-26T21:25:14.854198134Z",
+  "model": "glm-5.3"
+}

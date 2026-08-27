@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 40:14",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "र उनले ⟨את⟩ स्तम्भहरू साठी हातका बनाए, अनि चोकको स्तम्भसम्म — ढोका वरपर वरपर।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "स्तम्भहरू"
+    },
+    {
+      "surface": "אילים",
+      "gloss": "स्तम्भहरू"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठी"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "अनि ...सम्म"
+    },
+    {
+      "surface": "איל",
+      "gloss": "स्तम्भ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "चोक"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    }
+  ],
+  "timestamp": "2026-08-26T23:28:49.599517494Z",
+  "model": "glm-5.3"
+}

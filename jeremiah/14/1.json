@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 14:1",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "जुन यहवेको वचन सुख्खाका कुराहरूका विषयमा यिर्मयाहूकहाँ आयो।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "על",
+      "gloss": "…का विषयमा"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "कुराहरूका"
+    },
+    {
+      "surface": "הבצרות",
+      "gloss": "सुख्खाका"
+    }
+  ],
+  "timestamp": "2026-08-26T22:50:03.730981399Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 24:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "बीर पुरुष ⟨हो⟩ बुद्धिमान् — शक्तिमा, र ज्ञानको मानिस बल बढाउँछ।",
+  "tokens": [
+    {
+      "surface": "גבר",
+      "gloss": "बीर पुरुष"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान्"
+    },
+    {
+      "surface": "בעוז",
+      "gloss": "शक्तिमा"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "र मानिस"
+    },
+    {
+      "surface": "דעת",
+      "gloss": "ज्ञानको"
+    },
+    {
+      "surface": "מאמץ",
+      "gloss": "बढाउँछ"
+    },
+    {
+      "surface": "כח",
+      "gloss": "बल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:46.020102428Z",
+  "model": "glm-5.3"
+}

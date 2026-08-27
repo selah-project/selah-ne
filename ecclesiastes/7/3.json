@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 7:3",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "क्रोध हाँसोभन्दा राम्रो छ, किनकि अनुहारको उदासीमा मुटु राम्रो हुन्छ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो छ"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "משחק",
+      "gloss": "हाँसोभन्दा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "उदासीमा"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "अनुहारको"
+    },
+    {
+      "surface": "ייטב",
+      "gloss": "राम्रो हुन्छ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मुटु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:07.683914527Z",
+  "model": "glm-5.3"
+}

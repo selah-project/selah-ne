@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "leviticus 13:53",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र यदि कोहेनले हेर्नुभयो, र हेर, दाग लुगामा वा तानोमा वा बानोमा वा कुनै छालाको भाँडोमा फैलिएको छैन;",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "हेर्नुभयो"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेनले"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैलिएको"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "लुगामा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "तानोमा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "बानोमा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भाँडो"
+    },
+    {
+      "surface": "עור",
+      "gloss": "छालाको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:30.908184052Z",
+  "model": "glm-5.3"
+}

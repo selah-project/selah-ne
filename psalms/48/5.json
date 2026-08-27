@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 48:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "किनभने हेर, राजाहरू भेला भए, तिनीहरू सँगै नाघेर गए।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजाहरू"
+    },
+    {
+      "surface": "נועדו",
+      "gloss": "भेला भए"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "नाघेर गए"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "सँगै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:57:38.000513131Z",
+  "model": "glm-5.3"
+}

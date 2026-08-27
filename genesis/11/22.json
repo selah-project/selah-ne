@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 11:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "सेरूग तीस वर्ष बाँच्यो, र उनले ⟨את⟩ नाखोरलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्यो"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "सेरूग"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाखोर"
+    },
+    {
+      "surface": "נחור",
+      "gloss": "नाखोर"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:54.755871523Z",
+  "model": "glm-5.3"
+}

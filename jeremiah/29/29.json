@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "jeremiah 29:29",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र त्सेफन्याह ⟨the⟩ कहिनले यर्मियाह ⟨the⟩ अगमवक्ताका कानमा ⟨את⟩ ⟨the⟩ पत्र ⟨the⟩ पढ्नुभयो।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "पढ्नुभयो"
+    },
+    {
+      "surface": "צפניה",
+      "gloss": "त्सेफन्याह"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कहिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ पत्र"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "पत्र"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कानमा"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यर्मियाह"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "अगमवक्ता"
+    }
+  ],
+  "timestamp": "2026-08-26T22:56:41.774432957Z",
+  "model": "glm-5.3"
+}

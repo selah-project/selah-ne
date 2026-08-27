@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 7:8",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "कुराको अन्त्य यसको सुरुभन्दा राम्रो हो; धैर्यु आत्मा भावभन्दा राम्रो हो।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "אחרית",
+      "gloss": "अन्त्य"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कुराको"
+    },
+    {
+      "surface": "מראשיתו",
+      "gloss": "यसको सुरुभन्दा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "धैर्यु"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्मा"
+    },
+    {
+      "surface": "מגבה",
+      "gloss": "भावभन्दा"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "भाव"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:08.942404766Z",
+  "model": "glm-5.3"
+}

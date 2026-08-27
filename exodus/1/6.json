@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 1:6",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "वट योसेफ मरे, र उनका सबै दाजुभाइहरू, र त्यो सम्पूर्ण पुस्ता।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उनका दाजुभाइहरू"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सम्पूर्ण"
+    },
+    {
+      "surface": "הדור",
+      "gloss": "पुस्ता"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:26.492717913Z",
+  "model": "glm-5.3"
+}

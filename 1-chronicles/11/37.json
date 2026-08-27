@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 11:37",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "खेत्स्रो ⟨the⟩ कार्मेली, नाराय एज्बाईको छोरा।",
+  "tokens": [
+    {
+      "surface": "חצרו",
+      "gloss": "खेत्स्रो"
+    },
+    {
+      "surface": "הכרמלי",
+      "gloss": "कार्मेली"
+    },
+    {
+      "surface": "נערי",
+      "gloss": "नाराय"
+    },
+    {
+      "surface": "बן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אזבי",
+      "gloss": "एज्बाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:58.140527899Z",
+  "model": "glm-5.3"
+}

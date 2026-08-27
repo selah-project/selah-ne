@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "leviticus 14:57",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "अशुद्धको दिनमा र शुद्धको दिनमा शिक्षा दिन — यही स्कर्फ-रोगको तोरा हो।",
+  "tokens": [
+    {
+      "surface": "להורת",
+      "gloss": "शिक्षा दिन"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "को दिनमा"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "अशुद्धको"
+    },
+    {
+      "surface": "וביום",
+      "gloss": "र दिनमा"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "शुद्धको"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यही"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "तोरा"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "स्कर्फ-रोगको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:58.618640913Z",
+  "model": "glm-5.3"
+}

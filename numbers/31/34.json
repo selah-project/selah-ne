@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 31:34",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र गधा इक्सठ्ठी हजार —",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "र गधा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "र साठी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:52.427341053Z",
+  "model": "glm-5.3"
+}

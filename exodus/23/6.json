@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "exodus 23:6",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "आफ्नो गरिबको न्याय उसकै मुद्दामा नतानु।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תטה",
+      "gloss": "नतानु"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "אבינך",
+      "gloss": "आफ्नो गरिबको"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "उसकै मुद्दामा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:41.047428054Z",
+  "model": "glm-5.3"
+}

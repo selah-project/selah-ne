@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 7:14",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "जक्काइका सन्तान, सात सय साठी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "जक्काइ"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "साठी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:42.619292873Z",
+  "model": "glm-5.3"
+}

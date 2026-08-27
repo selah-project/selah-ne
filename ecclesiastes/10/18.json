@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ecclesiastes 10:18",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "अल्छीले छत भत्किन्छ, र हातहरूको ढिलाइले घर चुहिन्छ।",
+  "tokens": [
+    {
+      "surface": "בעצלתים",
+      "gloss": "अल्छीले"
+    },
+    {
+      "surface": "ימך",
+      "gloss": "भत्किन्छ"
+    },
+    {
+      "surface": "המקרה",
+      "gloss": "छत"
+    },
+    {
+      "surface": "ובשפלות",
+      "gloss": "र ढिलाइबाट"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हातहरूको"
+    },
+    {
+      "surface": "ידלף",
+      "gloss": "चुहिन्छ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:25.427308835Z",
+  "model": "glm-5.3"
+}

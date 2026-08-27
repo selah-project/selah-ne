@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "2-samuel 23:38",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "इरा ⟨the⟩ यित्री, गारेभ ⟨the⟩ यित्री।",
+  "tokens": [
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "यित्री"
+    },
+    {
+      "surface": "גרב",
+      "gloss": "गारेभ"
+    },
+    {
+      "surface": "היתרי",
+      "gloss": "यित्री"
+    }
+  ],
+  "timestamp": "2026-08-26T21:55:34.921229958Z",
+  "model": "glm-5.3"
+}

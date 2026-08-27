@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 18:6",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "मूर्खका ओठहरू झगडामा पस्छन्, र उसको मुख कुटाइका लागि बोलाउँछ।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ओठहरू"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खका"
+    },
+    {
+      "surface": "יבאו",
+      "gloss": "पस्छन्"
+    },
+    {
+      "surface": "בריב",
+      "gloss": "झगडामा"
+    },
+    {
+      "surface": "ופיו",
+      "gloss": "र उसको मुख"
+    },
+    {
+      "surface": "למהלמות",
+      "gloss": "कुटाइका लागि"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "बोलाउँछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:56.338392471Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 2:1",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "यो ⟨the⟩ वचन, जो यशैयाहूले — आमोत्सको छोराले — यहूदा र येरुशालाइमका विषयमा देख्नुभयो।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देख्नुभयो"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशैयाहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "आमोत्स"
+    },
+    {
+      "surface": "על",
+      "gloss": "विषयमा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "וירושלם",
+      "gloss": "र येरुशालाइम"
+    }
+  ],
+  "timestamp": "2026-08-26T22:23:23.694617344Z",
+  "model": "glm-5.3"
+}

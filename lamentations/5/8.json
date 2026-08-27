@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "lamentations 5:8",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "दासहरू हामीमाथि शासन गर्छन्; तिनको हातबाट छुटाउने ⟨कोही⟩ छैन।",
+  "tokens": [
+    {
+      "surface": "עבדים",
+      "gloss": "दासहरू"
+    },
+    {
+      "surface": "משלו",
+      "gloss": "शासन गर्छन्"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "हामीमाथि"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "छुटाउने"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "מידם",
+      "gloss": "तिनको हातबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:33.198777673Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 11:7",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र दाउिद त्यही दुर्गमा बस्न थाल्नुभयो; त्यसैले त्यसलाई दाउिदको सहर भनिन्थ्यो।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "बस्न थाल्नुभयो"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाउिद"
+    },
+    {
+      "surface": "במצד",
+      "gloss": "दुर्गमा"
+    },
+    {
+      "surface": "על",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "כן",
+      "gloss": "—"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "भनिन्थ्यो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यसलाई"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाउिदको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:08.636883016Z",
+  "model": "glm-5.3"
+}

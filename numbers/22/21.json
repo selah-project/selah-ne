@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 22:21",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "बिलआम बिहानै उठे र ⟨את⟩ आफ्नो गधीलाई काठी लगाइदिए, र मोआबका सरदारहरूसँग गए।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठे"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलआम"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहानै"
+    },
+    {
+      "surface": "ויחבש",
+      "gloss": "काठी लगाइदिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो गधीलाई"
+    },
+    {
+      "surface": "אתנו",
+      "gloss": "आफ्नो गधी"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गए"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "शरि",
+      "gloss": "सरदारहरू"
+    },
+    {
+      "surface": "मोאב",
+      "gloss": "मोआबका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:45.679202400Z",
+  "model": "glm-5.3"
+}

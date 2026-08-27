@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 6:6",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "योआख उनका छोरा, इद्दो उनका छोरा, जेरख उनका छोरा, येआतेराइ उनका छोरा।",
+  "tokens": [
+    {
+      "surface": "יואח",
+      "gloss": "योआख"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "עדו",
+      "gloss": "इद्दो"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरख"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "יאתרי",
+      "gloss": "येआतेराइ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:36.877040225Z",
+  "model": "glm-5.3"
+}

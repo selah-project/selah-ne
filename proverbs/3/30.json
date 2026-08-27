@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 3:30",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "कुनै मानिससँग निःकारण झगडा नगर, यदि उसले तिमीलाई ⟨את⟩ दुष्टता गरेको छैन।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרוב",
+      "gloss": "झगडा गर (नगर)"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "निःकारण"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "גמלך",
+      "gloss": "उसले तिमीलाई गरेको"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "दुष्टता"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:59.253430988Z",
+  "model": "glm-5.3"
+}

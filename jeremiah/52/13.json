@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 52:13",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 52,
+  "translation": "र उसले यहवेको ⟨את⟩ घर र ⟨את⟩ राजाको घर र येरुशालाइमका सबै घरहरू — अर्थात् ⟨את⟩ हरेक ठूलो घरलाई आगोमा जलायो।",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "र जलायो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "सबै घरहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "घरहरू"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "येरुशालाइमका"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "हरेक ठूलो घर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जलायो"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:11:07.235148470Z",
+  "model": "glm-5.3"
+}

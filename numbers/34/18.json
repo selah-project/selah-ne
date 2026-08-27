@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 34:18",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "र ⟨तिमीहरूले⟩ एक नासी, प्रत्येक गोत्रबाट एक नासी, लिनेछौ ⟨את⟩ ⟨the⟩ भूमिलाई उत्तराधिकार दिन।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "र एक नासी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "मמטה",
+      "gloss": "गोत्रबाट"
+    },
+    {
+      "surface": "תקחו",
+      "gloss": "लिनेछौ"
+    },
+    {
+      "surface": "לנחל",
+      "gloss": "उत्तराधिकार दिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भूमि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:52:17.358092787Z",
+  "model": "glm-5.3"
+}

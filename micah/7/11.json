@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "micah 7:11",
+  "book": "micah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "तिम्रा पर्खालहरू बनाउने दिन — त्यही दिन सीमा टाढा सारिनेछ।",
+  "tokens": [
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाउने"
+    },
+    {
+      "surface": "גדריך",
+      "gloss": "तिम्रा पर्खालहरू"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "ירחק",
+      "gloss": "टाढा सारिनेछ"
+    },
+    {
+      "surface": "חק",
+      "gloss": "सीमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:41:58.836038117Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 57,
+  "ref": "lamentations 3:57",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "म तिमीलाई बोलाउँदा तिमी नजिक आउनुभयो; तिमीले भन्नुभयो: डराउ न।",
+  "tokens": [
+    {
+      "surface": "קרבת",
+      "gloss": "नजिक आउनुभयो"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "אקראך",
+      "gloss": "म तिमीलाई बोलाउँदा"
+    },
+    {
+      "surface": "אמרת",
+      "gloss": "तिमीले भन्नुभयो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डराउ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:28.398476870Z",
+  "model": "glm-5.3"
+}

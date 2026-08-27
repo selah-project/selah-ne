@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 7:17",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र उलामका छोराहरू ⟨थिए⟩ बेदान। यी ⟨नै⟩ गिलादका छोराहरू हुन् — माखिरका छोरा, मनाशेका छोरा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "उलाम"
+    },
+    {
+      "surface": "בדן",
+      "gloss": "बेदान"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का छोराहरू"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מכיר",
+      "gloss": "माखिर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनाशे"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:21.186233547Z",
+  "model": "glm-5.3"
+}

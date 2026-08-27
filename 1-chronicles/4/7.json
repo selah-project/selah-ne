@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-chronicles 4:7",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र खेलआहका छोराहरू — सेरेत, यित्खार र एत्नान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "खेलआहका"
+    },
+    {
+      "surface": "צרת",
+      "gloss": "सेरेत"
+    },
+    {
+      "surface": "יצחר",
+      "gloss": "यित्खार"
+    },
+    {
+      "surface": "ואתנן",
+      "gloss": "र एत्नान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:46.447775356Z",
+  "model": "glm-5.3"
+}

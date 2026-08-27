@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 8:28",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "फाराहले यस पटक पनि ⟨את⟩ आफ्नो मुटु बाक्लो बनायो, र जनलाई पठाएन।",
+  "tokens": [
+    {
+      "surface": "ויכבד",
+      "gloss": "बाक्लो बनायो"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फाराहले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो मुटु"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "आफ्नो मुटु"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "पटक"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यस"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र पठाएन"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठाएन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जनलाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:06:42.734703396Z",
+  "model": "glm-5.3"
+}

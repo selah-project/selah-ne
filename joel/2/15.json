@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joel 2:15",
+  "book": "joel",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "तियोनमा शङ्ख फुक्, व्रत पवित्र पार्, सभा बोलाव्।",
+  "tokens": [
+    {
+      "surface": "תקעו",
+      "gloss": "फुक्"
+    },
+    {
+      "surface": "שופר",
+      "gloss": "शङ्ख"
+    },
+    {
+      "surface": "बציון",
+      "gloss": "तियोनमा"
+    },
+    {
+      "surface": "קדשו",
+      "gloss": "पवित्र पार्"
+    },
+    {
+      "surface": "צום",
+      "gloss": "व्रत"
+    },
+    {
+      "surface": "קראו",
+      "gloss": "बोलाव्"
+    },
+    {
+      "surface": "עצרה",
+      "gloss": "सभा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:36:01.325348166Z",
+  "model": "glm-5.3"
+}

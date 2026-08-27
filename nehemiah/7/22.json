@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 7:22",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "खाशुमका छोराहरू तीन सय बीस र अठ्ठाइस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "खाशुम"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र अठ्ठाइस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:55.916839820Z",
+  "model": "glm-5.3"
+}

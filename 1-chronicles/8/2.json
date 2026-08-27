@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 8:2",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "नोखाह चौथो, र राफा पाँचौँ।",
+  "tokens": [
+    {
+      "surface": "נוחה",
+      "gloss": "नोखाह"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथो"
+    },
+    {
+      "surface": "ורפא",
+      "gloss": "र राफा"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:36.924308887Z",
+  "model": "glm-5.3"
+}

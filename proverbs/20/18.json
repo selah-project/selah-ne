@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 20:18",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "योजनाहरू परामर्शले दृढ हुन्छन्, र रणनीतिले युद्ध गर।",
+  "tokens": [
+    {
+      "surface": "מחשבות",
+      "gloss": "योजनाहरू"
+    },
+    {
+      "surface": "בעצה",
+      "gloss": "परामर्शले"
+    },
+    {
+      "surface": "תכון",
+      "gloss": "दृढ हुन्छन्"
+    },
+    {
+      "surface": "ובתחבלות",
+      "gloss": "र रणनीतिले"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    }
+  ],
+  "timestamp": "2026-08-27T02:17:34.177270341Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 10:1",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "रेखबाम शेखेम गयो, किनकि उसलाई ⟨את⟩ राजा बनाउन सम्पूर्ण यिस्राएल शेखेम आएको थियो।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गयो"
+    },
+    {
+      "surface": "רחבעם",
+      "gloss": "रेखबाम"
+    },
+    {
+      "surface": "שכמה",
+      "gloss": "शेखेम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेखेम"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आएको थियो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "להמליך",
+      "gloss": "राजा बनाउन"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ उसलाई",
+      "marks": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:35:11.937744379Z",
+  "model": "glm-5.3"
+}

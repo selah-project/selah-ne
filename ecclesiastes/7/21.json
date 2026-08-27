@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 7:21",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "पनि सबै कुराहरूमा जुन उनीहरू बोल्छन्, तिम्रो मन नदेऊ, कि तिमीले ⟨את⟩ आफ्नो दासले तिमीलाई गाली गरेको नसुन।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबैमा"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "ידברו",
+      "gloss": "बोल्छन्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तिम्रो मन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो दासलाई"
+    },
+    {
+      "surface": "עבדך",
+      "gloss": "तिम्रो दास"
+    },
+    {
+      "surface": "מקללך",
+      "gloss": "तिमीलाई गाली गर्ने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:14.429743772Z",
+  "model": "glm-5.3"
+}

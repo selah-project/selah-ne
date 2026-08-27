@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 6:2",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "पहिलो रथमा राता घोडाहरू, र दोस्रो रथमा काला घोडाहरू थिए।",
+  "tokens": [
+    {
+      "surface": "במרכבה",
+      "gloss": "रथमा"
+    },
+    {
+      "surface": "הראשנה",
+      "gloss": "पहिलो"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोडाहरू"
+    },
+    {
+      "surface": "אדמים",
+      "gloss": "राता"
+    },
+    {
+      "surface": "ובמרכבה",
+      "gloss": "र दोस्रो रथमा"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दोस्रोमा"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोडाहरू"
+    },
+    {
+      "surface": "שחרים",
+      "gloss": "काला"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:39.328141886Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "daniel 7:3",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र चार ठूला जनावरहरू समुद्रबाट माथि उक्ले, एक अर्काबाट भिन्न।",
+  "tokens": [
+    {
+      "surface": "וארבע",
+      "gloss": "र चार"
+    },
+    {
+      "surface": "חיון",
+      "gloss": "जनावरहरू"
+    },
+    {
+      "surface": "רברבן",
+      "gloss": "ठूला"
+    },
+    {
+      "surface": "סלקן",
+      "gloss": "उक्ले"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "ימא",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "שנין",
+      "gloss": "भिन्न"
+    },
+    {
+      "surface": "דא",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "דא",
+      "gloss": "अर्का"
+    }
+  ],
+  "timestamp": "2026-08-27T01:01:01.728247992Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 8:24",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र खनन्याह, र एलाम, र अन्तोतियाह।",
+  "tokens": [
+    {
+      "surface": "וחנניה",
+      "gloss": "र खनन्याह"
+    },
+    {
+      "surface": "ועילם",
+      "gloss": "र एलाम"
+    },
+    {
+      "surface": "וענתתיה",
+      "gloss": "र अन्तोतियाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:35.576999255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "deuteronomy 1:37",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तपाईंहरूकै कारणले यहवेसँग मसित समेत क्रोध भयो, भन्दै भएँ: तिमी पनि त्यहाँ आउने छैनौं।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "समेत"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मसित"
+    },
+    {
+      "surface": "התאנף",
+      "gloss": "क्रोध भयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בגללכם",
+      "gloss": "तपाईंहरूकै कारणले"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैनौं"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "आउने"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:52:49.431048203Z",
+  "model": "glm-5.3"
+}

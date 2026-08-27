@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 27:1",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "भोलिको दिनमा आफैलाई प्रशंसा नगर, किनकि तिमी जान्दैनौ कि दिनले के जन्माउनेछ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תתהלל",
+      "gloss": "आफैलाई प्रशंसा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "מחר",
+      "gloss": "भोलिको"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "जान्दैनौ"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "तिमी जान्दैनौ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्माउनेछ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिनले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:20.838850911Z",
+  "model": "glm-5.3"
+}

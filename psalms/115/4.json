@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 115:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 115,
+  "translation": "तिनीहरूका मूर्तिहरू चाँदी र सुनका छन् — मानिसका हातहरूको काम।",
+  "tokens": [
+    {
+      "surface": "עצביהם",
+      "gloss": "तिनीहरूका मूर्तिहरू"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "וזהב",
+      "gloss": "र सुन"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "हातहरूको"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:46.366273199Z",
+  "model": "glm-5.3"
+}

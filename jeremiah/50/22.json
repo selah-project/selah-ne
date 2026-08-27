@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 50:22",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "भूमिमा युद्धको आवाज, र ठूलो विनाश।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्धको"
+    },
+    {
+      "surface": "באरץ",
+      "gloss": "भूमिमा"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "र विनाश"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:08:00.675778105Z",
+  "model": "glm-5.3"
+}

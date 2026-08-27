@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 3:6",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र यहवेको दूतले यहोशुवालाई साक्षी दिँदै भन्यो।",
+  "tokens": [
+    {
+      "surface": "ויעד",
+      "gloss": "र साक्षी दियो"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ביהושע",
+      "gloss": "यहोशुवालाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:46:32.360040192Z",
+  "model": "glm-5.3"
+}

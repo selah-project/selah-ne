@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 14:1",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "हेर, यहवेका लागि ⟨एउटा⟩ दिन आउँदैछ, र तिम्रो लुट तिम्रै बीचमा बाँडिनेछ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँदैछ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेका लागि"
+    },
+    {
+      "surface": "וחלק",
+      "gloss": "र बाँडिनेछ"
+    },
+    {
+      "surface": "שללך",
+      "gloss": "तिम्रो लुट"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तिम्रै बीचमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:48:54.878704694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 24:2",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र योआशले यहवेका आँखामा जे ठीक छ त्यो यहोयादा पुरोहितका सबै दिनहरूमा गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "र गर्‍यो"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआशले"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "जे ठीक छ"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेका"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "יהוידע",
+      "gloss": "यहोयादा"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहितका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:39:57.884456512Z",
+  "model": "glm-5.3"
+}

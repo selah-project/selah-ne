@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 28:20",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र यहवेको वचन मतित्र आयो, भन्नुभयोः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र ... आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतित्र"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:23:01.375430617Z",
+  "model": "glm-5.3"
+}

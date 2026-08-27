@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 7:45",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एउटा बछडा, गाईको छोरा, एउटा भाले, एउटा भाले लोखर्के, ए वर्षको छोरा, बलिका लागि।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "एउटा बछडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाईको"
+    },
+    {
+      "surface": "איל",
+      "gloss": "एउटा भाले"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "एउटा भाले लोखर्के"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "ए वर्षको"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "बलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:19.082935163Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 1:38",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र सेइरका छोराहरू: लोतन, र शोबल, र त्सिबोन, र अना, र दिशोन, र एत्सेर, र दिशान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "לוטן",
+      "gloss": "लोतन"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "र शोबल"
+    },
+    {
+      "surface": "וצבעון",
+      "gloss": "र त्सिबोन"
+    },
+    {
+      "surface": "וענה",
+      "gloss": "र अना"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "र दिशोन"
+    },
+    {
+      "surface": "ואצר",
+      "gloss": "र एत्सेर"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "र दिशान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:17.408325620Z",
+  "model": "glm-5.3"
+}

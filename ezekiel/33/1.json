@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 33:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "अनि यहवेको वचन मतर्फ आयो, भन्नुहुँदैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतर्फ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:24:41.067573670Z",
+  "model": "glm-5.3"
+}

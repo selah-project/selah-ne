@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 22:10",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "र बिलामले एलोहीमलाई भन्यो, मोआभका राजा, त्सिप्पोरका छोरा बालाकले मकहाँ पठाएका छन्।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "त्सिप्पोर"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआभ"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठाए"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मकहाँ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:18.348804846Z",
+  "model": "glm-5.3"
+}

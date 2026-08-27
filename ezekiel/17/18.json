@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 17:18",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "उसले शपथ तुच्छ ठान्यो, करार तोड्न — र हेर, ऊ यसको लागि हात दिइसकेको छ; यी सबै गरेर ऊ उम्कनेछैन।",
+  "tokens": [
+    {
+      "surface": "ובזה",
+      "gloss": "तुच्छ ठान्यो"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "शपथ"
+    },
+    {
+      "surface": "להפר",
+      "gloss": "तोड्न"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "करार"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दियो"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आफ्नो हात"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्यो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ימלט",
+      "gloss": "ऊ उम्कनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:16:33.271028029Z",
+  "model": "glm-5.3"
+}

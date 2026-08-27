@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 9:2",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "इस्राएलका छोराहरूले ⟨את⟩ पेसहलाई तोकिएको समयमा गर्नेछन्।",
+  "tokens": [
+    {
+      "surface": "ויעשו",
+      "gloss": "गर्नेछन्"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूले"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेसह"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पेसहलाई"
+    },
+    {
+      "surface": "במועדו",
+      "gloss": "तोकिएको समयमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:35.668570138Z",
+  "model": "glm-5.3"
+}

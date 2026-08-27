@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 25:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "आफ्नो झगडा आफ्नै साथीसँग गर, र अर्काको सोद ⟨את⟩ नखोल।",
+  "tokens": [
+    {
+      "surface": "ריבך",
+      "gloss": "आफ्नो झगडा"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "गर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नै साथीलाई"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "आफ्नै साथीसँग"
+    },
+    {
+      "surface": "וסוד",
+      "gloss": "र सोद"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्काको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגל",
+      "gloss": "खोल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:25.725950546Z",
+  "model": "glm-5.3"
+}

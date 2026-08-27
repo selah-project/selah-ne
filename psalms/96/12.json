@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 96:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 96,
+  "translation": "⟨the⟩ खेत उफ्रेर खुसी होओस्, र ⟨the⟩ सबै थियो जो त्यसमा छ; तब ⟨the⟩ वनका सबै रूखहरू रमाइलो गाउनेछन्।",
+  "tokens": [
+    {
+      "surface": "יעלז",
+      "gloss": "उफ्रेर खुसी होओस्"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "रमाइलो गाउनेछन्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "रूखहरू"
+    },
+    {
+      "surface": "יער",
+      "gloss": "वनका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:20.318103375Z",
+  "model": "glm-5.3"
+}

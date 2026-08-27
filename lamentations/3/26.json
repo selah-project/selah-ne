@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "lamentations 3:26",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यहवेको उद्धारको लागि आशा गर्नु र मौन बस्नु असल ⟨हुन्छ⟩।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "ויחיל",
+      "gloss": "र आशा गर्नु"
+    },
+    {
+      "surface": "ודומם",
+      "gloss": "र मौन बस्नु"
+    },
+    {
+      "surface": "לתשועת",
+      "gloss": "उद्धारको लागि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:45.149908972Z",
+  "model": "glm-5.3"
+}

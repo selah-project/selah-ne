@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 5:16",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "शेलोमोहले खिरामकहाँ यो भनेर पठायो:",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "पठायो"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शेलोमोहले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "חירם",
+      "gloss": "खिरामको"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भनेर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:58:59.336021755Z",
+  "model": "glm-5.3"
+}

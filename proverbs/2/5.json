@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 2:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "तब तिमीले यहवेको धर्मभीरुतालाई बुझ्नेछौ, र एलोहीमको ज्ञानलाई पाउनेछौ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "बुझ्नेछौ"
+    },
+    {
+      "surface": "יראת",
+      "gloss": "धर्मभीरुता"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "र ज्ञान"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "תמצא",
+      "gloss": "पाउनेछौ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:23.511151134Z",
+  "model": "glm-5.3"
+}

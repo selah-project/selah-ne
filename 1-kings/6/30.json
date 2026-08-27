@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 6:30",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र ⟨את⟩ घरको भुइँलाई उहाँले सुनले मढ्नुभयो — भित्र र बाहिर।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "भुइँ"
+    },
+    {
+      "surface": "קרקע",
+      "gloss": "भुइँ"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घरको"
+    },
+    {
+      "surface": "צפה",
+      "gloss": "मढ्नुभयो"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनले"
+    },
+    {
+      "surface": "לפנימה",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "ולחיצון",
+      "gloss": "र बाहिर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:59:37.105163879Z",
+  "model": "glm-5.3"
+}

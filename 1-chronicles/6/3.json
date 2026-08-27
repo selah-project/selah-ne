@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 6:3",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र केहातका छोराहरू: अमराम, यित्सहार, खेब्रोन र उज्जिएल।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहातका"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अमराम"
+    },
+    {
+      "surface": "ויצהר",
+      "gloss": "र यित्सहार"
+    },
+    {
+      "surface": "וחברון",
+      "gloss": "र खेब्रोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "र उज्जिएल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:42.193518870Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 5:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "केनानलाई जन्म दिएपछि अनोश अझ पन्ध्र वर्ष र आठ सय वर्ष बाँच्यो, र उसले छोराछोरी जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्यो"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "अनोश"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "הולידו",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "केनान"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनानलाई"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "बנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ובנות",
+      "gloss": "र छोरीहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:59.879461809Z",
+  "model": "glm-5.3"
+}

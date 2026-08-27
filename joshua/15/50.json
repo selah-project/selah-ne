@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "joshua 15:50",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र अनाब, र एश्तेमोह, र अनिम।",
+  "tokens": [
+    {
+      "surface": "וענב",
+      "gloss": "र अनाब"
+    },
+    {
+      "surface": "ואשתמה",
+      "gloss": "र एश्तेमोह"
+    },
+    {
+      "surface": "וענים",
+      "gloss": "र अनिम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:17.595962427Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 38:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "किनकि मेरा कटीहरू रापोले भरिए, र मेरो शरीरमा निरोगता छैन ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כסלי",
+      "gloss": "मेरा कटीहरू"
+    },
+    {
+      "surface": "מלאו",
+      "gloss": "भरिए"
+    },
+    {
+      "surface": "נקלה",
+      "gloss": "रापोले"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र ... छैन"
+    },
+    {
+      "surface": "מתם",
+      "gloss": "निरोगता"
+    },
+    {
+      "surface": "בבשרי",
+      "gloss": "मेरो शरीरमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:55:57.350871445Z",
+  "model": "glm-5.3"
+}

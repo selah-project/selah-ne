@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 9:17",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "शलोमोहले ⟨את⟩ गेजेर र ⟨את⟩ तल्लो बेथ-खोरोन बनायो।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनायो"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोहले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गेजेर"
+    },
+    {
+      "surface": "גזר",
+      "gloss": "गेजेर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "बेथ-खोरोन"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "חרן",
+      "gloss": "खोरोन"
+    },
+    {
+      "surface": "תחתון",
+      "gloss": "तल्लो"
+    }
+  ],
+  "timestamp": "2026-08-26T22:01:30.785839539Z",
+  "model": "glm-5.3"
+}

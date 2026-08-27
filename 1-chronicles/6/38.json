@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "1-chronicles 6:38",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "त्सादोक उनका छोरा, अखिमात्स उनका छोरा।",
+  "tokens": [
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "אחימעץ",
+      "gloss": "अखिमात्स"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:56.605132211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 35:24",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "तब ⟨ה⟩ सभाले यी विधिहरूअनुसार प्रहार गर्ने र रगतको गोएलबीच न्याय गर्नेछ।",
+  "tokens": [
+    {
+      "surface": "ושפטו",
+      "gloss": "न्याय गर्नेछ"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभाले"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "המכה",
+      "gloss": "प्रहार गर्ने"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "गोएल"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगतको"
+    },
+    {
+      "surface": "על",
+      "gloss": "अनुसार"
+    },
+    {
+      "surface": "המשפטים",
+      "gloss": "विधिहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:52:04.454697873Z",
+  "model": "glm-5.3"
+}

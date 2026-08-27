@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "ezra 2:33",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "लोद, खादिद र ओनोका छोराहरू — सात सय पच्चीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "לד",
+      "gloss": "लोद"
+    },
+    {
+      "surface": "חדיד",
+      "gloss": "खादिद"
+    },
+    {
+      "surface": "ואונו",
+      "gloss": "र ओनो"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "र पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:53.095457259Z",
+  "model": "glm-5.3"
+}

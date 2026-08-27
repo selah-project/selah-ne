@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 57:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 57,
+  "translation": "म एलोहीम एल्योनलाई पुकार्छु, ममाथि पूरा गर्नुहुने एललाई।",
+  "tokens": [
+    {
+      "surface": "אקרא",
+      "gloss": "म पुकार्छु"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीमलाई"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "एललाई"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "पूरा गर्नुहुने"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:59:21.405352005Z",
+  "model": "glm-5.3"
+}

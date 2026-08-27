@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "genesis 26:33",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "उनले त्यसलाई शिबआ भनेर बोलाए; त्यसैले त्यस सहरको नाम बेर-शेवा ⟨हो⟩ आजसम्म।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलाए"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "शिबआ"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "शिबआ"
+    },
+    {
+      "surface": "על",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "त्यस सहरको"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेवा"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:36.246146642Z",
+  "model": "glm-5.3"
+}

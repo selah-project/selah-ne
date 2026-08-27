@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 48:22",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र दिबोनमाथि, र नेबोमाथि, र बेथ-दिब्लाताइममाथि।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "दिबोनमाथि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबोमाथि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ"
+    },
+    {
+      "surface": "דבלתים",
+      "gloss": "-दिब्लाताइममाथि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:06:43.164845267Z",
+  "model": "glm-5.3"
+}

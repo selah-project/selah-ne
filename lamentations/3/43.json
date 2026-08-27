@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "lamentations 3:43",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "रिसमा तपाईंले ओढ्नुभयो र हामीलाई पछ्याउनुभयो; मार्नुभयो, दया गर्नुभएन।",
+  "tokens": [
+    {
+      "surface": "סכתה",
+      "gloss": "ओढ्नुभयो"
+    },
+    {
+      "surface": "באף",
+      "gloss": "रिसमा"
+    },
+    {
+      "surface": "ותרדפנו",
+      "gloss": "हामीलाई पछ्याउनुभयो"
+    },
+    {
+      "surface": "הרגת",
+      "gloss": "मार्नुभयो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "कि"
+    },
+    {
+      "surface": "חמלת",
+      "gloss": "दया गर्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:21.622735411Z",
+  "model": "glm-5.3"
+}

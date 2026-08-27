@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 4:20",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र अदाले जन्म दिइन् ⟨את⟩ यावाललाई; ऊ ⟨हो⟩ ता पाल बस्ने र कंगालपालन गर्नेहरूको पिता थियो।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दिइन्"
+    },
+    {
+      "surface": "עדה",
+      "gloss": "अदाले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यावाललाई"
+    },
+    {
+      "surface": "יבל",
+      "gloss": "यावाललाई"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थियो"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बस्ने"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "पाल"
+    },
+    {
+      "surface": "ומקנה",
+      "gloss": "र कंगाल"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:50.351240609Z",
+  "model": "glm-5.3"
+}

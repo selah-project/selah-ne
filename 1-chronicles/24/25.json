@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 24:25",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "मिखाका भाइ यिशियाह; यिशियाका छोराहरूमा जखर्याह।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "भाइ"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिखा"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "यिशियाह"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूमा"
+    },
+    {
+      "surface": "ישיה",
+      "gloss": "यिशियाका"
+    },
+    {
+      "surface": "זכריהו",
+      "gloss": "जखर्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:42.543263425Z",
+  "model": "glm-5.3"
+}

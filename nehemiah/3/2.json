@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "nehemiah 3:2",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र उनकै नजिक यरिखोका मानिसहरूले बनाए, र उनकै नजिक जाक्कूरले — इम्रीको छोराले — बनायो।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र नजिक"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उनकै"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "ירחו",
+      "gloss": "यरिखोका"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र नजिक"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उनकै"
+    },
+    {
+      "surface": "בנה",
+      "gloss": "बनायो"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "जाक्कूर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "इम्री"
+    }
+  ],
+  "timestamp": "2026-08-27T01:10:57.862654920Z",
+  "model": "glm-5.3"
+}

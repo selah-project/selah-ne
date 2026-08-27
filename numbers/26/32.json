@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 26:32",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र शेमिदाका — शेमिदाई कुल; र खेपेरका — खेपेरी कुल।",
+  "tokens": [
+    {
+      "surface": "ושמידע",
+      "gloss": "र शेमिदाका"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "השמידעי",
+      "gloss": "शेमिदाई"
+    },
+    {
+      "surface": "וחפר",
+      "gloss": "र खेपेरका"
+    },
+    {
+      "surface": "मשפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "החפרי",
+      "gloss": "खेपेरी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:08.967055189Z",
+  "model": "glm-5.3"
+}

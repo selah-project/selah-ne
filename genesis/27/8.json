@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 27:8",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "अब त, मेरो छोरा, मेरो आवाज मान — जे म तिमीलाई ⟨את⟩ आज्ञा दिन्छु त्यही बमोजिम।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब त"
+    },
+    {
+      "surface": "בני",
+      "gloss": "मेरो छोरा"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "मान"
+    },
+    {
+      "surface": "בקלי",
+      "gloss": "मेरो आवाज"
+    },
+    {
+      "surface": "לאשר",
+      "gloss": "जे … त्यही बमोजिम"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा दिन्छु"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩",
+      "marks": "तिमीलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:59.625142236Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 14:7",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र उसले छ सय छानिएका रथ, र मिस्रिमका सबै रथ लियो, र ती सबैमाथि सेनापतिहरू।",
+  "tokens": [
+    {
+      "surface": "ויקח",
+      "gloss": "र लियो"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "בחור",
+      "gloss": "छानिएका"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "רכब",
+      "gloss": "रथ"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रिमका"
+    },
+    {
+      "surface": "ושלשם",
+      "gloss": "र सेनापतिहरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "ती सबै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:09:36.386238427Z",
+  "model": "glm-5.3"
+}

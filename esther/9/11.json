@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "esther 9:11",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "त्यसै दिन शूशन ⟨the⟩ दरबारमा मारिएकाहरूको सङ्ख्या राजासामु आयो।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यसै"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "मספר",
+      "gloss": "सङ्ख्या"
+    },
+    {
+      "surface": "ההרוגים",
+      "gloss": "मारिएकाहरूको"
+    },
+    {
+      "surface": "בשושן",
+      "gloss": "शूशनमा"
+    },
+    {
+      "surface": "הבירה",
+      "gloss": "दरबार"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:55:44.112837728Z",
+  "model": "glm-5.3"
+}

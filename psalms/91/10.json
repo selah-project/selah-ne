@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 91:10",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 91,
+  "translation": "तिमीलाई कुनै दुष्टता नछुनेछ, र कुनै पिडा तिम्रो डेरामा नजिक आउनेछैन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תאנה",
+      "gloss": "नछुनेछ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "दुष्टता"
+    },
+    {
+      "surface": "ונגע",
+      "gloss": "र पिडा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "नजिक आउनेछ"
+    },
+    {
+      "surface": "באהלך",
+      "gloss": "तिम्रो डेरामा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:03.058358648Z",
+  "model": "glm-5.3"
+}

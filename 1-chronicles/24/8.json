@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 24:8",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "तेस्रो हारीमका लागि, चौथो सअोरीमका लागि।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "हारीमका लागि"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "לשערים",
+      "gloss": "सअोरीमका लागि"
+    },
+    {
+      "surface": "הרבעי",
+      "gloss": "चौथो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:08.753821101Z",
+  "model": "glm-5.3"
+}

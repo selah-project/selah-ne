@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 5:30",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "एलाजारले ⟨את⟩ पिन्खसलाई जन्म दिए; पिन्खसले ⟨את⟩ अभिशुवालाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पिन्खसलाई"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिन्खस"
+    },
+    {
+      "surface": "פינחס",
+      "gloss": "पिन्खस"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अभिशुवालाई"
+    },
+    {
+      "surface": "אבישוע",
+      "gloss": "अभिशुवा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:27.509387Z",
+  "model": "glm-5.3"
+}

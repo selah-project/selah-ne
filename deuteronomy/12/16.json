@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 12:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "तर रगत भने नखाऊँ; त्यसलाई जमिनमा पानीजस्तै उछाल्नु, तँले त्यसलाई पानीजस्तै उछाल।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "तर"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नखाऊँ"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "—"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिनमा"
+    },
+    {
+      "surface": "תשפכנו",
+      "gloss": "उछाल"
+    },
+    {
+      "surface": "כמים",
+      "gloss": "पानीजस्तै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:26.044107318Z",
+  "model": "glm-5.3"
+}

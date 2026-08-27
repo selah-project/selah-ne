@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "lamentations 3:31",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "किनकि अदोनाइ सधैँको लागि त्याग्नुहुन्न।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "सधैँको लागि त्याग्नुहुन्न"
+    },
+    {
+      "surface": "יזנח",
+      "gloss": ""
+    },
+    {
+      "surface": "לעולם",
+      "gloss": ""
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:02.711178399Z",
+  "model": "glm-5.3"
+}

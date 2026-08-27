@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 4:3",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र बेरोतीहरू गित्ताइम भागे, र त्यहाँ यस दिनसम्म परदेशी भई बसे।",
+  "tokens": [
+    {
+      "surface": "ויברחו",
+      "gloss": "भागे"
+    },
+    {
+      "surface": "הבארתים",
+      "gloss": "बेरोतीहरू"
+    },
+    {
+      "surface": "גתימה",
+      "gloss": "गित्ताइम"
+    },
+    {
+      "surface": "ויהיו",
+      "gloss": "र भए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "גרים",
+      "gloss": "परदेशी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "यस दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:59:04.197014086Z",
+  "model": "glm-5.3"
+}

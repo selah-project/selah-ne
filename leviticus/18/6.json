@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 18:6",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "मानिस मानिस ⟨the⟩ आफ्नो शरीरको मासुको सबै ⟨the⟩ नातागतको नजिक नजाओ, नाङ्गोपन खोल्न; म यहवे हुँ।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…को नजिक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "नातागत (मासु)"
+    },
+    {
+      "surface": "בשרו",
+      "gloss": "आफ्नो शरीरको मासु"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקרבו",
+      "gloss": "तिमीहरू नजिक नजाओ"
+    },
+    {
+      "surface": "לגלות",
+      "gloss": "खोल्न"
+    },
+    {
+      "surface": "ערוה",
+      "gloss": "नाङ्गोपन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:30:45.128926482Z",
+  "model": "glm-5.3"
+}

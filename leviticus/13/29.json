@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 13:29",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र जब कुनै मानिस वा स्त्रीमा टाउकोमा वा दाह्रीमा दाग हुन्छ,",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "र मानिस"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुन्छ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमा"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "दाग"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "टाउकोमा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בזקן",
+      "gloss": "दाह्रीमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:04.546943619Z",
+  "model": "glm-5.3"
+}

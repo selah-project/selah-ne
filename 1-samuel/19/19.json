@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-samuel 19:19",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र शाउललाई यो भनेर बताइयो, “हेर, दाविद रामामा नायोथमा ⟨छ⟩।”",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "र बताइयो"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाउललाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भनेर"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "בנוית",
+      "gloss": "नायोथमा"
+    },
+    {
+      "surface": "ברמה",
+      "gloss": "रामामा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:39:05.521631510Z",
+  "model": "glm-5.3"
+}

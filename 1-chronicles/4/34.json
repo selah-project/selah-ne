@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 4:34",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र मेशोबाब, र याम्लेख, र योशाह — अमत्स्याहका छोरा।",
+  "tokens": [
+    {
+      "surface": "ומשובב",
+      "gloss": "र मेशोबाब"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "र याम्लेख"
+    },
+    {
+      "surface": "ויושה",
+      "gloss": "र योशाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אמציה",
+      "gloss": "अमत्स्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:23.098667591Z",
+  "model": "glm-5.3"
+}

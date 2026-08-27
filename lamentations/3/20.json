@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "lamentations 3:20",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "सम्झन्छु, अझ सम्झन्छु, र मेरो नेफेश मभित्र झुक्किन्छ।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "सम्झन्छु"
+    },
+    {
+      "surface": "תזכור",
+      "gloss": "अझ सम्झन्छु"
+    },
+    {
+      "surface": "ותשיח",
+      "gloss": "र झुक्किन्छ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मभित्र"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरो नेफेश"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:20.932164560Z",
+  "model": "glm-5.3"
+}

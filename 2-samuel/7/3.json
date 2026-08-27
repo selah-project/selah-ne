@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 7:3",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अनि नातानले राजालाई भने, तिम्रो मुटुमा जे छ, सबै गर्न जाऊ, किनकि यहवे तिम्रोसँग हुनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातानले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "तिम्रो मुटुमा छ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्न"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तिम्रोसँग"
+    }
+  ],
+  "timestamp": "2026-08-26T21:46:00.818009763Z",
+  "model": "glm-5.3"
+}

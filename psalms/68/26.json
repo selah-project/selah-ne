@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "psalms 68:26",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 68,
+  "translation": "गायकहरू अगाडि गए, वादकहरू पछि; बीचमा ढोल बजाउने कन्याहरू।",
+  "tokens": [
+    {
+      "surface": "קדמו",
+      "gloss": "अगाडि गए"
+    },
+    {
+      "surface": "שרים",
+      "gloss": "गायकहरू"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "נגनים",
+      "gloss": "वादकहरू"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "עלמות",
+      "gloss": "कन्याहरू"
+    },
+    {
+      "surface": "תופפות",
+      "gloss": "ढोल बजाउने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:01:37.371719134Z",
+  "model": "glm-5.3"
+}

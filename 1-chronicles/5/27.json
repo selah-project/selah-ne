@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 5:27",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "लेवीका छोराहरू: गेर्शोन, केहात र मरारी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवीका"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेर्शोन"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "र मरारी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:51.296382833Z",
+  "model": "glm-5.3"
+}

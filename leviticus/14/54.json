@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "leviticus 14:54",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "यही ⟨is⟩ तोराह हो — सबै चर्मरोगका नगेलहरूका निम्ति र खस्रोका निम्ति।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यही"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "तोराह"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "नगेल"
+    },
+    {
+      "surface": "הצרעת",
+      "gloss": "चर्मरोग"
+    },
+    {
+      "surface": "ולנתק",
+      "gloss": "र खस्रोका निम्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:36.259936344Z",
+  "model": "glm-5.3"
+}

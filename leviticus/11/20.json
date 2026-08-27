@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 11:20",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "चारमा हिँड्ने सबै उड्ने लोभ्रे तिमीहरूका निम्ति घृणित वस्तु हुन्।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "लोभ्रे"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड्ने"
+    },
+    {
+      "surface": "ההלך",
+      "gloss": "हिँड्ने"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणित वस्तु"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका निम्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:21.963035360Z",
+  "model": "glm-5.3"
+}

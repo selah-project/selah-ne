@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 7:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "नोआह छ सय वर्षका ⟨थिए⟩, र पानीको महाप्रलय पृथ्वीमाथि भयो।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "र नोआह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छ सय वर्षका"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "והמבול",
+      "gloss": "र महाप्रलय"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानीको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:30.941136789Z",
+  "model": "glm-5.3"
+}

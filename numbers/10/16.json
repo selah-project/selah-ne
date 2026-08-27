@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 10:16",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र जेबुलूनका सन्तानहरूको कुलको सेनामाथि हेलोनको छोरा एलियाभ ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... माथि"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "कुलको"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरूको"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबुलून"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलियाभ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "हेलोन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:41.506423263Z",
+  "model": "glm-5.3"
+}

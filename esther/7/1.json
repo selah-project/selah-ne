@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "esther 7:1",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "त्यसैले राजा र हामान रानी एस्तेरसँग पिउन भित्रिए।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "भित्रिए"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "והמן",
+      "gloss": "र हामान"
+    },
+    {
+      "surface": "לשתות",
+      "gloss": "पिउन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेर"
+    },
+    {
+      "surface": "המלכה",
+      "gloss": "रानी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:54:59.841813488Z",
+  "model": "glm-5.3"
+}

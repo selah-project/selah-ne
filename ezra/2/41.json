@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "ezra 2:41",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "गायकहरू — आसाफका छोराहरू — एक सय बीस र आठ।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "गायकहरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफका"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र आठ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:06:01.747247294Z",
+  "model": "glm-5.3"
+}

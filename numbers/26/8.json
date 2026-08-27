@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 26:8",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र पल्लूका छोराहरू: एलिआभ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र ... छोराहरू"
+    },
+    {
+      "surface": "פלוא",
+      "gloss": "पल्लू"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआभ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:46.209677818Z",
+  "model": "glm-5.3"
+}

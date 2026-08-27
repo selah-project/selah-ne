@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 24:4",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "त्यसको वचन जसले एलका वचनहरू सुन्छ, जसले शद्दाइको दर्शन देख्छ — ढलेको, तर आँखाहरू खुलेको:",
+  "tokens": [
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन्नेको"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एलका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "מחזה",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दाइको"
+    },
+    {
+      "surface": "יחזה",
+      "gloss": "देख्छ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ढलेको"
+    },
+    {
+      "surface": "וגלוי",
+      "gloss": "र खुलेको"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखाहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:17.926859206Z",
+  "model": "glm-5.3"
+}

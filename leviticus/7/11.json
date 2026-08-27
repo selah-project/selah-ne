@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 7:11",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र यो ⟨את⟩ शान्ति-बलिको विधि हो, जुन ऊ यहवेलाई चढाउँछ।",
+  "tokens": [
+    {
+      "surface": "וזאת",
+      "gloss": "र यो"
+    },
+    {
+      "surface": "תורת",
+      "gloss": "विधि"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "השלמים",
+      "gloss": "शान्ति-बलिको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "יקריב",
+      "gloss": "ऊ चढाउँछ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:06.202852858Z",
+  "model": "glm-5.3"
+}

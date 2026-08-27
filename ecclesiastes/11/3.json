@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 11:3",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "बादलहरू पानीले भरिए भने तिनीहरू पृथ्वीमाथि खसाल्छन्; र रूख दक्षिणमा ढल्यो भने वा उत्तरमा भने, रूख जहाँ ढल्छ त्यहीँ रहन्छ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "भने"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "भरिए"
+    },
+    {
+      "surface": "העבים",
+      "gloss": "बादलहरू"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "पानीले"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "יריקו",
+      "gloss": "खसाल्छन्"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "ढल्यो"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "בדרום",
+      "gloss": "दक्षिणमा"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "वा भने"
+    },
+    {
+      "surface": "בצפון",
+      "gloss": "उत्तरमा"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाउँ"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "जहाँ ढल्छ"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहीँ"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "रहन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:30.451508566Z",
+  "model": "glm-5.3"
+}

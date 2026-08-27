@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "joshua 6:14",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र उनीहरूले दोस्रो दिन ⟨את⟩ सहरलाई एक पटक घुमाए, र शिविरमा फर्के; यसै गरे उनीहरूले छ दिनसम्म।",
+  "tokens": [
+    {
+      "surface": "ויסבו",
+      "gloss": "र घुमाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सहरलाई"
+    },
+    {
+      "surface": "हעיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "פעם",
+      "gloss": "पटक"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "र फर्के"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "शिविरमा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यसै"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "गरे"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "छ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनसम्म"
+    }
+  ],
+  "timestamp": "2026-08-26T21:11:15.234229103Z",
+  "model": "glm-5.3"
+}

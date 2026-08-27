@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "numbers 14:32",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र तिमीहरूका लासहरू — तिमीहरू आफै — यस मरुभूमिमा ढल्नेछौ।",
+  "tokens": [
+    {
+      "surface": "ופגריכם",
+      "gloss": "र तिमीहरूका लासहरू"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तिमीहरू आफै"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ढल्नेछौ"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमिमा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    }
+  ],
+  "timestamp": "2026-08-26T20:42:58.409576514Z",
+  "model": "glm-5.3"
+}

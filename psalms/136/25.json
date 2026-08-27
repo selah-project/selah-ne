@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 136:25",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 136,
+  "translation": "जो सबै शरीरलाई खाना दिनुहुन्छ, किनकि उहाँको खेसेद सदाका लागि छ।",
+  "tokens": [
+    {
+      "surface": "נתן",
+      "gloss": "दिनुहुन्छ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בשר",
+      "gloss": "शरीरलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदाका लागि"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "खेसेद"
+    }
+  ],
+  "timestamp": "2026-08-27T00:16:13.596804511Z",
+  "model": "glm-5.3"
+}

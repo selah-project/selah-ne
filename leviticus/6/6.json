@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 6:6",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "आगो वेदीमाथि लगातार बलिरहनेछ, निभ्नेछैन।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "आगो"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "लगातार"
+    },
+    {
+      "surface": "תוקד",
+      "gloss": "बलिरहनेछ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תכבה",
+      "gloss": "निभ्नेछैन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:21.636542733Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ezekiel 31:13",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "उसको पतनमाथि आकाशका सबै चराहरू बस्छन्, र उसका हाँगाहरूमा जङ्गलका सबै जनावरहरू भए।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מפלתו",
+      "gloss": "उसको पतन"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "बस्छन्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चराहरू"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशका"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र …मा"
+    },
+    {
+      "surface": "פארתיו",
+      "gloss": "उसका हाँगाहरू"
+    },
+    {
+      "surface": "היו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "חית",
+      "gloss": "जनावर"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "जङ्गलका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:26:05.590346406Z",
+  "model": "glm-5.3"
+}

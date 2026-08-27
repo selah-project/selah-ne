@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 2:20",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "गिब्बारका सन्तानहरू, पचानब्बे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरू"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "गिब्बारका"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "र पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:28.559220097Z",
+  "model": "glm-5.3"
+}

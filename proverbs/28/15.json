@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 28:15",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "गर्जने सिंह र दौडने भालु — दीन जनतामाथि शासन गर्ने दुष्ट ⟨शासक हो⟩।",
+  "tokens": [
+    {
+      "surface": "ארי",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "नהם",
+      "gloss": "गर्जने"
+    },
+    {
+      "surface": "ודב",
+      "gloss": "र भालु"
+    },
+    {
+      "surface": "שוקק",
+      "gloss": "दौडने"
+    },
+    {
+      "surface": "משל",
+      "gloss": "शासन गर्ने"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "דל",
+      "gloss": "दीन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:25.246504050Z",
+  "model": "glm-5.3"
+}

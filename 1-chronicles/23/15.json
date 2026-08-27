@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 23:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "मोशेका छोराहरू: गेर्शोम र एलिएजेर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेका"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "गेर्शोम"
+    },
+    {
+      "surface": "ואליעזר",
+      "gloss": "र एलिएजेर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:03.359722855Z",
+  "model": "glm-5.3"
+}

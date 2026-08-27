@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 119:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "धन्य ⟨हौ⟩ तिमी, यहवे; मलाई तिम्रा विधानहरू सिकाऊ।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "למדני",
+      "gloss": "मलाई सिकाऊ"
+    },
+    {
+      "surface": "חקיך",
+      "gloss": "तिम्रा विधानहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:40.589580551Z",
+  "model": "glm-5.3"
+}

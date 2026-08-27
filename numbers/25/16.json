@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 25:16",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "त्यसपछि यहवेले मोशेसँग वचन गर्नुभयो, भन्दै हुनुहुन्थ्यो —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "वचन गर्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै हुनुहुन्थ्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:57.037126705Z",
+  "model": "glm-5.3"
+}

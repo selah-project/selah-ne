@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "zechariah 1:13",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र यहवेले उत्तर दिनुभयो ⟨את⟩ ⟨the⟩दूतलाई, जो ममा बोल्दैथिए, असल कुराहरू, सान्त्वनाका कुराहरू।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "र उत्तर दिनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩दूत"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "⟨the⟩दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बोल्ने"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "असल"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "נחמים",
+      "gloss": "सान्त्वनाका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:51.556217374Z",
+  "model": "glm-5.3"
+}

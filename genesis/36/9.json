@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 36:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र यी हुन् एसावका — एदोमका पिता — वंशावली, सेइर पहाडमा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावका"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोमका"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पहाडमा"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    }
+  ],
+  "timestamp": "2026-08-26T19:56:06.848345568Z",
+  "model": "glm-5.3"
+}

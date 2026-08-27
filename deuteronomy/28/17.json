@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 28:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "धिक्कृत होस् तिम्रो टोकरी र तिम्रो खमीरो।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कृत होस्"
+    },
+    {
+      "surface": "טנאך",
+      "gloss": "तिम्रो टोकरी"
+    },
+    {
+      "surface": "ומשארתך",
+      "gloss": "र तिम्रो खमीरो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:41.971612510Z",
+  "model": "glm-5.3"
+}

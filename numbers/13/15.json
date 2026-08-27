@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 13:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "गादको कुलका लागि गेउएल, माखीको छोरा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "कुलका लागि"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादको"
+    },
+    {
+      "surface": "גאואל",
+      "gloss": "गेउएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מכי",
+      "gloss": "माखीको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:58.154438552Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 4:15",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "⟨את⟩ एउटै समुद्र, र ⟨את⟩ बाह्र गाईहरू त्यसको तल।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "समुद्र"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "वאת",
+      "gloss": "⟨את⟩",
+      "marks": "बाह्र गाईहरू"
+    },
+    {
+      "surface": "הבקר",
+      "gloss": "गाईहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्रको पहिलो अंश"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बाह्रको दोस्रो अंश"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "त्यसको तल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:12.265560337Z",
+  "model": "glm-5.3"
+}

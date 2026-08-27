@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 13:1",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "यराबेम राजाको अठारौँ वर्षमा अबिया यहूदामाथि राज्य गर्न थाले।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "वर्षमा"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "ירבעם",
+      "gloss": "यराबेम"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज्य गर्न थाले"
+    },
+    {
+      "surface": "אביה",
+      "gloss": "अबिया"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:37:43.928335863Z",
+  "model": "glm-5.3"
+}

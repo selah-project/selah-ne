@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "exodus 28:34",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "सुनको घण्टी र डाला, सुनको घण्टी र डाला, मेइलको किनारामा वरपर।",
+  "tokens": [
+    {
+      "surface": "פעמן",
+      "gloss": "घण्टी"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनको"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "र डाला"
+    },
+    {
+      "surface": "פעמן",
+      "gloss": "घण्टी"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनको"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "र डाला"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "שולי",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "המעיל",
+      "gloss": "मेइलको"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:16:56.372195196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 13:2",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "जब तिमीहरूको बीचमा नबी, वा सपना देख्ने होलेम, उठ्छ, र तिमीहरूलाई चिह्न वा आश्चर्य दिन्छ,",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उठ्छ"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तिमीहरूको बीचमा"
+    },
+    {
+      "surface": "נביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "חלם",
+      "gloss": "सपना देख्ने"
+    },
+    {
+      "surface": "חלום",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "ונתן",
+      "gloss": "र दिन्छ"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "אות",
+      "gloss": "चिह्न"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "מופת",
+      "gloss": "आश्चर्य"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:20.148513166Z",
+  "model": "glm-5.3"
+}

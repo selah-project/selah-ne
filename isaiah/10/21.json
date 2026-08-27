@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 10:21",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "शेषफल फर्किनेछ, याकोभको शेषफल, सामर्थ्यवान् एल ⟨कहाँ⟩ फर्किनेछ।",
+  "tokens": [
+    {
+      "surface": "שאר",
+      "gloss": "शेषफल"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फर्किनेछ"
+    },
+    {
+      "surface": "שאר",
+      "gloss": "शेषफल"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟤कहाँ⟥"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "सामर्थ्यवान्"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:19.752902594Z",
+  "model": "glm-5.3"
+}

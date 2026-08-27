@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 23:24",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "असाहेल — योआभको भाइ — तीसमध्ये; एलखानान, दोदोको छोरा, बेथ-लेखेमी।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "असाहेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "(असाहेल)"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाइ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआभको"
+    },
+    {
+      "surface": "בשלשים",
+      "gloss": "तीसमध्ये"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "एलखानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "דדו",
+      "gloss": "दोदोको"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:54:50.377731205Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 31:11",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र तिनीहरूले सबै लुटेको वस्तु ⟨את⟩ र मानिस र पशुमा हुने सबै शिकार ⟨את⟩ लिए।",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "लिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै लुटेको वस्तु"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "השלל",
+      "gloss": "लुटेको वस्तु"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "सबै शिकार"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "המלקוח",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मानिसमा"
+    },
+    {
+      "surface": "ובבהמה",
+      "gloss": "र पशुमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:49:42.643582731Z",
+  "model": "glm-5.3"
+}

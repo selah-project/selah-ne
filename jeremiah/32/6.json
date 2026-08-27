@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "jeremiah 32:6",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र यिर्मेयाहुले भने: यहवेको वचन मसित भयो, भन्दै।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र ... भने"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहुले"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसित"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:01:03.132649033Z",
+  "model": "glm-5.3"
+}

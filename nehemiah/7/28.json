@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 7:28",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बेथ-अज्मावेतका मानिसहरू, बयालीस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "עזמות",
+      "gloss": "अज्मावेत"
+    },
+    {
+      "surface": "ארबעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:53.475438912Z",
+  "model": "glm-5.3"
+}

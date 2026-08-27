@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "song-of-songs 2:8",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "मेरो प्रेमीको स्वर! हेर, ⟨यिनी⟩ आउँदैछ, पहाडहरूमाथि हामफाल्दै, डाँडाहरूमाथि उफ्रँदै।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "דודי",
+      "gloss": "मेरो प्रेमीको"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨यिनी⟩"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँदैछ"
+    },
+    {
+      "surface": "מדלג",
+      "gloss": "हामफाल्दै"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "हהרים",
+      "gloss": "पहाडहरू"
+    },
+    {
+      "surface": "מקפץ",
+      "gloss": "उफ्रँदै"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "डाँडाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:43:55.008825237Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 31:25",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "यदि म यस कारण खुसी भएँ कि मेरो धन ठूलो छ, र यस कारण कि मेरो हातले ठूलो पायो;",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אשמח",
+      "gloss": "खुसी भएँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "חילי",
+      "gloss": "मेरो धन"
+    },
+    {
+      "surface": "וכי",
+      "gloss": "र कि"
+    },
+    {
+      "surface": "כביר",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "पायो"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "मेरो हातले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:38:45.463375980Z",
+  "model": "glm-5.3"
+}

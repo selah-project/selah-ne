@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 33:23",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "तिनीहरू केहेलाताहबाट यात्रा गरे, र हार शेफेरमा डेरा बसाए।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "यात्रा गरे"
+    },
+    {
+      "surface": "मקהלתה",
+      "gloss": "केहेलाताहबाट"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "हारमा"
+    },
+    {
+      "surface": "שפר",
+      "gloss": "शेफेर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:00.446005520Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 4:10",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "किनकि यदि तिनीहरू ढले, एक जनाले ⟨את⟩ आफ्नो साथीलाई उठाउनेछ; तर एक्लो जो ढल्छ — उसलाई उठाउन दोस्रो छैन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יפלו",
+      "gloss": "ढले"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक जनाले"
+    },
+    {
+      "surface": "יקים",
+      "gloss": "उठाउनेछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो साथीलाई"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "आफ्नो साथी"
+    },
+    {
+      "surface": "ואילו",
+      "gloss": "तर"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक्लो"
+    },
+    {
+      "surface": "שיפול",
+      "gloss": "जो ढल्छ"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "להקימו",
+      "gloss": "उठाउन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:38.078129492Z",
+  "model": "glm-5.3"
+}

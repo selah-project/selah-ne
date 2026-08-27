@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 17:14",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र दाविद त ⟨हो⟩ सानो; र तीन जेठाहरू शाउलको पछि गए।",
+  "tokens": [
+    {
+      "surface": "ודוד",
+      "gloss": "र दाविद"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "हקטן",
+      "gloss": "सानो"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "र तीन"
+    },
+    {
+      "surface": "הגדלים",
+      "gloss": "जेठाहरू"
+    },
+    {
+      "surface": "הלכו",
+      "gloss": "गए"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:37:04.852732865Z",
+  "model": "glm-5.3"
+}

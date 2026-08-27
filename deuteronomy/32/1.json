@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "deuteronomy 32:1",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "कान लगाऊ, हे आकाशहरू, अनि म बोल्नेछु; र पृथ्वीले मेरो मुखका वचनहरू सुनोस्।",
+  "tokens": [
+    {
+      "surface": "האזינו",
+      "gloss": "कान लगाऊ"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशहरू"
+    },
+    {
+      "surface": "ואדברה",
+      "gloss": "अनि म बोल्नेछु"
+    },
+    {
+      "surface": "ותשמע",
+      "gloss": "र सुनोस्"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीले"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरो मुखका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:07:20.127493482Z",
+  "model": "glm-5.3"
+}

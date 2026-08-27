@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 18:17",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र मोशेका ससुराले उहाँलाई भन्नुभयो, \"तिमीले गरिरहेको ⟨the⟩ कुरो असल होइन।\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र ... भन्नुभयो"
+    },
+    {
+      "surface": "חתן",
+      "gloss": "ससुरा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेका"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उहाँलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ कुरो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमीले"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गरिरहेको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:47.865061292Z",
+  "model": "glm-5.3"
+}

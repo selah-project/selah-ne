@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "exodus 23:14",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "वर्षमा तीन पटक मेरो निम्ति चाड मनाउनेछौ।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "पटक (चाड-यात्रा)"
+    },
+    {
+      "surface": "תחג",
+      "gloss": "चाड मनाउनेछौ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो निम्ति"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:59.332308049Z",
+  "model": "glm-5.3"
+}

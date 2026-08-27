@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 55:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 55,
+  "translation": "म हतार गर्छु ⟨मेरो⟩ पलायन — बहने हावाबाट, बवन्डारबाट।",
+  "tokens": [
+    {
+      "surface": "אחישה",
+      "gloss": "हतार गर्छु"
+    },
+    {
+      "surface": "מפלט",
+      "gloss": "पलायन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो लागि"
+    },
+    {
+      "surface": "מרוח",
+      "gloss": "हावाबाट"
+    },
+    {
+      "surface": "סעה",
+      "gloss": "बहने"
+    },
+    {
+      "surface": "מסער",
+      "gloss": "बवन्डारबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T23:59:13.224822459Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 5:18",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र येरेद बस्न थाले दुई र साठी वर्ष ⟨अर्थात⟩ सय वर्ष, र उनले ⟨את⟩ हानोखलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बस्न थाले"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "येरेद"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "र साठी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "⟨अर्थात⟩ सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हानोखलाई"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "हानोख"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:09.507186780Z",
+  "model": "glm-5.3"
+}

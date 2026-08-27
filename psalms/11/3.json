@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 11:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "किनभने जगहरू भत्काइएका छन् — धर्मीले के गर्न सक्छ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "השתות",
+      "gloss": "जगहरू"
+    },
+    {
+      "surface": "יהרסון",
+      "gloss": "भत्काइएका छन्"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मीले"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "פעל",
+      "gloss": "गर्न सक्छ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:51:00.958609294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 24:3",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "बुद्धिले घर बनाइन्छ, र बुझाइले ⟨उसको⟩ जग स्थिर हुन्छ।",
+  "tokens": [
+    {
+      "surface": "בחכמה",
+      "gloss": "बुद्धिले"
+    },
+    {
+      "surface": "יבנה",
+      "gloss": "बनाइन्छ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ובתבונה",
+      "gloss": "र बुझाइले"
+    },
+    {
+      "surface": "יתכונן",
+      "gloss": "स्थिर हुन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:41.641213807Z",
+  "model": "glm-5.3"
+}

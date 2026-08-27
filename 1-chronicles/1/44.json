@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 1:44",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "बेला मर्यो, र उसको ठाउँमा बोत्सराको जेराखको छोरा योबाबले राज्य गर्यो।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर्यो"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "बेला"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज्य गर्यो"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उसको ठाउँमा"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योबाबले"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेराखको"
+    },
+    {
+      "surface": "מבצרה",
+      "gloss": "बोत्सराको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:44.225749981Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 16:11",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "र यहवेले मोशेलाई वचन गर्नुभयो, यो भन्न:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र वचन गर्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्न"
+    }
+  ],
+  "timestamp": "2026-08-26T20:10:37.946066660Z",
+  "model": "glm-5.3"
+}

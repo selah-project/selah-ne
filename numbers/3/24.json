@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 3:24",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र गेर्शोनीहरूका पितृ-घरानाको नायक एल्यासाफ, लाएलको छोरा हुनेछ।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "र नायक"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरानाको"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पितृ"
+    },
+    {
+      "surface": "לגרשני",
+      "gloss": "गेर्शोनीहरूका"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "लाएलको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:52:51.305014567Z",
+  "model": "glm-5.3"
+}

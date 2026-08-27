@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 20:23",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र होर पर्वतमा, एदोम देशको सीमामा, यहवेले मोशे र अहारोनलाई भन्नुभयो ⟨कि⟩",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र …लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वतमा"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर"
+    },
+    {
+      "surface": "על",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨कि⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T02:28:35.972577321Z",
+  "model": "glm-5.3"
+}

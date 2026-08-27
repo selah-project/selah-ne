@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 81,
+  "ref": "numbers 7:81",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एउटा बछरा, गाईवस्तुको छोरा, एउटा भाले बोका, एउटा पाडा, एक वर्षको छोरा, होमबलिकाका लागि।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछरा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाईवस्तु"
+    },
+    {
+      "surface": "איל",
+      "gloss": "भाले बोका"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "पाडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक वर्षको"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "होमबलिकाका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:56.736275031Z",
+  "model": "glm-5.3"
+}

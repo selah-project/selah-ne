@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 118:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 118,
+  "translation": "यहवे मेरो ⟨हुनुहुन्छ⟩; म डराउनेछैनाँ — मानिसले मलाई के गर्नेछ?",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "म डराउनेछु"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गर्नेछ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:15.739188640Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "2-samuel 22:33",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "एल — मेरो गढ़, शक्ति; र ⟨उहाँले⟩ ⟨मेरो⟩ बाटो पूर्ण बनाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "האל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "מעוזי",
+      "gloss": "मेरो गढ़"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "शक्ति"
+    },
+    {
+      "surface": "ויתר",
+      "gloss": "र बनाउनुभयो"
+    },
+    {
+      "surface": "תמים",
+      "gloss": "पूर्ण"
+    },
+    {
+      "surface": "דרכו",
+      "gloss": "उहाँको बाटो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:54:46.243566615Z",
+  "model": "glm-5.3"
+}

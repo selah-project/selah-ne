@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezra 2:5",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "आरखका छोराहरू, सात सय पचहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "आरखका छोराहरू"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "आरख"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "र सत्तरी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:48.596116676Z",
+  "model": "glm-5.3"
+}

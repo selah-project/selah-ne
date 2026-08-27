@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 49:15",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "किनकि हेर, म तिमीलाई राष्ट्रहरूमा सानो र मानिसहरूमा तुच्छ बनाउँछु।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "सानो"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "म तिमीलाई बनाउँछु"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "राष्ट्रहरूमा"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "तुच्छ"
+    },
+    {
+      "surface": "באדם",
+      "gloss": "मानिसहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:07:35.692530086Z",
+  "model": "glm-5.3"
+}

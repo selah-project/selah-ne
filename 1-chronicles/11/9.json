@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 11:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र दाविद हिँड्दै र ठूलो हुँदै गयो, र सेनाहरूको यहवे उहाँसँग ⟨थिए⟩।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "र गयो"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "हלוך",
+      "gloss": "हिँड्दै"
+    },
+    {
+      "surface": "וגדול",
+      "gloss": "र ठूलो हुँदै"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "र यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाहरूको"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उहाँसँग"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:40.367638964Z",
+  "model": "glm-5.3"
+}

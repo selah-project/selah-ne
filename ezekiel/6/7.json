@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 6:7",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र घाइते तिमीहरूको बीचमा ढल्नेछ, र तिमीहरू जान्नेछौ कि म ⟨हुँ⟩ यहवे।",
+  "tokens": [
+    {
+      "surface": "ונפל",
+      "gloss": "र ढल्नेछ"
+    },
+    {
+      "surface": "חלल",
+      "gloss": "घाइते"
+    },
+    {
+      "surface": "בתוככם",
+      "gloss": "तिमीहरूको बीचमा"
+    },
+    {
+      "surface": "וידעתם",
+      "gloss": "र तिमीहरू जान्नेछौ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T23:12:42.541634186Z",
+  "model": "glm-5.3"
+}

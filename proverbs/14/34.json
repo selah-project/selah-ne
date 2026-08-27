@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "proverbs 14:34",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "धार्मिकताले राष्ट्रलाई उच्च पार्छ, र जातिहरूको खेसेद पाप हो।",
+  "tokens": [
+    {
+      "surface": "צדקה",
+      "gloss": "धार्मिकता"
+    },
+    {
+      "surface": "תרומם",
+      "gloss": "उच्च पार्छ"
+    },
+    {
+      "surface": "גוי",
+      "gloss": "राष्ट्रलाई"
+    },
+    {
+      "surface": "וחסד",
+      "gloss": "र खेसेद"
+    },
+    {
+      "surface": "לאמים",
+      "gloss": "जातिहरूको"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप हो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:24.775453823Z",
+  "model": "glm-5.3"
+}

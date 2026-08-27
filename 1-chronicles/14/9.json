@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 14:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "अनि पलिश्तीहरू आए, र रापाईमहरूको खोंचमा फैलिए।",
+  "tokens": [
+    {
+      "surface": "ופלשתים",
+      "gloss": "अनि पलिश्तीहरू"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "ויפשטו",
+      "gloss": "फैलिए"
+    },
+    {
+      "surface": "בעמק",
+      "gloss": "खोंचमा"
+    },
+    {
+      "surface": "רפאים",
+      "gloss": "रापाईमहरूको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:22:15.217092396Z",
+  "model": "glm-5.3"
+}

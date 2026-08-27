@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 31:26",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "यसको ⟨कारण⟩ म ⟨ब्यूँझेँ⟩ र देखेँ, र मेरो निद मलाई मीठो लाग्यो।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "⟨कारण⟩"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यसको"
+    },
+    {
+      "surface": "הקיצתי",
+      "gloss": "म ब्यूँझेँ"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "र देखेँ"
+    },
+    {
+      "surface": "ושנתי",
+      "gloss": "र मेरो निद"
+    },
+    {
+      "surface": "ערבה",
+      "gloss": "मीठो लाग्यो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T02:05:59.646042560Z",
+  "model": "glm-5.3"
+}

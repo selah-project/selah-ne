@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ezekiel 12:8",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "बिहान यहवेको वचन मसँग आयो, भन्नुभये —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुभये"
+    }
+  ],
+  "timestamp": "2026-08-26T23:14:22.699276987Z",
+  "model": "glm-5.3"
+}

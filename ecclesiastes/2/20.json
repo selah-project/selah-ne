@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 2:20",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "त्यसैले मैले फर्केर आफ्नो मुटुलाई निराश पार्न खोजेँ, मैले, ⟨the⟩ सारा श्रमको बारेमा जुन मैले सूर्यको तल श्रम गरेँ।",
+  "tokens": [
+    {
+      "surface": "וסבותי",
+      "gloss": "फर्केँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "ליאש",
+      "gloss": "निराश पार्न"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेरो मुटु"
+    },
+    {
+      "surface": "לבי",
+      "gloss": "मेरो मुटु"
+    },
+    {
+      "surface": "על",
+      "gloss": "-को बारेमा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "העמל",
+      "gloss": "श्रम"
+    },
+    {
+      "surface": "שעמלתי",
+      "gloss": "जुन मैले श्रम गरेँ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:38.778915279Z",
+  "model": "glm-5.3"
+}

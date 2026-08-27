@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 3:16",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "लामो आयु त्यसको दायाँ हातमा ⟨छ⟩; त्यसको बायाँ हातमा धन र मान-सम्मान छन्।",
+  "tokens": [
+    {
+      "surface": "ארך",
+      "gloss": "लामो"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "आयु"
+    },
+    {
+      "surface": "בימינה",
+      "gloss": "दायाँ हातमा"
+    },
+    {
+      "surface": "בשמאולה",
+      "gloss": "बायाँ हातमा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "धन"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "र मान-सम्मान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:20.787350001Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 4:9",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "दुई जना एक्लो भन्दा उत्तम छन्, किनकि उनीहरूलाई आफ्नो परिश्रममा राम्रो प्रतिफल छ।",
+  "tokens": [
+    {
+      "surface": "טובים",
+      "gloss": "उत्तम छन्"
+    },
+    {
+      "surface": "השנים",
+      "gloss": "दुई जना"
+    },
+    {
+      "surface": "מן",
+      "gloss": "भन्दा"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक्लो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनीहरूलाई"
+    },
+    {
+      "surface": "שכר",
+      "gloss": "प्रतिफल"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "בעמלם",
+      "gloss": "आफ्नो परिश्रममा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:38.077863593Z",
+  "model": "glm-5.3"
+}

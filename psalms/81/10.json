@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 81:10",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 81,
+  "translation": "तिमीमा कुनै परको एल हुनु हुँदैन, र तिमी अन्य एललाई दण्डवत् गर्नेछैनौ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तिमीमा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "זר",
+      "gloss": "परको"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "תשתחוה",
+      "gloss": "तिमी दण्डवत् गर्नेछैनौ"
+    },
+    {
+      "surface": "לאל",
+      "gloss": "एललाई"
+    },
+    {
+      "surface": "נכर",
+      "gloss": "अन्य\/विदेशी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:04:43.131095505Z",
+  "model": "glm-5.3"
+}

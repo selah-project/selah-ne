@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 10:1",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "सुन, यहवेले तिमीहरूलाई जुन वचन बोल्नुभएको छ ⟨את⟩ ⟨त्यो⟩ वचन, हे इस्राएलको घराना।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨त्यो⟩ वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभएको छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:49:02.314973868Z",
+  "model": "glm-5.3"
+}

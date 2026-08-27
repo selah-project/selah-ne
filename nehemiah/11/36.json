@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "nehemiah 11:36",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र लेवीहरूमध्ये यहूदाका विभाजनहरू बिन्यामीनमा ⟨थिए⟩।",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "र … मध्ये"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीहरू"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "विभाजनहरू"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "לבנימין",
+      "gloss": "बिन्यामीनमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:01.189422706Z",
+  "model": "glm-5.3"
+}

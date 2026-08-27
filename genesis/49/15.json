@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 49:15",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "उसले विश्राम देख्यो कि ⟨it is⟩ असल, र ⟨את⟩ जमिन ⟨that it is⟩ सुहाउँदो छ; र उसले बोक्न आफ्नो काँध झुकायो, र ऊ कर तिर्ने सेवक भयो।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "र देख्यो"
+    },
+    {
+      "surface": "מנחה",
+      "gloss": "विश्राम"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "जमिन"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "נעמה",
+      "gloss": "सुहाउँदो छ"
+    },
+    {
+      "surface": "ויט",
+      "gloss": "र झुकायो"
+    },
+    {
+      "surface": "שכमו",
+      "gloss": "आफ्नो काँध"
+    },
+    {
+      "surface": "לסבל",
+      "gloss": "बोक्न"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "למס",
+      "gloss": "कर तिर्ने"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवक"
+    }
+  ],
+  "timestamp": "2026-08-26T20:02:52.508381652Z",
+  "model": "glm-5.3"
+}

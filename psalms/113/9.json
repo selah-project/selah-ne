@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 113:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 113,
+  "translation": "घरको बाँझोलाई बसाउनुहुने, छोराहरूकी आमा आनन्दित हुने — हल्ललु याह!",
+  "tokens": [
+    {
+      "surface": "מושיבי",
+      "gloss": "बसाउनुहुने"
+    },
+    {
+      "surface": "עקרת",
+      "gloss": "बाँझोलाई"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घरको"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आमा"
+    },
+    {
+      "surface": "הבנים",
+      "gloss": "छोराहरूकी"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनन्दित"
+    },
+    {
+      "surface": "הללו",
+      "gloss": "हल्ललु"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:11.427176333Z",
+  "model": "glm-5.3"
+}

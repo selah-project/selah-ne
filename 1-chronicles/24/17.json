@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 24:17",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "एक्काइसौँ याखिनका लागि, बाइसौँ गामुलका लागि।",
+  "tokens": [
+    {
+      "surface": "ליכין",
+      "gloss": "याखिनका लागि"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक्काइसौँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "(बीससहित)"
+    },
+    {
+      "surface": "לגמול",
+      "gloss": "गामुलका लागि"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाइसौँ"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "(बीससहित)"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:38.256180176Z",
+  "model": "glm-5.3"
+}

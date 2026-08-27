@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ruth 3:12",
+  "book": "ruth",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "अब साँच्चै, म एक उद्धारक हुँ, तर मभन्दा नजिकको अर्को उद्धारक पनि छ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אמנם",
+      "gloss": "साँच्चै"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨निश्चय⟩"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "उद्धारक"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म हुँ"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "तर पनि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "גאל",
+      "gloss": "उद्धारक"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नजिकको"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मभन्दा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:45:57.689837554Z",
+  "model": "glm-5.3"
+}

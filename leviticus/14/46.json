@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 14:46",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र घरलाई बन्द गरिएका सबै दिनहरूमा घरभित्र आउने मानिस साँझसम्म अशुद्ध हुनेछ।",
+  "tokens": [
+    {
+      "surface": "והבא",
+      "gloss": "र आउने मानिस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "הסגיר",
+      "gloss": "बन्द गरिएका"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "त्यसलाई (घरलाई)"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध हुनेछ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "הערב",
+      "gloss": "साँझ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:12.158960810Z",
+  "model": "glm-5.3"
+}

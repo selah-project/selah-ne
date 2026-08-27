@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 7:8",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र यहवेले मोशे र अहारोनसित बोल्नुभयो, भन्नुहुँदै:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सित"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र सित"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:05:19.881298553Z",
+  "model": "glm-5.3"
+}

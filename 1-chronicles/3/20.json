@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 3:20",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र खशुबाह, र ओहेल, र बेरेख्याह, र खसद्याह, यूशब-खेसेद — पाँच ⟨जना⟩।",
+  "tokens": [
+    {
+      "surface": "וחשבה",
+      "gloss": "र खशुबाह"
+    },
+    {
+      "surface": "ואהל",
+      "gloss": "र ओहेल"
+    },
+    {
+      "surface": "וברכיה",
+      "gloss": "र बेरेख्याह"
+    },
+    {
+      "surface": "וחסדיה",
+      "gloss": "र खसद्याह"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "यूशब"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "खेसेद"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:27.524261419Z",
+  "model": "glm-5.3"
+}

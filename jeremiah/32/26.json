@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "jeremiah 32:26",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र यहवेको वचन यिर्मयाहूकहाँ भयो, यो भन्नलाई:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मयाहू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्नलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T22:59:25.377890508Z",
+  "model": "glm-5.3"
+}

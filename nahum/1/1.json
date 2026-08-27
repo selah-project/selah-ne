@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 1:1",
+  "book": "nahum",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "निनवेको भार; नाखुम एल्केशीको दर्शनको पुस्तक।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवेको"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पुस्तक"
+    },
+    {
+      "surface": "חזון",
+      "gloss": "दर्शनको"
+    },
+    {
+      "surface": "נחום",
+      "gloss": "नाखुम"
+    },
+    {
+      "surface": "האלקשי",
+      "gloss": "एल्केशी"
+    }
+  ],
+  "timestamp": "2026-08-27T02:12:44.155139253Z",
+  "model": "glm-5.3"
+}

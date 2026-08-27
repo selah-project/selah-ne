@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 6:2",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "यी ⟨हुन्⟩ गेरेशोमका छोराहरूका नामहरू: लिब्नी र शिमई।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "שמות",
+      "gloss": "नामहरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूका"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "लिब्नी"
+    },
+    {
+      "surface": "ושמעי",
+      "gloss": "र शिमई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:42.193387714Z",
+  "model": "glm-5.3"
+}

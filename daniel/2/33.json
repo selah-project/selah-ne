@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "daniel 2:33",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "त्यसका घुँडा फलामका थिए, त्यसका खुट्टा केही फलामका र केही गारोका थिए।",
+  "tokens": [
+    {
+      "surface": "שקוהי",
+      "gloss": "घुँडा"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨का⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "फलाम"
+    },
+    {
+      "surface": "רגלוהי",
+      "gloss": "खुट्टा"
+    },
+    {
+      "surface": "מנהון",
+      "gloss": "केही"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨का⟩"
+    },
+    {
+      "surface": "פרזל",
+      "gloss": "फलाम"
+    },
+    {
+      "surface": "ומנהון",
+      "gloss": "र केही"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨का⟩"
+    },
+    {
+      "surface": "חסף",
+      "gloss": "गारो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:57:38.899564901Z",
+  "model": "glm-5.3"
+}

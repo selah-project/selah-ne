@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 5:15",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "यो पनि एक बिरामी नराम्रो कुरा हो: जसरी ऊ आयो, त्यसरी नै जानेछ; र हावाका लागि परिश्रम गर्नेलाई उसलाई के नाफा?",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "यो पनि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "नराम्रो कुरा"
+    },
+    {
+      "surface": "חולה",
+      "gloss": "बिरामी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जसरी"
+    },
+    {
+      "surface": "עמת",
+      "gloss": "जसरी"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "ऊ आयो"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसरी नै"
+    },
+    {
+      "surface": "ילך",
+      "gloss": "जानेछ"
+    },
+    {
+      "surface": "ומה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "नाफा"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "שיעמל",
+      "gloss": "परिश्रम गर्नेलाई"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "हावाका लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:11.285293152Z",
+  "model": "glm-5.3"
+}

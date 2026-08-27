@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 2:31",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "अप्पायिमका छोराहरू यिशी थिए; र यिशीका छोराहरू शेशान; र शेशानका छोराहरू अख्लाय।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "अप्पायिमका"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "यिशी"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "ישעי",
+      "gloss": "यिशीका"
+    },
+    {
+      "surface": "शשן",
+      "gloss": "शेशान"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "ששן",
+      "gloss": "शेशानका"
+    },
+    {
+      "surface": "אחלי",
+      "gloss": "अख्लाय"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:05.514626119Z",
+  "model": "glm-5.3"
+}

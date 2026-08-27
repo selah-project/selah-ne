@@ -1,0 +1,52 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "numbers 32:34",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "गादका छोराहरूले दिबोन ⟨את⟩ र अतारोत ⟨את⟩ र अरोएर ⟨את⟩ बनाए।",
+  "tokens": [
+    {
+      "surface": "ויבנו",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूले"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादका"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिबोन"
+    },
+    {
+      "surface": "דיבן",
+      "gloss": "दिबोन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "अतारोत"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "अतारोत"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "अरोएर"
+    },
+    {
+      "surface": "ערער",
+      "gloss": "अरोएर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:42.413205303Z",
+  "model": "glm-5.3"
+}

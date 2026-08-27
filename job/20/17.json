@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 20:17",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "न देख्नेछ ऊ खोलाहरू, नदीहरू, मह र घिउका धाराहरू।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "देख्नेछ"
+    },
+    {
+      "surface": "בפלגות",
+      "gloss": "खोलाहरू"
+    },
+    {
+      "surface": "נהרי",
+      "gloss": "नदीहरू"
+    },
+    {
+      "surface": "נחלי",
+      "gloss": "धाराहरू"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मह"
+    },
+    {
+      "surface": "וחמאה",
+      "gloss": "र घिउ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:35:51.530437607Z",
+  "model": "glm-5.3"
+}

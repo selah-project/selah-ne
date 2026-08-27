@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 47:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 47,
+  "translation": "किनकि सारा पृथ्वीको राजा एलोहीम हुनुहुन्छ, बुद्धिसहित भजन गाउ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीको"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "זמרו",
+      "gloss": "भजन गाउ"
+    },
+    {
+      "surface": "משכיל",
+      "gloss": "बुद्धिसहित"
+    }
+  ],
+  "timestamp": "2026-08-26T23:57:19.830603378Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 3:9",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "गर्नेवालालाई के लाभ, जुन कुरामा ऊ परिश्रम गर्छ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "लाभ"
+    },
+    {
+      "surface": "העושה",
+      "gloss": "गर्नेवालालाई"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "जुन कुरामा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "परिश्रम गर्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:47.083169524Z",
+  "model": "glm-5.3"
+}

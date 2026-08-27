@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "joshua 19:19",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र हफ्रायिम, शियोन र अनाहरात,",
+  "tokens": [
+    {
+      "surface": "וחפרים",
+      "gloss": "र हफ्रायिम"
+    },
+    {
+      "surface": "ושיאן",
+      "gloss": "र शियोन"
+    },
+    {
+      "surface": "ואנחרת",
+      "gloss": "र अनाहरात"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:42.555046386Z",
+  "model": "glm-5.3"
+}

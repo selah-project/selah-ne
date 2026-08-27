@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 16:18",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "भन्दै — तिमीलाई म कनान देश दिनेछु, ⟨त्यो⟩ तिमीहरूको उत्तराधिकारको हिस्सा।",
+  "tokens": [
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "אתן",
+      "gloss": "म दिनेछु"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "נחלתכם",
+      "gloss": "तिमीहरूको उत्तराधिकारको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:22:37.059996560Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 42:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "उत्तरको ढोकाको अगाडि लम्बाइ सय कोहिअनुसार ⟨थियो⟩, र चौडाइ पचास कोहिअनुसार।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाइ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "कोहिअनुसार"
+    },
+    {
+      "surface": "המאה",
+      "gloss": "सय"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "הצפון",
+      "gloss": "उत्तरको"
+    },
+    {
+      "surface": "והרחב",
+      "gloss": "र चौडाइ"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "कोहिअनुसार"
+    }
+  ],
+  "timestamp": "2026-08-26T23:29:16.545354356Z",
+  "model": "glm-5.3"
+}

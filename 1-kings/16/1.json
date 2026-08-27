@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-kings 16:1",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "यहवेको वचन यहू बिना हनानीकहाँ बाशाको विरुद्धमा आयो, भन्नुभने्छ—",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "यहाँ…आयो"
+    },
+    {
+      "surface": "יהוא",
+      "gloss": "यहू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "हनानी"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्धमा"
+    },
+    {
+      "surface": "בעשא",
+      "gloss": "बाशाको"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुभने्छ—"
+    }
+  ],
+  "timestamp": "2026-08-26T22:04:57.916872427Z",
+  "model": "glm-5.3"
+}

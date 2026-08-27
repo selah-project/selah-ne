@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 32:5",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "मूर्खलाई अब उदार भनिनेछैन, र कञ्जुसलाई धनी भनिनेछैन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "भनिनेछैन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    },
+    {
+      "surface": "לנבל",
+      "gloss": "मूर्खलाई"
+    },
+    {
+      "surface": "נדיב",
+      "gloss": "उदार"
+    },
+    {
+      "surface": "ולכילי",
+      "gloss": "र कञ्जुसलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "भनिनेछैन"
+    },
+    {
+      "surface": "שוע",
+      "gloss": "धनी"
+    }
+  ],
+  "timestamp": "2026-08-26T22:33:08.846520448Z",
+  "model": "glm-5.3"
+}

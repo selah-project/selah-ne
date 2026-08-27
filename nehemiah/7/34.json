@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "nehemiah 7:34",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अर्को एलामका छोराहरू, एक हजार दुई सय चौवन्पचास।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्को"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "बयान"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:07.083992033Z",
+  "model": "glm-5.3"
+}

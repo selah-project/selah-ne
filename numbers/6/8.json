@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "numbers 6:8",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "आफ्नो संयमका सबै दिनहरूमा ऊ यहवेका लागि पवित्र ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "נזרו",
+      "gloss": "आफ्नो संयमका"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:10.687968541Z",
+  "model": "glm-5.3"
+}

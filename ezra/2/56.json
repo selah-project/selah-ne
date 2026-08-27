@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "ezra 2:56",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "यालाका छोराहरू, दार्कोनका छोराहरू, गिद्देलका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "याला"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "דרקון",
+      "gloss": "दार्कोन"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "गिद्देल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:05:58.764838918Z",
+  "model": "glm-5.3"
+}

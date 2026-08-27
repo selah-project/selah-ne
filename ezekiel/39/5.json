@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 39:5",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 39,
+  "translation": "खुला खेतको सतहमा तँ पर्छौ, किनभने मैले बोलेको छु — यो अदोनाइ यहवेको वचन हो।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सतह"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "תפול",
+      "gloss": "तँ पर्छौ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैले"
+    },
+    {
+      "surface": "דברתי",
+      "gloss": "बोलेको छु"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T23:27:51.799272924Z",
+  "model": "glm-5.3"
+}

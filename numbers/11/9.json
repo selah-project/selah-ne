@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 11:9",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र जब रातमा शिविरमाथि शिशिर ओर्लन्थ्यो, तब त्यसमाथि मान ओर्लन्थ्यो।",
+  "tokens": [
+    {
+      "surface": "וברדת",
+      "gloss": "ओर्लन्थ्यो"
+    },
+    {
+      "surface": "הטל",
+      "gloss": "शिशिर"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "हमछनह",
+      "gloss": "शिविर"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रातमा"
+    },
+    {
+      "surface": "ירד",
+      "gloss": "ओर्लन्थ्यो"
+    },
+    {
+      "surface": "המן",
+      "gloss": "मान"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्यसमाथि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:42:02.244508073Z",
+  "model": "glm-5.3"
+}

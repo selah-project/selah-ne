@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 14:35",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "त्यस घरको धनी आउनेछ र कोहेनलाई भन्नेछ, यो भन्दै: मलाई घरमा नियत जस्तो देखिएको छ।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "आउनेछ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसको"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसको"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "והגיד",
+      "gloss": "र भन्नेछ"
+    },
+    {
+      "surface": "לכהן",
+      "gloss": "कोहेनलाई"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "यो भन्दै"
+    },
+    {
+      "surface": "כנגע",
+      "gloss": "नियत जस्तो"
+    },
+    {
+      "surface": "नראה",
+      "gloss": "देखिएको छ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:21.284525296Z",
+  "model": "glm-5.3"
+}

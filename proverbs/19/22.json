@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 19:22",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "मानिसको चाहना ⟨उसको⟩ खेसेद हो, र कङ्गल झुटो मानिसभन्दा असल ⟨हुन्छ⟩।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "चाहना"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "⟨उसको⟩ खेसेद"
+    },
+    {
+      "surface": "וטוב",
+      "gloss": "र…असल"
+    },
+    {
+      "surface": "רש",
+      "gloss": "कङ्गल"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मानिसभन्दा"
+    },
+    {
+      "surface": "כזב",
+      "gloss": "झुटो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:17.591246357Z",
+  "model": "glm-5.3"
+}

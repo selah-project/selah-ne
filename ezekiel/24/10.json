@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 24:10",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "दाउरा धेरै थप, आग बाल, मासु ⟨नै⟩ पूरा गर, अनि मसला मिसाऊ, र हड्डीहरू जलून्।",
+  "tokens": [
+    {
+      "surface": "הרבה",
+      "gloss": "धेरै थप"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "दाउरा"
+    },
+    {
+      "surface": "הדלק",
+      "gloss": "बाल"
+    },
+    {
+      "surface": "האש",
+      "gloss": "आग"
+    },
+    {
+      "surface": "התם",
+      "gloss": "पूरा गर"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "והרקח",
+      "gloss": "अनि मिसाऊ"
+    },
+    {
+      "surface": "המרקחה",
+      "gloss": "मसला"
+    },
+    {
+      "surface": "והעצמות",
+      "gloss": "र हड्डीहरू"
+    },
+    {
+      "surface": "יחרו",
+      "gloss": "जलून्"
+    }
+  ],
+  "timestamp": "2026-08-26T23:20:17.393479627Z",
+  "model": "glm-5.3"
+}

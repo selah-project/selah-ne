@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "1-samuel 14:51",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र कीश शाउलको पिता थिए, र नेर अब्नेरको पिता — अबिएलका छोरा।",
+  "tokens": [
+    {
+      "surface": "וקיש",
+      "gloss": "र कीश"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलको"
+    },
+    {
+      "surface": "ונר",
+      "gloss": "र नेर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "אבנר",
+      "gloss": "अब्नेरको"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אביאל",
+      "gloss": "अबिएलका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:35:24.394953682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "judges 8:29",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "अनि यरुब्बाल, योआशको छोरा, गयो र आफ्नै घरमा बस्यो।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गयो"
+    },
+    {
+      "surface": "ירבעל",
+      "gloss": "यरुब्बाल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "יואש",
+      "gloss": "योआशको"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बस्यो"
+    },
+    {
+      "surface": "בביתו",
+      "gloss": "आफ्नै घरमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:22:58.522681125Z",
+  "model": "glm-5.3"
+}

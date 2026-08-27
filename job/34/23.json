@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "job 34:23",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "किनकि मानिसमाथि उहाँले थप केही राख्नुहुन्न, कि ऊ एलकहाँ न्यायमा जाओस्।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "ישים",
+      "gloss": "राख्नुहुन्छ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "थप"
+    },
+    {
+      "surface": "להלך",
+      "gloss": "जान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्यायमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:40:00.307076068Z",
+  "model": "glm-5.3"
+}

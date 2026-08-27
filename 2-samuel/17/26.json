@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 17:26",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अनि इस्राएल र अबशलोम गिलाद देशमा डेरा बसे।",
+  "tokens": [
+    {
+      "surface": "ויחן",
+      "gloss": "डेरा बसे"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואבשלם",
+      "gloss": "अबशलोम"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-08-26T21:51:10.653150191Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 15:1",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "मोआबको भार: किनभने रातमा आर-मोआब लुटियो, ⟨नष्ट⟩ भयो; किनभने रातमा किर-मोआब लुटियो, ⟨नष्ट⟩ भयो।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबको"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "रातमा"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "लुटियो"
+    },
+    {
+      "surface": "ער",
+      "gloss": "आर"
+    },
+    {
+      "surface": "मואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "नष्ट भयो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "בליל",
+      "gloss": "रातमा"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "लुटियो"
+    },
+    {
+      "surface": "קיר",
+      "gloss": "किर"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "נדמה",
+      "gloss": "नष्ट भयो"
+    }
+  ],
+  "timestamp": "2026-08-26T22:29:03.878097917Z",
+  "model": "glm-5.3"
+}

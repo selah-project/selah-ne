@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 18:1",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "यिर्मेयाहुलाई यहवेबाट ⟨את⟩ हुँदै आएको वचन, यसो भन्न —",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-लाई"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहु"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्न"
+    }
+  ],
+  "timestamp": "2026-08-26T22:53:05.801370069Z",
+  "model": "glm-5.3"
+}

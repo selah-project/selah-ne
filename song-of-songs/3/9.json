@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "song-of-songs 3:9",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "राजा शलोमोले आफ्ना लागि एउटा अपिर्योन ⟨את⟩ लेबानोनका रूखहरूबाट बनाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "אפריון",
+      "gloss": "अपिर्योन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाउनुभयो"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आफ्ना लागि"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "מעצי",
+      "gloss": "रूखहरूबाट"
+    },
+    {
+      "surface": "הלבנון",
+      "gloss": "लेबानोनका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:40.514625182Z",
+  "model": "glm-5.3"
+}

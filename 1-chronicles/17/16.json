@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 17:16",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अनि राजा दाविद आए र यहवेको सामु बसे, र भने: म को हुँ, हे यहवे एलोहीम, र मेरो घर के हो, कि तपार्इंले मलाई यहाँसम्म ल्याउनुभयो?",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "र बसे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "र के"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "मेरो घर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הביאתני",
+      "gloss": "ल्याउनुभयो"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "यहाँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:03.324672797Z",
+  "model": "glm-5.3"
+}

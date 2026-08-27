@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 27:10",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "के ऊ शद्दाइमा आनन्दित हुन्छ? के ऊ सबै समयमा एलोआहलाई पुकार्छ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "के"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दाइ"
+    },
+    {
+      "surface": "יתענג",
+      "gloss": "आनन्दित हुन्छ"
+    },
+    {
+      "surface": "יקרא",
+      "gloss": "पुकार्छ"
+    },
+    {
+      "surface": "אלוה",
+      "gloss": "एलोआह"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समयमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:37:05.687548920Z",
+  "model": "glm-5.3"
+}

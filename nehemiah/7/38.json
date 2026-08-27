@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "nehemiah 7:38",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "सेनाका सन्तान — तीन हजार नौ सय तीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:44.318482435Z",
+  "model": "glm-5.3"
+}

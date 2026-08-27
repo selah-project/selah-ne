@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "numbers 31:44",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र गाईवस्तु छ र तीस हजार,",
+  "tokens": [
+    {
+      "surface": "ובקר",
+      "gloss": "र गाईवस्तु"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छ"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "र तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:00.771705649Z",
+  "model": "glm-5.3"
+}

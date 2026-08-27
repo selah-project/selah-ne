@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 33:39",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "अहरोन आफ्नो मृत्युको समयमा — होर पर्वतमा — एक सय तीन तीस वर्षका थिए।",
+  "tokens": [
+    {
+      "surface": "ואהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "उमेरका"
+    },
+    {
+      "surface": "शלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "במתו",
+      "gloss": "मृत्युको समयमा"
+    },
+    {
+      "surface": "בהר",
+      "gloss": "पर्वतमा"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर ⟨पर्वत⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:34.464837861Z",
+  "model": "glm-5.3"
+}

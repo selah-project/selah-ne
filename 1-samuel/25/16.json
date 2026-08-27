@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-samuel 25:16",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "तिनीहरू हामीभित्र राति र दिनै पनि, तिनीहरूसँग भेडा चराउँदा भएका सबै दिन, पर्खाल भए।",
+  "tokens": [
+    {
+      "surface": "חומה",
+      "gloss": "पर्खाल"
+    },
+    {
+      "surface": "היו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हामीमाथि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "יומם",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "היותנו",
+      "gloss": "भएका"
+    },
+    {
+      "surface": "עמם",
+      "gloss": "तिनीहरूसँग"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "चराउँदा"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेडा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:41:18.706565144Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 1:13",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र कनानले ⟨את⟩ आफ्नो जेठो चेला त्सिदोनलाई र ⟨את⟩ खेतलाई जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "र कनानले"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्सिदोनलाई"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "त्सिदोन"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "आफ्नो जेठो चेला"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "खेतलाई"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:09.951358128Z",
+  "model": "glm-5.3"
+}

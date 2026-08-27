@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 23:10",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "जब तिमी आफ्ना शत्रुहरूमाथि शिविर बनाउन निस्कनेछौ, तब तिमी हरेक खराब कुराबाट आफूलाई जोगाउनेछौ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निस्कनेछौ"
+    },
+    {
+      "surface": "מחנה",
+      "gloss": "शिविर"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "איביך",
+      "gloss": "आफ्ना शत्रुहरू"
+    },
+    {
+      "surface": "ונשמרת",
+      "gloss": "जोगाउनेछौ"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "हरेक ... बाट"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:23.235609534Z",
+  "model": "glm-5.3"
+}

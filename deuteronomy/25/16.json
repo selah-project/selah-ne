@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 25:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "किनकि यी कुराहरू गर्ने हरेक <2>मानिस<\/2> — अधर्म गर्ने हरेक — यहवे तिम्रो एलोहीमको घृणाको विषय हो।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "תועבת",
+      "gloss": "घृणाको विषय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तिम्रो एलोहीम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्ने"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी कुराहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्ने"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अधर्म"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:03.701903676Z",
+  "model": "glm-5.3"
+}

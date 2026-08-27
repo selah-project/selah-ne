@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 2:4",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र उसकी बुहारी तामारले उसलाई ⟨את⟩ पेरेस् र ⟨את⟩ जेरखलाई जन्म दिइन्; यहूदाका सबै छोराहरू पाँच हुन्।",
+  "tokens": [
+    {
+      "surface": "ותמר",
+      "gloss": "र तामार"
+    },
+    {
+      "surface": "כלתו",
+      "gloss": "उसकी बुहारी"
+    },
+    {
+      "surface": "ילדה",
+      "gloss": "जन्म दिइन्"
+    },
+    {
+      "surface": "लו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पेरेस्"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेस्"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "जेरख"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरख"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:53.865431413Z",
+  "model": "glm-5.3"
+}

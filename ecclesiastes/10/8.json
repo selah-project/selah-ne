@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 10:8",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "गड्खाली खन्नेवाला त्यसमै खस्छ, र पर्खाल तोड्नेवालालाई सर्पले टोक्छ ।",
+  "tokens": [
+    {
+      "surface": "חפר",
+      "gloss": "खन्नेवाला"
+    },
+    {
+      "surface": "גומץ",
+      "gloss": "गड्खाली"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमै"
+    },
+    {
+      "surface": "יפול",
+      "gloss": "खस्छ"
+    },
+    {
+      "surface": "ופרץ",
+      "gloss": "र तोड्नेवालालाई"
+    },
+    {
+      "surface": "גדר",
+      "gloss": "पर्खाल"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "टोक्छ"
+    },
+    {
+      "surface": "נחש",
+      "gloss": "सर्पले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:51.793523858Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 21:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "यहवेले दाउदका द्रष्टा गादलाई यसो भन्नुभयो भनी वचन गर्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "वचन गर्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "द्रष्टा"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाउदका"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्नुभयो भनी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:40.430738304Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "isaiah 43:11",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 43,
+  "translation": "म ⟨म⟩ नै यहवे हुँ, र मबाहेक अर्को मुक्तिदाता छैन।",
+  "tokens": [
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "⟨म⟩ नै"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र ... छैन"
+    },
+    {
+      "surface": "מבלעדי",
+      "gloss": "मबाहेक"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "मुक्तिदाता"
+    }
+  ],
+  "timestamp": "2026-08-27T02:03:17.818979321Z",
+  "model": "glm-5.3"
+}

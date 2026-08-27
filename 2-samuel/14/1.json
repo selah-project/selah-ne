@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-samuel 14:1",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "त्सेरुयाहका छोरा योआभले जान्यो कि राजाको ⟨the⟩ मन अभशालोममाथि ⟨is⟩ ।",
+  "tokens": [
+    {
+      "surface": "וידע",
+      "gloss": "जान्यो"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआभले"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "צריה",
+      "gloss": "त्सेरुयाहका"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अभशालोम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:48:58.102806565Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 7:22",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "ऊ हठात् उसको पछि हिँड्छ, वधशालामा पस्ने गोरुझैँ, र मूर्खको साङ्लोमा पर्ने मूर्खझैँ।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "हिँड्छ"
+    },
+    {
+      "surface": "אחריה",
+      "gloss": "उसको पछि"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "हठात्"
+    },
+    {
+      "surface": "כשור",
+      "gloss": "गोरुझैँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "טבח",
+      "gloss": "वधशालामा"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "पस्ने"
+    },
+    {
+      "surface": "וכעכס",
+      "gloss": "र साङ्लोझैँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "साङ्लोमा"
+    },
+    {
+      "surface": "אויל",
+      "gloss": "मूर्खको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:28.109401854Z",
+  "model": "glm-5.3"
+}

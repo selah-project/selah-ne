@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 32:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र भेट उनको अगाडि भन्दा पार भयो, र उनी त्यही राति शिविरमा बसे।",
+  "tokens": [
+    {
+      "surface": "ותעבר",
+      "gloss": "र पार भयो"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "भेट"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "उनको अनुहार"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "र उनी"
+    },
+    {
+      "surface": "לן",
+      "gloss": "रात बिताए"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रातिमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "शिविरमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:54:27.654251028Z",
+  "model": "glm-5.3"
+}

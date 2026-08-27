@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 13:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "उसलाई ⟨मन⟩ नदेओ, र उसका कुरा नसुन; र तिम्रो आँखाले उसलाई दया नगरोस्, र ⟨उसलाई⟩ नबञ्चाओस्, र उसलाई नढाकोस्।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאבה",
+      "gloss": "मन देओ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תשמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसका(तर्फ)"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "दया गर"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तिम्रो आँखाले"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תחמל",
+      "gloss": "बञ्चाओ\/क्षमा गर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תכסה",
+      "gloss": "ढाक"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:48.843177627Z",
+  "model": "glm-5.3"
+}

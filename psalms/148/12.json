@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 148:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 148,
+  "translation": "जवानहरू र कुमारीहरूसँगै, वृद्धहरू नवयुवाहरूसँग —",
+  "tokens": [
+    {
+      "surface": "בחורים",
+      "gloss": "जवानहरू"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "र पनि"
+    },
+    {
+      "surface": "בתולות",
+      "gloss": "कुमारीहरू"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "वृद्धहरू"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "נערים",
+      "gloss": "नवयुवाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:16.152125213Z",
+  "model": "glm-5.3"
+}

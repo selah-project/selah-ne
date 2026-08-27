@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 47:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 47,
+  "translation": "किनकि यहवे सर्वोच्च भयदायी ⟨छन्⟩, सम्पूर्ण ⟨the⟩ पृथ्वीमाथि एउटा महान् राजा।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "सर्वोच्च"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भयदायी"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "महान्"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-27T02:14:51.498118826Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "nehemiah 10:28",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "मल्लूख, खारिम, बाअना।",
+  "tokens": [
+    {
+      "surface": "מלוך",
+      "gloss": "מल्लूख מल्लूख"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "खारिम"
+    },
+    {
+      "surface": "בענה",
+      "gloss": "बाअना"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:48.380780344Z",
+  "model": "glm-5.3"
+}

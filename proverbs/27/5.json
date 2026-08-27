@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 27:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "खुला गरिएको तात्कालिक समालोचना उत्तम छ; लुकाइएको प्रेमभन्दा।",
+  "tokens": [
+    {
+      "surface": "טובה",
+      "gloss": "उत्तम छ"
+    },
+    {
+      "surface": "תוכחת",
+      "gloss": "समालोचना"
+    },
+    {
+      "surface": "מגלה",
+      "gloss": "खुला गरिएको"
+    },
+    {
+      "surface": "מאהבה",
+      "gloss": "प्रेमभन्दा"
+    },
+    {
+      "surface": "מסתרת",
+      "gloss": "लुकाइएको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:21.104444609Z",
+  "model": "glm-5.3"
+}

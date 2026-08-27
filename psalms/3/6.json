@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 3:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "म शयन गरेँ र सुसाएँ; म ब्यूँझेँ, किनकि यहवे मलाई थाम्नुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "שכבתי",
+      "gloss": "शयन गरेँ"
+    },
+    {
+      "surface": "ואישנה",
+      "gloss": "र सुसाएँ"
+    },
+    {
+      "surface": "הקיצותי",
+      "gloss": "म ब्यूँझेँ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "יסמכני",
+      "gloss": "मलाई थाम्नुहुन्छ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:48:51.973160906Z",
+  "model": "glm-5.3"
+}

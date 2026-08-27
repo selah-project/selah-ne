@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 88:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 88,
+  "translation": "यहवे, मेरो मुक्तिका एलोहीम, दिन-रात म तपाईंअघि चिच्याउँछु।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישועתי",
+      "gloss": "मेरो मुक्तिका"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "צעקתי",
+      "gloss": "म चिच्याउँछु"
+    },
+    {
+      "surface": "בליײה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "נגדך",
+      "gloss": "तपाईंअघि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:07:09.016023319Z",
+  "model": "glm-5.3"
+}

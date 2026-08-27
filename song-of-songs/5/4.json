@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "song-of-songs 5:4",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "मेरो प्रेमीले प्वालबाट आफ्नो हात भित्र छिरायो, र मेरो भित्री त्यसका निम्ति काँप्यो।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "मेरो प्रेमीले"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "छिरायो"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आफ्नो हात"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "החר",
+      "gloss": "प्वाल"
+    },
+    {
+      "surface": "ומעי",
+      "gloss": "र मेरो भित्री"
+    },
+    {
+      "surface": "המו",
+      "gloss": "काँप्यो"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्यसका निम्ति"
+    }
+  ],
+  "timestamp": "2026-08-27T00:44:01.213183822Z",
+  "model": "glm-5.3"
+}

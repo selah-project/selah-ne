@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 22:1",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "भार ⟨of⟩ खोँदो-चिश्यायनको — के भयो तिमीलाई अहिले, कि तिमी सबै छतहरूमा चढ्यौ?",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "גיא",
+      "gloss": "खोँदो"
+    },
+    {
+      "surface": "חזיון",
+      "gloss": "चिश्यायनको"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के भयो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "אפוא",
+      "gloss": "अहिले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עלית",
+      "gloss": "चढ्यौ"
+    },
+    {
+      "surface": "כלך",
+      "gloss": "तिमी सबै"
+    },
+    {
+      "surface": "לגגות",
+      "gloss": "छतहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:28:52.291345751Z",
+  "model": "glm-5.3"
+}

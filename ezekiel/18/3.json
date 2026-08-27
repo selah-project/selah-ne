@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 18:3",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "मेरो प्राण छ — अदोनाइ यहवेको कथन — यिस्राएलमा यो उखान तिमीहरूको लागि अझै बाँकी रहनेछैन।",
+  "tokens": [
+    {
+      "surface": "חי",
+      "gloss": "जिउँदो"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "कथन"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूको लागि"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "משל",
+      "gloss": "उखान उखान्ने"
+    },
+    {
+      "surface": "המשל",
+      "gloss": "उखान"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिस्राएलमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:16:43.127777357Z",
+  "model": "glm-5.3"
+}

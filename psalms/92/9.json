@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 92:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 92,
+  "translation": "तर तिमी उच्चमा हुनुहुन्छ सदासर्वका लागि, हे यहवे।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "तर तिमी"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "उच्चमा"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सदासर्वका लागि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-27T02:34:13.003716607Z",
+  "model": "glm-5.3"
+}

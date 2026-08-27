@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 15:24",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "तब जनताले मोशेविरुद्ध गुनासो गरे, भन्दै — हामी के पिउने?",
+  "tokens": [
+    {
+      "surface": "וילנו",
+      "gloss": "गुनासो गरे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेविरुद्ध"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "נשתה",
+      "gloss": "पिउने"
+    }
+  ],
+  "timestamp": "2026-08-26T20:09:11.979645371Z",
+  "model": "glm-5.3"
+}

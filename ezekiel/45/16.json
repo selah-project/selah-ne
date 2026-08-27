@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 45:16",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 45,
+  "translation": "देशको सबै जनता इस्राएलमा नेताका लागि यस तरुमामा हुनेछन्।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशको"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "हुनेछन्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "התרומה",
+      "gloss": "तरुमामा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यस"
+    },
+    {
+      "surface": "לנשיא",
+      "gloss": "नेताका लागि"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएलमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:29:58.593673837Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 21:16",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "तब यहवेले मोशेसँग बोल्नुभयो, भन्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "तब ... बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:53.564798784Z",
+  "model": "glm-5.3"
+}

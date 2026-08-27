@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "job 7:12",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "के म ⟨समुद्र⟩ हुँ, कि तन्नीन, कि तिमी ममाथि पहरा बसाल्छौ?",
+  "tokens": [
+    {
+      "surface": "הים",
+      "gloss": "के ... समुद्र"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תנין",
+      "gloss": "तन्नीन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תשים",
+      "gloss": "बसाल्छौ"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    },
+    {
+      "surface": "משמר",
+      "gloss": "पहरा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:57.039378665Z",
+  "model": "glm-5.3"
+}

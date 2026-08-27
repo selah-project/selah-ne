@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "leviticus 21:18",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "किनकि जुन मानिसमा कुनै दोष छ, त्यो नजिक आउन सक्दैन — न अन्धो, न लङ्गडो, न सुन्निएको-नाक भएको, न कुनै अङ्ग बढी भएको।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जुन सबै"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "מום",
+      "gloss": "दोष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "सक्दैन"
+    },
+    {
+      "surface": "יקרב",
+      "gloss": "नजिक आउन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अन्धो"
+    },
+    {
+      "surface": "או",
+      "gloss": "न"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "लङ्गडो"
+    },
+    {
+      "surface": "או",
+      "gloss": "न"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "सुन्निएको-नाक भएको"
+    },
+    {
+      "surface": "או",
+      "gloss": "न"
+    },
+    {
+      "surface": "שרוע",
+      "gloss": "अङ्ग बढी भएको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:45.363884166Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 10:11",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "यदि सर्पले मन्त्र नगरी टोक्छ भने, वाक्चातुर्ये मानिसका लागि कुनै फाइदा हुँदैन।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "ישך",
+      "gloss": "टोक्छ"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "सर्पले"
+    },
+    {
+      "surface": "בלוא",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "לחש",
+      "gloss": "मन्त्र"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "हुँदैन"
+    },
+    {
+      "surface": "יתרון",
+      "gloss": "फाइदा"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "मानिसका लागि (धनी)"
+    },
+    {
+      "surface": "הלשון",
+      "gloss": "जिब्रोको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:00.701179033Z",
+  "model": "glm-5.3"
+}

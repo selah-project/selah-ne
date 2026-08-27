@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 25:14",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र मिश्मा, र दुमा, र मासा।",
+  "tokens": [
+    {
+      "surface": "ומשמע",
+      "gloss": "र मिश्मा"
+    },
+    {
+      "surface": "ודומה",
+      "gloss": "र दुमा"
+    },
+    {
+      "surface": "ומשא",
+      "gloss": "र मासा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:28.938619392Z",
+  "model": "glm-5.3"
+}

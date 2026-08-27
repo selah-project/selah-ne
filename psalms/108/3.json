@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 108:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 108,
+  "translation": "जाग, हे नेभेल र किनोर; म जगाउनेछु ⟨the⟩ भोरलाई।",
+  "tokens": [
+    {
+      "surface": "עורה",
+      "gloss": "जाग"
+    },
+    {
+      "surface": "हנבל",
+      "gloss": "हे नेभेल"
+    },
+    {
+      "surface": "וכנור",
+      "gloss": "र किनोर"
+    },
+    {
+      "surface": "אעירה",
+      "gloss": "म जगाउनेछु"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "भोरलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:12.766501359Z",
+  "model": "glm-5.3"
+}

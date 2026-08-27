@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "1-chronicles 1:49",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "शाउलको मृत्यु भयो, र उनको ठाउँमा बाल-खानान, अखबोरको छोरा, राजा भए।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मृत्यु भयो"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राजा भए"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उनको ठाउँमा"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "बाल-"
+    },
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עכבור",
+      "gloss": "अखबोर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:51.722332826Z",
+  "model": "glm-5.3"
+}

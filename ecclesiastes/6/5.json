@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 6:5",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "सूर्य पनि देखेको छैन, र जानेको पनि छैन — यसलाई त्यसभन्दा बढी विश्राम छ।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखेको"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेको"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "विश्राम"
+    },
+    {
+      "surface": "לזה",
+      "gloss": "यसलाई"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "त्यसभन्दा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:13.153211549Z",
+  "model": "glm-5.3"
+}

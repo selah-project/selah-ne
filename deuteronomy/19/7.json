@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 19:7",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "त्यसैले म तिमीलाई आज्ञा दिन्छु, यो भन्दै: तीन नगरहरू तिमीले आफ्नाका लागि छुट्याउ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तिमीलाई आज्ञा दिन्छु"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्दै"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगरहरू"
+    },
+    {
+      "surface": "תבדיל",
+      "gloss": "छुट्याउ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफ्नाका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T21:02:10.031135294Z",
+  "model": "glm-5.3"
+}

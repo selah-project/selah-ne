@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "joshua 19:45",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र यिहुद, र बने-बेराक, र गात-रिम्मोन।",
+  "tokens": [
+    {
+      "surface": "ויהד",
+      "gloss": "र यिहुद"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र बने-"
+    },
+    {
+      "surface": "ברק",
+      "gloss": "बेराक"
+    },
+    {
+      "surface": "וגת",
+      "gloss": "र गात-"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:57.003765171Z",
+  "model": "glm-5.3"
+}

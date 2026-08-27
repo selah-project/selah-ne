@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 5:17",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र महललेलका सबै दिनहरू पाँच र नब्बे वर्ष र आठ सय वर्ष भए, र उनी मरे।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललेल"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ותשעים",
+      "gloss": "र नब्बे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मरे"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:09.506997620Z",
+  "model": "glm-5.3"
+}

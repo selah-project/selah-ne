@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 33:2",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "हेर, कृपया, मैले मेरो मुख खोलेँ; मेरो जिब्रो मेरो तालुमा बोल्छ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "פתחתי",
+      "gloss": "खोलेँ"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "דברה",
+      "gloss": "बोल्छ"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "जिब्रो"
+    },
+    {
+      "surface": "בחכי",
+      "gloss": "तालुमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:38:56.430982520Z",
+  "model": "glm-5.3"
+}

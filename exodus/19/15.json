@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 19:15",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र उनले जनतालाई भने: तीन दिनको निम्ति तयार होओ, कुनै स्त्रीकहाँ नजाऊ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "היו",
+      "gloss": "होओ"
+    },
+    {
+      "surface": "נכנים",
+      "gloss": "तयार"
+    },
+    {
+      "surface": "לשלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגשו",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्रीक"
+    }
+  ],
+  "timestamp": "2026-08-26T20:12:00.239400628Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 10:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "और उसका हतियार-बोक्नेले देख्यो कि शाउल मरेको छ, र ऊ पनि तरवारमाथि ढल्यो र मर्यो।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देख्यो"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "हतियार-बोक्नेले"
+    },
+    {
+      "surface": "כליו",
+      "gloss": "उसका हतियार"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मरेको छ"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ढल्यो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "र मर्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:19.265597525Z",
+  "model": "glm-5.3"
+}

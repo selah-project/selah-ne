@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 6:12",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "एलिआभ उसको छोरा, यरोखाम उसको छोरा, एल्काना उसको छोरा।",
+  "tokens": [
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआभ"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "यरोखाम"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:34.674499500Z",
+  "model": "glm-5.3"
+}

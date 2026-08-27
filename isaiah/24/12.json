@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 24:12",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "सहरमा बाँकी रह्यो उजाडपन, र विनाशले ढोका कुन्नियो।",
+  "tokens": [
+    {
+      "surface": "נשאר",
+      "gloss": "बाँकी रह्यो"
+    },
+    {
+      "surface": "בעיר",
+      "gloss": "सहरमा"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "उजाडपन"
+    },
+    {
+      "surface": "ושאיה",
+      "gloss": "र विनाश"
+    },
+    {
+      "surface": "יכת",
+      "gloss": "कुन्नियो"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ढोका"
+    }
+  ],
+  "timestamp": "2026-08-26T22:29:36.861093156Z",
+  "model": "glm-5.3"
+}

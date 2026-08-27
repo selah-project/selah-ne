@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 19:12",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र मेरो नामको सहारा झूटै शपथ नखाऊ, र आफ्नो एलोहीमको ⟨את⟩ नाम अपवित्र नगर — म यहवे हुँ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תשבעו",
+      "gloss": "शपथ नखाऊ"
+    },
+    {
+      "surface": "בשמי",
+      "gloss": "मेरो नामको सहारा"
+    },
+    {
+      "surface": "לשקר",
+      "gloss": "झूटै"
+    },
+    {
+      "surface": "וחללת",
+      "gloss": "र अपवित्र नगर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आफ्नो एलोहीमको"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:03.465927591Z",
+  "model": "glm-5.3"
+}

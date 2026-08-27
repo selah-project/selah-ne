@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "job 6:13",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "के ममभित्र मेरो सहायता छैन, र तुसिया मबाट धकेलिएको छ?",
+  "tokens": [
+    {
+      "surface": "האם",
+      "gloss": "के"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עזרתי",
+      "gloss": "मेरो सहायता"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ममभित्र"
+    },
+    {
+      "surface": "ותשיה",
+      "gloss": "र तुसिया"
+    },
+    {
+      "surface": "נדחה",
+      "gloss": "धकेलिएको छ"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:31:14.605984273Z",
+  "model": "glm-5.3"
+}

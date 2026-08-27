@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 31:25",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "शक्ति र वैभव ⟨हो⟩ उनको लुगा, र उनी आउने अन्तिम दिनमा हाँस्छिन्।",
+  "tokens": [
+    {
+      "surface": "עז",
+      "gloss": "शक्ति"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "र वैभव"
+    },
+    {
+      "surface": "לבושה",
+      "gloss": "उनको लुगा"
+    },
+    {
+      "surface": "ותשחק",
+      "gloss": "र उनी हाँस्छिन्"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "अन्तिम"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:49.125731107Z",
+  "model": "glm-5.3"
+}

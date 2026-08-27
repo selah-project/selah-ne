@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "judges 9:32",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "अनि अब राति उठ, तिमी र जो ⟨את⟩ तिम्रो साथ छन् त्यो जनता, र खेतमा घात लगाऊ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अनि अब"
+    },
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "राति"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "र जनता"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אתך",
+      "gloss": "⟨את⟩ तिम्रो साथ"
+    },
+    {
+      "surface": "וארב",
+      "gloss": "र घात लगाऊ"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेतमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:24:27.661029367Z",
+  "model": "glm-5.3"
+}

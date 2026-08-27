@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 81:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 81,
+  "translation": "गीत उठाऊ, तबला बजाऊ, वीणा सुरिलो ⟨छ⟩ संग नेभेलको।",
+  "tokens": [
+    {
+      "surface": "שאו",
+      "gloss": "उठाऊ"
+    },
+    {
+      "surface": "זמרה",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "ותנו",
+      "gloss": "बजाऊ"
+    },
+    {
+      "surface": "תף",
+      "gloss": "तबला"
+    },
+    {
+      "surface": "כנור",
+      "gloss": "वीणा"
+    },
+    {
+      "surface": "נעים",
+      "gloss": "सुरिलो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "संग"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नेभेल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:04:43.786319754Z",
+  "model": "glm-5.3"
+}

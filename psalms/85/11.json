@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 85:11",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 85,
+  "translation": "खेसेद र एमेत भेटे; त्सेदेक र शान्ति एक-अर्कालाई चुम्बन गरे।",
+  "tokens": [
+    {
+      "surface": "חסד",
+      "gloss": "खेसेद"
+    },
+    {
+      "surface": "ואמת",
+      "gloss": "र एमेत"
+    },
+    {
+      "surface": "נפגשו",
+      "gloss": "भेटे"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "त्सेदेक"
+    },
+    {
+      "surface": "ושלום",
+      "gloss": "र शान्ति"
+    },
+    {
+      "surface": "נשקו",
+      "gloss": "चुम्बन गरे"
+    }
+  ],
+  "timestamp": "2026-08-27T00:07:01.774495611Z",
+  "model": "glm-5.3"
+}

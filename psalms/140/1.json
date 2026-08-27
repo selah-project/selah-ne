@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 140:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 140,
+  "translation": "सङ्गीत-निर्देशकका लागि, दाऊदको मिजमोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "सङ्गीत-निर्देशकका लागि"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊदको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:16:36.356607596Z",
+  "model": "glm-5.3"
+}

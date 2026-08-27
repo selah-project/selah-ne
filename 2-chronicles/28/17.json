@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 28:17",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "अझै एदोमीहरू आए, र यहूदामा प्रहार गरे, र बन्दीहरूलाई बन्धक बनाए।",
+  "tokens": [
+    {
+      "surface": "ועוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "אדומים",
+      "gloss": "एदोमीहरू"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "ויכו",
+      "gloss": "प्रहार गरे"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "यहूदामा"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "बन्धक बनाए"
+    },
+    {
+      "surface": "שבי",
+      "gloss": "बन्दीहरूलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:41:51.032513244Z",
+  "model": "glm-5.3"
+}

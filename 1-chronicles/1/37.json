@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 1:37",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "रेउएलका छोराहरू: नखत, जेरख, शम्मा र मिज्जा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएल"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "नखत"
+    },
+    {
+      "surface": "खרח",
+      "gloss": "जेरख"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "शम्मा"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "र मिज्जा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:17.408028629Z",
+  "model": "glm-5.3"
+}

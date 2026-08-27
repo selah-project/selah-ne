@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 26:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "यहवेले मोशे र अहारोनका छोरा एलआजार ⟨सेवक⟩ पुरोहितलाई भन्नुभयो, यसो भनी —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र लाई"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलआजारलाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोनका"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "⟨सेवक⟩ पुरोहित"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भनी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:07.427269316Z",
+  "model": "glm-5.3"
+}

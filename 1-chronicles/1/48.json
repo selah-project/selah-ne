@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "1-chronicles 1:48",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "सम्लाहको मृत्यु भयो, र उनको सट्टामा नदीका रेखोवोतका शाउल राजा भए।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मृत्यु भयो"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "सम्लाहको"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राजा भए"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उनको सट्टामा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "मרחבות",
+      "gloss": "रेखोवोतका"
+    },
+    {
+      "surface": "הנהר",
+      "gloss": "नदीका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:36.134237228Z",
+  "model": "glm-5.3"
+}

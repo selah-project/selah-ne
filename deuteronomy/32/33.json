@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "deuteronomy 32:33",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "तिनीहरूको दाखरस त तन्निनहरूको विष ⟨हो⟩, र पतनहरूको निर्दयी रोष।",
+  "tokens": [
+    {
+      "surface": "חמת",
+      "gloss": "विष"
+    },
+    {
+      "surface": "תנינם",
+      "gloss": "तन्निनहरूको"
+    },
+    {
+      "surface": "יינם",
+      "gloss": "तिनीहरूको दाखरस"
+    },
+    {
+      "surface": "וראש",
+      "gloss": "र रोष"
+    },
+    {
+      "surface": "פתנים",
+      "gloss": "पतनहरूको"
+    },
+    {
+      "surface": "אכזר",
+      "gloss": "निर्दयी"
+    }
+  ],
+  "timestamp": "2026-08-26T21:08:42.125849399Z",
+  "model": "glm-5.3"
+}

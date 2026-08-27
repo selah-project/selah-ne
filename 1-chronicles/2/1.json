@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 2:1",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "यी ⟨हुन्⟩ इस्राएलका छोराहरू: रूबेन, शिमोन, लेवी र यहूदा, इस्साखार र जबुलून।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "र यहूदा"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "इस्साखार"
+    },
+    {
+      "surface": "וזבלון",
+      "gloss": "र जबुलून"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:53.864813007Z",
+  "model": "glm-5.3"
+}

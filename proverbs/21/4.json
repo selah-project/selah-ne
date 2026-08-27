@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 21:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "आँखाको उच्चता र फराकिलो हृदय — दुष्टहरूको ⟨हलो⟩ — पाप हो।",
+  "tokens": [
+    {
+      "surface": "רום",
+      "gloss": "उच्चता"
+    },
+    {
+      "surface": "עינים",
+      "gloss": "आँखाको"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "र फराकिलो"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "נר",
+      "gloss": "⟨हलो⟩"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरूको"
+    },
+    {
+      "surface": "חטאת",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:39.931913035Z",
+  "model": "glm-5.3"
+}

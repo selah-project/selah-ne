@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 4:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र येफुनेहका छोरा कालेबका छोराहरू इरु, एला र नाम थिए; र एलाका छोराहरू केनाज ⟨थिए⟩।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कालेब"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…का छोरा"
+    },
+    {
+      "surface": "יפנה",
+      "gloss": "येफुनेह"
+    },
+    {
+      "surface": "עירו",
+      "gloss": "इरु"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एला"
+    },
+    {
+      "surface": "ונעם",
+      "gloss": "र नाम"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "एलाका"
+    },
+    {
+      "surface": "וקנז",
+      "gloss": "केनाज"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:56.572113266Z",
+  "model": "glm-5.3"
+}

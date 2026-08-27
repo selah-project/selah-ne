@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 4:1",
+  "book": "jonah",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र योनालाई ठूलो नराम्रो कुरा भयो ⟨र⟩ उनी क्रोधित भए।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "नराम्रो भयो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "नराम्रो कुरा"
+    },
+    {
+      "surface": "גדולה",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "क्रोधित भए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "⟨र⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T23:40:06.095937943Z",
+  "model": "glm-5.3"
+}

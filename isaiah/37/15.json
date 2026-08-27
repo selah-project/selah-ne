@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 37:15",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "और खिज्कियाहूले यहवेसँग प्रार्थना गरे, भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויתפלל",
+      "gloss": "और प्रार्थना गरे"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिज्कियाहूले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T22:34:34.180545972Z",
+  "model": "glm-5.3"
+}

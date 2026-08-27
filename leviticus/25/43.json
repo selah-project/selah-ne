@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "leviticus 25:43",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "उसलाई कठोरताले दमन नगर्नुहोस्, र आफ्ना एलोहीमलाई डरनुहोस्।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרדה",
+      "gloss": "दमन गर्नुहोस्"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "בפרך",
+      "gloss": "कठोरताले"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "र डरनुहोस्"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "आफ्ना एलोहीमबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:24.834722823Z",
+  "model": "glm-5.3"
+}

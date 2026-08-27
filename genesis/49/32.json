@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 49:32",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "खेतको किनो र त्यसमा रहेको गुफा हितका सन्तानबाट ⟨את⟩ [भएको हो]।",
+  "tokens": [
+    {
+      "surface": "מקנה",
+      "gloss": "किनो"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेतको"
+    },
+    {
+      "surface": "והמערה",
+      "gloss": "र गुफा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩ बाट"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "חת",
+      "gloss": "हितका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:09.948909139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 5:6",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "किनकि धूलोबाट दुःख निस्कँदैन, र माटोबाट कष्ट उम्रँदैन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निस्कँदैन"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "धूलोबाट"
+    },
+    {
+      "surface": "און",
+      "gloss": "दुःख"
+    },
+    {
+      "surface": "ומאדמה",
+      "gloss": "र माटोबाट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יצמח",
+      "gloss": "उम्रँदैन"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "कष्ट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:25.325186762Z",
+  "model": "glm-5.3"
+}

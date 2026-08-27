@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezra 2:30",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "मग्बिशका छोराहरू, एक सय उनन्पचान्न।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "मגביש",
+      "gloss": "मग्बिश"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "חמשिझ",
+      "gloss": "उनन्पचान्न"
+    },
+    {
+      "surface": "וששה",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:42.581295200Z",
+  "model": "glm-5.3"
+}

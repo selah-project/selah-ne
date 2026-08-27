@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "jeremiah 20:18",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "किन ⟨म⟩ गर्भबाट निस्कें, कष्ट र शोक देख्न, र मेरा दिनहरू लज्जामा समाप्त हुने?‖",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "מרחם",
+      "gloss": "गर्भबाट"
+    },
+    {
+      "surface": "יצאתי",
+      "gloss": "म निस्कें"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देख्न"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "कष्ट"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "र शोक"
+    },
+    {
+      "surface": "ויכלו",
+      "gloss": "र समाप्त हुने"
+    },
+    {
+      "surface": "בבשת",
+      "gloss": "लज्जामा"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "मेरा दिनहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T22:53:20.301773839Z",
+  "model": "glm-5.3"
+}

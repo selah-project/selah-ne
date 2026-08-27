@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 11:1",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र ⟨वहाँ⟩ सम्पूर्ण पृथ्वीको एउटै भाषा र एउटै समान शब्दहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र ⟨वहाँ⟩"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीको"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "भाषा"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "ודברים",
+      "gloss": "र शब्दहरू"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "समान"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:04.851251674Z",
+  "model": "glm-5.3"
+}

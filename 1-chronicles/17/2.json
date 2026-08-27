@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 17:2",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अनि नातानले दाविदलाई भने: तिम्रो मुटुमा जे सबै छ त्यो गर, किनभने एलोहीम तिमीसँग छ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "अनि भने"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातानले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "तिम्रो मुटुमा"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तिमीसँग छ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:36.783402853Z",
+  "model": "glm-5.3"
+}

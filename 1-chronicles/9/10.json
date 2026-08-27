@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 9:10",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र कोहेनहरूमध्ये यदआयाह, यहोयारिभ र याखिन —",
+  "tokens": [
+    {
+      "surface": "ומן",
+      "gloss": "र ... मध्ये"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहेनहरू"
+    },
+    {
+      "surface": "ידעיה",
+      "gloss": "यदआयाह"
+    },
+    {
+      "surface": "ויהויריב",
+      "gloss": "यहोयारिभ"
+    },
+    {
+      "surface": "ויכין",
+      "gloss": "याखिन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:06.261201917Z",
+  "model": "glm-5.3"
+}

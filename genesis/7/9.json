@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 7:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "दुई-दुई नोहाकहाँ, तेभामा आए, भाले र पोथी, जसरी एलोहीमले ⟨את⟩ नोहालाई आज्ञा दिनुभएको थियो।",
+  "tokens": [
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–कहाँ"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोहा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "–मा"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "तेभा"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "भाले"
+    },
+    {
+      "surface": "ונקבה",
+      "gloss": "र पोथी"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसरी"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिनुभयो"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नोहा"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोहा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:41.124097356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 7:11",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "कोलाहले भरिएकी ऊ, र हठी; आफ्नो घरमा उसका खुट्टाहरू बस्दैनन्।",
+  "tokens": [
+    {
+      "surface": "המיה",
+      "gloss": "कोलाहले भरिएकी"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "וסררת",
+      "gloss": "र हठी"
+    },
+    {
+      "surface": "בביתה",
+      "gloss": "आफ्नो घरमा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइनन्"
+    },
+    {
+      "surface": "ישכנו",
+      "gloss": "बस्दैनन्"
+    },
+    {
+      "surface": "רגליה",
+      "gloss": "उसका खुट्टाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:49.919041143Z",
+  "model": "glm-5.3"
+}

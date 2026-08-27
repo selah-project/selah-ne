@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 23:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "तिम्रो मुटु पापीहरूमा ईर्ष्या नगरोस्, किन्तु यहवेको भयमा सारा दिन ⟨रहोस्⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יקנא",
+      "gloss": "ईर्ष्या गरोस्"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तिम्रो मुटु"
+    },
+    {
+      "surface": "בחטאים",
+      "gloss": "पापीहरूमा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किन्तु"
+    },
+    {
+      "surface": "אם",
+      "gloss": "निश्चय"
+    },
+    {
+      "surface": "ביראת",
+      "gloss": "भयमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:56.868455147Z",
+  "model": "glm-5.3"
+}

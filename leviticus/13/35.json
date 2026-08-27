@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 13:35",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "तर यदि उसको शुद्धीकरण पछि खटिरा छालामा धेरै फैलिनेछ,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "तर यदि"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैलिनु"
+    },
+    {
+      "surface": "יפשה",
+      "gloss": "फैलिनेछ"
+    },
+    {
+      "surface": "הנתק",
+      "gloss": "खटिरा"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "छालामा"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "טהרתו",
+      "gloss": "उसको शुद्धीकरण"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:15.213677876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "deuteronomy 28:42",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "तिम्रा सबै रूखहरू र तिम्रो जमिनको फललाई टिडीले अधिकार गर्नेछ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עצך",
+      "gloss": "तिम्रा रूखहरू"
+    },
+    {
+      "surface": "ופרי",
+      "gloss": "र फल"
+    },
+    {
+      "surface": "אדמתך",
+      "gloss": "तिम्रो जमिनको"
+    },
+    {
+      "surface": "יירש",
+      "gloss": "अधिकार गर्नेछ"
+    },
+    {
+      "surface": "הצלצל",
+      "gloss": "टिडीले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:06:18.083172629Z",
+  "model": "glm-5.3"
+}

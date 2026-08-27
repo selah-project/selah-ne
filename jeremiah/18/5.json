@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 18:5",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र यहवेको वचन मयता आयो, भन्नुहुँदै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र...भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मयता"
+    },
+    {
+      "surface": "לאमור",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T22:52:10.458542894Z",
+  "model": "glm-5.3"
+}

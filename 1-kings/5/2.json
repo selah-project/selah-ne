@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-kings 5:2",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र शलोमोहको खाना एक दिनको निम्ति तीस कोर मसिनो पीठो र साठी कोर पीठो हुन्थ्यो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "खाना"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोहको"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिनको निम्ति"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "סלת",
+      "gloss": "मसिनो पीठो"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "र साठी"
+    },
+    {
+      "surface": "כר",
+      "gloss": "कोर"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "पीठो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:58:07.821093225Z",
+  "model": "glm-5.3"
+}

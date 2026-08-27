@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 1:6",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "शिमोनका लागि शेलुमिएल, त्सुरिशद्दाइका छोरा।",
+  "tokens": [
+    {
+      "surface": "לשמעון",
+      "gloss": "शिमोनका लागि"
+    },
+    {
+      "surface": "שלמיאל",
+      "gloss": "शेलुमिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "צורישדי",
+      "gloss": "त्सुरिशद्दाइका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:36.518192228Z",
+  "model": "glm-5.3"
+}

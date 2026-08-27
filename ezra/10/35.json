@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 10:35",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "बेनायाह, बेदेयाह, केलुहाइ।",
+  "tokens": [
+    {
+      "surface": "בניה",
+      "gloss": "बेनायाह"
+    },
+    {
+      "surface": "בדיה",
+      "gloss": "बेदेयाह"
+    },
+    {
+      "surface": "כלהי",
+      "gloss": "केलुहाइ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:09:42.705359075Z",
+  "model": "glm-5.3"
+}

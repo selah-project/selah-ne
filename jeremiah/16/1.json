@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 16:1",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "र यहवेको वचन मतिर आयो, भन्ने कुरा यस्तो छ —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतिर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्न"
+    }
+  ],
+  "timestamp": "2026-08-26T22:51:21.649410032Z",
+  "model": "glm-5.3"
+}

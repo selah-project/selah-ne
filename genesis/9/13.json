@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 9:13",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "मेरो ⟨את⟩ धनु बादलमा राखेँ, र त्यो म र पृथ्वीबीचको करारको चिह्न हुनेछ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धनु"
+    },
+    {
+      "surface": "קשתי",
+      "gloss": "मेरो धनु"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "राखेँ"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "बादलमा"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "र त्यो हुनेछ"
+    },
+    {
+      "surface": "לאות",
+      "gloss": "चिह्नको लागि"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "करार"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "म"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीबीच"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:21.159298409Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 8:22",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र यिश्पान, र एभेर, र एलिएल,",
+  "tokens": [
+    {
+      "surface": "וישפן",
+      "gloss": "र यिश्पान"
+    },
+    {
+      "surface": "ועבר",
+      "gloss": "र एभेर"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "र एलिएल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:35.576787211Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 13:47",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र जब कुनै लुगामा च्याङ्गो-रोगको घाउ हुनेछ — ऊनको लुगामा वा सनको लुगामा —",
+  "tokens": [
+    {
+      "surface": "והבגד",
+      "gloss": "र ⟨the⟩ लुगा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब\/कि"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "נגע",
+      "gloss": "घाउ"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "च्याङ्गो-रोगको"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "लुगामा"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ऊनको"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בבגד",
+      "gloss": "लुगामा"
+    },
+    {
+      "surface": "פשתים",
+      "gloss": "सनको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:45.217775797Z",
+  "model": "glm-5.3"
+}

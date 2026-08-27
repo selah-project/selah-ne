@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 7:37",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बेत्सेर, र होद, र शम्मा, र शिल्शा, र यित्रन, र बेएरा।",
+  "tokens": [
+    {
+      "surface": "בצר",
+      "gloss": "बेत्सेर"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "र होद"
+    },
+    {
+      "surface": "ושמא",
+      "gloss": "र शम्मा"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "र शिल्शा"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "र यित्रन"
+    },
+    {
+      "surface": "ובארא",
+      "gloss": "र बेएरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:50.927476848Z",
+  "model": "glm-5.3"
+}

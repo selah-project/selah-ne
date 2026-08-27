@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "isaiah 37:25",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "मैले खनें र पानी पिएँ, र आफ्नो पाइलाको तलुवाले मिस्रका सबै नहरहरू सुकाएँ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "मैले"
+    },
+    {
+      "surface": "קרתי",
+      "gloss": "खनें"
+    },
+    {
+      "surface": "ושתיתי",
+      "gloss": "र पिएँ"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "ואחריב",
+      "gloss": "र सुकाएँ"
+    },
+    {
+      "surface": "בכף",
+      "gloss": "तलुवाले"
+    },
+    {
+      "surface": "פעמי",
+      "gloss": "पाइलाको"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "יארי",
+      "gloss": "नहरहरू"
+    },
+    {
+      "surface": "מצור",
+      "gloss": "मिस्रका"
+    }
+  ],
+  "timestamp": "2026-08-26T22:35:29.222308642Z",
+  "model": "glm-5.3"
+}

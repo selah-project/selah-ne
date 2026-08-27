@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "lamentations 3:2",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "मलाई ⟨את⟩ उहाँले हाक्नुभयो र अँध्यारोमा हिँडाउनुभयो, र उज्यालो होइन।",
+  "tokens": [
+    {
+      "surface": "אותי",
+      "gloss": "⟨את⟩",
+      "marks": "मलाई"
+    },
+    {
+      "surface": "נהח",
+      "gloss": "हाक्नुभयो"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "हिँडाउनुभयो"
+    },
+    {
+      "surface": "חשך",
+      "gloss": "अँध्यारोमा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र ... होइन"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उज्यालो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:28.185429Z",
+  "model": "glm-5.3"
+}

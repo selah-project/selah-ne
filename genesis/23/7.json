@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 23:7",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "तब अभ्राहाम उठे, र देशका मानिसहरू — खतका छोराहरू — अघि निहुरिए।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठे"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "निहुरिए"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "मानिसहरू अघि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशका"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरू अघि"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खतका"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:53.927596107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 21:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र खोंचहरूको ढल्को, जो आरको बस्तीतर्फ झुक्छ, र मोआबको सीमामा टेको दिन्छ।",
+  "tokens": [
+    {
+      "surface": "ואשד",
+      "gloss": "र ढल्को"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "खोंचहरूको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נטה",
+      "gloss": "झुक्छ"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "बस्तीतर्फ"
+    },
+    {
+      "surface": "ער",
+      "gloss": "आरको"
+    },
+    {
+      "surface": "ונשען",
+      "gloss": "र टेको दिन्छ"
+    },
+    {
+      "surface": "לגבול",
+      "gloss": "सीमामा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:03.765996864Z",
+  "model": "glm-5.3"
+}

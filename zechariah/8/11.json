@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 8:11",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "तर अब पहिलेका दिनहरूजस्तो म होइनँ यस प्रजाको शेषका लागि, यहवे सेबाओतको वचन।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "तर अब"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइनँ"
+    },
+    {
+      "surface": "כימים",
+      "gloss": "दिनहरूजस्तो"
+    },
+    {
+      "surface": "הראשנים",
+      "gloss": "पहिलेका"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "לשארית",
+      "gloss": "शेषका लागि"
+    },
+    {
+      "surface": "העם",
+      "gloss": "प्रजाको"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेबाओतको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:47:09.944657387Z",
+  "model": "glm-5.3"
+}

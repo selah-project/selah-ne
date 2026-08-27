@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "nehemiah 12:14",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "मल्लूखीका लागि योनातान; शेबन्याका लागि योसेफ।",
+  "tokens": [
+    {
+      "surface": "למלוכי",
+      "gloss": "मल्लूखीका लागि"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातान"
+    },
+    {
+      "surface": "लשבניה",
+      "gloss": "शेबन्याका लागि"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:24.246964862Z",
+  "model": "glm-5.3"
+}

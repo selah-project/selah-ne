@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 14:4",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "शुद्धलाई अशुद्धबाट कसले दिन्छ? एकजना पनि होइन।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिन्छ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्धलाई"
+    },
+    {
+      "surface": "מטמא",
+      "gloss": "अशुद्धबाट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एकजना"
+    }
+  ],
+  "timestamp": "2026-08-27T00:32:59.201088486Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "leviticus 17:3",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "इस्राएलको घरबाट जुनसुकै मानिस, जसले शिविरभित्र गाई वा भेडा वा बाख्रा काट्छ, वा जसले शिविरबाहिर काट्छ।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "איש",
+      "gloss": "जुनसुकै मानिस"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घरबाट"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "काट्छ"
+    },
+    {
+      "surface": "שור",
+      "gloss": "गाई"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "כשב",
+      "gloss": "भेडा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बाख्रा"
+    },
+    {
+      "surface": "במחנה",
+      "gloss": "शिविरभित्र"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "ישחט",
+      "gloss": "काट्छ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "शिविरबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T20:30:36.834445052Z",
+  "model": "glm-5.3"
+}

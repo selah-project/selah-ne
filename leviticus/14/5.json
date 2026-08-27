@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 14:5",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र पुरोहितले आज्ञा दिनेछ, र एउटा चरालाई ⟨את⟩ माटोको भाँडोमा, जीवन्त पानीमाथि काट्नेछ।",
+  "tokens": [
+    {
+      "surface": "וצוה",
+      "gloss": "र आज्ञा दिनेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहितले"
+    },
+    {
+      "surface": "ושחט",
+      "gloss": "र काट्नेछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एउटा चरालाई"
+    },
+    {
+      "surface": "הצפור",
+      "gloss": "चरा"
+    },
+    {
+      "surface": "האחת",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भाँडो"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "माटोको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन्त"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:37.475272957Z",
+  "model": "glm-5.3"
+}

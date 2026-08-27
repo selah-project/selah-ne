@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 28:2",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "फलाम माटोबाट लिइन्छ, र ढुंगाबाट तामा पग्लाइन्छ।",
+  "tokens": [
+    {
+      "surface": "ברזל",
+      "gloss": "फलाम"
+    },
+    {
+      "surface": "מעפר",
+      "gloss": "माटोबाट"
+    },
+    {
+      "surface": "יקח",
+      "gloss": "लिइन्छ"
+    },
+    {
+      "surface": "ואבן",
+      "gloss": "र ढुंगा"
+    },
+    {
+      "surface": "יצוק",
+      "gloss": "पग्लाइन्छ"
+    },
+    {
+      "surface": "נחושה",
+      "gloss": "तामा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:36:36.439404228Z",
+  "model": "glm-5.3"
+}

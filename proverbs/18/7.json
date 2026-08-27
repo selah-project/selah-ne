@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 18:7",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "मूर्खको मुख ⟨उसकै⟩ विनाश हो, र उसका ओठहरू उसको प्राणको जाल हुन्।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खको"
+    },
+    {
+      "surface": "מחתה",
+      "gloss": "विनाश"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसकै लागि"
+    },
+    {
+      "surface": "ושפתיו",
+      "gloss": "र उसका ओठहरू"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "נפשו",
+      "gloss": "उसको प्राणको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:56.338532887Z",
+  "model": "glm-5.3"
+}

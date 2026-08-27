@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 17:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "यी सबै कुराहरूअनुसार र यो सम्पूर्ण दर्शनअनुसार, त्यसरी नातानले दाविदलाई बोले।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "सबै...अनुसार"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "र सम्पूर्ण...अनुसार"
+    },
+    {
+      "surface": "החזון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसरी"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोले"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:03.324493868Z",
+  "model": "glm-5.3"
+}

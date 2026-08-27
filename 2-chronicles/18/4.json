@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 18:4",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "अनि यिहोशाफातले इस्राएलका राजासित भन्यो: आजै नै प्रार्थना गर्छु, यहवेको ⟨את⟩ वचन खोज।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "יהושפט",
+      "gloss": "यिहोशाफातले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सित"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "דרש",
+      "gloss": "खोज"
+    },
+    {
+      "surface": "נא",
+      "gloss": "प्रार्थना गर्छु"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "आजै नै"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:37:29.847703792Z",
+  "model": "glm-5.3"
+}

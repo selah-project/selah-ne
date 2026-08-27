@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-kings 2:18",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "बत्तशेबाले भनी, असल छ, म तिम्रो निम्ति राजासँग कुरा गर्नेछु।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "ले भनी"
+    },
+    {
+      "surface": "בת",
+      "gloss": "बत्त"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल छ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "אדבר",
+      "gloss": "कुरा गर्नेछु"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तिम्रो निम्ति"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:57:37.110226520Z",
+  "model": "glm-5.3"
+}

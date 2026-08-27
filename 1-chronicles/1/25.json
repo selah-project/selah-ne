@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 1:25",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "एबेर, पेलेग, रेउ।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "एबेर"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "पेलेग"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेउ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:57.908451864Z",
+  "model": "glm-5.3"
+}

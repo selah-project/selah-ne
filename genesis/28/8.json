@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 28:8",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र एसाउले देख्यो कि कनानका छोरीहरू आफ्ना बुबा यित्सखाकका आँखामा ⟨are⟩ नराम्रा छन्।",
+  "tokens": [
+    {
+      "surface": "וירא",
+      "gloss": "देख्यो"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाउले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "רעות",
+      "gloss": "नराम्रा"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "छोरीहरू"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनानका"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "יצחק",
+      "gloss": "यित्सखाकका"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आफ्ना बुबा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:10.180886922Z",
+  "model": "glm-5.3"
+}

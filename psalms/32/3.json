@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 32:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "जब म चुप बसेँ, मेरा हड्डीहरू क्षय भए; मेरो गर्जनाले ⟨सारा⟩ दिन नै।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "החרשתי",
+      "gloss": "चुप बसेँ"
+    },
+    {
+      "surface": "בלו",
+      "gloss": "क्षय भए"
+    },
+    {
+      "surface": "עצמי",
+      "gloss": "मेरा हड्डीहरू"
+    },
+    {
+      "surface": "בשאגתי",
+      "gloss": "मेरो गर्जनाले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-26T23:54:51.539413825Z",
+  "model": "glm-5.3"
+}

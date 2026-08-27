@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 25:12",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "किनकि योबेल यो — पवित्र ⟨हो⟩, तिमीहरूका लागि हुनेछ; खेतबाट ⟨את⟩ यसको उपज खानेछौ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יובל",
+      "gloss": "योबेल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "यो"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    },
+    {
+      "surface": "מן",
+      "gloss": "...बाट"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तिमीहरूले खानेछौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यसको उपज"
+    },
+    {
+      "surface": "תבואתה",
+      "gloss": "यसको उपज"
+    }
+  ],
+  "timestamp": "2026-08-26T20:33:52.675297367Z",
+  "model": "glm-5.3"
+}

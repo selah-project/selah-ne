@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 27:19",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "धिक्कारित ⟨हो⟩ ऊ जसले अन्यजनि, अनाथ र विधवाको न्याय बङ्ग्याउँछ, र सबै जनताले भन्नेछन्: आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कारित"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "बङ्ग्याउँछ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "גר",
+      "gloss": "अन्यजनिको"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ואלמנה",
+      "gloss": "र विधवा"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "र भन्नेछन्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:24.300912206Z",
+  "model": "glm-5.3"
+}

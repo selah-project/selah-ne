@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 5:18",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र व्यभिचार नगर।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תנאף",
+      "gloss": "व्यभिचार गर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:19.186231417Z",
+  "model": "glm-5.3"
+}

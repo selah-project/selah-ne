@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "daniel 5:24",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "तब उहाँको सामुबाट हातको खुडुली पठाइयो, र यो लेखोट लेखियो।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "קדמוהי",
+      "gloss": "उहाँको सामु"
+    },
+    {
+      "surface": "שליח",
+      "gloss": "पठाइयो"
+    },
+    {
+      "surface": "פסא",
+      "gloss": "हातको खुडुली"
+    },
+    {
+      "surface": "די",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ידא",
+      "gloss": "हात"
+    },
+    {
+      "surface": "וכתבא",
+      "gloss": "र लेखोट"
+    },
+    {
+      "surface": "דנה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "लेखियो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:00:09.194483466Z",
+  "model": "glm-5.3"
+}

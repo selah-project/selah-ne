@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ezekiel 33:23",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "अनि यहवेको वचन मतिर आयो, भन्नुहुँदैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतिर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-27T02:10:18.245829997Z",
+  "model": "glm-5.3"
+}

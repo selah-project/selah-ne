@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 23:23",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "के म नजिकको एलोहीम मात्र हुँ, यहवेको युक्ति, र टाढाको एलोहीम होइन?",
+  "tokens": [
+    {
+      "surface": "האלהי",
+      "gloss": "के... एलोहीम"
+    },
+    {
+      "surface": "מקרב",
+      "gloss": "नजिकको"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "युक्ति"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र... होइन"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "टाढाको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:54:47.484481395Z",
+  "model": "glm-5.3"
+}

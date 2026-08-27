@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 22:21",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "कुनै विधवा र अनाथलाई दुःख नदेओ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा"
+    },
+    {
+      "surface": "ויתום",
+      "gloss": "र अनाथ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תענון",
+      "gloss": "दुःख देओ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:31.962334717Z",
+  "model": "glm-5.3"
+}

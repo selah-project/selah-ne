@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 21:23",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "तर यदि अनर्थ हुन्छ, भने तिमीले प्राणको बदलामा प्राण दिनेछौ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "तर यदि"
+    },
+    {
+      "surface": "אסון",
+      "gloss": "अनर्थ"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुन्छ"
+    },
+    {
+      "surface": "ונתתה",
+      "gloss": "भने तिमीले दिनेछौ"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "को बदलामा"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राण"
+    }
+  ],
+  "timestamp": "2026-08-26T20:12:38.875080558Z",
+  "model": "glm-5.3"
+}

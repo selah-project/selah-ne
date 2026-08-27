@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 14:15",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तर तिमी शेओलमा, खाडलको गहिराइसम्म ओरालिनेछौ।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "तर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओल"
+    },
+    {
+      "surface": "תורד",
+      "gloss": "ओरालिनेछौ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सम्म"
+    },
+    {
+      "surface": "ירכתי",
+      "gloss": "…को गहिराइ"
+    },
+    {
+      "surface": "בור",
+      "gloss": "खाडलको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:42.057081410Z",
+  "model": "glm-5.3"
+}

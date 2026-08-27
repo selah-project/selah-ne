@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 8:20",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "बाली काट्ने समय बित्यो, ग्रीष्म सकियो, तर हामी बचाइएनौँ।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "बित्यो"
+    },
+    {
+      "surface": "קציר",
+      "gloss": "बाली काट्ने समय"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "सकियो"
+    },
+    {
+      "surface": "קיץ",
+      "gloss": "ग्रीष्म"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "तर हामी"
+    },
+    {
+      "surface": "לוא",
+      "gloss": "छैनौँ"
+    },
+    {
+      "surface": "נושענו",
+      "gloss": "बचाइएनौँ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:48:29.578812193Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 68,
+  "ref": "nehemiah 7:68",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "उँट चार सय पैँतीस, गधा छ हजार सात सय बीस।",
+  "tokens": [
+    {
+      "surface": "גמלים",
+      "gloss": "उँट"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "पैँतीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": ""
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "गधा"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "छ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "बीस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:17.934149177Z",
+  "model": "glm-5.3"
+}

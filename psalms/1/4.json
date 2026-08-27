@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 1:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "दुष्टहरू ⟨त्यस्ता⟩ होइनन्, बरु तिनीहरू हावाले उडाइदिने भुस्साझैँ ⟨छन्⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइनन्"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यस्ता"
+    },
+    {
+      "surface": "הרשעים",
+      "gloss": "दुष्टहरू"
+    },
+    {
+      "surface": "כי",
+      "gloss": "बरु"
+    },
+    {
+      "surface": "אם",
+      "gloss": ""
+    },
+    {
+      "surface": "כמץ",
+      "gloss": "भुस्साझैँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "תדפנו",
+      "gloss": "उडाइदिने"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हावाले"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:30.356656713Z",
+  "model": "glm-5.3"
+}

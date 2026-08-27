@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 30:4",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र त्यो कुरा राजाका आँखामा र सम्पूर्ण सभाका आँखामा उचित लाग्यो।",
+  "tokens": [
+    {
+      "surface": "ויישר",
+      "gloss": "उचित लाग्यो"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "त्यो कुरा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाका"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "र आँखामा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभाका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:44:14.364968042Z",
+  "model": "glm-5.3"
+}

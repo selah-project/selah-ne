@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "joshua 19:6",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र बेथ-लेबाओत, र शारुखेन — तेह्र नगर र तिनका गाउँहरू।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "לבאות",
+      "gloss": "लेबाओत"
+    },
+    {
+      "surface": "ושרוחן",
+      "gloss": "र शारुखेन"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दस"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "र तिनका गाउँहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:07.094738545Z",
+  "model": "glm-5.3"
+}

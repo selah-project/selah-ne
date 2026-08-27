@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 28:7",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र ⟨that⟩ याकोभले आफ्ना बुबा र आमाको कुरा मानेर पदन-अराम गयो।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "मानेर"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आफ्ना बुबाको"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "आमाको"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गयो"
+    },
+    {
+      "surface": "פדנה",
+      "gloss": "पदन"
+    },
+    {
+      "surface": "ארם",
+      "gloss": "अराम"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:10.180757108Z",
+  "model": "glm-5.3"
+}

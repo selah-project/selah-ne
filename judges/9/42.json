@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "judges 9:42",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "अर्को दिन भयो, र ⟨the⟩ जनता खेतमा निस्कियो, र तिनीहरूले अभिमेलेखलाई भने।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "ממחרת",
+      "gloss": "अर्को दिन"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निस्कियो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ जनता"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेतमा"
+    },
+    {
+      "surface": "ויגדו",
+      "gloss": "तिनीहरूले भने"
+    },
+    {
+      "surface": "לאבימלך",
+      "gloss": "अभिमेलेखलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T21:24:11.974281689Z",
+  "model": "glm-5.3"
+}

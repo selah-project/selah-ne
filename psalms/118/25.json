@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 118:25",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 118,
+  "translation": "हे यहवे, कृपया उद्धार गर्नुहोस्; हे यहवे, कृपया सफल पार्नुहोस्।",
+  "tokens": [
+    {
+      "surface": "אנא",
+      "gloss": "हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הושיעה",
+      "gloss": "उद्धार गर्नुहोस्"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "אנא",
+      "gloss": "हे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הצליחה",
+      "gloss": "सफल पार्नुहोस्"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:38.729672400Z",
+  "model": "glm-5.3"
+}

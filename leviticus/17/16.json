@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 17:16",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "तर यदि ऊ ⟨लुगा⟩ धुँदैन र आफ्नो शरीर नुहाउँदैन, त ऊ आफ्नो अधर्म बेहोर्नेछ।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "तर यदि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יכבס",
+      "gloss": "धुँदैन"
+    },
+    {
+      "surface": "ובשרו",
+      "gloss": "आफ्नो शरीर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "नुहाउँदैन"
+    },
+    {
+      "surface": "ונשא",
+      "gloss": "बेहोर्नेछ"
+    },
+    {
+      "surface": "עונו",
+      "gloss": "आफ्नो अधर्म"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:06.821762758Z",
+  "model": "glm-5.3"
+}

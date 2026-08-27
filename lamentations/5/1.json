@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "lamentations 5:1",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "यहवे, सम्झनुहोस् हामीलाई के भयो; हेर्नुहोस् र देख्नुहोस् हाम्रो ⟨את⟩ अपमानलाई।",
+  "tokens": [
+    {
+      "surface": "זכר",
+      "gloss": "सम्झनुहोस्"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हामीलाई"
+    },
+    {
+      "surface": "הביט",
+      "gloss": "हेर्नुहोस्"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "र देख्नुहोस्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हाम्रो अपमानलाई"
+    },
+    {
+      "surface": "חרפתנו",
+      "gloss": "हाम्रो अपमान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:21.139414480Z",
+  "model": "glm-5.3"
+}

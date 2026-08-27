@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 91:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 91,
+  "translation": "एल्योनको आश्रयमा बस्ने, शद्दाइको छायाँमा बास लिने ⟨हुनेछ⟩।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "बस्ने"
+    },
+    {
+      "surface": "בסתר",
+      "gloss": "आश्रयमा"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योनको"
+    },
+    {
+      "surface": "בצל",
+      "gloss": "छायाँमा"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "शद्दाइको"
+    },
+    {
+      "surface": "יתלונן",
+      "gloss": "बास लिने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:38.488091025Z",
+  "model": "glm-5.3"
+}

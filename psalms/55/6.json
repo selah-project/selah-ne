@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 55:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 55,
+  "translation": "भय र काँपो मभित्र पस्छ, र त्रासले मलाई ढाक्छ।",
+  "tokens": [
+    {
+      "surface": "יראה",
+      "gloss": "भय"
+    },
+    {
+      "surface": "ורעד",
+      "gloss": "र काँपो"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "पस्छ"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मभित्र"
+    },
+    {
+      "surface": "ותכסני",
+      "gloss": "र ढाक्छ मलाई"
+    },
+    {
+      "surface": "פלצות",
+      "gloss": "त्रास"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:47.883325281Z",
+  "model": "glm-5.3"
+}

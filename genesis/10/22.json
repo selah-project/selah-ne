@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 10:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "शेमका छोराहरू: एलाम र अश्शूर र अर्पक्शद र लूद र अराम।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेमका"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "र अश्शूर"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "र अर्पक्शद"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "र लूद"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "र अराम"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:05.244280592Z",
+  "model": "glm-5.3"
+}

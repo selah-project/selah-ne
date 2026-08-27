@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 7:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "जसका नाकमा जीवन्त श्वासको सास थियो, खड्किलो जमिनमा भएका सबै मरे।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसका"
+    },
+    {
+      "surface": "נשמת",
+      "gloss": "सास"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "श्वास"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवन्त"
+    },
+    {
+      "surface": "באפיו",
+      "gloss": "नाकमा"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सबैमध्ये"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בחרבה",
+      "gloss": "खड्किलो जमिनमा"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरे"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:41.061848648Z",
+  "model": "glm-5.3"
+}

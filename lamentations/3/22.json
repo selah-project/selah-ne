@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "lamentations 3:22",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यहवेका खेसेदहरू — किनकि ⟨तिनी⟩ सकिएनन्, किनकि ⟨तिनी⟩ रिक्त भएनन् उहाँका करुणाहरू।",
+  "tokens": [
+    {
+      "surface": "חסדי",
+      "gloss": "खेसेदहरू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेका"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "सकिएनन्"
+    },
+    {
+      "surface": "תמנו",
+      "gloss": "सकिएनन्"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "भएनन्"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "रिक्त भएनन्"
+    },
+    {
+      "surface": "רחמיו",
+      "gloss": "उहाँका करुणाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:26.927419506Z",
+  "model": "glm-5.3"
+}

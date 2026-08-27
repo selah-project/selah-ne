@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 35:12",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "तब यहवेको वचन यिर्मियाहूतिर आयो, भन्नुहोस्‌भनी।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "तब भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तिर"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहू"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहोस्‌भनी"
+    }
+  ],
+  "timestamp": "2026-08-26T22:59:46.868158210Z",
+  "model": "glm-5.3"
+}

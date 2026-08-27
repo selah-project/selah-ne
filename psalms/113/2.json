@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 113:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 113,
+  "translation": "यहवेको नाम ⟨होस्⟩ धन्य, अहिलेदेखि ⟨र⟩ सदासम्म।",
+  "tokens": [
+    {
+      "surface": "יהי",
+      "gloss": "⟨होस्⟩"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "מברך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "מעתה",
+      "gloss": "अहिलेदेखि"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "⟨र⟩ सदासम्म"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदासम्म"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:42.135726680Z",
+  "model": "glm-5.3"
+}

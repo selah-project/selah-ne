@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 19:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र लोत ढोकासम्म तिनीहरूकहाँ निस्कियो, र ढोका आफूपछि बन्द गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "र निस्कियो"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "तिनीहरूकहाँ"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोत"
+    },
+    {
+      "surface": "הפתחה",
+      "gloss": "ढोकासम्म"
+    },
+    {
+      "surface": "והדלת",
+      "gloss": "र ढोका"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बन्द गर्‍यो"
+    },
+    {
+      "surface": "אחריו",
+      "gloss": "आफूपछि"
+    }
+  ],
+  "timestamp": "2026-08-26T19:47:25.612289551Z",
+  "model": "glm-5.3"
+}

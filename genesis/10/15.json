@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 10:15",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र कनानले ⟨את⟩ आफ्नो जेठो सिदोनलाई र ⟨את⟩ खेतलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "וכנען",
+      "gloss": "र कनानले"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सिदोनलाई"
+    },
+    {
+      "surface": "צידן",
+      "gloss": "सिदोन"
+    },
+    {
+      "surface": "בכרו",
+      "gloss": "आफ्नो जेठो"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "खेतलाई"
+    },
+    {
+      "surface": "חת",
+      "gloss": "खेत"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:09.088031898Z",
+  "model": "glm-5.3"
+}

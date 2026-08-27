@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 8:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "म ⟨बुझाउँछु⟩ — राजाको आज्ञा राख्नु, र एलोहीमको सपथको ⟨निम्ति⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "פי",
+      "gloss": "आज्ञा (मुख)"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "राख्नु"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "דברת",
+      "gloss": "निम्ति"
+    },
+    {
+      "surface": "שבועת",
+      "gloss": "सपथको"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:19:12.138185582Z",
+  "model": "glm-5.3"
+}

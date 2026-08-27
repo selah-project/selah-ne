@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "lamentations 5:17",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "यसको कारण हाम्रो हृदय बिरामी भयो; यी कुराहरूको कारण हाम्रा आँखाहरू अाँध्यारा भए।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "यसको कारण"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דוה",
+      "gloss": "बिरामी"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हाम्रो हृदय"
+    },
+    {
+      "surface": "על",
+      "gloss": "यी कुराहरूको कारण"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "חשכו",
+      "gloss": "अाँध्यारा भए"
+    },
+    {
+      "surface": "עינינו",
+      "gloss": "हाम्रा आँखाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T02:18:43.013142387Z",
+  "model": "glm-5.3"
+}

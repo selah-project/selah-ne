@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 32:36",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र बेत-निम्राह ⟨את⟩ र बेत-हारान ⟨את⟩ — गढी सहरहरू, र भेडाका बारहरू।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "बेत-निम्राह"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "נמרה",
+      "gloss": "निम्राह"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "बेत-हारान"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "हारान"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "सहरहरू"
+    },
+    {
+      "surface": "מבצר",
+      "gloss": "गढी"
+    },
+    {
+      "surface": "וגדרת",
+      "gloss": "र बारहरू"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "भेडाका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:42.413440795Z",
+  "model": "glm-5.3"
+}

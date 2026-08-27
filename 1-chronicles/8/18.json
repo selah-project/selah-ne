@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 8:18",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र यिश्मेराइ, र यिज़्लिआह, र योबाब — एल्पालका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "וישמרי",
+      "gloss": "र यिश्मेराइ"
+    },
+    {
+      "surface": "ויזליאה",
+      "gloss": "र यिज़्लिआह"
+    },
+    {
+      "surface": "ויובב",
+      "gloss": "र योबाब"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एल्पालका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:26.565762086Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 137:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 137,
+  "translation": "कसरी हामी यहवेको गीत गाउने अरूको भूमिमा?",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "נשיר",
+      "gloss": "गाउने"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गीत"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "אדמת",
+      "gloss": "भूमिमा"
+    },
+    {
+      "surface": "नכר",
+      "gloss": "अरूको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:16:38.110933346Z",
+  "model": "glm-5.3"
+}

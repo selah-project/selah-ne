@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "leviticus 13:38",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र जब कुनै मानिस वा स्त्रीको शरीरको छालामा सेता दागहरू — सेता उज्याला दागहरू ⟨हुनेछन्⟩ —",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "र कुनै मानिस"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछन्"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "छालामा"
+    },
+    {
+      "surface": "בשרם",
+      "gloss": "तिनीहरूको शरीरको"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "दागहरू"
+    },
+    {
+      "surface": "בהרת",
+      "gloss": "दागहरू"
+    },
+    {
+      "surface": "לבנת",
+      "gloss": "सेता"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:10.256922965Z",
+  "model": "glm-5.3"
+}

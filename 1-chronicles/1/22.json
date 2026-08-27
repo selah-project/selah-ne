@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 1:22",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र ⟨את⟩ एवल, र ⟨את⟩ अविमाएल, र ⟨את⟩ शेवा।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "एवल"
+    },
+    {
+      "surface": "עיבל",
+      "gloss": "एवल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "अविमाएल"
+    },
+    {
+      "surface": "אבימאל",
+      "gloss": "अविमाएल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "शेवा"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेवा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:13.072539852Z",
+  "model": "glm-5.3"
+}

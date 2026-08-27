@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 66:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 66,
+  "translation": "उहाँको नामको काभोद गाएर बजाऊ; उहाँको स्तुतिलाई काभोद देऊ।",
+  "tokens": [
+    {
+      "surface": "זמרו",
+      "gloss": "गाएर बजाऊ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "काभोद"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उहाँको नामको"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "काभोद"
+    },
+    {
+      "surface": "תהלתו",
+      "gloss": "उहाँको स्तुतिलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:00:45.906086629Z",
+  "model": "glm-5.3"
+}

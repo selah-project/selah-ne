@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "psalms 50:10",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "किनकि मेरो हो वनको सबै जनावर, चौपाया — हजार डाँडाहरूका।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो हो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जनावर"
+    },
+    {
+      "surface": "יער",
+      "gloss": "वनको"
+    },
+    {
+      "surface": "בהמות",
+      "gloss": "चौपाया"
+    },
+    {
+      "surface": "בהררי",
+      "gloss": "डाँडाहरूका"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:17.597205717Z",
+  "model": "glm-5.3"
+}

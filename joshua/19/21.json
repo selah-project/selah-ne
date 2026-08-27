@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "joshua 19:21",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र रेमेथ, र एन-गन्निम, र एन-खद्दाह, र बेथ-पत्सेत्स।",
+  "tokens": [
+    {
+      "surface": "ורמת",
+      "gloss": "र रेमेथ"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "र एन"
+    },
+    {
+      "surface": "גנים",
+      "gloss": "गन्निम"
+    },
+    {
+      "surface": "ועין",
+      "gloss": "र एन"
+    },
+    {
+      "surface": "חדה",
+      "gloss": "खद्दाह"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "פצץ",
+      "gloss": "पत्सेत्स"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:41.082343925Z",
+  "model": "glm-5.3"
+}

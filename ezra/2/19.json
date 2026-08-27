@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "ezra 2:19",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "खाशुमका सन्तानहरू, दुई सय तेइस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरू"
+    },
+    {
+      "surface": "חשם",
+      "gloss": "खाशुमका"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "र तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:28.559063551Z",
+  "model": "glm-5.3"
+}

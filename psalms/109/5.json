@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 109:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 109,
+  "translation": "र तिनीहरूले ममाथि खराबी राखे असलको साटोमा, र घृणा मेरो प्रेमको साटोमा।",
+  "tokens": [
+    {
+      "surface": "וישימו",
+      "gloss": "र राखे"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "खराबी"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "साटोमा"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "असल"
+    },
+    {
+      "surface": "ושנאה",
+      "gloss": "र घृणा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "साटोमा"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "मेरो प्रेम"
+    }
+  ],
+  "timestamp": "2026-08-27T00:11:51.825536871Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 8:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "बुझ, हे भोलाहरू, चतुर्याइ; र हे मूर्खहरू, हृदय बुझ।",
+  "tokens": [
+    {
+      "surface": "הבינו",
+      "gloss": "बुझ"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "भोलाहरू"
+    },
+    {
+      "surface": "ערמה",
+      "gloss": "चतुर्याइ"
+    },
+    {
+      "surface": "וכסילים",
+      "gloss": "र मूर्खहरू"
+    },
+    {
+      "surface": "הבינו",
+      "gloss": "बुझ"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:50.647410599Z",
+  "model": "glm-5.3"
+}

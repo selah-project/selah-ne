@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 26:24",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "याशुबको ⟨कुल⟩ याशुबी कुल, शिम्रोनको ⟨कुल⟩ शिम्रोनी कुल।",
+  "tokens": [
+    {
+      "surface": "לישוב",
+      "gloss": "याशुबको"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "הישובי",
+      "gloss": "याशुबी"
+    },
+    {
+      "surface": "לשמרן",
+      "gloss": "शिम्रोनको"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "השמרני",
+      "gloss": "शिम्रोनी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:48.730222982Z",
+  "model": "glm-5.3"
+}

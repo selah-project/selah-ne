@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 6:1",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "लेवीका छोराहरू: गेरेशोम, केहात र मेरारी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवीका"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "र मेरारी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:42.193195549Z",
+  "model": "glm-5.3"
+}

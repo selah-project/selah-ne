@@ -1,0 +1,48 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 11:6",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "उनले ⟨את⟩ बेथ-लेखेम, ⟨את⟩ एताम र ⟨את⟩ तेकोआ बनाए।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेथ-लेखेम"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "एताम"
+    },
+    {
+      "surface": "עיטם",
+      "gloss": "एताम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "तेकोआ"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "तेकोआ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:26.044226391Z",
+  "model": "glm-5.3"
+}

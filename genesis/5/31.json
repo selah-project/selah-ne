@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 5:31",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "लेमेखका सम्पूर्ण दिनहरू सात सय अठहत्तर वर्ष भए, र उनको मृत्यु भयो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "למך",
+      "gloss": "लेमेखका"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ושבעים",
+      "gloss": "र अठहत्तर"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "र सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मृत्यु भयो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:34.967290753Z",
+  "model": "glm-5.3"
+}

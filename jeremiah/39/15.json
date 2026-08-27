@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 39:15",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 39,
+  "translation": "र यिर्मेयाहू पहराको चोकमा कैद हुँदा उहाँकहाँ यहवेको वचन भयो, भन्नुहुँदैः",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "र…कहाँ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मेयाहू"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בהיתו",
+      "gloss": "हुँदा"
+    },
+    {
+      "surface": "עצור",
+      "gloss": "कैद"
+    },
+    {
+      "surface": "בחצר",
+      "gloss": "चोकमा"
+    },
+    {
+      "surface": "המטרה",
+      "gloss": "पहराको"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:02:36.551617902Z",
+  "model": "glm-5.3"
+}

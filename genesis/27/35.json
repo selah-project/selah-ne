@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 27:35",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र उहाँले भन्नुभयो, तिम्रो भाइ छलले आयो, र तिम्रो आशीर्वाद लियो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तिम्रो भाइ"
+    },
+    {
+      "surface": "במרמה",
+      "gloss": "छलले"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "र लियो"
+    },
+    {
+      "surface": "ברכתך",
+      "gloss": "तिम्रो आशीर्वाद"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:18.025393019Z",
+  "model": "glm-5.3"
+}

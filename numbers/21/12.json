@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 21:12",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "त्यहाँबाट यात्रा गरे र ज़ेरेद खोँजमा डेरा ׬साए।",
+  "tokens": [
+    {
+      "surface": "משם",
+      "gloss": "त्यहाँबाट"
+    },
+    {
+      "surface": "נסעו",
+      "gloss": "यात्रा गरे"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "בנחל",
+      "gloss": "खोँजमा"
+    },
+    {
+      "surface": "זרד",
+      "gloss": "ज़ेरेद"
+    }
+  ],
+  "timestamp": "2026-08-26T20:46:14.437212698Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ecclesiastes 7:24",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "टाढा छ जे भएको थियो, र गहिरो, गहिरो — कसले त्यसलाई पत्ता लगाउन सक्छ?",
+  "tokens": [
+    {
+      "surface": "רחוק",
+      "gloss": "टाढा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "जे"
+    },
+    {
+      "surface": "שהיה",
+      "gloss": "भएको थियो"
+    },
+    {
+      "surface": "ועמק",
+      "gloss": "र गहिरो"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "गहिरो"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "ימצאनו",
+      "gloss": "त्यसलाई पत्ता लगाउँछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:14.430313767Z",
+  "model": "glm-5.3"
+}

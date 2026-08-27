@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 33:4",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र जनताले ⟨את⟩ त्यो ⟨the⟩ खराब वचन सुन्यो, र ⟨they⟩ शोक गरे, र कुनै मानिसले ⟨the⟩ आफ्ना गहनाहरू आफूमा लगाएन।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुन्यो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "त्यो खराब वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ויתאבלו",
+      "gloss": "शोक गरे"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र ... छैन"
+    },
+    {
+      "surface": "שתו",
+      "gloss": "लगायो"
+    },
+    {
+      "surface": "איש",
+      "gloss": "कुनै मानिस"
+    },
+    {
+      "surface": "עדיו",
+      "gloss": "आफ्ना गहनाहरू"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "आफूमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:18:43.235650255Z",
+  "model": "glm-5.3"
+}

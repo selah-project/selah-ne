@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 45:2",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 45,
+  "translation": "यसो भन्नुहुन्छ यहवे, इस्राएलका एलोहीम, तिमीलाई लिई, हे बारूख।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुहुन्छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तिमीलाई लिई"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "बारूख"
+    }
+  ],
+  "timestamp": "2026-08-26T23:05:21.276136477Z",
+  "model": "glm-5.3"
+}

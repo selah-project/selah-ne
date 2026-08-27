@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "lamentations 3:4",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उहाँले मेरो शरीर र मेरो छाला क्षय गर्नुभयो; मेरा हड्डीहरू भाँच्नुभयो।",
+  "tokens": [
+    {
+      "surface": "בלה",
+      "gloss": "क्षय गर्नुभयो"
+    },
+    {
+      "surface": "בשרי",
+      "gloss": "मेरो शरीर"
+    },
+    {
+      "surface": "ועורי",
+      "gloss": "र मेरो छाला"
+    },
+    {
+      "surface": "שבר",
+      "gloss": "भाँच्नुभयो"
+    },
+    {
+      "surface": "עצמותי",
+      "gloss": "मेरा हड्डीहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:28.185709307Z",
+  "model": "glm-5.3"
+}

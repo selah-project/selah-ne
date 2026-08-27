@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "nehemiah 7:42",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "खारिमका छोराहरू — एक हजार सत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "खारिमका"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-सत्र"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:52.171462541Z",
+  "model": "glm-5.3"
+}

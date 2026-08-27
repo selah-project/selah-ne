@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "joshua 19:7",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "अयिन, रिम्मोन, र एतेर, र अशान — चार नगर र तिनका गाउँहरू।",
+  "tokens": [
+    {
+      "surface": "עין",
+      "gloss": "अयिन"
+    },
+    {
+      "surface": "רמון",
+      "gloss": "रिम्मोन"
+    },
+    {
+      "surface": "ועתר",
+      "gloss": "र एतेर"
+    },
+    {
+      "surface": "ועשן",
+      "gloss": "र अशान"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "र तिनका गाउँहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:07.094853340Z",
+  "model": "glm-5.3"
+}

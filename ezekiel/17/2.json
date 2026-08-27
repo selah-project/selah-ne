@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 17:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "मानिसका सन्तान, एउटा गुती पोस र एउटा दृष्टान्त भन् इस्राएलको घरलाई।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसका"
+    },
+    {
+      "surface": "חוד",
+      "gloss": "पोस"
+    },
+    {
+      "surface": "חידה",
+      "gloss": "गुती"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "र दृष्टान्त"
+    },
+    {
+      "surface": "משל",
+      "gloss": "भन्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरको"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:15:58.129815992Z",
+  "model": "glm-5.3"
+}

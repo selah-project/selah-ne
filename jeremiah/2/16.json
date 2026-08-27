@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "jeremiah 2:16",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "पनि नोफ र तख्पन्हेसका छोराहरू तिम्रो शिरको टाकुरा चराउँछन्।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "נף",
+      "gloss": "नोफ"
+    },
+    {
+      "surface": "ותחפנס",
+      "gloss": "र तख्पन्हेस"
+    },
+    {
+      "surface": "ירעוך",
+      "gloss": "तिम्रो … चराउँछन्"
+    },
+    {
+      "surface": "קדקד",
+      "gloss": "शिरको टाकुरा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:45:21.610179215Z",
+  "model": "glm-5.3"
+}

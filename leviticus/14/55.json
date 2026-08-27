@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "leviticus 14:55",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र लुगाको चर्मरोगका निम्ति, र घरका निम्ति।",
+  "tokens": [
+    {
+      "surface": "ולצרעת",
+      "gloss": "र चर्मरोगका निम्ति"
+    },
+    {
+      "surface": "הבגד",
+      "gloss": "लुगा"
+    },
+    {
+      "surface": "ולבית",
+      "gloss": "र घरका निम्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:36.260062982Z",
+  "model": "glm-5.3"
+}

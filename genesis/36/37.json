@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 36:37",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "शम्लाह मरे, र उनको सट्टामा नदीको रेखोबोतका शाउलले राज्य गरे।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "שמלה",
+      "gloss": "शम्लाह"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राज्य गरे"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उनको सट्टामा"
+    },
+    {
+      "surface": "शאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "מרחבות",
+      "gloss": "रेखोबोत"
+    },
+    {
+      "surface": "הנהर",
+      "gloss": "नदीको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:56:15.815744224Z",
+  "model": "glm-5.3"
+}

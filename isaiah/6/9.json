@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 6:9",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "अनि ⟨उहाँले⟩ भन्नुभयो, जा र यस कोलालाई भन: सुनिरह, तर नबुझ; हेरिरह, तर नचिनाउ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "अनि भन्नुभयो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जा"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "र भन"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "कोलालाई"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुनिरह"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "सुनिरह"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "तर न"
+    },
+    {
+      "surface": "תבינו",
+      "gloss": "बुझ"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "हेरिरह"
+    },
+    {
+      "surface": "ראו",
+      "gloss": "हेरिरह"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "तर न"
+    },
+    {
+      "surface": "תדעו",
+      "gloss": "चिनाउ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:25:10.799693661Z",
+  "model": "glm-5.3"
+}

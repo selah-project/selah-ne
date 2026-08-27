@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "jeremiah 30:22",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "तिमीहरू मका जनता हुनेछौ, र म तिमीहरूका एलोहीम हुनेछु।",
+  "tokens": [
+    {
+      "surface": "והייתם",
+      "gloss": "हुनेछौ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मका"
+    },
+    {
+      "surface": "לעם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "र म"
+    },
+    {
+      "surface": "אהיה",
+      "gloss": "हुनेछु"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका"
+    },
+    {
+      "surface": "לאלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-26T22:58:05.032731276Z",
+  "model": "glm-5.3"
+}

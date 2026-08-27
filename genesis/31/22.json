@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 31:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र तेस्रो दिनमा लबानलाई भनियो कि याकोभ भागेको छ।",
+  "tokens": [
+    {
+      "surface": "ויגד",
+      "gloss": "भनियो"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "लबानलाई"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "ברח",
+      "gloss": "भागेको छ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:53:14.267129903Z",
+  "model": "glm-5.3"
+}

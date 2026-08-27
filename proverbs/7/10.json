@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 7:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र हेर, एक स्त्री उसको सामु आई; वेश्याको पोशाक ⟨पहिरेको⟩, र मनले छली।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "לקראתו",
+      "gloss": "उसको सामु"
+    },
+    {
+      "surface": "שית",
+      "gloss": "पोशाक"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्याको"
+    },
+    {
+      "surface": "ונצרת",
+      "gloss": "र छली"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मनले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:49.918890316Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "proverbs 6:33",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "चोट र अपमान उसले पाउँछ, र उसको निन्दा मेटिने छैन।",
+  "tokens": [
+    {
+      "surface": "נגע",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "र अपमान"
+    },
+    {
+      "surface": "ימצא",
+      "gloss": "उसले पाउँछ"
+    },
+    {
+      "surface": "וחרפתו",
+      "gloss": "र उसको निन्दा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תמחה",
+      "gloss": "मेटिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T02:17:15.587350927Z",
+  "model": "glm-5.3"
+}

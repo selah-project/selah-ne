@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 21:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र अभ्राहामले ⟨את⟩ सात कोख्रा चौरीहरू छुट्टै राखे।",
+  "tokens": [
+    {
+      "surface": "ויצב",
+      "gloss": "र ... राखे"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहामले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सात कोख्रा चौरीहरू"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "כבשת",
+      "gloss": "कोख्रा चौरीहरू"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "हाँडीको"
+    },
+    {
+      "surface": "לבדהן",
+      "gloss": "छुट्टै"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:21.561445720Z",
+  "model": "glm-5.3"
+}

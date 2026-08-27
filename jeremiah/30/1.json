@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 30:1",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "यो ⟨the⟩ वचन जुन यिर्मियाहुकहाँ यहवेको ⟨את⟩-तर्फबाट आयो, भन्नको लागि ⟨to say⟩।",
+  "tokens": [
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "यिर्मियाहु"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-तर्फबाट",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T22:57:16.316315017Z",
+  "model": "glm-5.3"
+}

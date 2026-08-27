@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 2:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र यहवेले मोशे र अहरोनलाई भन्नुभयो ⟨कि⟩ तिमीहरू यो भन्नु:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नु ⟨कि⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T20:36:04.154376578Z",
+  "model": "glm-5.3"
+}

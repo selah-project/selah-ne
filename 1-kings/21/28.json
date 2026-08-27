@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 21:28",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र यहवेको वचन एलियाहू हतिश्बीकहाँ भयो, भन्दैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहू"
+    },
+    {
+      "surface": "התשבי",
+      "gloss": "हतिश्बीक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T22:08:31.639745427Z",
+  "model": "glm-5.3"
+}

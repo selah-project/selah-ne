@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-kings 7:37",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यसरी उनले ⟨את⟩ दश आधारहरू बनाए — एउटै ढलाई, एउटै नाप, एउटै आकार ती सबैका लागि।",
+  "tokens": [
+    {
+      "surface": "כזאת",
+      "gloss": "यसरी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दश आधारहरू"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दश"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "आधारहरू"
+    },
+    {
+      "surface": "מוצק",
+      "gloss": "ढलाई"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "नाप"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "קצב",
+      "gloss": "आकार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "לכלהנה",
+      "gloss": "ती सबैका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T22:00:24.341616701Z",
+  "model": "glm-5.3"
+}

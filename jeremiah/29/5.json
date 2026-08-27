@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "jeremiah 29:5",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "घरहरू बनाउ र बस; र बगैंचाहरू रोप र ⟨את⟩ तिनका फल खाऊ।",
+  "tokens": [
+    {
+      "surface": "בנו",
+      "gloss": "बनाउ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घरहरू"
+    },
+    {
+      "surface": "ושבו",
+      "gloss": "र बस"
+    },
+    {
+      "surface": "ונטעו",
+      "gloss": "र रोप"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बगैंचाहरू"
+    },
+    {
+      "surface": "ואכלו",
+      "gloss": "र खाऊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तिनका फल"
+    },
+    {
+      "surface": "פרין",
+      "gloss": "तिनका फल"
+    }
+  ],
+  "timestamp": "2026-08-26T22:57:38.625869018Z",
+  "model": "glm-5.3"
+}

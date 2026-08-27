@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 8:20",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र एलिएनाइ, र ज़िल्लेताइ, र एलिएल।",
+  "tokens": [
+    {
+      "surface": "ואליעני",
+      "gloss": "र एलिएनाइ"
+    },
+    {
+      "surface": "וצלתי",
+      "gloss": "र ज़िल्लेताइ"
+    },
+    {
+      "surface": "ואליאל",
+      "gloss": "र एलिएल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:26.565983759Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-chronicles 30:23",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र सबै सभाले अरू सात दिन मनाउन सल्लाह गर्‍यो, र उनीहरूले आनन्दका साथ सात दिन मनाए।",
+  "tokens": [
+    {
+      "surface": "ויועצו",
+      "gloss": "सल्लाह गर्‍यो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभाले"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "मनाउन"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अरू"
+    },
+    {
+      "surface": "ויעשו",
+      "gloss": "मनाए"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनन्दका साथ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:46:05.583218957Z",
+  "model": "glm-5.3"
+}

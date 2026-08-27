@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 15:12",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र माटोको भाँडो जसलाई स्राववाला छुँछ, त्यो फुटाइनेछ; र काठको हरेक भाँडो पानीमा धुइनेछ।",
+  "tokens": [
+    {
+      "surface": "וכלי",
+      "gloss": "र भाँडो"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "माटोको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसलाई"
+    },
+    {
+      "surface": "יגע",
+      "gloss": "छुँछ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "הזב",
+      "gloss": "स्राववाला"
+    },
+    {
+      "surface": "ישבר",
+      "gloss": "फुटाइनेछ"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र हरेक"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भाँडो"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "काठको"
+    },
+    {
+      "surface": "ישטף",
+      "gloss": "धुइनेछ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानीमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:33.154832838Z",
+  "model": "glm-5.3"
+}

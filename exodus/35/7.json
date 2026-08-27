@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 35:7",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "र रातो ⟨the⟩ रङमा रङाइएका भालेका छाला, र तखशका छाला, र शित्तिमका काठ।",
+  "tokens": [
+    {
+      "surface": "וערת",
+      "gloss": "छाला"
+    },
+    {
+      "surface": "אילם",
+      "gloss": "भालेका"
+    },
+    {
+      "surface": "מאדמים",
+      "gloss": "रातो रङमा रङाइएका"
+    },
+    {
+      "surface": "וערת",
+      "gloss": "छाला"
+    },
+    {
+      "surface": "תחשים",
+      "gloss": "तखशका"
+    },
+    {
+      "surface": "ועצי",
+      "gloss": "काठ"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्तिमका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:19:04.828187064Z",
+  "model": "glm-5.3"
+}

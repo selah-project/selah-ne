@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 12:1",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र यहवेले मोशेलाई र अहारोनलाई मिस्रयम-देशमा यी वचन भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र...भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र...लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रयम"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यी वचन भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:08:13.603634276Z",
+  "model": "glm-5.3"
+}

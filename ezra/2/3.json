@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 2:3",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "परोशका छोराहरू, दुई हजार एक सय बहत्तर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "परोशका"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दुई हजार"
+    },
+    {
+      "surface": "मאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तर"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:59.757695859Z",
+  "model": "glm-5.3"
+}

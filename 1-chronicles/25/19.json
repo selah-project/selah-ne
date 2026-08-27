@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 25:19",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "बाह्रौँ हशब्याहका छोराहरू र उनका भाइहरू — बाह्र जना।",
+  "tokens": [
+    {
+      "surface": "השנים",
+      "gloss": "बाह्रौँ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לחשביה",
+      "gloss": "हशब्याहलाई"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उनका छोराहरू"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उनका भाइहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्र"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "जना"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:28.272216329Z",
+  "model": "glm-5.3"
+}

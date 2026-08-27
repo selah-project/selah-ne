@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 20:1",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "अनि यहवेले मोशेलाई यी शब्दहरू बोल्नुभयो —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्न"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:20.134528225Z",
+  "model": "glm-5.3"
+}

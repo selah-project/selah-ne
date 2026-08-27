@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 33:6",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "रूबेन जिउन् र नमर्दैन्, र ⟨उसका⟩ जनहरू गन्न सकिने ⟨सङ्ख्यामा⟩ रहोस्।",
+  "tokens": [
+    {
+      "surface": "יחי",
+      "gloss": "जिउन्"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रूबेन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र न"
+    },
+    {
+      "surface": "ימת",
+      "gloss": "मर्दैन्"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र रहोस्"
+    },
+    {
+      "surface": "מתיו",
+      "gloss": "उसका जनहरू"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "सङ्ख्यामा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:08:54.443116303Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 40:10",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "अब कृपया गर्व र उच्चता धारण गर, र महिमा तथा भव्यता लगाऊ।",
+  "tokens": [
+    {
+      "surface": "עדה",
+      "gloss": "धारण गर"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अब कृपया"
+    },
+    {
+      "surface": "גאון",
+      "gloss": "गर्व"
+    },
+    {
+      "surface": "וגבה",
+      "gloss": "र उच्चता"
+    },
+    {
+      "surface": "והוד",
+      "gloss": "र महिमा"
+    },
+    {
+      "surface": "והדר",
+      "gloss": "तथा भव्यता"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "लगाऊ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:03.925869255Z",
+  "model": "glm-5.3"
+}

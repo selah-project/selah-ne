@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "numbers 26:56",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "गोरलको मुखअनुसार उसको निर्वास बाँडिनेछ — धेरै र थोरै बीचमा।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "अनुसार"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "הגורל",
+      "gloss": "गोरलको"
+    },
+    {
+      "surface": "תחלק",
+      "gloss": "बाँडिनेछ"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "उसको निर्वास"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "רב",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "למעט",
+      "gloss": "र थोरै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:29.335053080Z",
+  "model": "glm-5.3"
+}

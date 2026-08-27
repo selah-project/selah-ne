@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 14:11",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र यहवेले मलाई भन्नुभयो: यस जनताका लागि भलाको निम्ति बिन्ती नगर्।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתפלל",
+      "gloss": "बिन्ती नगर्"
+    },
+    {
+      "surface": "בעד",
+      "gloss": "का लागि"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताका"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "לטובה",
+      "gloss": "भलाको निम्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T22:51:00.256905854Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "joshua 15:51",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र गोशेन, र खोलोन, र गिलोह — एघार ⟨सहरहरू⟩ र तिनका गाउँहरू।",
+  "tokens": [
+    {
+      "surface": "וגשן",
+      "gloss": "र गोशेन"
+    },
+    {
+      "surface": "וחלן",
+      "gloss": "र खोलोन"
+    },
+    {
+      "surface": "וגלה",
+      "gloss": "र गिलोह"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "सहरहरू"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एघार ⟨सहरहरू⟩"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "וחצריהן",
+      "gloss": "र तिनका गाउँहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:17.596071210Z",
+  "model": "glm-5.3"
+}

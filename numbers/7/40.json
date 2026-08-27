@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "numbers 7:40",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एक बोकाको बच्चा, पाप-बलिका लागि।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोकाको बच्चा"
+    },
+    {
+      "surface": "עזिझ",
+      "gloss": ""
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:51.748239022Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "isaiah 37:37",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "तब सानखेरिव, अश्शूरको राजा, उठेर हिँडे, गए, फर्के र निनवेमा बसे।",
+  "tokens": [
+    {
+      "surface": "ויסע",
+      "gloss": "उठेर हिँडे"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गए"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "फर्के"
+    },
+    {
+      "surface": "סנחריב",
+      "gloss": "सानखेरिव"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "וישב",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "בנינוה",
+      "gloss": "निनवेमा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:34:30.264932162Z",
+  "model": "glm-5.3"
+}

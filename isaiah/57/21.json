@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "isaiah 57:21",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 57,
+  "translation": "शान्ति छैन, मेरा एलोहीमले दुष्टहरूलाई भन्नुभयो।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "मेरा एलोहीम"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "दुष्टहरूलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T22:41:12.240972461Z",
+  "model": "glm-5.3"
+}

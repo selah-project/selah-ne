@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-samuel 1:8",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र उहाँले मलाई सोध्नुभयो, तिमी को हौ? र मैले उहाँलाई भनेँ, म अमालेकी हुँ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र उहाँले भन्नुभयो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र मैले भनेँ"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उहाँलाई"
+    },
+    {
+      "surface": "עמלקי",
+      "gloss": "अमालेकी"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    }
+  ],
+  "timestamp": "2026-08-27T01:58:35.244120627Z",
+  "model": "glm-5.3"
+}

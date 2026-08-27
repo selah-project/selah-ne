@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 5:11",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "मजदुरको निन्द्रा गुलियो हुन्छ, ऊ थोरै खाए पनि धेरै खाए पनि; तर धनीको तृप्तिले ऊ निदाउन दिँदैन।",
+  "tokens": [
+    {
+      "surface": "מתוקה",
+      "gloss": "गुलियो"
+    },
+    {
+      "surface": "שנת",
+      "gloss": "निन्द्रा"
+    },
+    {
+      "surface": "העבד",
+      "gloss": "मजदुरको"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "מעט",
+      "gloss": "थोरै"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ऊ खानेछ"
+    },
+    {
+      "surface": "והשבע",
+      "gloss": "तर तृप्तिले"
+    },
+    {
+      "surface": "לעשיר",
+      "gloss": "धनीको"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "מניח",
+      "gloss": "दिँदैन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "לישון",
+      "gloss": "निदाउन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:36.543710645Z",
+  "model": "glm-5.3"
+}

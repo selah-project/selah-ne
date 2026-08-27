@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "numbers 4:48",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र तिनीहरूका गनिएकाहरू आठ हजार र पाँच सय र असी भए।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "र भए"
+    },
+    {
+      "surface": "פקדיהם",
+      "gloss": "तिनीहरूका गनिएकाहरू"
+    },
+    {
+      "surface": "שמנת",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "र असी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:37:50.416226512Z",
+  "model": "glm-5.3"
+}

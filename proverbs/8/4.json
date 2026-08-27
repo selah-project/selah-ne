@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 8:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "तिमीहरूकहाँ, हे मानिसहरू, म बोलाउँछु; र मेरो स्वर मानव सन्तानतर्फ ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "אליכם",
+      "gloss": "तिमीहरूकहाँ"
+    },
+    {
+      "surface": "אישים",
+      "gloss": "हे मानिसहरू"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "म बोलाउँछु"
+    },
+    {
+      "surface": "וקולי",
+      "gloss": "र मेरो स्वर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानव"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:14.992244459Z",
+  "model": "glm-5.3"
+}

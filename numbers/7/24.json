@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "numbers 7:24",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "तेस्रो दिनमा जेबुलुनका छोराहरूको नायक — एलिआभ, छोरा खेलोनको।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "नשיא",
+      "gloss": "नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबुलुन"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआभ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "हेलोन",
+      "gloss": "खेलोन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:54.177025166Z",
+  "model": "glm-5.3"
+}

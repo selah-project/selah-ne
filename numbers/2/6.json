@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 2:6",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र उसको सेना र त्यसमा गनिएकाहरू — चार लाख… अर्थात् चार र पचास हजार र चार सय।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "र उसको सेना"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "र गनिएकाहरू"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "र पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "र चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:36:13.191653202Z",
+  "model": "glm-5.3"
+}

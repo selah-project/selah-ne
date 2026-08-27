@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 24:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "त्यो केटी दौडियो र यी कुराहरू आफ्नी आमाको घरमा गएर भनी।",
+  "tokens": [
+    {
+      "surface": "ותרץ",
+      "gloss": "दौडियो"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "त्यो केटी"
+    },
+    {
+      "surface": "ותגד",
+      "gloss": "भनी"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "आफ्नी आमाको"
+    },
+    {
+      "surface": "כדברים",
+      "gloss": "यी कुराहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:35.379773410Z",
+  "model": "glm-5.3"
+}

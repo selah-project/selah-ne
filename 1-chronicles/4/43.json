@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 4:43",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र ⟨את⟩ बाँची बचाएकाहरूको शेष अर्थात् अमालेकको, लाई प्रहार गरे, र यो दिनसम्म त्यहाँ बसे।",
+  "tokens": [
+    {
+      "surface": "ויכו",
+      "gloss": "र प्रहार गरे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेष"
+    },
+    {
+      "surface": "שארית",
+      "gloss": "शेष"
+    },
+    {
+      "surface": "הפלטה",
+      "gloss": "बाँची बचाएकाहरूको"
+    },
+    {
+      "surface": "לעמלק",
+      "gloss": "अमालेकको"
+    },
+    {
+      "surface": "וישבו",
+      "gloss": "र बसे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "यो दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:43.576020999Z",
+  "model": "glm-5.3"
+}

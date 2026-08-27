@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 11:15",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "⟨את⟩ सबै कागहरू — तिनका प्रकारअनुसार।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै कागहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "काग"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "तिनका प्रकारअनुसार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:58.344720445Z",
+  "model": "glm-5.3"
+}

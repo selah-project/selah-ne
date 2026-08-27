@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "ezra 2:35",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "सेनाआका छोराहरू — तीन हजार छ सय तीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "סנאה",
+      "gloss": "सेनाआ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "र छ"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "र तीस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:53.095897271Z",
+  "model": "glm-5.3"
+}

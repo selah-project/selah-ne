@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jonah 3:2",
+  "book": "jonah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उठ, जाऊ निनवेकहाँ — त्यो ठूलो सहर — र त्यसमा ⟨את⟩ ⟨the⟩ घोषणा गर जुन म तिमीलाई बोल्दछु।",
+  "tokens": [
+    {
+      "surface": "קום",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवे"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "त्यो सहर"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "וקרא",
+      "gloss": "र घोषणा गर"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घोषणा"
+    },
+    {
+      "surface": "הקריאה",
+      "gloss": "घोषणा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्दछु"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T23:39:52.425209274Z",
+  "model": "glm-5.3"
+}

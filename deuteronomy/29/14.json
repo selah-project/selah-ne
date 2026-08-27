@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 29:14",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "किनकि ⟨את⟩ जो आज हामीसँग यहाँ यहवे हाम्रा एलोहीमअगाडि उभिएका छन्, र ⟨את⟩ जो आज हामीसँग यहाँ छैनन्।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जो आज हामीसँग यहाँ छन्"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ישנו",
+      "gloss": "छन्"
+    },
+    {
+      "surface": "פה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हामीसँग"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "उभिएका"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हाम्रा एलोहीम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "जो आज हामीसँग यहाँ छैनन्"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "छैनन्"
+    },
+    {
+      "surface": "פה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हामीसँग"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:55.699501354Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 10:15",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "जनताका प्रमुखहरू: पारोश, पखत-मोआब, एलाम, जात्तु, बानी।",
+  "tokens": [
+    {
+      "surface": "ראשי",
+      "gloss": "प्रमुखहरू"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताका"
+    },
+    {
+      "surface": "פרעש",
+      "gloss": "पारोश"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "पखत"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "זתוא",
+      "gloss": "जात्तु"
+    },
+    {
+      "surface": "בני",
+      "gloss": "बानी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:08.799022005Z",
+  "model": "glm-5.3"
+}

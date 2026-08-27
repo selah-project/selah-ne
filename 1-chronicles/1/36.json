@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 1:36",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "एलिफाजका छोराहरू: तेमान, ओमार, त्सफि र गाताम, कनाज, तिम्ना र अमालेक।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिफाजका"
+    },
+    {
+      "surface": "תימן",
+      "gloss": "तेमान"
+    },
+    {
+      "surface": "ואומר",
+      "gloss": "र ओमार"
+    },
+    {
+      "surface": "צפי",
+      "gloss": "त्सफि"
+    },
+    {
+      "surface": "וגעתם",
+      "gloss": "र गाताम"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "कनाज"
+    },
+    {
+      "surface": "ותמנע",
+      "gloss": "र तिम्ना"
+    },
+    {
+      "surface": "ועמלק",
+      "gloss": "र अमालेक"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:33.864661218Z",
+  "model": "glm-5.3"
+}

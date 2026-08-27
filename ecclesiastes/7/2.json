@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 7:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "शोकगृहमा जानु मन्दिराम् पिउने भवनमा जानुभन्दा राम्रो छ, किनकि त्यो सबै मानिसको अन्त्य हो, र जिउँदो मानिसले त्यसलाई ⟨आफ्नो⟩ मुटुमा राख्छ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो छ"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जानु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "אבל",
+      "gloss": "शोकको"
+    },
+    {
+      "surface": "מלכת",
+      "gloss": "जानुभन्दा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "बית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "भोजपानको"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "סוף",
+      "gloss": "अन्त्य"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "והחי",
+      "gloss": "र जिउँदो"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "राख्छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "मुटु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:07.683735246Z",
+  "model": "glm-5.3"
+}

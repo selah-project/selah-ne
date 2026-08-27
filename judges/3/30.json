@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 3:30",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र मोआब त्यस दिनमा इस्राएलको हातमुनि दबियो, र भूमि अस्सी वर्षसम्म शान्त भयो।",
+  "tokens": [
+    {
+      "surface": "ותכנע",
+      "gloss": "दबियो"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "मुनि"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलको"
+    },
+    {
+      "surface": "ותשקט",
+      "gloss": "शान्त भयो"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "שמונים",
+      "gloss": "अस्सी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-26T21:20:29.925395616Z",
+  "model": "glm-5.3"
+}

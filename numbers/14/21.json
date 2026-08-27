@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 14:21",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तर म जीवित छु, र यहवेको महिमाले ⟨את⟩ सारा ⟨the⟩ पृथ्वी भरिनेछ।",
+  "tokens": [
+    {
+      "surface": "ואולם",
+      "gloss": "तर"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "וימלא",
+      "gloss": "भरिनेछ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सारा पृथ्वी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:42:44.674032215Z",
+  "model": "glm-5.3"
+}

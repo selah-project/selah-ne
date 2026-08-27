@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 19:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "वाणी छैन, र बोलीहरू छैनन् — तिनीहरूको स्वर सुनिँदैन।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "वाणी"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र छैनन्"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "बोलीहरू"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "—"
+    },
+    {
+      "surface": "נשमע",
+      "gloss": "सुनिँदैन"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "तिनीहरूको स्वर"
+    }
+  ],
+  "timestamp": "2026-08-26T23:51:59.990413165Z",
+  "model": "glm-5.3"
+}

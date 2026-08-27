@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "1-chronicles 1:42",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "एत्सेरका छोराहरू: बिलहान, र जावान, याकान; दिशोनका छोराहरू: उत्स र अरान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेरका"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिलहान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "र जावान"
+    },
+    {
+      "surface": "יעקן",
+      "gloss": "याकान"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोनका"
+    },
+    {
+      "surface": "עוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וארן",
+      "gloss": "र अरान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:44.225411080Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "leviticus 13:46",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "जति सबै दिन ⟨the⟩ घाउ उसमा छ, ऊ अशुद्ध रहनेछ; ऊ अशुद्ध ⟨is⟩; ऊ एक्लै बस्नेछ, छाउनी बाहिर उसको बास हुनेछ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जति"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "⟨the⟩ घाउ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसमा"
+    },
+    {
+      "surface": "יטמא",
+      "gloss": "अशुद्ध रहनेछ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "एक्लै"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बस्नेछ"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छाउनीको"
+    },
+    {
+      "surface": "מושבו",
+      "gloss": "उसको बास"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:45.217568822Z",
+  "model": "glm-5.3"
+}

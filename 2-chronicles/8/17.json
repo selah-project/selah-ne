@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 8:17",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "त्यसबेला शलोमोह एत्स्योन-गेभेर र एइलोत तिर गए — समुद्रको किनारमा, एदोमको भूमिमा।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "त्यसबेला"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "गए"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "לעציון",
+      "gloss": "एत्स्योन तिर"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "-गेभेर"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र … तिर"
+    },
+    {
+      "surface": "אילות",
+      "gloss": "एइलोत"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनार"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्रको"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "भूमिमा"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोमको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:30.706288637Z",
+  "model": "glm-5.3"
+}

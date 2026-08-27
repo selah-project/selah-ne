@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 25:12",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "पाँचौं नतन्याहू — उसका छोराहरू र उसका भाइहरू बाह्र जना।",
+  "tokens": [
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचौं"
+    },
+    {
+      "surface": "נתניהו",
+      "gloss": "नतन्याहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसका छोराहरू"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उसका भाइहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्र"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(जना)"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:17.804071254Z",
+  "model": "glm-5.3"
+}

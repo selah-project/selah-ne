@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 60:8",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 60,
+  "translation": "यी को हुन् — बादलझैँ उडिरहेका, र आफ्ना झ्यालीहरूतर्फ परेवाझैँ?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "כעב",
+      "gloss": "बादलझैँ"
+    },
+    {
+      "surface": "תעופינה",
+      "gloss": "उडिरहेका"
+    },
+    {
+      "surface": "וכיונים",
+      "gloss": "र परेवाझैँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "ארבתיהם",
+      "gloss": "आफ्ना झ्यालीहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T22:42:17.244355094Z",
+  "model": "glm-5.3"
+}

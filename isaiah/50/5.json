@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 50:5",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "अदोनाइ यहवेले मेरो कान खोल्नुभयो, र म ⟨is⟩ विद्रोही भइनँ; पछाडि ⟨I⟩ फर्किइनँ।",
+  "tokens": [
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "खोल्नुभयो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "र म"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "מריתי",
+      "gloss": "विद्रोही भइनँ"
+    },
+    {
+      "surface": "אחור",
+      "gloss": "पछाडि"
+    },
+    {
+      "surface": "लא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "נסוגתי",
+      "gloss": "फर्किइनँ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:40:11.443610474Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 12:13",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "आफैलाई सावधान राख, कि नत चढाऊँ आफ्ना चरब-बलिहरू हरेक ठाउँमा जुन तँ देख्छस्।",
+  "tokens": [
+    {
+      "surface": "השמר",
+      "gloss": "सावधान राख"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफैलाई"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कि नत"
+    },
+    {
+      "surface": "תעלה",
+      "gloss": "चढाऊँ"
+    },
+    {
+      "surface": "עלתיך",
+      "gloss": "आफ्ना चरब-बलिहरू"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाउँमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "तँ देख्छस्"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:26.043519777Z",
+  "model": "glm-5.3"
+}

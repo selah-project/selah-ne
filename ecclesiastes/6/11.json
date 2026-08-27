@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ecclesiastes 6:11",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "किनकि धेरै कुराहरू छन् जसले हेवेल बढाउँछन् — आदमलाई के बढी ⟨हुन्छ⟩?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छन्"
+    },
+    {
+      "surface": "דברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "מרבים",
+      "gloss": "जसले बढाउँछन्"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेवेल"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "बढी"
+    },
+    {
+      "surface": "לאדם",
+      "gloss": "आदमलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:56.069035372Z",
+  "model": "glm-5.3"
+}

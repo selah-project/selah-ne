@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-kings 19:5",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "तब राजा खिज्कियाहका दासहरू यशैयाहकहाँ आए।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "दासहरू"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "חזקיהו",
+      "gloss": "खिज्कियाहका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशैयाह"
+    }
+  ],
+  "timestamp": "2026-08-26T22:18:50.631603611Z",
+  "model": "glm-5.3"
+}

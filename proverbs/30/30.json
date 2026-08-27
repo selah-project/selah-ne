@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 30:30",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "लिश — पशुहरूमा बलवान — जो कसैको अनुहारबाट पनि फर्कँदैन।",
+  "tokens": [
+    {
+      "surface": "ליש",
+      "gloss": "लिश"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान"
+    },
+    {
+      "surface": "בבהמה",
+      "gloss": "पशुहरूमा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फर्कँदैन"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…को अनुहारबाट"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कसैको पनि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:05.998846608Z",
+  "model": "glm-5.3"
+}

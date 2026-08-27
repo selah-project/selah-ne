@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "lamentations 3:40",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "हाम्रा बाटाहरू खोजौँ र जाँचौँ, र यहवेकहाँ फर्कौँ।",
+  "tokens": [
+    {
+      "surface": "נחפשה",
+      "gloss": "खोजौँ र जाँचौँ"
+    },
+    {
+      "surface": "דרכינו",
+      "gloss": "हाम्रा बाटाहरू"
+    },
+    {
+      "surface": "ונחקרה",
+      "gloss": "जाँचौँ"
+    },
+    {
+      "surface": "ונשובה",
+      "gloss": "र फर्कौँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:50.331199755Z",
+  "model": "glm-5.3"
+}

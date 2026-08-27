@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 4:13",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "काइनले यहवेसित भन्यो: मेरो अवराध मेटिनुभन्दा ठूलो छ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "קין",
+      "gloss": "काइनले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सित"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो छ"
+    },
+    {
+      "surface": "עוני",
+      "gloss": "मेरो अवराध"
+    },
+    {
+      "surface": "מנשא",
+      "gloss": "मेटिनुभन्दा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:05.779716202Z",
+  "model": "glm-5.3"
+}

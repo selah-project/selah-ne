@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 2:45",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "शम्माइका छोरा माओन थिए, र माओन बेथ-त्सुरका पिता थिए।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माइका"
+    },
+    {
+      "surface": "מעון",
+      "gloss": "माओन"
+    },
+    {
+      "surface": "ומעון",
+      "gloss": "र माओन"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेथ-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सुर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:18.435860697Z",
+  "model": "glm-5.3"
+}

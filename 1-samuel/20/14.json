@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 20:14",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र म अझ जीवित छुँदा मात्र होइन — यहवेको खेसेद मसित गर्नुहोस्, र म नमरौँ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "אם",
+      "gloss": "मात्र"
+    },
+    {
+      "surface": "עודני",
+      "gloss": "म अझ"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "गर्नुहोस्"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मसित"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "खेसेद"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "म नमरौँ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:39:55.064067705Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 7:17",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यी सबै वचनहरूअनुसार र यो सारा दर्शनअनुसार, त्यसै नातानले दाविदलाई बोल्यो।",
+  "tokens": [
+    {
+      "surface": "ככל",
+      "gloss": "अनुसार सबै"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "וככל",
+      "gloss": "र अनुसार सबै"
+    },
+    {
+      "surface": "החזיון",
+      "gloss": "दर्शन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसै"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्यो"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविद"
+    }
+  ],
+  "timestamp": "2026-08-26T21:47:07.485522853Z",
+  "model": "glm-5.3"
+}

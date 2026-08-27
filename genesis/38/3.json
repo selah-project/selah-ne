@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 38:3",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "र उनी गर्भवती भइन्, र एक छोरालाई जन्म दिइन्; र उसले ⟨את⟩ उसको नाम एर राख्यो।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भइन्"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दिइन्"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरालाई"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "राख्यो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसको नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसको नाम"
+    },
+    {
+      "surface": "ער",
+      "gloss": "एर"
+    }
+  ],
+  "timestamp": "2026-08-26T19:57:11.889558546Z",
+  "model": "glm-5.3"
+}

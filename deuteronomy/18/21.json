@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "deuteronomy 18:21",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र यदि तिमी आफ्नो मुटुमा भन्छौ, „यहवेले नबोल्नुभएको ⟨את⟩ ⟨सो⟩ कुरा हामी कसरी जान्नेछौँ?",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "תאמר",
+      "gloss": "तिमी भन्छौ"
+    },
+    {
+      "surface": "בלבבך",
+      "gloss": "आफ्नो मुटुमा"
+    },
+    {
+      "surface": "איכה",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "נדע",
+      "gloss": "हामी जान्नेछौँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कुरा"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨सो⟩ कुरा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोल्नुभएको"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:00:52.828712329Z",
+  "model": "glm-5.3"
+}

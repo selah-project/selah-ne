@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 46:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 46,
+  "translation": "यी राखेलका छोराहरू हुन्, जो याकोभलाई जन्मिएका थिए; सबै नेफेश चौध थिए।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राखेलका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्मिएका थिए"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोभलाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नेफेश"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चौध"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨चौधको अंश⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T20:01:22.677202862Z",
+  "model": "glm-5.3"
+}

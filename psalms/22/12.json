@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 22:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "मबाट टाढा नहुओस्, किनकि सङ्कट नजिक छ, किनकि सहायक कोही छैन।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תרחק",
+      "gloss": "टाढा नहुओस्"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मबाट"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "सङ्कट"
+    },
+    {
+      "surface": "קרובה",
+      "gloss": "नजिक छ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עוזר",
+      "gloss": "सहायक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:52:45.228359002Z",
+  "model": "glm-5.3"
+}

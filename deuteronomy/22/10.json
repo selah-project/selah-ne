@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 22:10",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "गाई र गधालाई एकसाथ जोत्नु होइन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תחרש",
+      "gloss": "जोत्नु"
+    },
+    {
+      "surface": "בשור",
+      "gloss": "गाईलाई"
+    },
+    {
+      "surface": "ובחמר",
+      "gloss": "र गधालाई"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकसाथ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:02:51.699114360Z",
+  "model": "glm-5.3"
+}

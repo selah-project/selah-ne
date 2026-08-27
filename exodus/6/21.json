@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 6:21",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "यित्सहारका छोराहरू कोरह, नेफेग र जिख्री थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहारका"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "नेफेग"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "जिख्री"
+    }
+  ],
+  "timestamp": "2026-08-26T20:05:00.273809073Z",
+  "model": "glm-5.3"
+}

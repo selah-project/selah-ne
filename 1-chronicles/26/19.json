@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 26:19",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "यी हुन् ⟨the⟩ ढोकाहरूका महलकहरू कोरहीका सन्तानहरूमा र मरारीका सन्तानहरूमा।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "מחלקות",
+      "gloss": "महलकहरू"
+    },
+    {
+      "surface": "השערים",
+      "gloss": "⟨the⟩ ढोकाहरूका"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "सन्तानहरूमा"
+    },
+    {
+      "surface": "הקרחי",
+      "gloss": "कोरहीका"
+    },
+    {
+      "surface": "ולבני",
+      "gloss": "र सन्तानहरूमा"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारीका"
+    }
+  ],
+  "timestamp": "2026-08-27T02:23:02.082597196Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "nehemiah 7:44",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "गायकहरू — आसाफका छोराहरू — एक सय चालीस र आठ।",
+  "tokens": [
+    {
+      "surface": "המשררים",
+      "gloss": "गायकहरू"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אסף",
+      "gloss": "आसाफका"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "ארबעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र आठ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:52.171815332Z",
+  "model": "glm-5.3"
+}

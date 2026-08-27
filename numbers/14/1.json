@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 14:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "अनि सम्पूर्ण मण्डलीले ⟨את⟩ आफ्नो स्वर उठाए, र त्यस रातमा मानिसहरू रुए।",
+  "tokens": [
+    {
+      "surface": "ותשא",
+      "gloss": "उठायो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "मण्डली"
+    },
+    {
+      "surface": "ויתנו",
+      "gloss": "दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो स्वर"
+    },
+    {
+      "surface": "קולם",
+      "gloss": "आफ्नो स्वर"
+    },
+    {
+      "surface": "ויבכו",
+      "gloss": "र रुए"
+    },
+    {
+      "surface": "העם",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रातमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    }
+  ],
+  "timestamp": "2026-08-26T20:42:01.096323108Z",
+  "model": "glm-5.3"
+}

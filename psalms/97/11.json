@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 97:11",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 97,
+  "translation": "प्रकाश ⟨the⟩ धर्मीका लागि छरिएको छ, र सरल-हृदयहरूका लागि आनन्द।",
+  "tokens": [
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "छरिएको छ"
+    },
+    {
+      "surface": "לצדיק",
+      "gloss": "धर्मीका लागि"
+    },
+    {
+      "surface": "ולישרי",
+      "gloss": "र सरलहरूका लागि"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "שמחה",
+      "gloss": "आनन्द"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:44.091569568Z",
+  "model": "glm-5.3"
+}

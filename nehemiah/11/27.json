@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "nehemiah 11:27",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र हत्सर-शूअलमा, र बेर-शेबामा र त्यसका गाउँहरूमा।",
+  "tokens": [
+    {
+      "surface": "ובחצר",
+      "gloss": "र हत्सर…मा"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "शूअलमा"
+    },
+    {
+      "surface": "ובבאר",
+      "gloss": "र बेर…मा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबामा"
+    },
+    {
+      "surface": "ובנתיה",
+      "gloss": "र त्यसका गाउँहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:40.679728658Z",
+  "model": "glm-5.3"
+}

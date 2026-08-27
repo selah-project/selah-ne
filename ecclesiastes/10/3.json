@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 10:3",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र जब मूर्ख ⟨मानिस⟩ बाटोमा हिँड्छ, उसको हृदय ⟨समझ⟩ कमी हुन्छ, र ऊ सबैलाई बताउँछ कि ऊ मूर्ख हो।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "र पनि"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "बाटोमा"
+    },
+    {
+      "surface": "כשהסכל",
+      "gloss": "जब मूर्ख"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "हिँड्छ"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "उसको हृदय"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "कमी हुन्छ"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "र ऊ भन्छ"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "सबैलाई"
+    },
+    {
+      "surface": "סכל",
+      "gloss": "मूर्ख"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ…हो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:16.194188621Z",
+  "model": "glm-5.3"
+}

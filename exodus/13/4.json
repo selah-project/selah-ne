@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 13:4",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "आज तिमीहरू निस्कन्छौ, अबीभ महिनामा।",
+  "tokens": [
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तिमीहरू"
+    },
+    {
+      "surface": "יצאים",
+      "gloss": "निस्कन्छौ"
+    },
+    {
+      "surface": "בחדש",
+      "gloss": "महिनामा"
+    },
+    {
+      "surface": "האביב",
+      "gloss": "अबीभ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:08:35.144200958Z",
+  "model": "glm-5.3"
+}

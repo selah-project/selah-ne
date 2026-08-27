@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 55,
+  "ref": "lamentations 3:55",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "मैले तिम्रो नाउँलाई, हे यहवे, तल्लो गहिराइबाट बोलाएँ।",
+  "tokens": [
+    {
+      "surface": "קראתי",
+      "gloss": "मैले बोलाएँ"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तिम्रो नाउँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מבור",
+      "gloss": "गहिराइबाट"
+    },
+    {
+      "surface": "תחתיות",
+      "gloss": "तल्लो भागहरूबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:26.791339489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 30:28",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "घरेलु छेपारो हातले समात्न सकिन्छ, तर ऊ राजाका भवनहरूमा हुन्छ।",
+  "tokens": [
+    {
+      "surface": "שממית",
+      "gloss": "घरेलु छेपारो"
+    },
+    {
+      "surface": "בידים",
+      "gloss": "हातले"
+    },
+    {
+      "surface": "תתפש",
+      "gloss": "समात्न सकिन्छ"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "तर ऊ"
+    },
+    {
+      "surface": "בהיכלי",
+      "gloss": "भवनहरूमा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:01.608555618Z",
+  "model": "glm-5.3"
+}

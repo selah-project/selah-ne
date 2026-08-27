@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "numbers 1:31",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तिनीहरूका गनिएकाहरू ज़बुलूनको ⟨the⟩ कुलका लागि सात र पचास हजार र चार सय थिए।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "तिनीहरूका गनिएकाहरू"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "कुलका लागि"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "ज़बुलून"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "וחमשים",
+      "gloss": "र पचास"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וארבע",
+      "gloss": "र चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:54.492819137Z",
+  "model": "glm-5.3"
+}

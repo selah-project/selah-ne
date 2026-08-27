@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "leviticus 22:30",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "त्यही दिनै त्यो खाइनेछ; बिहानसम्म त्यसको केही बाँकी राख्नेछैनौ; म यहवे हुँ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "त्यही दिनै"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाइनेछ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תותירו",
+      "gloss": "बाँकी राख्नेछैनौ"
+    },
+    {
+      "surface": "ממנו",
+      "gloss": "त्यसको केही"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:32:12.206580806Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 19:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "संगीत-निर्देशकका लागि, दाविदको मिजमोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशकका लागि"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविदको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:51:59.989800877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 21:14",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र यहवेले यिसराएलमा महामारी पठाउनुभयो, र यिसराएलबाट सत्तरी हजार मानिस ढले।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "पठाउनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "महामारी"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "यिसराएलमा"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "र ढले"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "यिसराएलबाट"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तरी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:00.570125416Z",
+  "model": "glm-5.3"
+}

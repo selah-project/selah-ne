@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-kings 12:5",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र ⟨he⟩ तिनीहरूलाई भन्नुभयो, जाओ, अझै तीन दिन, र मकहाँ फर्किएर आओ; र जनता गयो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "तिनीहरूलाई"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "जाओ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "र फर्किएर आओ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मकहाँ"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "र गयो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-08-26T22:03:39.116369329Z",
+  "model": "glm-5.3"
+}

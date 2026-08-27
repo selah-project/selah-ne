@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "numbers 31:45",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र ⟨the⟩ गधहरू तीस हजार र पाँच सय,",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "र गधहरू"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "वחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:19.977847844Z",
+  "model": "glm-5.3"
+}

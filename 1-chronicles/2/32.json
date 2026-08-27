@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 2:32",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "शम्माईको भाइ यादाका छोराहरू येतेर र योनातान थिए; र येतेर छोराबिना मर्यो।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "यादाका"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाइ"
+    },
+    {
+      "surface": "שמי",
+      "gloss": "शम्माईको"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "ויונתן",
+      "gloss": "र योनातान"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "र मर्यो"
+    },
+    {
+      "surface": "יתר",
+      "gloss": "येतेर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:05.514781422Z",
+  "model": "glm-5.3"
+}

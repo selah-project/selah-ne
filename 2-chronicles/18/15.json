@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 18:15",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "तब राजाले उनलाई भने, कति पटक म तिमीलाई सपथ गराउनेछु कि तिमी मलाई केवल सत्य बोल, यहवेको नाउँमा?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उनलाई"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "כמה",
+      "gloss": "कति"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "पटक"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "משביעך",
+      "gloss": "सपथ गराउनेछु तिमीलाई"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नगरी"
+    },
+    {
+      "surface": "תדבר",
+      "gloss": "तिमी बोल"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाउँमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:38:38.716661632Z",
+  "model": "glm-5.3"
+}

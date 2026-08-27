@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 6:27",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "एतानका छोरा, जिम्माहका छोरा, शिमीका छोरा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "एतान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "זמה",
+      "gloss": "जिम्माह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:48.252319326Z",
+  "model": "glm-5.3"
+}

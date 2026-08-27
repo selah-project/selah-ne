@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 11:7",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "मानभन्दा ⟨त्यो⟩ गदको बीउजस्तो थियो, र त्यसको आकृति बेदोलखझैँ थियो।",
+  "tokens": [
+    {
+      "surface": "והמן",
+      "gloss": "र मान"
+    },
+    {
+      "surface": "כזרע",
+      "gloss": "बीउजस्तो"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गद (धनियाँ)"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो थियो"
+    },
+    {
+      "surface": "ועינו",
+      "gloss": "र त्यसको आकृति"
+    },
+    {
+      "surface": "כעין",
+      "gloss": "झैँ"
+    },
+    {
+      "surface": "הבדלח",
+      "gloss": "बेदोलख"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:07.033704504Z",
+  "model": "glm-5.3"
+}

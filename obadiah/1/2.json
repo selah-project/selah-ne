@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "obadiah 1:2",
+  "book": "obadiah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "हेर, जातिहरूमा मैले तिमीलाई सानो बनाएँ; तिमी अत्यन्तै तिरस्कृत ⟨हौ⟩।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "קטן",
+      "gloss": "सानो"
+    },
+    {
+      "surface": "נתתיך",
+      "gloss": "मैले तिमीलाई बनाएँ"
+    },
+    {
+      "surface": "בגוים",
+      "gloss": "जातिहरूमा"
+    },
+    {
+      "surface": "בזוי",
+      "gloss": "तिरस्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्तै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:39:25.205293089Z",
+  "model": "glm-5.3"
+}

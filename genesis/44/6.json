@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 44:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 44,
+  "translation": "उनले उनीहरूलाई पुगे, र उनीहरूलाई ⟨את⟩ यी वचनहरू भने।",
+  "tokens": [
+    {
+      "surface": "וישגם",
+      "gloss": "उनले उनीहरूलाई पुगे"
+    },
+    {
+      "surface": "וידבר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "उनीहरूलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यी वचनहरू"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:59:42.374350135Z",
+  "model": "glm-5.3"
+}

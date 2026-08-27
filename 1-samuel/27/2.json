@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-samuel 27:2",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "तब दाउद उठ्नुभयो र ⟨उनी⟩ आफूसँग भएका छ सय जना मानिसहरूसहित गतका राजा माओकका छोरा अकीशकहाँ नाघेर गए।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठ्नुभयो"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउद"
+    },
+    {
+      "surface": "ויעבר",
+      "gloss": "नाघेर गए"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उनी"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "איש",
+      "gloss": "जना मानिसहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "आफूसँग भएका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अकीशक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מעוך",
+      "gloss": "माओकका"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गतका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:42:27.182599014Z",
+  "model": "glm-5.3"
+}

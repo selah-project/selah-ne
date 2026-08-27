@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "joshua 12:22",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "केदेशको राजा एक, कार्मेलको योक्नेआमको राजा एक।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "केदेशको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יקנעם",
+      "gloss": "योक्नेआम"
+    },
+    {
+      "surface": "לכרמל",
+      "gloss": "कार्मेलको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:39.482732051Z",
+  "model": "glm-5.3"
+}

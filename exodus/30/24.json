@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 30:24",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "",
+  "tokens": [
+    {
+      "surface": "וקדה",
+      "gloss": ""
+    },
+    {
+      "surface": "חמש",
+      "gloss": ""
+    },
+    {
+      "surface": "मאות",
+      "gloss": ""
+    },
+    {
+      "surface": "בशקל",
+      "gloss": ""
+    },
+    {
+      "surface": "हकोदेश",
+      "gloss": ""
+    },
+    {
+      "surface": "वशमेन",
+      "gloss": ""
+    },
+    {
+      "surface": "जैत",
+      "gloss": ""
+    },
+    {
+      "surface": "हीन",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T20:17:10.185875484Z",
+  "model": "glm-5.3"
+}

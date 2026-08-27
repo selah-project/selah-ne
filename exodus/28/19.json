@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "exodus 28:19",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र तेस्रो पङ्क्तिमा लेशेम, शेबो र अख्लामह।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "र पङ्क्ति"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "לשם",
+      "gloss": "लेशेम"
+    },
+    {
+      "surface": "שבו",
+      "gloss": "शेबो"
+    },
+    {
+      "surface": "ואחלמה",
+      "gloss": "र अख्लामह"
+    }
+  ],
+  "timestamp": "2026-08-26T20:15:31.242873978Z",
+  "model": "glm-5.3"
+}

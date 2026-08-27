@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 38:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "म वाकुवाकु भएँ, म अत्यन्तै झुकेँ; सारा दिन म शोक-गर्दै हिँडेँ ।",
+  "tokens": [
+    {
+      "surface": "נעויתי",
+      "gloss": "म वाकुवाकु भएँ"
+    },
+    {
+      "surface": "שחתי",
+      "gloss": "झुकेँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "अत्यन्तै"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "(एकदम)"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "קדר",
+      "gloss": "शोक-गर्दै"
+    },
+    {
+      "surface": "הלכתי",
+      "gloss": "हिँडेँ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:55:57.350731862Z",
+  "model": "glm-5.3"
+}

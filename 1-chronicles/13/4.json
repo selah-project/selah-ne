@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 13:4",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र सम्पूर्ण सभाले त्यसो गर्न भने, किनकि ⟨the⟩ कुरा सबै मानिसका आँखामा सही थियो।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "भने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभाले"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "गर्न"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "ישर",
+      "gloss": "सही थियो"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ कुरा"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "मानिसका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:22:41.651557043Z",
+  "model": "glm-5.3"
+}

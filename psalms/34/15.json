@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 34:15",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "नरापत्तिबाट फर्क, र असल गर; शान्ति खोज, र त्यसको पछि लाग।",
+  "tokens": [
+    {
+      "surface": "סור",
+      "gloss": "फर्क"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "नरापत्तिबाट"
+    },
+    {
+      "surface": "ועשה",
+      "gloss": "र गर"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "בקש",
+      "gloss": "खोज"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "ורדפהו",
+      "gloss": "र त्यसको पछि लाग"
+    }
+  ],
+  "timestamp": "2026-08-26T23:54:54.738575930Z",
+  "model": "glm-5.3"
+}

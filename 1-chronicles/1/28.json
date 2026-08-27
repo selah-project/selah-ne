@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 1:28",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अब्राहामका छोराहरू: यित्सखाक र यिश्माएल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अब्राहाम"
+    },
+    {
+      "surface": "יצחו",
+      "gloss": "यित्सखाक"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "र यिश्माएल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:57.908940992Z",
+  "model": "glm-5.3"
+}

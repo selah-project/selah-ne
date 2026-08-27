@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "psalms 73:21",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 73,
+  "translation": "किनकि मेरो हृदय खट्कियो, र मेरा मिर्गौलाहरू चुभे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יתחמץ",
+      "gloss": "खट्कियो"
+    },
+    {
+      "surface": "לבבי",
+      "gloss": "मेरो हृदय"
+    },
+    {
+      "surface": "וכליותי",
+      "gloss": "र मेरा मिर्गौलाहरू"
+    },
+    {
+      "surface": "אשתונן",
+      "gloss": "चुभे"
+    }
+  ],
+  "timestamp": "2026-08-27T00:03:06.018031029Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,68 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 10:11",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "त्यस देशबाट अश्शूर निस्कियो, र उसले ⟨את⟩ निनवे र ⟨את⟩ रेखोबोत-इर र ⟨את⟩ कलख बनायो।",
+  "tokens": [
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "निस्कियो"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "ויבן",
+      "gloss": "बनायो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "निनवे"
+    },
+    {
+      "surface": "נינוה",
+      "gloss": "निनवे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "रेखोबोत-इर"
+    },
+    {
+      "surface": "רחבת",
+      "gloss": "रेखोबोत"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "इर"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "कलख"
+    },
+    {
+      "surface": "כלח",
+      "gloss": "कलख"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:09.680459938Z",
+  "model": "glm-5.3"
+}

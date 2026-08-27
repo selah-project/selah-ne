@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 14:27",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "यहवेको भय ⟨हो⟩ जीवनको फुवा, मृत्युका फन्दाहरूबाट अलग्गिन।",
+  "tokens": [
+    {
+      "surface": "יראת",
+      "gloss": "भय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "मקור",
+      "gloss": "फुवा"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवनको"
+    },
+    {
+      "surface": "לסור",
+      "gloss": "अलग्गिन"
+    },
+    {
+      "surface": "ממקשי",
+      "gloss": "फन्दाहरूबाट"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्युका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:41.428112143Z",
+  "model": "glm-5.3"
+}

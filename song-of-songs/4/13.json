@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "song-of-songs 4:13",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "तिम्रा हाँगाहरू ⟨⟩ अनारको बगैंचा हुन्, उत्तम फलहरूसहित; हेन्नासहित, नर्दसहित।",
+  "tokens": [
+    {
+      "surface": "שלחיך",
+      "gloss": "तिम्रा हाँगाहरू"
+    },
+    {
+      "surface": "פרדס",
+      "gloss": "बगैंचा"
+    },
+    {
+      "surface": "רמונים",
+      "gloss": "अनारको"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सहित"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फलहरू"
+    },
+    {
+      "surface": "מגדים",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "כפרים",
+      "gloss": "हेन्ना"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सहित"
+    },
+    {
+      "surface": "נרדים",
+      "gloss": "नर्द"
+    }
+  ],
+  "timestamp": "2026-08-27T00:43:19.815768914Z",
+  "model": "glm-5.3"
+}

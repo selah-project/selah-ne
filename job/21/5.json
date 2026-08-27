@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "job 21:5",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "मतर्फ फर्कियौ र छक्क परियौ, र हात मुखमाथि राखियौ।",
+  "tokens": [
+    {
+      "surface": "פנו",
+      "gloss": "फर्कियौ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतर्फ"
+    },
+    {
+      "surface": "והשמו",
+      "gloss": "र छक्क परियौ"
+    },
+    {
+      "surface": "ושימו",
+      "gloss": "र राखियौ"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "על",
+      "gloss": "मुखमाथि"
+    },
+    {
+      "surface": "פה",
+      "gloss": "मुख"
+    }
+  ],
+  "timestamp": "2026-08-27T00:35:26.877071276Z",
+  "model": "glm-5.3"
+}

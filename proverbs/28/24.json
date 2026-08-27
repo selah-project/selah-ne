@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 28:24",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "आफ्ना पिता र आमालाई लुट्ने र भन्ने कि अपराध छैन — ऊ नाश गर्ने मानिसको सङ्गी हो।",
+  "tokens": [
+    {
+      "surface": "גוזל",
+      "gloss": "लुट्ने"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आफ्ना पिता"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "र आमालाई"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "र भन्ने"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "अपराध"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "सङ्गी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ ... हो"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "משחית",
+      "gloss": "नाश गर्ने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:38.480381247Z",
+  "model": "glm-5.3"
+}

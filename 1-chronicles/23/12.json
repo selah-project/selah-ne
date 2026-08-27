@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 23:12",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "केहाथका छोराहरू: अमराम, यित्सहार, खेब्रोन र उज्जिएल — चार।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहाथका"
+    },
+    {
+      "surface": "עמרם",
+      "gloss": "अमराम"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहार"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेब्रोन"
+    },
+    {
+      "surface": "ועזיאל",
+      "gloss": "र उज्जिएल"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:36.950570939Z",
+  "model": "glm-5.3"
+}

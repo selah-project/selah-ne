@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 13:7",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "त्यसैले सबै हातहरू काम्नेछन् र हरेक मानिसको हृदय पग्लिनेछ।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "כן",
+      "gloss": "सैले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "हातहरू"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "काम्नेछन्"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र हरेक"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "ימס",
+      "gloss": "पग्लिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:22.799500028Z",
+  "model": "glm-5.3"
+}

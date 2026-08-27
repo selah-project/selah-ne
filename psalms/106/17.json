@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 106:17",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 106,
+  "translation": "पृथ्वी खुल्यो र दातानलाई निल्यो, र अभीरामको मण्डलीमाथि छोप्यो।",
+  "tokens": [
+    {
+      "surface": "תפתח",
+      "gloss": "खुल्यो"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ותבלע",
+      "gloss": "र निल्यो"
+    },
+    {
+      "surface": "דתן",
+      "gloss": "दातानलाई"
+    },
+    {
+      "surface": "ותכס",
+      "gloss": "र छोप्यो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "मण्डली"
+    },
+    {
+      "surface": "אבירם",
+      "gloss": "अभीरामको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:10:57.834028466Z",
+  "model": "glm-5.3"
+}

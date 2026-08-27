@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 26:60",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र अह्रोनलाई जन्म भयो ⟨את⟩ नादाब र ⟨את⟩ अविहू, ⟨את⟩ एलाजार र ⟨את⟩ इतामार।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "र जन्म भयो"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अह्रोनलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नादाब"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाब"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "अविहू"
+    },
+    {
+      "surface": "אביהוא",
+      "gloss": "अविहू"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलाजार"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "इतामार"
+    },
+    {
+      "surface": "איתמר",
+      "gloss": "इतामार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:41.843357691Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 2:43",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "और खेब्रोनका छोराहरू ⟨सन्ति⟩: कोरह, तप्पुह, रेकेम र शमा।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "और …का छोराहरू"
+    },
+    {
+      "surface": "חברון",
+      "gloss": "खेब्रोनका"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरह"
+    },
+    {
+      "surface": "ותפח",
+      "gloss": "तप्पुह"
+    },
+    {
+      "surface": "ורקם",
+      "gloss": "रेकेम"
+    },
+    {
+      "surface": "ושמע",
+      "gloss": "शमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:15.406525753Z",
+  "model": "glm-5.3"
+}

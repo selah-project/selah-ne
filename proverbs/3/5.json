@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 3:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "आफ्नो सम्पूर्ण हृदयले यहवेमा भरोसा गर, र आफ्नो बुद्धिमा टेक्ने नगर।",
+  "tokens": [
+    {
+      "surface": "בטח",
+      "gloss": "भरोसा गर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "-मा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "तिम्रो हृदयले"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र -मा"
+    },
+    {
+      "surface": "בינתך",
+      "gloss": "तिम्रो बुद्धि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשען",
+      "gloss": "टेक्ने गर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:00.375706973Z",
+  "model": "glm-5.3"
+}

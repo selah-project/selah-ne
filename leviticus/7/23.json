@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 7:23",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "\"बन्इ इस्राएलका छोराहरूसँग बोल, यसो भन्दै: गाई, भेडा र बाख्राको सबै बोसो तिमीहरूले खानु हुँदैन।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्दै"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "बोसो"
+    },
+    {
+      "surface": "שור",
+      "gloss": "गाई"
+    },
+    {
+      "surface": "וכשב",
+      "gloss": "र भेडा"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "र बाख्रा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "हुँदैन"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तिमीहरूले खानु"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:59.596472930Z",
+  "model": "glm-5.3"
+}

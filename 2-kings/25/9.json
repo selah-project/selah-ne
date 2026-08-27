@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "2-kings 25:9",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "अनि उसले यहवेको घर र राजाको घर र येरुशालाइमका सबै घरहरूलाई — हो, प्रत्येक ठूलो घरलाई — आगोमा जलायो।",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "जलायो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "सबै"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בתי",
+      "gloss": "घरहरू"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "येरुशालाइमका"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "सबै"
+    },
+    {
+      "surface": "כל",
+      "gloss": "प्रत्येक"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जलायो"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:02:34.079285775Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "psalms 116:13",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 116,
+  "translation": "उद्धारको कचौरा म उठाउँछु, र यहवेको नाममा म बोलाउँछु।",
+  "tokens": [
+    {
+      "surface": "כוס",
+      "gloss": "कचौरा"
+    },
+    {
+      "surface": "ישועות",
+      "gloss": "उद्धारको"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "म उठाउँछु"
+    },
+    {
+      "surface": "ובשם",
+      "gloss": "र नाममा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "म बोलाउँछु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:17.698105467Z",
+  "model": "glm-5.3"
+}

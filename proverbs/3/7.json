@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 3:7",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "आफ्नै आँखामा बुद्धिमान नबन; यहवेलाई ⟨את⟩ डराऊ, र नरापतर्फ बदलिनु चाडो गर्नु।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תהי",
+      "gloss": "बन"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान"
+    },
+    {
+      "surface": "בעיניך",
+      "gloss": "तिम्रै आँखामा"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डराऊ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवेलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וסור",
+      "gloss": "र बदलिनु चाडो गर्नु"
+    },
+    {
+      "surface": "מרע",
+      "gloss": "नरापतर्फ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:00.376108272Z",
+  "model": "glm-5.3"
+}

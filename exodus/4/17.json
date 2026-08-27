@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 4:17",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र ⟨את⟩ यो रड आफ्नो हातमा लिनू, जसद्वारा त्यसमा ⟨את⟩ चिन्हहरू गर्नेऊ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "यो रड"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "रड"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "תקח",
+      "gloss": "लिनू"
+    },
+    {
+      "surface": "בידך",
+      "gloss": "आफ्नो हातमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसद्वारा"
+    },
+    {
+      "surface": "תעשה",
+      "gloss": "गर्नेऊ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चिन्हहरू"
+    },
+    {
+      "surface": "האתת",
+      "gloss": "चिन्हहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T20:04:37.462107414Z",
+  "model": "glm-5.3"
+}

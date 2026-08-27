@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 38:19",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "तब ऊ उठी, गई, आफ्नो घुँडो आफ्नैबाट हटाई, र आफ्ना विधवाका लुगा लगाई।",
+  "tokens": [
+    {
+      "surface": "ותקם",
+      "gloss": "ऊ उठी"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "गई"
+    },
+    {
+      "surface": "ותסר",
+      "gloss": "हटाई"
+    },
+    {
+      "surface": "צעיפה",
+      "gloss": "आफ्नो घुँटो"
+    },
+    {
+      "surface": "מעליה",
+      "gloss": "आफ्नैबाट"
+    },
+    {
+      "surface": "ותלבש",
+      "gloss": "लगाई"
+    },
+    {
+      "surface": "בגדי",
+      "gloss": "लुगा"
+    },
+    {
+      "surface": "אלמנותה",
+      "gloss": "आफ्ना विधवाका"
+    }
+  ],
+  "timestamp": "2026-08-26T19:57:23.697287398Z",
+  "model": "glm-5.3"
+}

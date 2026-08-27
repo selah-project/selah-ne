@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "judges 5:25",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "पानी माग्यो, उसले दूध दिई; भव्य सेपलमा उसले मख्खन नजिक ल्याई।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "שאל",
+      "gloss": "माग्यो"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "दूध"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "उसले दिई"
+    },
+    {
+      "surface": "בספל",
+      "gloss": "सेपलमा"
+    },
+    {
+      "surface": "אדירים",
+      "gloss": "भव्य"
+    },
+    {
+      "surface": "הקריבה",
+      "gloss": "नजिक ल्याई"
+    },
+    {
+      "surface": "חמאה",
+      "gloss": "मख्खन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:56:52.555328204Z",
+  "model": "glm-5.3"
+}

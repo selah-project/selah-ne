@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 3:3",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "मार्ने घडी, र निको पार्ने घडी; भत्काउने घडी, र बनाउने घडी।",
+  "tokens": [
+    {
+      "surface": "עת",
+      "gloss": "घडी"
+    },
+    {
+      "surface": "להרוג",
+      "gloss": "मार्ने"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र…घडी"
+    },
+    {
+      "surface": "לרפוא",
+      "gloss": "निको पार्ने"
+    },
+    {
+      "surface": "עת",
+      "gloss": "घडी"
+    },
+    {
+      "surface": "לפרוץ",
+      "gloss": "भत्काउने"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र…घडी"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाउने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:47.813068755Z",
+  "model": "glm-5.3"
+}

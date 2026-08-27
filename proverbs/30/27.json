@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 30:27",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "टिड्कीमा कुनै राजा छैन, तर तिनीहरू सबै दलबदल भएर निस्कन्छन्।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "לארבה",
+      "gloss": "टिड्कीमा"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निस्कन्छन्"
+    },
+    {
+      "surface": "חצץ",
+      "gloss": "दलबदल भएर"
+    },
+    {
+      "surface": "כלו",
+      "gloss": "सबै"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:01.608395844Z",
+  "model": "glm-5.3"
+}

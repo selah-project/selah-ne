@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "nehemiah 7:24",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "खरिफका छोराहरू एक सय बाह्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חריף",
+      "gloss": "खरिफ"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्रको 'बा'"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "'ह्र' (दस)"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:55.917041445Z",
+  "model": "glm-5.3"
+}

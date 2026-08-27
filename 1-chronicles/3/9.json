@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 3:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "दाविदका सबै छोराहरू — उपपत्नीहरूका छोराहरू बाहेक — र तिनीहरूकी बहिनी तामार।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविदका"
+    },
+    {
+      "surface": "מלבד",
+      "gloss": "बाहेक"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פילגשים",
+      "gloss": "उपपत्नीहरूका"
+    },
+    {
+      "surface": "ותמר",
+      "gloss": "र तामार"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "तिनीहरूकी बहिनी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:11.149043059Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "leviticus 8:32",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "औ मासु र रोटीमा बाँकी रहेको कुरा आगोमा जलाऊ।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "औ …बाँकी रहेको"
+    },
+    {
+      "surface": "בבשר",
+      "gloss": "मासुमा"
+    },
+    {
+      "surface": "ובלחם",
+      "gloss": "र रोटीमा"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    },
+    {
+      "surface": "תשרפו",
+      "gloss": "जलाऊ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:40.959873055Z",
+  "model": "glm-5.3"
+}

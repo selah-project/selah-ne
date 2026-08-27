@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 3:12",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "म जान्दछु कि तिनीहरूका लागि कुनै असल छैन, तर आफ्नो जीवनमा खुसी हुन र असल गर्नु बाहेक।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "म जान्दछु"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "בם",
+      "gloss": "तिनीहरूका लागि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "तर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "बाहेक"
+    },
+    {
+      "surface": "לשמוח",
+      "gloss": "खुसी हुन"
+    },
+    {
+      "surface": "ולעשות",
+      "gloss": "र गर्न"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "בחייו",
+      "gloss": "आफ्नो जीवनमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:47.083794145Z",
+  "model": "glm-5.3"
+}

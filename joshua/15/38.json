@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "joshua 15:38",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र दिलआन, र हमित्स्पे, र योक्तेएल;",
+  "tokens": [
+    {
+      "surface": "ודלען",
+      "gloss": "र दिलआन"
+    },
+    {
+      "surface": "והמצפה",
+      "gloss": "र हमित्स्पे"
+    },
+    {
+      "surface": "ויקתאל",
+      "gloss": "र योक्तेएल"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:19.686996733Z",
+  "model": "glm-5.3"
+}

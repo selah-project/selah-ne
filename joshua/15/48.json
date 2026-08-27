@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "joshua 15:48",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र पहाडी-भागमा: शामिर, यत्तिर, शोकोह,",
+  "tokens": [
+    {
+      "surface": "ובהר",
+      "gloss": "र पहाडी-भागमा"
+    },
+    {
+      "surface": "שמיר",
+      "gloss": "शामिर"
+    },
+    {
+      "surface": "ויתיר",
+      "gloss": "यत्तिर"
+    },
+    {
+      "surface": "ושוכה",
+      "gloss": "शोकोह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:46.916352599Z",
+  "model": "glm-5.3"
+}

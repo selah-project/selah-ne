@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 24:9",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "यसैले अदोनाइ यहवेले यसो भन्नुभयो: हाय, रगतको सहर! म पनि आगको थाक ठूलो बनाउँछु।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "यसैले"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "הדמים",
+      "gloss": "रगतको"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אגדיל",
+      "gloss": "ठूलो बनाउँछु"
+    },
+    {
+      "surface": "המדורה",
+      "gloss": "आगको थाक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:20:17.393125164Z",
+  "model": "glm-5.3"
+}

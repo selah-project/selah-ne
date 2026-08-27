@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 48:6",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र एफ्राइमको सीमामा, पूर्व छेउदेखि पश्चिम छेउसम्म — रउबेन, एक ⟨भाग⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ...मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्राइम"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "...को छेउदेखि"
+    },
+    {
+      "surface": "קדים",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "र सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "छेउ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "ראובן",
+      "gloss": "रउबेन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:31:44.624742271Z",
+  "model": "glm-5.3"
+}

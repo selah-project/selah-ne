@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 8:37",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "और मोत्साले ⟨את⟩ बिनेआलाई जन्म दिए; रापा उनका छोरा, एलआशा उनका छोरा, अत्सेल उनका छोरा।",
+  "tokens": [
+    {
+      "surface": "ומוצא",
+      "gloss": "और मोत्साले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बिनेआ"
+    },
+    {
+      "surface": "בנעא",
+      "gloss": "बिनेआ"
+    },
+    {
+      "surface": "רפה",
+      "gloss": "रापा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "एलआशा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "अत्सेल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:27.336326871Z",
+  "model": "glm-5.3"
+}

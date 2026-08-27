@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 34:25",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "तिमीले खमीरसँग मेरो बलिको रगत बलि नगर्, र पसह चाडको बलि बिहानसम्म बास नदेओ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשחט",
+      "gloss": "बलि गर्"
+    },
+    {
+      "surface": "על",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "חמץ",
+      "gloss": "खमीर"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "मेरो बलिको"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "ילין",
+      "gloss": "बास देओ"
+    },
+    {
+      "surface": "לבקר",
+      "gloss": "बिहानसम्म"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "חג",
+      "gloss": "चाडको"
+    },
+    {
+      "surface": "הפסח",
+      "gloss": "पसहको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:19:46.385533348Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 109:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 109,
+  "translation": "उसका छोराहरू अनाथ बनून्, र उसकी स्वास्नी विधवा बनोस्।",
+  "tokens": [
+    {
+      "surface": "יהיו",
+      "gloss": "बनून्"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसका छोराहरू"
+    },
+    {
+      "surface": "יתומים",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "ואשתו",
+      "gloss": "र उसकी स्वास्नी"
+    },
+    {
+      "surface": "אלמנה",
+      "gloss": "विधवा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:02.969360308Z",
+  "model": "glm-5.3"
+}

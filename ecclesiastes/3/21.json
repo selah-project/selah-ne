@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "ecclesiastes 3:21",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "कसले जान्दछ — मानिसका छोराहरूको रुआख उक्लने त्यो माथि जान्छ कि, र पशुको रुआख ओर्लने त्यो तल जमिनतर्फ झर्छ कि?",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "जान्दछ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रुआख"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "उक्लने"
+    },
+    {
+      "surface": "היא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "लמעलה",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ורוח",
+      "gloss": "र रुआख"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "पशुको"
+    },
+    {
+      "surface": "הירדת",
+      "gloss": "ओर्लने"
+    },
+    {
+      "surface": "היא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "तल"
+    },
+    {
+      "surface": "लארץ",
+      "gloss": "जमिनतर्फ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:07.965724132Z",
+  "model": "glm-5.3"
+}

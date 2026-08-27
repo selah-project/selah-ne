@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "exodus 28:18",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र दोस्रो पङ्क्तिमा नोफेख, सप्पिर र यहालोम।",
+  "tokens": [
+    {
+      "surface": "והטור",
+      "gloss": "र पङ्क्ति"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "נפך",
+      "gloss": "नोफेख"
+    },
+    {
+      "surface": "ספיר",
+      "gloss": "सप्पिर"
+    },
+    {
+      "surface": "ויהלם",
+      "gloss": "र यहालोम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:15:31.242763111Z",
+  "model": "glm-5.3"
+}

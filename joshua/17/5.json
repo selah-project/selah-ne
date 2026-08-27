@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 17:5",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र मनश्शेका भागहरू दश परे — गिलाद र बाशानको देशबाहेक, जुन यर्दनको पारि छ —।",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "र परे"
+    },
+    {
+      "surface": "חבלי",
+      "gloss": "भागहरू"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शेका"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "दश"
+    },
+    {
+      "surface": "לבד",
+      "gloss": "बाहेक"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देशबाट"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलादको"
+    },
+    {
+      "surface": "והבשן",
+      "gloss": "र बाशान"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "מעבר",
+      "gloss": "पारि"
+    },
+    {
+      "surface": "לירדן",
+      "gloss": "यर्दनको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:26.367515042Z",
+  "model": "glm-5.3"
+}

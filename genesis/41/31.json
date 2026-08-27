@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 41:31",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "र त्यसपछि त्यस अनिकालको कारणले देशमा तृप्ति चिनिनेछैन, किनकि त्यो अत्यन्तै गह्रौँ ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "चिनिनेछ"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "तृप्ति"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "कारणले"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "अनिकालको"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "गह्रौँ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्तै"
+    }
+  ],
+  "timestamp": "2026-08-26T19:58:23.251613121Z",
+  "model": "glm-5.3"
+}

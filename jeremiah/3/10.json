@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "jeremiah 3:10",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र यी सबैका बाबजुद उसकी विश्वासघाती बहिनी यहूदा मसँग आफ्नो सारा मुटुले फर्किनन्, तर कपटले फर्किइन् — यहवेको वचन।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "र पनि"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सबैमा"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "שבה",
+      "gloss": "फर्किइन्"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "בגודה",
+      "gloss": "विश्वासघाती"
+    },
+    {
+      "surface": "אחותה",
+      "gloss": "उसकी बहिनी"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "לבה",
+      "gloss": "मुटुले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "तर कि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "בשקר",
+      "gloss": "कपटमा"
+    },
+    {
+      "surface": "נאם",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T22:45:41.802661367Z",
+  "model": "glm-5.3"
+}

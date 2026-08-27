@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 3:1",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "हरेक कुराको नियत समय छ, र आकाशमण्डल तलका हरेक इच्छाको एउटा घडी छ।",
+  "tokens": [
+    {
+      "surface": "לכל",
+      "gloss": "हरेक कुराको लागि"
+    },
+    {
+      "surface": "זמן",
+      "gloss": "नियत समय"
+    },
+    {
+      "surface": "ועת",
+      "gloss": "र एउटा घडी"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "हरेक…को लागि"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशमण्डलको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:47.812646890Z",
+  "model": "glm-5.3"
+}

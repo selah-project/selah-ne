@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 7:16",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एक बोकाको बच्चा पापबलिका लागि।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोकाको बच्चा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्राको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:47.316213565Z",
+  "model": "glm-5.3"
+}

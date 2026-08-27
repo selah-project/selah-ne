@@ -1,0 +1,21 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 5:19",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र चोरी नगर।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תגנב",
+      "gloss": "चोरी गर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:19.186335941Z",
+  "model": "glm-5.3"
+}

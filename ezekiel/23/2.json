@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 23:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "हे मानिसका छोरा, दुई स्त्रीहरू — एउटै आमाका छोरीहरू — थिए।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसका"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रीहरू"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "छोरीहरू"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आमाका"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थिए"
+    }
+  ],
+  "timestamp": "2026-08-26T23:20:14.161548169Z",
+  "model": "glm-5.3"
+}

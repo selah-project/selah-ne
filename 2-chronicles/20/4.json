@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 20:4",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र यहूदा यहवेको ⟨खोजमा⟩ जम्मा भयो; यहूदाका सबै सहरहरूबाट समेत तिनीहरू यहवेलाई खोज्न आए।",
+  "tokens": [
+    {
+      "surface": "ויקבצו",
+      "gloss": "जम्मा भयो"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोज्न"
+    },
+    {
+      "surface": "מיהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "גם",
+      "gloss": "समेत"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सबैबाट"
+    },
+    {
+      "surface": "ערי",
+      "gloss": "सहरहरू"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "לבקש",
+      "gloss": "खोज्न"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवेलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-27T01:39:19.610767927Z",
+  "model": "glm-5.3"
+}

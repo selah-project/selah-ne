@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 1:24",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "शेम, अर्पखशद, शेलाख।",
+  "tokens": [
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "ארפכשד",
+      "gloss": "अर्पखशद"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शेलाख"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:13.072844809Z",
+  "model": "glm-5.3"
+}

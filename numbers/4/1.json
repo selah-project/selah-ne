@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 4:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र यहवेले मोशे र अहरोनसँग बोल्नुभयो, भन्दै यसो भन्नुभयो ⟨कि⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र …सँग"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै यसो भन्नुभयो ⟨कि⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T20:37:11.266363232Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 10:7",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "मैले दासहरूलाई घोडाहरूमाथि देखेँ, र सारथिहरू दासझैँ जमिनमाथि हिँडिरहेका ।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले देखेँ"
+    },
+    {
+      "surface": "עבדים",
+      "gloss": "दासहरूलाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "סוסים",
+      "gloss": "घोडाहरू"
+    },
+    {
+      "surface": "ושרים",
+      "gloss": "र सारथिहरू"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "हिँडिरहेका"
+    },
+    {
+      "surface": "כעבדים",
+      "gloss": "दासझैँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:51.793382221Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 8:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "किनकि प्रत्येक इच्छाको निम्ति समय छ र न्याय छ, किनकि मानिसको खराबी उसमाथि ठूलो छ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לכל",
+      "gloss": "प्रत्येकको निम्ति"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "इच्छा"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "र न्याय"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "רעת",
+      "gloss": "खराबी"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसमाथि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:36.688892188Z",
+  "model": "glm-5.3"
+}

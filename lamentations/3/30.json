@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "lamentations 3:30",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उसले आफ्नो गाला पिट्नेलाई ⟨देओस्⟩, अपमानले ⟨भरिओस्⟩।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "देओस्"
+    },
+    {
+      "surface": "למכהו",
+      "gloss": "पिट्नेलाई"
+    },
+    {
+      "surface": "לחי",
+      "gloss": "गाला"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "भरिओस्"
+    },
+    {
+      "surface": "बחרפה",
+      "gloss": "अपमानले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:02.710874145Z",
+  "model": "glm-5.3"
+}

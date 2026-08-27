@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 5:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अनि शेत पाँच वर्ष र सय वर्ष जिए, र ⟨את⟩ एनोशलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "जिए"
+    },
+    {
+      "surface": "שת",
+      "gloss": "शेत"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ומאत",
+      "gloss": "र सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एनोशलाई"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "एनोश"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:54.130092752Z",
+  "model": "glm-5.3"
+}

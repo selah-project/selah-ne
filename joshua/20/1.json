@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joshua 20:1",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "यहवेले यहोशुवालाई यसो भन्नुभयो ⟨भन्दै⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुवा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨भन्दै⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T01:56:31.693181504Z",
+  "model": "glm-5.3"
+}

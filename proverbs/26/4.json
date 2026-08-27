@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 26:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "मूर्खलाई उत्तर नदेऊ उसको मूर्खताअनुसार, कि तिमी पनि उस्तै नबन।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תען",
+      "gloss": "उत्तर देऊ"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खलाई"
+    },
+    {
+      "surface": "כאולתו",
+      "gloss": "उसको मूर्खताअनुसार"
+    },
+    {
+      "surface": "פן",
+      "gloss": "कि ... न"
+    },
+    {
+      "surface": "תשוה",
+      "gloss": "उस्तै बन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उस्तै"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:42.312043252Z",
+  "model": "glm-5.3"
+}

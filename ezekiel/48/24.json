@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "ezekiel 48:24",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र बिन्यामीनको सीमामा, पूर्व छेउदेखि पश्चिम छेउसम्म — शिमोन एक ⟨भाग⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र …मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीनको"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "छेउदेखि"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "छेउ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:32:26.076237620Z",
+  "model": "glm-5.3"
+}

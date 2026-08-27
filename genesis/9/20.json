@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 9:20",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र नोखले — जमिनको मानिसले — सुरु गरे, र उहाँले दाखबारी रोप्नुभयो।",
+  "tokens": [
+    {
+      "surface": "ויחל",
+      "gloss": "र सुरु गरे"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोखले"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "האदמה",
+      "gloss": "जमिनको"
+    },
+    {
+      "surface": "ויטע",
+      "gloss": "र रोप्नुभयो"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "दाखबारी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:32.188186690Z",
+  "model": "glm-5.3"
+}

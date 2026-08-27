@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 9:26",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र ⟨ה⟩ भन्नुभयो, धन्य यहवे, शेमको एलोहीम; र कनान तिनको दास होऊ्।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "शेम",
+      "gloss": "शेमको"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र होऊ्"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "लמו",
+      "gloss": "तिनको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:48:47.015117385Z",
+  "model": "glm-5.3"
+}

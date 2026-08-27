@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "ezra 2:29",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "नेबोका छोराहरू, बयानुन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेबो"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "ब"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "यानुन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:42.581098956Z",
+  "model": "glm-5.3"
+}

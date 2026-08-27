@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 7:1",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "राम्रो नाम राम्रो सुगन्धित तेलभन्दा ⟨अझ⟩ राम्रो छ, र मृत्युको दिन जन्मको दिनभन्दा ⟨अझ⟩ राम्रो छ।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "משמן",
+      "gloss": "सुगन्धित तेलभन्दा"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो तेल"
+    },
+    {
+      "surface": "ויום",
+      "gloss": "र दिन"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मृत्युको"
+    },
+    {
+      "surface": "מיום",
+      "gloss": "दिनभन्दा"
+    },
+    {
+      "surface": "הולדו",
+      "gloss": "जन्मको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:07.683453025Z",
+  "model": "glm-5.3"
+}

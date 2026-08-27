@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 24:12",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र यदि ऊ गरिब मानिस ⟨is⟩, उसको गिरवीलाई ओत लगाएर नसुत्नु।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "עני",
+      "gloss": "गरिब"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "सुत्नु"
+    },
+    {
+      "surface": "בעבטו",
+      "gloss": "उसको गिरवीमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:15.764022997Z",
+  "model": "glm-5.3"
+}

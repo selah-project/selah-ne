@@ -1,0 +1,81 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "judges 13:21",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "अनि यहवेको दूतले मानोख र उनकी पत्नीलाई फेरि देखा हुन ⟨यसिनेन⟩; तब मानोखले जान्यो कि ऊ यहवेको दूत ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "अनि…न"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "फेरि"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "देखा हुन"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "להראה",
+      "gloss": "देखा हुन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मानोख"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उनकी पत्नीलाई"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्यो"
+    },
+    {
+      "surface": "מנוח",
+      "gloss": "मानोखले"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ…हो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:26:09.231722363Z",
+  "model": "glm-5.3"
+}

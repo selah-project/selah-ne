@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 11:26",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "हेर्नुहोस्, म आज तपाईंहरूको अगाडि आशीर्वाद र अभिशाप राख्दैछु।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "हेर्नुहोस्"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "राख्दैछु"
+    },
+    {
+      "surface": "לפניכם",
+      "gloss": "तपाईंहरूको अगाडि"
+    },
+    {
+      "surface": "हיום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "ברכה",
+      "gloss": "आशीर्वाद"
+    },
+    {
+      "surface": "וקללה",
+      "gloss": "र अभिशाप"
+    }
+  ],
+  "timestamp": "2026-08-26T20:58:41.248088024Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 9:10",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तब रूखहरूले भुर्सा रूखलाई भने: तँ आएर हामीमाथि राज्य गर।",
+  "tokens": [
+    {
+      "surface": "ויאמרו",
+      "gloss": "भने"
+    },
+    {
+      "surface": "העצים",
+      "gloss": "रूखहरूले"
+    },
+    {
+      "surface": "לתאנה",
+      "gloss": "भुर्सा रूखलाई"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "आएर"
+    },
+    {
+      "surface": "את",
+      "gloss": "तँ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राज्य गर"
+    },
+    {
+      "surface": "עלינו",
+      "gloss": "हामीमाथि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:57:16.188833217Z",
+  "model": "glm-5.3"
+}

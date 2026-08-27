@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezra 10:20",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र इम्मेरका छोराहरूमध्ये: खनानी र जेबद्याह।",
+  "tokens": [
+    {
+      "surface": "ומבני",
+      "gloss": "र छोराहरूमध्ये"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेर"
+    },
+    {
+      "surface": "חנני",
+      "gloss": "खनानी"
+    },
+    {
+      "surface": "וזבדיה",
+      "gloss": "जेबद्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:10:08.254206643Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "daniel 10:2",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "ती दिनहरूमा म, दानिएल, तीन हप्ता दिनसम्म शोक गर्दै थिएँ।",
+  "tokens": [
+    {
+      "surface": "בימים",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "ההם",
+      "gloss": "ती"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "דניאל",
+      "gloss": "दानिएल"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "थिएँ"
+    },
+    {
+      "surface": "מתאבל",
+      "gloss": "शोक गर्दै"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "हप्ता"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:02:33.983147451Z",
+  "model": "glm-5.3"
+}

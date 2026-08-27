@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 30:11",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "किनकि यो आज्ञा जुन म आज तिमीलाई आज्ञा गर्दछु, त्यो तिमीबाट अद्भुत-गुप्त ⟨छैन⟩, न त्यो टाढा ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "यो आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "מצוך",
+      "gloss": "तिमीलाई आज्ञा गर्दछु"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "נפלאת",
+      "gloss": "अद्भुत-गुप्त"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "ממך",
+      "gloss": "तिमीबाट"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "न…छ"
+    },
+    {
+      "surface": "רחקה",
+      "gloss": "टाढा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:06:59.778879314Z",
+  "model": "glm-5.3"
+}

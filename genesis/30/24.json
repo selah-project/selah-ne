@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 30:24",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र उनले ⟨את⟩ उसको नाम योसेफ राखिन्, भन्दै — यहवे मलाई अर्को छोरा थपिदिनुहोस्।",
+  "tokens": [
+    {
+      "surface": "ותקרא",
+      "gloss": "राखिन्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसको नाम"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसको नाम"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै"
+    },
+    {
+      "surface": "יסף",
+      "gloss": "थपिदिनुहोस्"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्को"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:22.692937625Z",
+  "model": "glm-5.3"
+}

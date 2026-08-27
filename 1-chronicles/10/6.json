@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 10:6",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "त्यसैले शाउल मर्यो, र उसका तीन छोराहरू, र उसको सारा घराना — सबै एकसाथ मरे।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मर्यो"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "र तीन"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसका छोराहरू"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सारा"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "उसको घराना"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरे"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:19.265866711Z",
+  "model": "glm-5.3"
+}

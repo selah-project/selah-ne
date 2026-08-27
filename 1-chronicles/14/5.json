@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 14:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र यिबखार, र एलिशुआ, र एलपलेत।",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "र यिबखार"
+    },
+    {
+      "surface": "ואלישוע",
+      "gloss": "र एलिशुआ"
+    },
+    {
+      "surface": "ואלפלט",
+      "gloss": "र एलपलेत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:25.612415981Z",
+  "model": "glm-5.3"
+}

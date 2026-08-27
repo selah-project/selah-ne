@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 19:26",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "रगतमाथि ⟨तिमीहरूले⟩ खानेछौ कि नाइ; जादू-टुना नगर, र मन्त्र-ज्योतिष पनि नगर।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तिमीहरू खानेछौ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תנחשו",
+      "gloss": "जादू-टुना गर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תעוננו",
+      "gloss": "मन्त्र-ज्योतिष गर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:17.901421082Z",
+  "model": "glm-5.3"
+}

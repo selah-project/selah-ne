@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 23:3",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "उसका स्वादिष्ट खानेकुराको इच्छा नगर, किनकि त्यो झूटो रोटी हो।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתאו",
+      "gloss": "इच्छा गर"
+    },
+    {
+      "surface": "למטעמותיו",
+      "gloss": "उसका स्वादिष्ट खानेकुराको"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "किनकि त्यो"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूटो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:03.691960401Z",
+  "model": "glm-5.3"
+}

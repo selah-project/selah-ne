@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 1:45",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "योभाभको मृत्यु भयो, र उनको सट्टामा तेमानी देशका खुशाम राजा भए।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मृत्यु भयो"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योभाभको"
+    },
+    {
+      "surface": "וימלך",
+      "gloss": "राजा भए"
+    },
+    {
+      "surface": "תחתיו",
+      "gloss": "उनको सट्टामा"
+    },
+    {
+      "surface": "חושם",
+      "gloss": "खुशाम"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देशका"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "तेमानी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:36.133556090Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ecclesiastes 10:15",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "मूर्खहरूको परिश्रमले तिनीहरूलाई थकित पार्छ, ⟨किनकि⟩ ⟨उनी⟩ सहरता जान सक्दैन।",
+  "tokens": [
+    {
+      "surface": "עמל",
+      "gloss": "परिश्रम"
+    },
+    {
+      "surface": "הכסילים",
+      "gloss": "मूर्खहरूको"
+    },
+    {
+      "surface": "תיגענו",
+      "gloss": "थकित पार्छ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨किनकि⟩"
+    },
+    {
+      "surface": "לא",
+      "gloss": "सक्दैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जान"
+    },
+    {
+      "surface": "אל",
+      "gloss": "ता"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "सहर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:59.901335062Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "isaiah 46:8",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 46,
+  "translation": "यो सम्झना गर, र ⟨पुरुष भएर⟩ देखा हो; हे पापीहरू, मनमा फर्क।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "सम्झना गर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "והתאששו",
+      "gloss": "र ⟨पुरुष भएर⟩ देखा हो"
+    },
+    {
+      "surface": "השיבו",
+      "gloss": "फर्क"
+    },
+    {
+      "surface": "פושעים",
+      "gloss": "हे पापीहरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "לב",
+      "gloss": "मन"
+    }
+  ],
+  "timestamp": "2026-08-26T22:37:54.355404371Z",
+  "model": "glm-5.3"
+}

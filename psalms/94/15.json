@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "psalms 94:15",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 94,
+  "translation": "किनकि न्याय धर्मतर्फ फर्किनेछ, र त्यसपछि सबै सरल-हृदयहरू ⟨हिँड्नेछन्⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "עד",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "धर्म"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फर्किनेछ"
+    },
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "ואחריו",
+      "gloss": "र त्यसपछि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ישרי",
+      "gloss": "सरल-हृदयहरू"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:00.898516331Z",
+  "model": "glm-5.3"
+}

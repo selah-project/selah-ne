@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 23:14",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र एप्रोनले अभ्राहामलाई जवाफ दिए, उनलाई भन्दै —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "र-जवाफ-दिए"
+    },
+    {
+      "surface": "עפरון",
+      "gloss": "एप्रोनले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अभ्राहामलाई"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहामलाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उनलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:49:36.915463944Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "genesis 8:15",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "अनि एलोहीमले नोखालाई बोल्नुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "अनि बोल्नुभयो"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोखा"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:12.295427306Z",
+  "model": "glm-5.3"
+}

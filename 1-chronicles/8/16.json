@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 8:16",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र मिखाएल, यिश्पाह र योखा — बेरियाहका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "ומיכאל",
+      "gloss": "र मिखाएल"
+    },
+    {
+      "surface": "וישפה",
+      "gloss": "यिश्पाह"
+    },
+    {
+      "surface": "ויוחא",
+      "gloss": "र योखा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बेरियाहका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:06.832859264Z",
+  "model": "glm-5.3"
+}

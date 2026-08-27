@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 11:14",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "म सक्दिनँ, म एक्लै, ⟨את⟩ यो सारा जनतालाई बोक्न; किनकि यो मभन्दा गह्रौँ छ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "सक्दिनँ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सक्दिनँ"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "एक्लै"
+    },
+    {
+      "surface": "לשאת",
+      "gloss": "बोक्न"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो सारा जनतालाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनतालाई"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "गह्रौँ"
+    },
+    {
+      "surface": "मמני",
+      "gloss": "मभन्दा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:34.384140823Z",
+  "model": "glm-5.3"
+}

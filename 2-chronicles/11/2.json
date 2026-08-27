@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-chronicles 11:2",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "यहवेको वचन एलोहीमको मानिस शमायाहकहाँ आयो, यसो भन्दै —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "שמעיהו",
+      "gloss": "शमायाह"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "האलהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-27T01:36:34.408422820Z",
+  "model": "glm-5.3"
+}

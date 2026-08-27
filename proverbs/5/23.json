@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 5:23",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "ऊ अनुशासनविना मर्नेछ, र आफ्नै मूर्खताको बाहुल्यमा ऊ भटक्नेछ।",
+  "tokens": [
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ימות",
+      "gloss": "मर्नेछ"
+    },
+    {
+      "surface": "באין",
+      "gloss": "विना"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "अनुशासन"
+    },
+    {
+      "surface": "וברב",
+      "gloss": "र…बाहुल्यमा"
+    },
+    {
+      "surface": "אולתו",
+      "gloss": "आफ्नै मूर्खताको"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "भटक्नेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:29.435705027Z",
+  "model": "glm-5.3"
+}

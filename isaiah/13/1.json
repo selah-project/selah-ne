@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 13:1",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "बाबेलको भार — यशैयाहले, अमोत्सका छोराले, देखेको कुरा।",
+  "tokens": [
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेलको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखेको कुरा"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "यशैयाहले"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोराले"
+    },
+    {
+      "surface": "אמוץ",
+      "gloss": "अमोत्सका"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:35.099254032Z",
+  "model": "glm-5.3"
+}

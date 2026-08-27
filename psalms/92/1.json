@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 92:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 92,
+  "translation": "मिज्मोर, गीत — शब्बातको दिनका लागि।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मिज्मोर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "ליום",
+      "gloss": "दिनका लागि"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बातको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:19.062410683Z",
+  "model": "glm-5.3"
+}

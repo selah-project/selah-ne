@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 8:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "उसले आफ्नी श्रीमती खोदेशबाट ⟨את⟩ योभभ, ⟨את⟩ त्सिब्या, ⟨את⟩ मेशा र ⟨את⟩ मलकामलाई जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "खोदेश"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "आफ्नी श्रीमती"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "योभभ"
+    },
+    {
+      "surface": "יובב",
+      "gloss": "योभभ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "त्सिब्या"
+    },
+    {
+      "surface": "צביא",
+      "gloss": "त्सिब्या"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "मेशा"
+    },
+    {
+      "surface": "מישא",
+      "gloss": "मेशा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "मलकाम"
+    },
+    {
+      "surface": "מלכם",
+      "gloss": "मलकाम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:20.359015958Z",
+  "model": "glm-5.3"
+}

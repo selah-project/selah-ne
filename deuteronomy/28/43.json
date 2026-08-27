@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "deuteronomy 28:43",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "तिम्रो बीचमा रहेको आगन्तुक तिम्रोमाथि माथि-माथि उक्लनेछ, र तिमी तल-तल झर्नेछौ।",
+  "tokens": [
+    {
+      "surface": "הגר",
+      "gloss": "आगन्तुक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בקרבך",
+      "gloss": "तिम्रो बीचमा रहेको"
+    },
+    {
+      "surface": "יעלה",
+      "gloss": "उक्लनेछ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तिम्रोमाथि"
+    },
+    {
+      "surface": "מעלה",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "मעלה",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ואתה",
+      "gloss": "र तिमी"
+    },
+    {
+      "surface": "תרד",
+      "gloss": "झर्नेछौ"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "तल"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "तल"
+    }
+  ],
+  "timestamp": "2026-08-26T21:06:18.083356419Z",
+  "model": "glm-5.3"
+}

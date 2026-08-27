@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 4:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र म ⟨את⟩ मरेकाहरूको प्रशंसा गर्छु, जो पहिले नै मरिसके, जीवितहरूभन्दा — जो अझै जीवित छन्।",
+  "tokens": [
+    {
+      "surface": "ושבח",
+      "gloss": "र प्रशंसा गर्छु"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मरेकाहरू"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मरेकाहरूको"
+    },
+    {
+      "surface": "שכבר",
+      "gloss": "पहिले नै"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरिसके"
+    },
+    {
+      "surface": "מן",
+      "gloss": "भन्दा"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवितहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "המה",
+      "gloss": "तिनीहरू"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "עדנה",
+      "gloss": "अझैसम्म"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:48.978314625Z",
+  "model": "glm-5.3"
+}

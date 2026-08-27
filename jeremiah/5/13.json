@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "jeremiah 5:13",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र नबीहरू हावा बन्नेछन्, र ⟨the⟩ वचन उनीहरूमा छैन; यसै उनीहरूलाई गरिनेछ।",
+  "tokens": [
+    {
+      "surface": "והנביאים",
+      "gloss": "र नबीहरू"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "बन्नेछन्"
+    },
+    {
+      "surface": "לרוח",
+      "gloss": "हावाका रूपमा"
+    },
+    {
+      "surface": "והדבר",
+      "gloss": "र ⟨the⟩ वचन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "उनीहरूमा"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यसै"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गरिनेछ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "उनीहरूलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T22:46:58.913860822Z",
+  "model": "glm-5.3"
+}

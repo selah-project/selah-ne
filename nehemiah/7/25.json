@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "nehemiah 7:25",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "गिबोनका छोराहरू, पचानब्बे।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबोन"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "र पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:53.474984762Z",
+  "model": "glm-5.3"
+}

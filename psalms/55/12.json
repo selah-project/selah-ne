@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 55:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 55,
+  "translation": "विनाश ⟨छ⟩ त्यसको बीचमा, र उत्पीडन र छल त्यसको चौकबाट हट्दैनन्।",
+  "tokens": [
+    {
+      "surface": "הוות",
+      "gloss": "विनाश"
+    },
+    {
+      "surface": "בקרבה",
+      "gloss": "त्यसको बीचमा"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "हट्छ"
+    },
+    {
+      "surface": "מרחבה",
+      "gloss": "त्यसको चौकबाट"
+    },
+    {
+      "surface": "תך",
+      "gloss": "उत्पीडन"
+    },
+    {
+      "surface": "ומרמה",
+      "gloss": "र छल"
+    }
+  ],
+  "timestamp": "2026-08-26T23:59:13.225333379Z",
+  "model": "glm-5.3"
+}

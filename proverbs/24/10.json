@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 24:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "सङ्कटको दिनमा तिमी ढिलो भयौ भने, तिम्रो शक्ति न्यून छ।",
+  "tokens": [
+    {
+      "surface": "התרפית",
+      "gloss": "ढिलो भयौ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "सङ्कटको"
+    },
+    {
+      "surface": "צר",
+      "gloss": "न्यून"
+    },
+    {
+      "surface": "כחכה",
+      "gloss": "तिम्रो शक्ति"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:22.782345810Z",
+  "model": "glm-5.3"
+}

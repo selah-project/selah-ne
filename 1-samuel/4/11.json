@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 4:11",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र एलोहीमको सन्दुक खोसियो, र एलीका दुई छोराहरू मरे — खप्नी र पिन्खास।",
+  "tokens": [
+    {
+      "surface": "וארון",
+      "gloss": "र सन्दुक"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "נלקח",
+      "gloss": "खोसियो"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "एलीका"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "חפני",
+      "gloss": "खप्नी"
+    },
+    {
+      "surface": "ופינחס",
+      "gloss": "र पिन्खास"
+    }
+  ],
+  "timestamp": "2026-08-26T21:31:29.891642951Z",
+  "model": "glm-5.3"
+}

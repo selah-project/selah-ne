@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ecclesiastes 1:14",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "मैले घामको तल गरिएका ⟨את⟩ सबै कामहरू देखेँ, र हेर, सबै ⟨is⟩ शून्यता र हावाको सताव।",
+  "tokens": [
+    {
+      "surface": "ראיתי",
+      "gloss": "मैले देखेँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै कामहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "המעשים",
+      "gloss": "कामहरू"
+    },
+    {
+      "surface": "שנעשו",
+      "gloss": "जे गरिएका"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "घामको"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "शून्यता"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "र सताव"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हावाको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:02.835887825Z",
+  "model": "glm-5.3"
+}

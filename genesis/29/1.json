@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 29:1",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "याकोभले आफ्ना खुट्टा उठाए र पूर्वका छिमेकीहरूको भूमितर्फ हिँडे।",
+  "tokens": [
+    {
+      "surface": "וישא",
+      "gloss": "उठाए"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभले"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "आफ्ना खुट्टा"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "हिँडे"
+    },
+    {
+      "surface": "ארצה",
+      "gloss": "भूमितर्फ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छिमेकीहरूको"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "पूर्वका"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:04.264315139Z",
+  "model": "glm-5.3"
+}

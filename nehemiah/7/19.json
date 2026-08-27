@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "nehemiah 7:19",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बिग्वैका छोराहरू — दुई हजार सठ्ठी र सात।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בגוי",
+      "gloss": "बिग्वैका"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दुई हजार"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "सठ्ठी"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "र सात"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:55.399577333Z",
+  "model": "glm-5.3"
+}

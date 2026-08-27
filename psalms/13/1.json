@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 13:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "सङ्गीतकारका लागि — दाउदको मझमोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "सङ्गीतकारका लागि"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मझमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाउदका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:51:58.057364017Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "nehemiah 7:41",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "पश्खुरका छोराहरू — एक हजार दुई सय चालीस र सात।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "पश्खुरका"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "र सात"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:52.171249333Z",
+  "model": "glm-5.3"
+}

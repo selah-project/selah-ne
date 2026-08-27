@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 14:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "क्रोधमा छोटो ⟨मानिसले⟩ मूर्खता गर्छ, र कुचक्री मानिस घृणित हुन्छ।",
+  "tokens": [
+    {
+      "surface": "קצר",
+      "gloss": "छोटो"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "क्रोध (नाक)"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गर्छ"
+    },
+    {
+      "surface": "אולת",
+      "gloss": "मूर्खता"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "र मानिस"
+    },
+    {
+      "surface": "מזמות",
+      "gloss": "कुचक्र"
+    },
+    {
+      "surface": "ישנא",
+      "gloss": "घृणित हुन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:27.584742139Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 5:4",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "राम्रो हो जुन तिमी बचन दिँदैनौ, बचन दिएर नपूरा गर्ने भन्दा।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תדר",
+      "gloss": "तिमी बचन दिन्छौ"
+    },
+    {
+      "surface": "משתדור",
+      "gloss": "भन्दा बचन दिएर"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תשלם",
+      "gloss": "पूरा गर्छौ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:32.408903265Z",
+  "model": "glm-5.3"
+}

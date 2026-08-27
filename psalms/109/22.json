@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "psalms 109:22",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 109,
+  "translation": "किनकि म दुःखी र निर्धन छु, र मेरो मुटु मभित्र घाइते ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "עני",
+      "gloss": "दुःखी"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "र निर्धन"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म छु"
+    },
+    {
+      "surface": "ולבי",
+      "gloss": "र मेरो मुटु"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "घाइते"
+    },
+    {
+      "surface": "בקרבי",
+      "gloss": "मभित्र"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:10.010453358Z",
+  "model": "glm-5.3"
+}

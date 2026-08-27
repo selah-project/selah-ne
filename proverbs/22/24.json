@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 22:24",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "क्रोधको धनीसँग ⟨את⟩ साथी नबन, र रिसाउने मानिससँग ⟨את⟩ नजाऊ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתרע",
+      "gloss": "साथी नबन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩ सँग",
+      "marks": "क्रोधको धनी"
+    },
+    {
+      "surface": "בעל",
+      "gloss": "क्रोधको धनी"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩ सँग"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "חמות",
+      "gloss": "रिसाउने"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नजाऊ"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "नजाऊ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:24.149842982Z",
+  "model": "glm-5.3"
+}

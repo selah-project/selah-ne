@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 13:16",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "तर जीवित मासु फेरि फर्केर सेतोमा परिणत भएमा ऊ हाकोहेनकहाँ आउनेछ।",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "तर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "भएमा"
+    },
+    {
+      "surface": "ישוב",
+      "gloss": "फेरि फर्केर"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "החי",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "ונהפך",
+      "gloss": "परिणत भएमा"
+    },
+    {
+      "surface": "ללבן",
+      "gloss": "सेतोमा"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "आउनेछ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हाकोहेनक"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:14.446628024Z",
+  "model": "glm-5.3"
+}

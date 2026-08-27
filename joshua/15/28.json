@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 15:28",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "अनि खत्सर-शुआल, र बेएर-शेबा, र बिज्योत्याह।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "र खत्सर-"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "शुआल"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "र बेएर-"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेबा"
+    },
+    {
+      "surface": "ובזיותיה",
+      "gloss": "र बिज्योत्याह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:55:39.742289612Z",
+  "model": "glm-5.3"
+}

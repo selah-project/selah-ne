@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "1-chronicles 5:32",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "उज्जीले ⟨את⟩ जेरख्यालाई जन्म दिए; जेरख्याले ⟨את⟩ मरायोतलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ועזי",
+      "gloss": "उज्जीले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जेरख्यालाई"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "जेरख्या"
+    },
+    {
+      "surface": "וזרחיה",
+      "gloss": "जेरख्याले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मरायोतलाई"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "मरायोत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:27.509752282Z",
+  "model": "glm-5.3"
+}

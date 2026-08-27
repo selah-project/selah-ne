@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "1-chronicles 11:43",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "खानान, माआखाको छोरा, र योशाफात मित्नी।",
+  "tokens": [
+    {
+      "surface": "חנן",
+      "gloss": "खानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "मעכה",
+      "gloss": "माआखा"
+    },
+    {
+      "surface": "ויושפט",
+      "gloss": "र योशाफात"
+    },
+    {
+      "surface": "המתני",
+      "gloss": "मित्नी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:34.593809964Z",
+  "model": "glm-5.3"
+}

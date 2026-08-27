@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 56,
+  "ref": "nehemiah 7:56",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "नेत्सियाचका छोराहरू, चतिफाका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "נציח",
+      "gloss": "नेत्सियाचका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חטיפא",
+      "gloss": "चतिफाका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:42.334389761Z",
+  "model": "glm-5.3"
+}

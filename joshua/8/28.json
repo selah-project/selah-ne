@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 8:28",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "यहोशुआले हाइलाई ⟨את⟩ जलाए, र त्यसलाई सदाको लागि खालडार बनाए, यो दिनसम्म उजाड भइरहने।",
+  "tokens": [
+    {
+      "surface": "וישרף",
+      "gloss": "र जलाए"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "हाइलाई"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाइ"
+    },
+    {
+      "surface": "וישימה",
+      "gloss": "र बनाए"
+    },
+    {
+      "surface": "תל",
+      "gloss": "खालडार"
+    },
+    {
+      "surface": "עולם",
+      "gloss": "सदाको लागि"
+    },
+    {
+      "surface": "שממה",
+      "gloss": "उजाड"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:12:31.063769321Z",
+  "model": "glm-5.3"
+}

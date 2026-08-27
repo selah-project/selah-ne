@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 70:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 70,
+  "translation": "जो भन्छन् 'हा! हा!' — तिनीहरू आफ्नो लज्जाको कारण फर्किनेछन्।",
+  "tokens": [
+    {
+      "surface": "ישובו",
+      "gloss": "फर्किनेछन्"
+    },
+    {
+      "surface": "על",
+      "gloss": "का कारण"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "फलस्वरूप"
+    },
+    {
+      "surface": "בשתם",
+      "gloss": "आफ्नो लज्जा"
+    },
+    {
+      "surface": "האמרים",
+      "gloss": "जो भन्छन्"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हा!"
+    },
+    {
+      "surface": "האח",
+      "gloss": "हा!"
+    }
+  ],
+  "timestamp": "2026-08-27T00:01:59.049072947Z",
+  "model": "glm-5.3"
+}

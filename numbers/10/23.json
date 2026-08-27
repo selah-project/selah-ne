@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "numbers 10:23",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र मनश्शेका छोराहरूको कुलको सेनामाथि गम्लिएल, पेदाह-त्सुरको छोरा, थियो।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "מנשה",
+      "gloss": "मनश्शे"
+    },
+    {
+      "surface": "גמליאל",
+      "gloss": "गम्लिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "פדה",
+      "gloss": "पेदाह-"
+    },
+    {
+      "surface": "צור",
+      "gloss": "त्सुर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:37.683535852Z",
+  "model": "glm-5.3"
+}

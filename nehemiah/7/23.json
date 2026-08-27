@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "nehemiah 7:23",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बेत्साइका छोराहरू तीन सय बीस र चार।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בצי",
+      "gloss": "बेत्साइ"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "וארבעה",
+      "gloss": "र चार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:55.916945106Z",
+  "model": "glm-5.3"
+}

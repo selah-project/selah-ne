@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 13:14",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "नाफ्तालीको कुलका लागि नख्बी, भफ्सीको छोरा।",
+  "tokens": [
+    {
+      "surface": "למטה",
+      "gloss": "कुलका लागि"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्तालीको"
+    },
+    {
+      "surface": "נחבי",
+      "gloss": "नख्बी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ופסי",
+      "gloss": "भफ्सीको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:58.154336191Z",
+  "model": "glm-5.3"
+}

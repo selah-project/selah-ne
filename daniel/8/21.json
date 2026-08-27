@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "daniel 8:21",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र ⟨the⟩ रुखो खसी ⟨the⟩ यावानको राजा हो; र ⟨the⟩ ठूलो सिङ्ग जुन ⟨his⟩ आँखाहरूबिच छ, ⟨it⟩ ⟨the⟩ पहिलो राजा हो।",
+  "tokens": [
+    {
+      "surface": "והצפיר",
+      "gloss": "र खसी"
+    },
+    {
+      "surface": "השעיר",
+      "gloss": "रुखो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יון",
+      "gloss": "यावानको"
+    },
+    {
+      "surface": "והקרן",
+      "gloss": "र सिङ्ग"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बिच"
+    },
+    {
+      "surface": "עיניו",
+      "gloss": "आँखाहरू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिलो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:01:48.157464817Z",
+  "model": "glm-5.3"
+}

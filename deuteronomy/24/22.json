@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 24:22",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र तिमी सम्झनेछौ कि तिमी मिस्र देशमा दास थियौ; त्यसैले म तिमीलाई ⟨את⟩ यो कुरा गर्न आज्ञा दिन्छु।",
+  "tokens": [
+    {
+      "surface": "וזכרת",
+      "gloss": "र सम्झनेछौ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "היית",
+      "gloss": "थियौ"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्र"
+    },
+    {
+      "surface": "על",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "כן",
+      "gloss": "सैले"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "मצוך",
+      "gloss": "आज्ञा दिन्छु"
+    },
+    {
+      "surface": "לעשות",
+      "gloss": "गर्न"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो कुरा"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:02.796292660Z",
+  "model": "glm-5.3"
+}

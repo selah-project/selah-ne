@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 1:27",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अब्राम — उहाँ नै अब्राहाम हुनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "אברם",
+      "gloss": "अब्राम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उहाँ नै"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अब्राहाम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:57.908800066Z",
+  "model": "glm-5.3"
+}

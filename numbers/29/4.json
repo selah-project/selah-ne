@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 29:4",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र एक इस्रोन प्रत्येक बिरालाका लागि, सात बिरालाहरूका लागि।",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "र एक इस्रोन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "बिरालाका लागि"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सातका लागि"
+    },
+    {
+      "surface": "הכבשים",
+      "gloss": "बिरालाहरूका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:49:13.899399987Z",
+  "model": "glm-5.3"
+}

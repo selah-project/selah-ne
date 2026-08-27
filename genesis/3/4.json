@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "genesis 3:4",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तब सर्पले स्त्रीलाई भन्यो, \"तिमीहरू निश्चय नै मर्नेछौ ।\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "तब …ले भन्यो"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "सर्प"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "האשा",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मर्ने"
+    },
+    {
+      "surface": "תמתון",
+      "gloss": "तिमीहरू मर्नेछौ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:11.139205197Z",
+  "model": "glm-5.3"
+}

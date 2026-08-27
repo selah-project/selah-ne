@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 23:10",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र शिमीका छोराहरू: यखत, जिना, येउश र बेरिया। यिनी चार जना शिमीका छोराहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमीका"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "यखत"
+    },
+    {
+      "surface": "זינא",
+      "gloss": "जिना"
+    },
+    {
+      "surface": "ויעוש",
+      "gloss": "र येउश"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "र बेरिया"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यिनी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमीका"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:36.950214452Z",
+  "model": "glm-5.3"
+}

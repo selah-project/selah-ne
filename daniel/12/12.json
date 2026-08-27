@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "daniel 12:12",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "धन्य छ ⟨त्यो⟩ जो पर्खन्छ, र एक हजार तीन सय पैंतीस दिनहरूमा पुग्छ।",
+  "tokens": [
+    {
+      "surface": "אשרי",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "המחכה",
+      "gloss": "जो पर्खन्छ"
+    },
+    {
+      "surface": "ויגיע",
+      "gloss": "र पुग्छ"
+    },
+    {
+      "surface": "לימים",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "पैंतीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "र पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:29.791246146Z",
+  "model": "glm-5.3"
+}

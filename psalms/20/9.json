@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 20:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "तिनीहरू घुँडा टेकेर ढले, तर हामी उठ्यौँ र स्थिर उभियौँ।",
+  "tokens": [
+    {
+      "surface": "המה",
+      "gloss": "तिनीहरू"
+    },
+    {
+      "surface": "כרעו",
+      "gloss": "घुँडा टेकेर"
+    },
+    {
+      "surface": "ונפלו",
+      "gloss": "र ढले"
+    },
+    {
+      "surface": "ואנחנו",
+      "gloss": "तर हामी"
+    },
+    {
+      "surface": "קמנו",
+      "gloss": "उठ्यौँ"
+    },
+    {
+      "surface": "ונתעודד",
+      "gloss": "र स्थिर उभियौँ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:52:00.426983483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 32:34",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "के त्यो मसँग थन्क्याइएको छैन र, मेरा भण्डारहरूमा छाप लगाइएको छ?",
+  "tokens": [
+    {
+      "surface": "הלא",
+      "gloss": "के…छैन र"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "כמוס",
+      "gloss": "थन्क्याइएको"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "छाप लगाइएको"
+    },
+    {
+      "surface": "באוצרתי",
+      "gloss": "मेरा भण्डारहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:08:42.126072246Z",
+  "model": "glm-5.3"
+}

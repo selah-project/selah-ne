@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "isaiah 2:14",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र सबै उच्च पहाडहरूमाथि, र सबै उठेका डाँडाहरूमाथि।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र …माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ההרים",
+      "gloss": "पहाडहरू"
+    },
+    {
+      "surface": "הרמים",
+      "gloss": "उच्च"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र …माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הגבעות",
+      "gloss": "डाँडाहरू"
+    },
+    {
+      "surface": "הנשאות",
+      "gloss": "उठेका"
+    }
+  ],
+  "timestamp": "2026-08-26T22:22:45.350677760Z",
+  "model": "glm-5.3"
+}

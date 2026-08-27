@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "joshua 3:2",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र ⟨यो⟩ भयो, तीन दिनको अन्त्यमा, र अधिकारीहरू छाउनीको बीचबाट गुज्रे।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "מקצה",
+      "gloss": "अन्त्यमा"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनको"
+    },
+    {
+      "surface": "ויעברו",
+      "gloss": "गुज्रे"
+    },
+    {
+      "surface": "השטרים",
+      "gloss": "अधिकारीहरू"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "बीचबाट"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छाउनीको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:09:51.965243107Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "joshua 19:46",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र मे-हय्यार्कोन, र हाराकोन, ⟨the⟩ सीमासहित, याफोको अगाडि।",
+  "tokens": [
+    {
+      "surface": "ומי",
+      "gloss": "र मे-"
+    },
+    {
+      "surface": "הירקון",
+      "gloss": "हय्यार्कोन"
+    },
+    {
+      "surface": "והרקון",
+      "gloss": "र हाराकोन"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सहित"
+    },
+    {
+      "surface": "הגבול",
+      "gloss": "⟨the⟩ सीमा"
+    },
+    {
+      "surface": "מול",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "יפו",
+      "gloss": "याफो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:57.003992987Z",
+  "model": "glm-5.3"
+}

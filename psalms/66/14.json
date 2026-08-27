@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 66:14",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 66,
+  "translation": "जुन ⟨is⟩ मेरा ओठहरूले खोलेका, र मेरो मुखले मेरो सङ्कटमा बोलेको थियो।",
+  "tokens": [
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "פצו",
+      "gloss": "खोलेका"
+    },
+    {
+      "surface": "שפתי",
+      "gloss": "मेरा ओठहरूले"
+    },
+    {
+      "surface": "ודבר",
+      "gloss": "र बोलेको"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरो मुखले"
+    },
+    {
+      "surface": "בצר",
+      "gloss": "सङ्कटमा"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:00:54.550776570Z",
+  "model": "glm-5.3"
+}

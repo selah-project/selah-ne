@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 11:12",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "जुनसुकै चीज पानीमा पाँखुडे र खत्रो भएन, त्यो तिमीहरूका लागि घृणित ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जुनसुकै चीज"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "भएन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पाँखुडे"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "र खत्रो"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानीमा"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणित"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो ⟨हो⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:51:51.892869572Z",
+  "model": "glm-5.3"
+}

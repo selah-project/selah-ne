@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 50:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "रथहरू पनि उसको साथमा माथि उक्ले, घोडसवारहरू पनि; र त्यो शिविर अत्यन्तै ठूलो भयो।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "उक्ल्यो"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसको साथमा"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "רכב",
+      "gloss": "रथहरू"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "פרשים",
+      "gloss": "घोडसवारहरू"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "त्यो शिविर"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्तै"
+    }
+  ],
+  "timestamp": "2026-08-27T01:51:00.576666004Z",
+  "model": "glm-5.3"
+}

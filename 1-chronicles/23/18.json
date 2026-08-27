@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 23:18",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "यित्सहारका छोराहरू — शेलोमित ⟨सरदार⟩।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "यित्सहारका"
+    },
+    {
+      "surface": "שלמית",
+      "gloss": "शेलोमित"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "⟨सरदार⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:45.740685267Z",
+  "model": "glm-5.3"
+}

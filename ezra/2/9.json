@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezra 2:9",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "जाक्काइका छोराहरू, सात सय र साठी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "זכי",
+      "gloss": "जाक्काइका"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "र साठी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:39.030084638Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 14:20",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "हरेक शुद्ध चरा तिमीहरू खान सक्छौ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चरा"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "तिमीहरू खान सक्छौ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:58.009868926Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 7:4",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र राजा र सबै जनताले यहवेको सामु बलि बलिदान गरिरहेका थिए।",
+  "tokens": [
+    {
+      "surface": "והמלך",
+      "gloss": "र राजा"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "זבחים",
+      "gloss": "बलि दिइरहेका थिए"
+    },
+    {
+      "surface": "זבח",
+      "gloss": "बलि"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:33:28.092197360Z",
+  "model": "glm-5.3"
+}

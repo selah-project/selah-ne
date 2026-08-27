@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "jeremiah 48:21",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र न्याय-दण्ड मैदानको देशमा आउँछ — खोलोनमा, याख्सामा र मोफाआतमाथि।",
+  "tokens": [
+    {
+      "surface": "ומשפט",
+      "gloss": "र न्याय-दण्ड"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "मैदानको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "חלון",
+      "gloss": "खोलोन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र"
+    },
+    {
+      "surface": "יהצה",
+      "gloss": "याख्सा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "מופעת",
+      "gloss": "मोफाआतमाथि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:06:43.164659695Z",
+  "model": "glm-5.3"
+}

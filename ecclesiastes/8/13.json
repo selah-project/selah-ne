@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 8:13",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र भलो दुष्टलाई हुनेछैन, र ⟨the⟩ दुष्टले आफ्ना दिनहरू लम्बाउनेछैन, छायाँजस्तै, किनकि ⟨he⟩ एलोहीमको अगाडि डराउँदैन।",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "र भलो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "हुनेछैन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछैन"
+    },
+    {
+      "surface": "לרשע",
+      "gloss": "दुष्टलाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "יאריך",
+      "gloss": "लम्बाउनेछैन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "כצל",
+      "gloss": "छायाँजस्तै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "उहाँ होइन"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डराउने"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:39.346639075Z",
+  "model": "glm-5.3"
+}

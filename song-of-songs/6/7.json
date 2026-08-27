@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "song-of-songs 6:7",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "तिम्रो कनपटी तिम्रो पट्टी पछाडि अनारको टुक्राजस्तो छ।",
+  "tokens": [
+    {
+      "surface": "כפלח",
+      "gloss": "टुक्राजस्तो"
+    },
+    {
+      "surface": "הרמון",
+      "gloss": "अनारको"
+    },
+    {
+      "surface": "רקתך",
+      "gloss": "तिम्रो कनपटी"
+    },
+    {
+      "surface": "מבעד",
+      "gloss": "पछाडि"
+    },
+    {
+      "surface": "लצמתך",
+      "gloss": "तिम्रो पट्टी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:43:52.046072939Z",
+  "model": "glm-5.3"
+}

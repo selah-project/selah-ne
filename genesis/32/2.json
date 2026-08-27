@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 32:2",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र याकोभ आफ्नो बाटोमा हिँडे, र एलोहीमका दूतहरू उहाँलाई भेटे।",
+  "tokens": [
+    {
+      "surface": "ויעקב",
+      "gloss": "र याकोभ"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "हिँडे"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "आफ्नो बाटोमा"
+    },
+    {
+      "surface": "ויפגעו",
+      "gloss": "भेटे"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उहाँलाई"
+    },
+    {
+      "surface": "מלאכי",
+      "gloss": "दूतहरू"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमका"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:06.222702752Z",
+  "model": "glm-5.3"
+}

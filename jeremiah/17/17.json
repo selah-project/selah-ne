@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "jeremiah 17:17",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "मेरा लागि आतङ्क नबन्नुहोस्; विपत्तिको दिनमा तपाईँ नै मेरो शरण हुनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "बन्नुहोस्"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरा लागि"
+    },
+    {
+      "surface": "למחתה",
+      "gloss": "आतङ्क"
+    },
+    {
+      "surface": "מחסי",
+      "gloss": "मेरो शरण"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तपाईँ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "विपत्तिको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:52:42.414619715Z",
+  "model": "glm-5.3"
+}

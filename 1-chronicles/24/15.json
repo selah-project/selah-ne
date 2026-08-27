@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 24:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "सत्रौँ हेजिरलाई, अठारौँ हप्पित्सेसलाई।",
+  "tokens": [
+    {
+      "surface": "לחזיר",
+      "gloss": "हेजिरलाई"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सत्रौँ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨सत्रौँभित्रको -teen⟩"
+    },
+    {
+      "surface": "להפצץ",
+      "gloss": "हप्पित्सेसलाई"
+    },
+    {
+      "surface": "שמונה",
+      "gloss": "अठारौँ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨अठारौँभित्रको -teen⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:55.445079682Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 20:16",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "तँ ⟨आफ्नो⟩ छिमेकीविरुद्ध झूटो गवाही नदे।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תענה",
+      "gloss": "उत्तर दे \/ गवाही दे"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "छिमेकीविरुद्ध"
+    },
+    {
+      "surface": "עד",
+      "gloss": "गवाही"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूटो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:48.294999896Z",
+  "model": "glm-5.3"
+}

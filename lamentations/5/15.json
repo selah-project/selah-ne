@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "lamentations 5:15",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "हाम्रो मुटुको आनन्द बन्द भयो, हाम्रो नाच शोकमा परिणत भयो।",
+  "tokens": [
+    {
+      "surface": "שבת",
+      "gloss": "बन्द भयो"
+    },
+    {
+      "surface": "משוש",
+      "gloss": "आनन्द"
+    },
+    {
+      "surface": "לבנו",
+      "gloss": "हाम्रो मुटुको"
+    },
+    {
+      "surface": "נהפך",
+      "gloss": "परिणत भयो"
+    },
+    {
+      "surface": "לאבל",
+      "gloss": "शोकमा"
+    },
+    {
+      "surface": "מחלנו",
+      "gloss": "हाम्रो नाच"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:22.342444208Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 11:23",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "धर्मीहरूको चाहना केवल भलाइ ⟨हो⟩; दुष्टहरूको आशा ⟨भने⟩ क्रोध-विस्फोट।",
+  "tokens": [
+    {
+      "surface": "תאות",
+      "gloss": "चाहना"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धर्मीहरूको"
+    },
+    {
+      "surface": "אך",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलाइ"
+    },
+    {
+      "surface": "תקות",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरूको"
+    },
+    {
+      "surface": "עברה",
+      "gloss": "क्रोध-विस्फोट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:57.347998558Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 18:27",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "रेकेम, यिर्पेएल र तारालाह,",
+  "tokens": [
+    {
+      "surface": "ורקם",
+      "gloss": "रेकेम"
+    },
+    {
+      "surface": "וירפאל",
+      "gloss": "यिर्पेएल"
+    },
+    {
+      "surface": "ותראלה",
+      "gloss": "तारालाह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:57.898849289Z",
+  "model": "glm-5.3"
+}

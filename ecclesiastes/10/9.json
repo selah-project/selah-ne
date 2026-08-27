@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 10:9",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "ढुङ्गा हलाउने तिनैले त्यसैले घाइते हुन्छ, र रूख चिर्नेले त्यसैले जोखिममा पर्छ।",
+  "tokens": [
+    {
+      "surface": "מסיע",
+      "gloss": "हलाउने"
+    },
+    {
+      "surface": "אבנים",
+      "gloss": "ढुङ्गा"
+    },
+    {
+      "surface": "יעצף",
+      "gloss": "घाइते हुन्छ"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "בוקע",
+      "gloss": "चिर्ने"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "יסכן",
+      "gloss": "जोखिममा पर्छ"
+    },
+    {
+      "surface": "בם",
+      "gloss": "त्यसैले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:00.700797627Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 94:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 94,
+  "translation": "प्रतिशोधका एल यहवे, प्रतिशोधका एल, ⟨उज्यालो देखाउनुहोस्⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "प्रतिशोधका"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "נקמות",
+      "gloss": "प्रतिशोधका"
+    },
+    {
+      "surface": "הופיע",
+      "gloss": "उज्यालो देखाउनुहोस्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:37.808332747Z",
+  "model": "glm-5.3"
+}

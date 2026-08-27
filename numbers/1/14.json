@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 1:14",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "गादका लागि — एल्यासाफ, देउएलको छोरा।",
+  "tokens": [
+    {
+      "surface": "לגד",
+      "gloss": "गादका लागि"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "देउएलको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:46.699443455Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 5:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अखी — अव्दिएलका छोरा, गुनीका छोरा — तिनीहरूका पितृ-घरानको प्रमुख ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "אחי",
+      "gloss": "अखी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עבדיאל",
+      "gloss": "अव्दिएलका"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "גוני",
+      "gloss": "गुनीका"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घरानको"
+    },
+    {
+      "surface": "אבותם",
+      "gloss": "तिनीहरूका पितृ-"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:59.125736053Z",
+  "model": "glm-5.3"
+}

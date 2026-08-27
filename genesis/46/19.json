@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 46:19",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 46,
+  "translation": "याकोभकी पत्नी राखेलका छोराहरू: योसेफ र बिन्यामीन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राखेलका"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभकी"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ובנימין",
+      "gloss": "बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:01:00.881934897Z",
+  "model": "glm-5.3"
+}

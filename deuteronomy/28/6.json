@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "deuteronomy 28:6",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "धन्य ⟨हौ⟩ तिमी भित्रिँदा, र धन्य ⟨हौ⟩ तिमी बाहिर निस्कँदा।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "भित्रिँदा"
+    },
+    {
+      "surface": "וברוך",
+      "gloss": "र धन्य"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "बाहिर निस्कँदा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:35.788990864Z",
+  "model": "glm-5.3"
+}

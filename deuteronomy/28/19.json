@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "deuteronomy 28:19",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "आउँदा तिमी धिक्कृत, र जाँदा तिमी धिक्कृत।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "בבאך",
+      "gloss": "आउँदा"
+    },
+    {
+      "surface": "וארור",
+      "gloss": "र धिक्कृत"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "בצאתך",
+      "gloss": "जाँदा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:41.972008075Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 115:17",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 115,
+  "translation": "मृतकहरू याहलाई प्रशंसा गर्दैनन्, न त मौनतामा ओर्लनेहरूमध्ये कोही ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "המתים",
+      "gloss": "मृतकहरू"
+    },
+    {
+      "surface": "יהללו",
+      "gloss": "प्रशंसा गर्दैनन्"
+    },
+    {
+      "surface": "יה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "न त"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ירדי",
+      "gloss": "ओर्लनेहरू"
+    },
+    {
+      "surface": "דומה",
+      "gloss": "मौनता"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:51.951060531Z",
+  "model": "glm-5.3"
+}

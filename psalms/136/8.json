@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 136:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 136,
+  "translation": "⟨את⟩ सूर्यलाई दिनमा शासन गर्न — किनकि सदाको लागि उहाँको खेसेद छ।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सूर्य"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "לממשלת",
+      "gloss": "शासन गर्न"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "लעולם",
+      "gloss": "सदाको लागि"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "उहाँको खेसेद"
+    }
+  ],
+  "timestamp": "2026-08-27T00:16:17.686979948Z",
+  "model": "glm-5.3"
+}

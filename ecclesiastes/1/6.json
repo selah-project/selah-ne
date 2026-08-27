@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 1:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "दक्षिणतर्फ जान्छ र उत्तरतर्फ घुम्छ; घुम्दै-घुम्दै हावा जान्छ, र आफ्ना घेराहरूमा हावा फर्कन्छ।",
+  "tokens": [
+    {
+      "surface": "הולך",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "דרום",
+      "gloss": "दक्षिण"
+    },
+    {
+      "surface": "וסובב",
+      "gloss": "घुम्छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "סובב",
+      "gloss": "घुम्दै"
+    },
+    {
+      "surface": "סבב",
+      "gloss": "घुम्दै"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "हावा"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र ...मा"
+    },
+    {
+      "surface": "סביבתיו",
+      "gloss": "आफ्ना घेराहरू"
+    },
+    {
+      "surface": "שב",
+      "gloss": "फर्कन्छ"
+    },
+    {
+      "surface": "הרוח",
+      "gloss": "हावा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:03.664610368Z",
+  "model": "glm-5.3"
+}

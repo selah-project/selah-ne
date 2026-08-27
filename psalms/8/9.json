@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 8:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "आकाशका चरा र समुद्रका माछाहरू, समुद्रका बाटाहरू चीर्ने ⟨जे छ⟩ सबै।",
+  "tokens": [
+    {
+      "surface": "צפור",
+      "gloss": "चरा"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाशका"
+    },
+    {
+      "surface": "ודגי",
+      "gloss": "र माछाहरू"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्रका"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "चीर्ने"
+    },
+    {
+      "surface": "ארחות",
+      "gloss": "बाटाहरू"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "समुद्रका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:50:31.847941078Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 33:21",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "तिनीहरू लिब्नाहबाट यात्रा गरे, र रिस्साहमा डेरा बसाए।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "यात्रा गरे"
+    },
+    {
+      "surface": "מלבנה",
+      "gloss": "लिब्नाहबाट"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "ברסה",
+      "gloss": "रिस्साहमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:00.445696724Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 16:20",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "अनि यहवेले मोशे र अहारोनलाई यी शब्दहरू भन्दै बोल्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोनलाई"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:43:36.257793662Z",
+  "model": "glm-5.3"
+}

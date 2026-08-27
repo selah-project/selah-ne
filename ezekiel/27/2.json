@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 27:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र तिमी, मानिसका छोरा, त्सोरको विषयमा एउटा विलाप उठाऊ,",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "र तिमी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसका"
+    },
+    {
+      "surface": "שא",
+      "gloss": "उठाऊ"
+    },
+    {
+      "surface": "על",
+      "gloss": "को विषयमा"
+    },
+    {
+      "surface": "צר",
+      "gloss": "त्सोर"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "विलाप"
+    }
+  ],
+  "timestamp": "2026-08-26T23:22:38.989427087Z",
+  "model": "glm-5.3"
+}

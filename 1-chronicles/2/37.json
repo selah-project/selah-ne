@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 2:37",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र जाबादले ⟨את⟩ एफ्लाललाई जन्म दिए, र एफ्लालले ⟨את⟩ ओभेदलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "וזבד",
+      "gloss": "र जाबादले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफ्लाललाई"
+    },
+    {
+      "surface": "אפלל",
+      "gloss": "एफ्लाल"
+    },
+    {
+      "surface": "ואפלל",
+      "gloss": "र एफ्लालले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओभेदलाई"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओभेद"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:10.155357877Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 2:4",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र राजाले मलाई भन्नुभयो, “तिमी के माग्दै हौ?” तब मैले आकाशका एलोहीमलाई प्रार्थना गरें।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "हमल्च",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "על",
+      "gloss": "विषयमा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "מבקש",
+      "gloss": "माग्दै हौ"
+    },
+    {
+      "surface": "ואתפלל",
+      "gloss": "र प्रार्थना गरें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:10:21.500904984Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "job 30:8",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "मूर्खका छोराहरू, नाम नभएकाका छोराहरू पनि, तिनीहरू जमिनबाट पटकाइए।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "मूर्खका"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "नभएकाका"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "נכאו",
+      "gloss": "पटकाइए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "האר्थ",
+      "gloss": "जमिन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:38:02.429381489Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 7:24",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अनि पानीले पृथ्वीमाथि पचास र सय दिनसम्म बल गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ויגברו",
+      "gloss": "बल गर्‍यो"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानीले"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "ומאת",
+      "gloss": "र सय"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:41.062218913Z",
+  "model": "glm-5.3"
+}

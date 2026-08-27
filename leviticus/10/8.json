@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 10:8",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र यहवेले अहरोनलाई यो भन्दै बोल्नुभयो:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:09.088047926Z",
+  "model": "glm-5.3"
+}

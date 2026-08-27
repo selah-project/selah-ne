@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 19:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र हरेक खुला भाँडो जसमाथि बाँधिएको डोरीको ढाकना छैन, त्यो अशुद्ध ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र हरेक"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "भाँडो"
+    },
+    {
+      "surface": "פתוח",
+      "gloss": "खुला"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसमाथि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "צמיד",
+      "gloss": "बाँधिएको ढाकना"
+    },
+    {
+      "surface": "פתיל",
+      "gloss": "डोरी"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्यसमाथि"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:53.440469438Z",
+  "model": "glm-5.3"
+}

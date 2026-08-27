@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 26:4",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "यहवेमा सधैँ सदासम्म भरोसा गर, किनकि याह यहवे सदाकालका चट्टान हुनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "בטחו",
+      "gloss": "भरोसा गर"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवेमा"
+    },
+    {
+      "surface": "עדי",
+      "gloss": "सधैँ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सदासम्म"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "ביה",
+      "gloss": "याह"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צור",
+      "gloss": "चट्टान"
+    },
+    {
+      "surface": "עולמים",
+      "gloss": "सदाकालका"
+    }
+  ],
+  "timestamp": "2026-08-26T22:30:10.837738434Z",
+  "model": "glm-5.3"
+}

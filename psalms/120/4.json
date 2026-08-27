@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 120:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 120,
+  "translation": "बीरका तीखा बाणहरू — साथै रोझुका अङ्गाराहरू।",
+  "tokens": [
+    {
+      "surface": "חצי",
+      "gloss": "बाणहरू"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बीरका"
+    },
+    {
+      "surface": "שנונים",
+      "gloss": "तीखा"
+    },
+    {
+      "surface": "עם",
+      "gloss": "साथै"
+    },
+    {
+      "surface": "גחלי",
+      "gloss": "अङ्गाराहरू"
+    },
+    {
+      "surface": "רתמים",
+      "gloss": "रोझुका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:04.932428249Z",
+  "model": "glm-5.3"
+}

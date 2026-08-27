@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 8:19",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र वध गरियो; र मोशेले ⟨את⟩ रगत वेदीमा वरिपरि छर्किए।",
+  "tokens": [
+    {
+      "surface": "וישחט",
+      "gloss": "र वध गरियो"
+    },
+    {
+      "surface": "ויזרק",
+      "gloss": "र छर्किए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रगत"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "המזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरिपरि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:37.520977376Z",
+  "model": "glm-5.3"
+}

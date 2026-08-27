@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 26:4",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र दाउदले गुप्तचरहरू पठाए र थाहा पाए कि शाउल नखोनतिर आइपुगेका छन्।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "र पठाए"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउदले"
+    },
+    {
+      "surface": "מרגלים",
+      "gloss": "गुप्तचरहरू"
+    },
+    {
+      "surface": "וידע",
+      "gloss": "र थाहा पाए"
+    },
+    {
+      "surface": "कי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आइपुगेका छन्"
+    },
+    {
+      "surface": "शאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तिर"
+    },
+    {
+      "surface": "नכון",
+      "gloss": "नखोन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:42:46.064927067Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 1:23",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र भयो साँझ, र भयो बिहान — दिन पाँचौँ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "חמישי",
+      "gloss": "पाँचौँ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:40:56.989021539Z",
+  "model": "glm-5.3"
+}

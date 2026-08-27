@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 2:11",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "हो, सियोन! भाग, बस्ने, बाबेलकी छोरीसँग!",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हो"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोन"
+    },
+    {
+      "surface": "המלטי",
+      "gloss": "भाग"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बस्ने"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेलकी"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:42.195598186Z",
+  "model": "glm-5.3"
+}

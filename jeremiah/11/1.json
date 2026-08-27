@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 11:1",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "यहवेहबाट यिर्मियाहुलाई भएको वचन, भन्नुहोस् भनी ⟨म⟩",
+  "tokens": [],
+  "timestamp": "2026-08-26T22:49:37.790877245Z",
+  "model": "glm-5.3"
+}

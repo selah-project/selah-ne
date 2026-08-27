@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "joel 1:1",
+  "book": "joel",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "यहवेको ⟨the⟩ वचन, जो योएल — पतुएलको छोरा — कहाँ आयो।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "פתואל",
+      "gloss": "पतुएल"
+    }
+  ],
+  "timestamp": "2026-08-27T02:10:29.540242621Z",
+  "model": "glm-5.3"
+}

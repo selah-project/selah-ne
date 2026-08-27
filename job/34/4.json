@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "job 34:4",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "हामीलाई न्याय छानौँ; हामीबीच चिनौँ के असल हो।",
+  "tokens": [
+    {
+      "surface": "משפט",
+      "gloss": "न्याय"
+    },
+    {
+      "surface": "נבחרה",
+      "gloss": "छानौँ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हामीलाई"
+    },
+    {
+      "surface": "נדעה",
+      "gloss": "चिनौँ"
+    },
+    {
+      "surface": "בינינו",
+      "gloss": "हामीबीच"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल हो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:39:45.671640159Z",
+  "model": "glm-5.3"
+}

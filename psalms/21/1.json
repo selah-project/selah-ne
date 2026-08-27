@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 21:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "संगीत-निर्देशकका लागि, दाविदको भजन।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशकका लागि"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "भजन"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाविदको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:52:19.699727741Z",
+  "model": "glm-5.3"
+}

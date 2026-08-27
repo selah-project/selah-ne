@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 36:27",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र मिश्कानको पछाडिको भाग पश्चिमतिर उनले छ तख्ता बनाए।",
+  "tokens": [
+    {
+      "surface": "ולירכתי",
+      "gloss": "र पछाडिको भाग"
+    },
+    {
+      "surface": "המשכן",
+      "gloss": "मिश्कानको"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिमतिर"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छ"
+    },
+    {
+      "surface": "קרשים",
+      "gloss": "तख्ता"
+    }
+  ],
+  "timestamp": "2026-08-26T20:20:00.890802022Z",
+  "model": "glm-5.3"
+}

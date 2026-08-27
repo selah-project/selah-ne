@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "isaiah 10:30",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "आवाज उठाऊ, गलीमकी छोरी; सुन, लाइश; हे दुखी अनातोत!",
+  "tokens": [
+    {
+      "surface": "दहली",
+      "gloss": "उठाऊ"
+    },
+    {
+      "surface": "קולך",
+      "gloss": "आवाज"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "גלים",
+      "gloss": "गलीम"
+    },
+    {
+      "surface": "הקשिऑी",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לישה",
+      "gloss": "लाइश"
+    },
+    {
+      "surface": "עניה",
+      "gloss": "दुखी"
+    },
+    {
+      "surface": "ענתות",
+      "gloss": "अनातोत"
+    }
+  ],
+  "timestamp": "2026-08-26T22:25:20.525977309Z",
+  "model": "glm-5.3"
+}

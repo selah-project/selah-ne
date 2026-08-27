@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 16:6",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "म बोल्दा पनि मेरो पीडा रोकिँदैन, र म छोड्दा पनि मबाट के जान्छ?",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אדברה",
+      "gloss": "म बोल्दा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יחשך",
+      "gloss": "रोकिँदैन"
+    },
+    {
+      "surface": "כאבי",
+      "gloss": "मेरो पीडा"
+    },
+    {
+      "surface": "ואחדלה",
+      "gloss": "र म छोड्दा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "מני",
+      "gloss": "मबाट"
+    },
+    {
+      "surface": "יהלך",
+      "gloss": "जान्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:33:50.953229357Z",
+  "model": "glm-5.3"
+}

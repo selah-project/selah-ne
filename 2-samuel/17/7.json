@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "2-samuel 17:7",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र हुशैले अब्शालोमलाई भन्यो, \"यस पटक अहीतोफेलले जो सल्लाह दिएको छ त्यो ⟨is⟩ असल होइन।\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "हुशैले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אבשלום",
+      "gloss": "अब्शालोम"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "असल"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "सल्लाह"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יעץ",
+      "gloss": "दिएको छ"
+    },
+    {
+      "surface": "אחיתפל",
+      "gloss": "अहीतोफेलले"
+    },
+    {
+      "surface": "בפעם",
+      "gloss": "पटक"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यस"
+    }
+  ],
+  "timestamp": "2026-08-26T21:51:41.127227054Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ecclesiastes 1:12",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "म, कोहेलेत, यिस्राएलमा येरुशालाइममा राजा भएँ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "भएँ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलमा"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "येरुशालाइममा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:40.013627641Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 28:21",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "अनुहार चिन्नु असल होइन, र रुटीको एक टुक्राका लागि मानिसले अपराध गर्छ।",
+  "tokens": [
+    {
+      "surface": "הכר",
+      "gloss": "चिन्नु"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "अनुहार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र ...का लागि"
+    },
+    {
+      "surface": "פת",
+      "gloss": "टुक्रा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रुटी"
+    },
+    {
+      "surface": "יפשע",
+      "gloss": "अपराध गर्छ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "मानिस"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:38.479852308Z",
+  "model": "glm-5.3"
+}

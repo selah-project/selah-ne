@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "job 5:16",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र दरिद्रलाई आशा भयो, र अन्यायले आफ्नो मुख थुन्यो।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "לדל",
+      "gloss": "दरिद्रलाई"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "ועלתה",
+      "gloss": "र अन्यायले"
+    },
+    {
+      "surface": "קפצה",
+      "gloss": "थुन्यो"
+    },
+    {
+      "surface": "פיה",
+      "gloss": "आफ्नो मुख"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:24.924576432Z",
+  "model": "glm-5.3"
+}

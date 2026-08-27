@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 23:12",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र ⟨यसो हुनेछ⟩ — साँझ हुँदा ऊ पानीले नुहाउनेछ, र सूर्य अस्त हुँदा ऊ शिविरको बीचमा भित्रिनेछ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "र ⟨यसो हुनेछ⟩"
+    },
+    {
+      "surface": "לפנות",
+      "gloss": "हुँदा"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझ"
+    },
+    {
+      "surface": "ירחץ",
+      "gloss": "नुहाउनेछ"
+    },
+    {
+      "surface": "במים",
+      "gloss": "पानीले"
+    },
+    {
+      "surface": "וכבא",
+      "gloss": "र ... हुँदा"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "भित्रिनेछ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "המחनה",
+      "gloss": "शिविरको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:23.236001030Z",
+  "model": "glm-5.3"
+}

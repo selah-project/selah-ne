@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 16:14",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "र यहवेको आत्मा शाउलबाट हट्यो, र उनलाई यहवेबाट ⟨את⟩ खराब आत्माले सतायो।",
+  "tokens": [
+    {
+      "surface": "ורוח",
+      "gloss": "र आत्मा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "हट्यो"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ובעתתו",
+      "gloss": "सतायो"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "आत्माले"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T01:57:52.640077990Z",
+  "model": "glm-5.3"
+}

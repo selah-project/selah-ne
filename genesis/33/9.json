@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 33:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र एसावले भन्यो: मसँग धेरै छ, मेरो दाजु; जे तिम्रो छ, त्यो तिम्रै रहोस्।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्यो"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावले"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "רב",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "मेरो दाजु"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "रहोस्"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रो लागि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:54:57.326547825Z",
+  "model": "glm-5.3"
+}

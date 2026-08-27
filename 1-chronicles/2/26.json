@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 2:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "वट यरखमेएलकी ⟨उनको⟩ अर्की स्त्री भइन्, र उनको नाउँ अताराह; ऊ ओनामकी आमा हुन्।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "भइन्"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "אחרת",
+      "gloss": "अर्की"
+    },
+    {
+      "surface": "לירחמאל",
+      "gloss": "यरखमेएलकी"
+    },
+    {
+      "surface": "ושמה",
+      "gloss": "र उनको नाउँ"
+    },
+    {
+      "surface": "עטרה",
+      "gloss": "अताराह"
+    },
+    {
+      "surface": "היא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आमा"
+    },
+    {
+      "surface": "אונם",
+      "gloss": "ओनामकी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:56.041189536Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "deuteronomy 28:50",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "कडा-अनुहारे राष्ट्र, जसले वृद्धको अनुहार मान्नेछैन, र बालकलाई अनुग्रह गर्नेछैन।",
+  "tokens": [
+    {
+      "surface": "גוי",
+      "gloss": "राष्ट्र"
+    },
+    {
+      "surface": "עז",
+      "gloss": "कडा"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "अनुहारे"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ישא",
+      "gloss": "मान्नेछ"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "अनुहार"
+    },
+    {
+      "surface": "לזקן",
+      "gloss": "वृद्धको"
+    },
+    {
+      "surface": "ונער",
+      "gloss": "र बालकलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יחן",
+      "gloss": "अनुग्रह गर्नेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:07:00.528129981Z",
+  "model": "glm-5.3"
+}

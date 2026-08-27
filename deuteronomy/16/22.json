@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "deuteronomy 16:22",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "र आफ्ना लागि स्तम्भ उभार्नेछैनौँ, जसलाई आफ्ना एलोहीम यहवे घृणा गर्नुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र ... छैन"
+    },
+    {
+      "surface": "תקים",
+      "gloss": "उभार्नेछैनौँ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफ्ना लागि"
+    },
+    {
+      "surface": "מצבה",
+      "gloss": "स्तम्भ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसलाई"
+    },
+    {
+      "surface": "שנא",
+      "gloss": "घृणा गर्नुहुन्छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आफ्ना एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:00:44.893528301Z",
+  "model": "glm-5.3"
+}

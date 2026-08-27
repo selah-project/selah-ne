@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "isaiah 30:4",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "किनकि उसका सरदारहरू त्सोअनमा थिए, र उसका दूतहरू खानेसमा पुगे।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "בצען",
+      "gloss": "त्सोअनमा"
+    },
+    {
+      "surface": "שריו",
+      "gloss": "उसका सरदारहरू"
+    },
+    {
+      "surface": "ומלאכיו",
+      "gloss": "र उसका दूतहरू"
+    },
+    {
+      "surface": "חנס",
+      "gloss": "खानेसमा"
+    },
+    {
+      "surface": "יגיעו",
+      "gloss": "पुगे"
+    }
+  ],
+  "timestamp": "2026-08-26T22:31:18.165902898Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 1:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "हे मेरा छोरा, यदि पापीहरूले तिमीलाई बहकाउँछन् भने, सहमत हुने नगर्नु।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "हे मेरा छोरा"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יפתוך",
+      "gloss": "बहकाउँछन्"
+    },
+    {
+      "surface": "חטאים",
+      "gloss": "पापीहरूले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "सहमत हुने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:31.611737633Z",
+  "model": "glm-5.3"
+}

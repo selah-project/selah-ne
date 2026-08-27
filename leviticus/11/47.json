@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "leviticus 11:47",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "अशुद्ध र शुद्ध बीच, खाने ⟨नै⟩ जीव र नखाइने जीव बीच भेद गर्न।",
+  "tokens": [
+    {
+      "surface": "להבדיל",
+      "gloss": "भेद गर्न"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बीच"
+    },
+    {
+      "surface": "הטמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र बीच"
+    },
+    {
+      "surface": "הטהר",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र बीच"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "הנאכלת",
+      "gloss": "खाने योग्य"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र बीच"
+    },
+    {
+      "surface": "החיה",
+      "gloss": "जीव"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाइने"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:05.455847582Z",
+  "model": "glm-5.3"
+}

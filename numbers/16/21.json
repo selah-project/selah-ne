@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 16:21",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "यस सभाबाट अलग हुनुहोस्, र म तिनीहरूलाई क्षणभरमै नाश गर्नेछु।",
+  "tokens": [
+    {
+      "surface": "הבדלו",
+      "gloss": "अलग हुनुहोस्"
+    },
+    {
+      "surface": "מתוך",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "העדה",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यस"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "र म नाश गर्नेछु"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "तिनीहरूलाई"
+    },
+    {
+      "surface": "כרגע",
+      "gloss": "क्षणभरमै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:43:38.660866522Z",
+  "model": "glm-5.3"
+}

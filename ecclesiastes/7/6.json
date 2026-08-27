@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 7:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "किनकि भाँडोमुनि झाङ्क्रोको आवाजजस्तै हो, मूर्खको हाँसो; यो पनि हेवल हो।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כקול",
+      "gloss": "आवाजजस्तै"
+    },
+    {
+      "surface": "הסירים",
+      "gloss": "झाङ्क्रोको"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "मुनि"
+    },
+    {
+      "surface": "הסיר",
+      "gloss": "भाँडो"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यस्तै हो"
+    },
+    {
+      "surface": "שחק",
+      "gloss": "हाँसो"
+    },
+    {
+      "surface": "הכסיל",
+      "gloss": "मूर्खको"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेवल हो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:08.942078788Z",
+  "model": "glm-5.3"
+}

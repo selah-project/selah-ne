@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 1:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "कूशका छोराहरू: सेवा, र हवीला, र सब्ता, र रामा, र सब्तेखा; र रामाका छोराहरू: शेवा र देदान।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "का छोराहरू"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "कूश"
+    },
+    {
+      "surface": "סבא",
+      "gloss": "सेवा"
+    },
+    {
+      "surface": "וחוילה",
+      "gloss": "र हवीला"
+    },
+    {
+      "surface": "וסבתא",
+      "gloss": "र सब्ता"
+    },
+    {
+      "surface": "ורעמא",
+      "gloss": "र रामा"
+    },
+    {
+      "surface": "וסבתכא",
+      "gloss": "र सब्तेखा"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "का छोराहरू"
+    },
+    {
+      "surface": "רעמא",
+      "gloss": "रामा"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेवा"
+    },
+    {
+      "surface": "ודדן",
+      "gloss": "र देदान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:27.661506930Z",
+  "model": "glm-5.3"
+}

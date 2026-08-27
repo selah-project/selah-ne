@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 6:20",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "त्सुफको छोरा, एल्कानाको छोरा, मखातको छोरा, अमासैको छोरा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ציף",
+      "gloss": "त्सुफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אלקנה",
+      "gloss": "एल्काना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מחת",
+      "gloss": "मखात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עמשי",
+      "gloss": "अमासै"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:29.018630938Z",
+  "model": "glm-5.3"
+}

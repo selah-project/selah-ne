@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "zechariah 5:10",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "मैले मसँग बोल्ने दूतलाई भनेँ — तिनीहरू ⟨את⟩ एफालाई कहाँ लैजाँदैछन्?",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "भनेँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "बोल्ने"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "אנה",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "המה",
+      "gloss": "तिनीहरू"
+    },
+    {
+      "surface": "מולכות",
+      "gloss": "लैजाँदैछन्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफालाई"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "एफालाई"
+    }
+  ],
+  "timestamp": "2026-08-26T23:46:12.433362969Z",
+  "model": "glm-5.3"
+}

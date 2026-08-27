@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 49:27",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "बिन्यामीन ब्वाँसो हो — ऊ चीर्छ; बिहान ऊ शिकार खान्छ, र साँझ ऊ लुट बाँड्छ।",
+  "tokens": [
+    {
+      "surface": "בנימין",
+      "gloss": "बिन्यामीन"
+    },
+    {
+      "surface": "זאב",
+      "gloss": "ब्वाँसो"
+    },
+    {
+      "surface": "יטרף",
+      "gloss": "ऊ चीर्छ"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "ऊ खान्छ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "शिकार"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "र साँझ"
+    },
+    {
+      "surface": "יחלק",
+      "gloss": "ऊ बाँड्छ"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लुट"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:24.262791595Z",
+  "model": "glm-5.3"
+}

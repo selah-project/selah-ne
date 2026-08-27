@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 13:18",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र याख्त्सा, र केदेमोत, र मेफात।",
+  "tokens": [
+    {
+      "surface": "ויהצה",
+      "gloss": "र याख्त्सा"
+    },
+    {
+      "surface": "וקדמת",
+      "gloss": "र केदेमोत"
+    },
+    {
+      "surface": "ומפעת",
+      "gloss": "र मेफात"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:22.924831186Z",
+  "model": "glm-5.3"
+}

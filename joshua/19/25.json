@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "joshua 19:25",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र ⟨הם⟩ तिनीहरूको सीमा भयो: खेल्कत, र हलि, र बेतेन, र अख्शाफ।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "גבולם",
+      "gloss": "तिनीहरूको सीमा"
+    },
+    {
+      "surface": "חלקת",
+      "gloss": "खेल्कत"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "र हलि"
+    },
+    {
+      "surface": "ובטן",
+      "gloss": "र बेतेन"
+    },
+    {
+      "surface": "ואכשף",
+      "gloss": "र अख्शाफ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:17:14.991931371Z",
+  "model": "glm-5.3"
+}

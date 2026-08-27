@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 92:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 92,
+  "translation": "पशु-सरह मानिसले जान्दैन, र मूर्खले ⟨את⟩ यो कुरा बुझ्दैन;",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "בער",
+      "gloss": "पशु-सरह"
+    },
+    {
+      "surface": "לא",
+      "gloss": "जान्दैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "(जान्दैनै)"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "र मूर्ख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "बुझ्दैन"
+    },
+    {
+      "surface": "יבין",
+      "gloss": "(बुझ्दैनै)"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो कुरा"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यो कुरा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:13.856402862Z",
+  "model": "glm-5.3"
+}

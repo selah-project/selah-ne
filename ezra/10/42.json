@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "ezra 10:42",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "शल्लूम, अमार्याह, योसेफ।",
+  "tokens": [
+    {
+      "surface": "שלום",
+      "gloss": "शल्लूम"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमार्याह"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    }
+  ],
+  "timestamp": "2026-08-27T02:20:07.385238708Z",
+  "model": "glm-5.3"
+}

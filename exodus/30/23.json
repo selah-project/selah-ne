@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "exodus 30:23",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र तिमी आफ्नाका लागि उत्कृष्ट सुगन्धित वस्तुहरू लेऊ — निर्मल मर 五百…",
+  "tokens": [
+    {
+      "surface": "वאतה",
+      "gloss": ""
+    },
+    {
+      "surface": "קח",
+      "gloss": ""
+    },
+    {
+      "surface": "לך",
+      "gloss": ""
+    },
+    {
+      "surface": "בשמים",
+      "gloss": ""
+    },
+    {
+      "surface": "ראש",
+      "gloss": ""
+    },
+    {
+      "surface": "מר",
+      "gloss": ""
+    },
+    {
+      "surface": "דרור",
+      "gloss": ""
+    },
+    {
+      "surface": "חמש",
+      "gloss": ""
+    },
+    {
+      "surface": "मאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וקנמן",
+      "gloss": ""
+    },
+    {
+      "surface": "בशם",
+      "gloss": ""
+    },
+    {
+      "surface": "מחצिपו",
+      "gloss": ""
+    },
+    {
+      "surface": "חमישים",
+      "gloss": ""
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": ""
+    },
+    {
+      "surface": "וקנה",
+      "gloss": ""
+    },
+    {
+      "surface": "בשם",
+      "gloss": ""
+    },
+    {
+      "surface": "חमिशिम",
+      "gloss": ""
+    },
+    {
+      "surface": "ו׮אתים",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-26T20:17:10.185704049Z",
+  "model": "glm-5.3"
+}

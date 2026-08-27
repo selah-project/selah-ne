@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "genesis 26:30",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र उनले तिनीहरूका लागि भोज बनाए, र तिनीहरूले खाए र पिए।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "र उनले बनाए"
+    },
+    {
+      "surface": "להם",
+      "gloss": "तिनीहरूका लागि"
+    },
+    {
+      "surface": "משתה",
+      "gloss": "भोज"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "र तिनीहरूले खाए"
+    },
+    {
+      "surface": "וישתו",
+      "gloss": "र पिए"
+    }
+  ],
+  "timestamp": "2026-08-26T19:51:03.575106728Z",
+  "model": "glm-5.3"
+}

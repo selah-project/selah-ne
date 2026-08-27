@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 38:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "र जे उसले गरेको थियो त्यो यहवेका आँखामा खराब लाग्यो, र ⟨he⟩ उसलाई पनि मार्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וירע",
+      "gloss": "खराब लाग्यो"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गरेको थियो"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मार्नुभयो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:58:14.586122724Z",
+  "model": "glm-5.3"
+}

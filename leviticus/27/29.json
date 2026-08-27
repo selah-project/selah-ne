@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "leviticus 27:29",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "जुन कुनै खेरेम ⟨जो⟩ मानिसबाट खेरेम गरिन्छ त्यो छुटाइने छैन — मृत्युले मराइनेछ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "जुन कुनै"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "खेरेम"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जो⟩"
+    },
+    {
+      "surface": "יחרם",
+      "gloss": "खेरेम गरिन्छ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יפדה",
+      "gloss": "छुटाइनेछ"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्युले"
+    },
+    {
+      "surface": "יומת",
+      "gloss": "मराइनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:22.869216209Z",
+  "model": "glm-5.3"
+}

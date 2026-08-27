@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "jeremiah 23:34",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र ⟨the⟩ नबी र ⟨the⟩ पुरोहित र ⟨the⟩ प्रजामध्ये जो 'यहवेको भार' भन्छ, म ⟨the⟩ त्यो मानिसमाथि र ⟨on⟩ उसको घरमाथि दण्ड लगाउनेछु।",
+  "tokens": [
+    {
+      "surface": "והנביא",
+      "gloss": "र ⟨the⟩ नबी"
+    },
+    {
+      "surface": "והכהן",
+      "gloss": "र ⟨the⟩ पुरोहित"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "र ⟨the⟩ प्रजा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "भन्छ"
+    },
+    {
+      "surface": "משא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ופקדתי",
+      "gloss": "म दण्ड लगाउनेछु"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "⟨the⟩ त्यो मानिस"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र माथि"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "उसको घर"
+    }
+  ],
+  "timestamp": "2026-08-26T22:54:43.332682410Z",
+  "model": "glm-5.3"
+}

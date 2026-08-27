@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 14:25",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "सत्य साक्षी प्राणहरूलाई उद्धार गर्छ, तर झूटा फुक्ने धोखा ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "מציל",
+      "gloss": "उद्धार गर्छ"
+    },
+    {
+      "surface": "נפשות",
+      "gloss": "प्राणहरूलाई"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "ויפח",
+      "gloss": "तर फुक्ने"
+    },
+    {
+      "surface": "כזבים",
+      "gloss": "झूटा"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "धोखा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:41.427722027Z",
+  "model": "glm-5.3"
+}

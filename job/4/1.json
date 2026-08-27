@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 4:1",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "तब एलिपाज हतेमनीले उत्तर दियो र भन्यो।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दियो"
+    },
+    {
+      "surface": "אליפז",
+      "gloss": "एलिपाज"
+    },
+    {
+      "surface": "התימני",
+      "gloss": "हतेमनी"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:29:29.524454574Z",
+  "model": "glm-5.3"
+}

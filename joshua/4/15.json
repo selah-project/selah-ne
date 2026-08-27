@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "joshua 4:15",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र यहवेले यहोशुआसित यसो भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सित"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्नुभयो —"
+    }
+  ],
+  "timestamp": "2026-08-26T21:10:30.622945086Z",
+  "model": "glm-5.3"
+}

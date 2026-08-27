@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 24:20",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र मैले तिनीहरूलाई भनेँ, 'यहवेको वचन ममा आयो, भन्दै।'",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "र मैले भनेँ"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "तिनीहरूलाई"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:21:04.735022136Z",
+  "model": "glm-5.3"
+}

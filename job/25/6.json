@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "job 25:6",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "झन् कसरी — मरणशील त किरा हो, र आदमको छोरा उकुसमुकुस!",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "झन्"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कसरी"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरणशील"
+    },
+    {
+      "surface": "רמה",
+      "gloss": "किरा"
+    },
+    {
+      "surface": "ובן",
+      "gloss": "र छोरा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "आदमको"
+    },
+    {
+      "surface": "תולעה",
+      "gloss": "उकुसमुकुस"
+    }
+  ],
+  "timestamp": "2026-08-27T00:36:20.402180914Z",
+  "model": "glm-5.3"
+}

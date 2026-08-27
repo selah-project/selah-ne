@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 12:26",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र यहवेको वचन मतर्फ आयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र ... आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतर्फ"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:14:44.289793664Z",
+  "model": "glm-5.3"
+}

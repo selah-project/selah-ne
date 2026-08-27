@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 14:10",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र जुनसँग पखेटा र खत्रो छैन, त्यो तिमीहरू नखाऊ; त्यो तिमीहरूका लागि अशुद्ध ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यससँग"
+    },
+    {
+      "surface": "סנפיר",
+      "gloss": "पखेटा"
+    },
+    {
+      "surface": "וקשקשת",
+      "gloss": "र खत्रो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:57.386951347Z",
+  "model": "glm-5.3"
+}

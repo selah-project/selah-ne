@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 32:21",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र मोशेले अहारोनलाई भन्नुभयो, यस जनताले तिमीलाई के गर्‍यो, कि तिमीले यसमाथि यति ठूलो पाप ल्यायौ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहारोन"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्‍यो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "הבאת",
+      "gloss": "ल्यायौ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "यसमाथि"
+    },
+    {
+      "surface": "חטאה",
+      "gloss": "पाप"
+    },
+    {
+      "surface": "גדלה",
+      "gloss": "ठूलो"
+    }
+  ],
+  "timestamp": "2026-08-27T01:51:41.945566523Z",
+  "model": "glm-5.3"
+}

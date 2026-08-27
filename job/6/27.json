@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "job 6:27",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "अझ तिमीहरू अनाथमाथि पासा फाल्छौ, र आफ्नै साथीलाई साट्छौ।",
+  "tokens": [
+    {
+      "surface": "אף",
+      "gloss": "अझ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "יתום",
+      "gloss": "अनाथ"
+    },
+    {
+      "surface": "תפילו",
+      "gloss": "पासा फाल्छौ"
+    },
+    {
+      "surface": "ותכרו",
+      "gloss": "र साट्छौ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ריעכם",
+      "gloss": "आफ्नै साथी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:48.281394543Z",
+  "model": "glm-5.3"
+}

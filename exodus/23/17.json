@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 23:17",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "वर्षको तीन पटक तिम्रा सबै पुरुषहरू स्वामी यहवेको अनुहार समक्ष देखा पर्नेछन्।",
+  "tokens": [
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "पटक"
+    },
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षको"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देखा पर्नेछन्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "זכורך",
+      "gloss": "तिम्रा पुरुषहरू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "समक्ष"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अनुहार"
+    },
+    {
+      "surface": "האדן",
+      "gloss": "स्वामी ⟨the⟩"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:44.325432699Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 1:31",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "येतुर, नाफिश र केदेमा: यिनीहरू यिश्माएलका छोराहरू हुन्।",
+  "tokens": [
+    {
+      "surface": "יטור",
+      "gloss": "येतुर"
+    },
+    {
+      "surface": "נפיש",
+      "gloss": "नाफिश"
+    },
+    {
+      "surface": "וקדמה",
+      "gloss": "र केदेमा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यिनीहरू"
+    },
+    {
+      "surface": "הם",
+      "gloss": "हुन्"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ישמעאל",
+      "gloss": "यिश्माएलका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:21.217482354Z",
+  "model": "glm-5.3"
+}

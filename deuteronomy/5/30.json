@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "deuteronomy 5:30",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "जाऊ, तिनीहरूलाई भन: तिमीहरू आफ्ना डेराहरूमा फर्क।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन"
+    },
+    {
+      "surface": "להם",
+      "gloss": "तिनीहरूलाई"
+    },
+    {
+      "surface": "שובו",
+      "gloss": "फर्क"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरू आफ्नै"
+    },
+    {
+      "surface": "לאהליכם",
+      "gloss": "तिमीहरूका डेराहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:56:19.434745497Z",
+  "model": "glm-5.3"
+}

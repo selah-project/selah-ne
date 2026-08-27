@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "2-samuel 6:23",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र शाउलकी छोरी मिखललाई उनको मृत्युको दिनसम्म कुनै सन्तान भएन।",
+  "tokens": [
+    {
+      "surface": "ולמיכל",
+      "gloss": "र मिखललाई"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलकी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भएन"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उनको"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מותה",
+      "gloss": "उनको मृत्युको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:58:16.511860200Z",
+  "model": "glm-5.3"
+}

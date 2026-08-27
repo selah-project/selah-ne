@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "numbers 4:21",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "यहवेले मोशेलाई भन्नुभयो ⟨भनेर⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨भनेर⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T20:37:04.868914541Z",
+  "model": "glm-5.3"
+}

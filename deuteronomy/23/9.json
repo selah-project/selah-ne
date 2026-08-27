@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 23:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "छोराहरू जो तिनीहरूलाई जन्मिनेछन्, तिनीहरूको तेस्रो पुस्ता यहवेको सभामा आउने छ।",
+  "tokens": [
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "יולדו",
+      "gloss": "जन्मिनेछन्"
+    },
+    {
+      "surface": "להם",
+      "gloss": "तिनीहरूलाई"
+    },
+    {
+      "surface": "דור",
+      "gloss": "पुस्ता"
+    },
+    {
+      "surface": "שלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "आउने छ"
+    },
+    {
+      "surface": "להם",
+      "gloss": "⟨तिनीहरूको⟩"
+    },
+    {
+      "surface": "בקהל",
+      "gloss": "सभामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:23.235323203Z",
+  "model": "glm-5.3"
+}

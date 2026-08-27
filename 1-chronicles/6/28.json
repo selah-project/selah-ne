@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 6:28",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "याखातका छोरा, गेरेशोमका छोरा, लेवीका छोरा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "יחת",
+      "gloss": "याखात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "גרשם",
+      "gloss": "गेरेशोम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:48.252454510Z",
+  "model": "glm-5.3"
+}

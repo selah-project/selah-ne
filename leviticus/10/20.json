@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "leviticus 10:20",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "मोशेले सुन्नुभयो, र त्यो उनका आँखामा असल लाग्यो।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुन्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "וייטב",
+      "gloss": "असल लाग्यो"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "उनका आँखामा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:55.256399060Z",
+  "model": "glm-5.3"
+}

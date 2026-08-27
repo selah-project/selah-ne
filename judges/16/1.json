@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 16:1",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "अनि शिम्शोन अज्जाताह गए, र त्यहाँ उनले एक वेश्या स्त्रीलाई देखे, र उनकहाँ गए।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गए"
+    },
+    {
+      "surface": "שמשון",
+      "gloss": "शिम्शोन"
+    },
+    {
+      "surface": "עזתה",
+      "gloss": "अज्जाताह"
+    },
+    {
+      "surface": "וירא",
+      "gloss": "देखे"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्या"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "गए"
+    },
+    {
+      "surface": "אליה",
+      "gloss": "उनकहाँ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:27:07.747196578Z",
+  "model": "glm-5.3"
+}

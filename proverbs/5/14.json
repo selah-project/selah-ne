@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 5:14",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "म झन्डै सबै नराम्रोमा पुगेँ, सभा र मण्डलीको बीचमा।",
+  "tokens": [
+    {
+      "surface": "כמעט",
+      "gloss": "झन्डै"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "म ... पुगेँ"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "רע",
+      "gloss": "नराम्रोमा"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "ועדה",
+      "gloss": "र मण्डलीको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:10.027865174Z",
+  "model": "glm-5.3"
+}

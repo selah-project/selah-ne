@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 7:30",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "आशेरका छोराहरू: यिम्ना र यिश्वा र यिश्वी र बेरिया, र शेरakh तिनीहरूकी बहिनी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेरका"
+    },
+    {
+      "surface": "ימנה",
+      "gloss": "यिम्ना"
+    },
+    {
+      "surface": "וישוה",
+      "gloss": "र यिश्वा"
+    },
+    {
+      "surface": "וישוי",
+      "gloss": "र यिश्वी"
+    },
+    {
+      "surface": "ובריעה",
+      "gloss": "र बेरिया"
+    },
+    {
+      "surface": "ושרח",
+      "gloss": "र शेरkh"
+    },
+    {
+      "surface": "אחותם",
+      "gloss": "तिनीहरूकी बहिनी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:25.515713444Z",
+  "model": "glm-5.3"
+}

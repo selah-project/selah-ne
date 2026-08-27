@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "1-chronicles 8:29",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र गिबओनमा गिबओनको पिता बसे, र उनकी पत्नीको नाम माअखाह थियो।",
+  "tokens": [
+    {
+      "surface": "ובגבעון",
+      "gloss": "र गिबओनमा"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "גבעון",
+      "gloss": "गिबओनको"
+    },
+    {
+      "surface": "ושם",
+      "gloss": "र नाम"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उनकी पत्नीको"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माअखाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:06.461714904Z",
+  "model": "glm-5.3"
+}

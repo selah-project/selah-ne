@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "psalms 104:25",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 104,
+  "translation": "यो समुद्र, ठूलो र चौडा दुवैतर्फ, त्यहाँ कुरलीहरू छन् र ⟨गणना⟩ छैन — जीवहरू साना र ठूलासँग।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "र चौडा"
+    },
+    {
+      "surface": "ידים",
+      "gloss": "<दुवैतर्फ>"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "רמש",
+      "gloss": "कुरलीहरू"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "गणना"
+    },
+    {
+      "surface": "חיות",
+      "gloss": "जीवहरू"
+    },
+    {
+      "surface": "קטנות",
+      "gloss": "साना"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "גדלות",
+      "gloss": "ठूला"
+    }
+  ],
+  "timestamp": "2026-08-27T00:10:17.212594208Z",
+  "model": "glm-5.3"
+}

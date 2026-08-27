@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 27:12",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "चतुरले खराबी देख्यो र लुक्यो; सरलहरू भने पार भए र सजाय भोगे।",
+  "tokens": [
+    {
+      "surface": "ערום",
+      "gloss": "चतुर"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख्यो"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "खराबी"
+    },
+    {
+      "surface": "נסתר",
+      "gloss": "लुक्यो"
+    },
+    {
+      "surface": "פתאים",
+      "gloss": "सरलहरू"
+    },
+    {
+      "surface": "עברו",
+      "gloss": "पार भए"
+    },
+    {
+      "surface": "נענשו",
+      "gloss": "सजाय भोगे"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:25.447196720Z",
+  "model": "glm-5.3"
+}

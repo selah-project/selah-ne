@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "joshua 2:8",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र तिनीहरू सुत्नुभन्दा अघि नै ⟨उनी⟩ तिनीहरूकहाँ माथि छतमाथि चढिन्।",
+  "tokens": [
+    {
+      "surface": "והמה",
+      "gloss": "र तिनीहरू"
+    },
+    {
+      "surface": "טרם",
+      "gloss": "अघि नै"
+    },
+    {
+      "surface": "ישכבון",
+      "gloss": "सुत्नुभन्दा"
+    },
+    {
+      "surface": "והיא",
+      "gloss": "र उनी"
+    },
+    {
+      "surface": "עלתה",
+      "gloss": "चढिन्"
+    },
+    {
+      "surface": "עליהם",
+      "gloss": "तिनीहरूकहाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הגג",
+      "gloss": "छत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:55:36.351634986Z",
+  "model": "glm-5.3"
+}

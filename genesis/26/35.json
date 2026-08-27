@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "genesis 26:35",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "तिनीहरू यित्सखाका लागि र रिभ्काका लागि रुआखको कडुवाहट भइ।",
+  "tokens": [
+    {
+      "surface": "ותהיין",
+      "gloss": "भइ"
+    },
+    {
+      "surface": "מרת",
+      "gloss": "कडुवाहट"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रुआखको"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सखाका लागि"
+    },
+    {
+      "surface": "ולרבקה",
+      "gloss": "र रिभ्काका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:36.246556373Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 14:11",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "सबै शुद्ध चरा तिमीहरू खाऊ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चरा"
+    },
+    {
+      "surface": "טהרה",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाऊ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:57.387083556Z",
+  "model": "glm-5.3"
+}

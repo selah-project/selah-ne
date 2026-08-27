@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 5:31",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अभिशुवाले ⟨את⟩ बुक्कीलाई जन्म दिए; बुक्कीले ⟨את⟩ उज्जीलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ואבישוע",
+      "gloss": "अभिशुवाले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बुक्कीलाई"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    },
+    {
+      "surface": "ובקי",
+      "gloss": "बुक्कीले"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उज्जीलाई"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज्जी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:27.509537684Z",
+  "model": "glm-5.3"
+}

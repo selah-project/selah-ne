@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 17:1",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र यहवेले मोशेलाई बोल्नुभयो, यसो भन्नको लागि।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्नको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:30:36.833939542Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 12:12",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "दुष्टले खराबीहरूको जालो चाहन्छ, तर धार्मिकहरूको जराले ⟨फल⟩ दिन्छ।",
+  "tokens": [
+    {
+      "surface": "חמד",
+      "gloss": "चाहन्छ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टले"
+    },
+    {
+      "surface": "מצוד",
+      "gloss": "जालो"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "खराबीहरूको"
+    },
+    {
+      "surface": "ושרש",
+      "gloss": "तर जराले"
+    },
+    {
+      "surface": "צדיקים",
+      "gloss": "धार्मिकहरूको"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:29.820775754Z",
+  "model": "glm-5.3"
+}

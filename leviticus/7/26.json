@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "leviticus 7:26",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र तिमीहरूले कुनै रगत खाने होइन — चराको वा पशुको — तिमीहरूका सबै बस्तीहरूमा।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र कुनै"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाने"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "מושבתיכם",
+      "gloss": "बस्तीहरूमा"
+    },
+    {
+      "surface": "לעוף",
+      "gloss": "चराको"
+    },
+    {
+      "surface": "ולבהमה",
+      "gloss": "वा पशुको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:24.100554797Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-chronicles 6:1",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "त्यसैले शलोमोहे भने: यहवे गहिरो अन्धकारमा बस्नुहुने भनी भन्नुभएको छ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोहे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभएको छ"
+    },
+    {
+      "surface": "לשכון",
+      "gloss": "बस्नुहुने"
+    },
+    {
+      "surface": "בערפל",
+      "gloss": "गहिरो अन्धकारमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:32:19.119449492Z",
+  "model": "glm-5.3"
+}

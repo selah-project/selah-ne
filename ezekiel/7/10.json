@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 7:10",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "हेर ⟨the⟩ दिन, हेर आउँदैछ; ⟨the⟩ प्रभात निस्कियो, ⟨the⟩ रडी फुल्यो, ⟨the⟩ घमण्ड फूल्यो।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आउँदैछ"
+    },
+    {
+      "surface": "יצאה",
+      "gloss": "निस्कियो"
+    },
+    {
+      "surface": "הצפרה",
+      "gloss": "प्रभात"
+    },
+    {
+      "surface": "צץ",
+      "gloss": "फुल्यो"
+    },
+    {
+      "surface": "המטה",
+      "gloss": "रडी"
+    },
+    {
+      "surface": "פרח",
+      "gloss": "फूल्यो"
+    },
+    {
+      "surface": "הזדון",
+      "gloss": "घमण्ड"
+    }
+  ],
+  "timestamp": "2026-08-26T23:11:55.647446343Z",
+  "model": "glm-5.3"
+}

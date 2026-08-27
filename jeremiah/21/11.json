@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 21:11",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र यहूदाका राजाको घरलाई — यहवेको वचन सुन।",
+  "tokens": [
+    {
+      "surface": "ולבית",
+      "gloss": "र घरलाई"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:54:12.200530418Z",
+  "model": "glm-5.3"
+}

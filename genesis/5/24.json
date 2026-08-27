@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 5:24",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "खानोख ⟨the⟩ एलोहीमको साथमा हिँडिरहे, र ऊ छैन भयो, किनकि एलोहीमले ⟨את⟩ उसलाई लिनुभयो।",
+  "tokens": [
+    {
+      "surface": "ויתהלך",
+      "gloss": "हिँडिरहे"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "खानोख"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलोहीमको"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ואיננו",
+      "gloss": "र ऊ छैन भयो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לקח",
+      "gloss": "लिनुभयो"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "उसलाई"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:23.326828158Z",
+  "model": "glm-5.3"
+}

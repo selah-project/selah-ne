@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 6:8",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "तर नोआखले यहवेको आँखामा अनुग्रह पाए।",
+  "tokens": [
+    {
+      "surface": "ונח",
+      "gloss": "तर नोआखले"
+    },
+    {
+      "surface": "מצא",
+      "gloss": "पाए"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:48:51.879544200Z",
+  "model": "glm-5.3"
+}

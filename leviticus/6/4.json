@@ -1,0 +1,75 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 6:4",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र आफ्ना लुगा फुकाउनेछ, अरू लुगा लगाउनेछ, र ⟨את⟩ खरानी शिविरबाहिर शुद्ध स्थानमा लैजानेछ।",
+  "tokens": [
+    {
+      "surface": "ופשט",
+      "gloss": "फुकाउनेछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्ना लुगा"
+    },
+    {
+      "surface": "בגדיו",
+      "gloss": "आफ्ना लुगा"
+    },
+    {
+      "surface": "ולבש",
+      "gloss": "लगाउनेछ"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "लुगा"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अरू"
+    },
+    {
+      "surface": "והוציא",
+      "gloss": "लैजानेछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खरानी"
+    },
+    {
+      "surface": "הדשן",
+      "gloss": "खरानी"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "शिविर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:39.153881133Z",
+  "model": "glm-5.3"
+}

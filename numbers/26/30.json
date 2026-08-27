@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 26:30",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "यी हुन् गिलअदका छोराहरू: इएजेरका — इएजेरी कुल; खेलेकका — खेलेकी कुल।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलअदका"
+    },
+    {
+      "surface": "איעזר",
+      "gloss": "इएजेरका"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "האיעזרי",
+      "gloss": "इएजेरी"
+    },
+    {
+      "surface": "לחלק",
+      "gloss": "खेलेकका"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "החלקי",
+      "gloss": "खेलेकी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:08.966802042Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "lamentations 3:41",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "हामी आफ्नो हृदय हातहरूतर्फ उठाउँछौं, आकाशमण्डलमा हुनुहुने एलतर्फ।",
+  "tokens": [
+    {
+      "surface": "נשא",
+      "gloss": "उठाउँछौं"
+    },
+    {
+      "surface": "לבבנו",
+      "gloss": "आफ्नो हृदय"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "כפים",
+      "gloss": "हातहरू"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "आकाशमण्डलमा हुनुहुने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:21.622384917Z",
+  "model": "glm-5.3"
+}

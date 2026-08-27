@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "lamentations 3:29",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उसले आफ्नो मुख धूलोमा राखोस् — सायद आशा ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "יתן",
+      "gloss": "राखोस्"
+    },
+    {
+      "surface": "בעפר",
+      "gloss": "धूलोमा"
+    },
+    {
+      "surface": "פיהו",
+      "gloss": "आफ्नो मुख"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "सायद"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आशा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:02.710582595Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "nehemiah 7:54",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बत्सलितका छोराहरू, मेचिदाका छोराहरू, चर्शाका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בצלית",
+      "gloss": "बत्सलितका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "מחידא",
+      "gloss": "मेचिदाका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חרשא",
+      "gloss": "चर्शाका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:42.334191783Z",
+  "model": "glm-5.3"
+}

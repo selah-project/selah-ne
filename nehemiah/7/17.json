@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "nehemiah 7:17",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अज्गादका छोराहरू — दुई हजार तीन सय बीस र दुई।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עזגד",
+      "gloss": "अज्गादका"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दुई हजार"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:55.399262006Z",
+  "model": "glm-5.3"
+}

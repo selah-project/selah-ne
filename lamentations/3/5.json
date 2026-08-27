@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "lamentations 3:5",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उहाँले मेरो विरुद्ध ⟨את⟩ पर्खाल बाँध्नुभयो, र कडुवा र कष्टले घेर्नुभयो।",
+  "tokens": [
+    {
+      "surface": "בנה",
+      "gloss": "बाँध्नुभयो"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मेरो विरुद्ध"
+    },
+    {
+      "surface": "ויקף",
+      "gloss": "र घेर्नुभयो"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "कडुवा"
+    },
+    {
+      "surface": "ותלאה",
+      "gloss": "र कष्ट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:21.180705164Z",
+  "model": "glm-5.3"
+}

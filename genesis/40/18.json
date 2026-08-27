@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 40:18",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "योसेफले उत्तर दिए र भने: यसको पत्रो हो — तीन टोकरीहरू तीन दिन हुन्।",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिए"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफले"
+    },
+    {
+      "surface": "ויאमר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यसको"
+    },
+    {
+      "surface": "פתרנו",
+      "gloss": "पत्रो"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הסלים",
+      "gloss": "टोकरीहरू"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הם",
+      "gloss": "हुन्"
+    }
+  ],
+  "timestamp": "2026-08-27T01:49:02.979370897Z",
+  "model": "glm-5.3"
+}

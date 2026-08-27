@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 120:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 120,
+  "translation": "धेरै लामो समयदेखि मेरो नेफेश शान्ति घृणा गर्नेहरूसँगै बस्यो।",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "धेरै लामो"
+    },
+    {
+      "surface": "שכנה",
+      "gloss": "बस्यो"
+    },
+    {
+      "surface": "לה",
+      "gloss": "त्यसले"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरो नेफेश"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँगै"
+    },
+    {
+      "surface": "שונא",
+      "gloss": "घृणा गर्नेहरू"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    }
+  ],
+  "timestamp": "2026-08-27T00:14:55.967513839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 37:15",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "र यहवेको वचन मसँग यसो भनेर आयो:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भनेर"
+    }
+  ],
+  "timestamp": "2026-08-26T23:26:58.565226588Z",
+  "model": "glm-5.3"
+}

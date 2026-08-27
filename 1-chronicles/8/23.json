@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 8:23",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र अभ्दोन, र जिख्री, र खानान।",
+  "tokens": [
+    {
+      "surface": "ועבדון",
+      "gloss": "र अभ्दोन"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "र जिख्री"
+    },
+    {
+      "surface": "וחנן",
+      "gloss": "र खानान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:35.576900592Z",
+  "model": "glm-5.3"
+}

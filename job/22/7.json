@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "job 22:7",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "थकितलाई पानी पिलाउँदैनौ, र भोकोबाट रोटी रोक्छौ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עיף",
+      "gloss": "थकितलाई"
+    },
+    {
+      "surface": "תשקה",
+      "gloss": "पिलाउँदैनौ"
+    },
+    {
+      "surface": "ומרעב",
+      "gloss": "र भोकोबाट"
+    },
+    {
+      "surface": "תמנע",
+      "gloss": "रोक्छौ"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:35:57.924918375Z",
+  "model": "glm-5.3"
+}

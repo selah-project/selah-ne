@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 12:8",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "हामी आज यहाँ जस्तै गरी — प्रत्येक मानिस आफ्नै आँखामा जे सही देखिन्छ त्यो — त्यसो गर्नेछैनौ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תעשון",
+      "gloss": "गर्नेछैनौ"
+    },
+    {
+      "surface": "ככל",
+      "gloss": "जस्तै गरी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हामी"
+    },
+    {
+      "surface": "עשים",
+      "gloss": "गर्दैछौं"
+    },
+    {
+      "surface": "פה",
+      "gloss": "यहाँ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "איש",
+      "gloss": "प्रत्येक मानिस"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जे सबै"
+    },
+    {
+      "surface": "הישר",
+      "gloss": "सही"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "आफ्नै आँखामा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:10.644468466Z",
+  "model": "glm-5.3"
+}

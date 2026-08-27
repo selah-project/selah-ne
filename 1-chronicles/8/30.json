@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 8:30",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र उनका पुत्रहरू: जेठो अब्दोन, र त्सुर, र किश, र बाल, र नादाब।",
+  "tokens": [
+    {
+      "surface": "ובנו",
+      "gloss": "र उनका पुत्रहरू"
+    },
+    {
+      "surface": "הבכור",
+      "gloss": "जेठो"
+    },
+    {
+      "surface": "עבדון",
+      "gloss": "अब्दोन"
+    },
+    {
+      "surface": "וצור",
+      "gloss": "र त्सुर"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "र किश"
+    },
+    {
+      "surface": "ובעל",
+      "gloss": "र बाल"
+    },
+    {
+      "surface": "ונדב",
+      "gloss": "र नादाब"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:06.461932869Z",
+  "model": "glm-5.3"
+}

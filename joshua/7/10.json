@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joshua 7:10",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यहवेले यहोशुवालाई भन्नुभयो: उठ, किन यसो तँ मुख थापेर ढल्किरहेको छस्?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुवालाई"
+    },
+    {
+      "surface": "קם",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तँ"
+    },
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तँ"
+    },
+    {
+      "surface": "נפל",
+      "gloss": "ढल्किरहेको छस्"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פניך",
+      "gloss": "मुख थापेर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:12:07.181036939Z",
+  "model": "glm-5.3"
+}

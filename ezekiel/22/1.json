@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 22:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "र यहवेको वचन ममा यसो भन्न आयो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममा आयो"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्न"
+    }
+  ],
+  "timestamp": "2026-08-27T02:09:08.219854454Z",
+  "model": "glm-5.3"
+}

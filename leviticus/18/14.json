@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 18:14",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "आफ्नो बाबाको दाजु-भाइको नाङगोपन नखोल्; उनकी स्वास्नीकहाँ नजाऊ; ऊ आफ्नो फुपू हो।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नाङगोपन"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "दाजु-भाइको"
+    },
+    {
+      "surface": "אביך",
+      "gloss": "बाबाको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोल्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "स्वास्नीको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקרब",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "דדתך",
+      "gloss": "फुपू"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:59.975957052Z",
+  "model": "glm-5.3"
+}

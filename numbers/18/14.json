@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 18:14",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "इस्राएलमा हरेक छुत्‍याइएको वस्तु तिम्रो हुनेछ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "छुत्‍याइएको वस्तु"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएलमा"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रो"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:44:16.416297217Z",
+  "model": "glm-5.3"
+}

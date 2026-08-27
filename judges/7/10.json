@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "judges 7:10",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अनि यदि तिमी ओर्लन डराउँछौ, भने तिमी र तिम्रो नोकर पुरा छाउनीमा ओर्ले जा।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "अनि यदि"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डराउँछौ"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "לרדת",
+      "gloss": "ओर्लन"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ओर्ले जा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "ופרה",
+      "gloss": "र पुरा"
+    },
+    {
+      "surface": "נערך",
+      "gloss": "तिम्रो नोकर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨मा⟩"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "छाउनी"
+    }
+  ],
+  "timestamp": "2026-08-26T21:22:14.282328382Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-chronicles 17:4",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "जाऊ र मेरो सेवक दाविदलाई भन: यसो भन्नुहुन्छ यहवे: बस्नका लागि मलाई घर तिमी बनाउने छैनौ।",
+  "tokens": [
+    {
+      "surface": "לך",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "र भन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "मेरो सेवक"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुहुन्छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "תבנה",
+      "gloss": "बनाउने छौ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "बस्नका लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:36.783715093Z",
+  "model": "glm-5.3"
+}

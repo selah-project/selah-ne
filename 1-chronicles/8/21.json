@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 8:21",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र अदायाह, र बेरायाह, र शिमरत — शिमेइका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "ועדיה",
+      "gloss": "र अदायाह"
+    },
+    {
+      "surface": "ובראיה",
+      "gloss": "र बेरायाह"
+    },
+    {
+      "surface": "ושמרת",
+      "gloss": "र शिमरत"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमेइ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:35.576538695Z",
+  "model": "glm-5.3"
+}

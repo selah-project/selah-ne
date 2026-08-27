@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 76:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 76,
+  "translation": "तिमी ⟨चाहिँ⟩ प्रकाशमय हौ, शिकारका पहाडहरूभन्दा पराक्रमी।",
+  "tokens": [
+    {
+      "surface": "נאור",
+      "gloss": "प्रकाशमय"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "אדיר",
+      "gloss": "पराक्रमी"
+    },
+    {
+      "surface": "מהררי",
+      "gloss": "पहाडहरूभन्दा"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "शिकारका"
+    }
+  ],
+  "timestamp": "2026-08-27T02:15:37.630679173Z",
+  "model": "glm-5.3"
+}

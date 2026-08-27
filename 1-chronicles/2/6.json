@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 2:6",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र जेरखका छोराहरू: जिम्री र एइतान र हेमान र कल्कोल र दारा — तिनीहरू सबै पाँच जना।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरखका"
+    },
+    {
+      "surface": "זמרי",
+      "gloss": "जिम्री"
+    },
+    {
+      "surface": "ואיתן",
+      "gloss": "र एइतान"
+    },
+    {
+      "surface": "והימן",
+      "gloss": "र हेमान"
+    },
+    {
+      "surface": "וכלכל",
+      "gloss": "र कल्कोल"
+    },
+    {
+      "surface": "ודרע",
+      "gloss": "र दारा"
+    },
+    {
+      "surface": "כלם",
+      "gloss": "तिनीहरू सबै"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:30.106313545Z",
+  "model": "glm-5.3"
+}

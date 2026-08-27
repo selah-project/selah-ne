@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "isaiah 2:16",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र तर्शीशका सबै जहाजहरूमाथि, र सबै मनमोहक शिल्प-वस्तुहरूमाथि।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र …माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אניות",
+      "gloss": "जहाजहरू"
+    },
+    {
+      "surface": "תרשיש",
+      "gloss": "तर्शीशका"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र …माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "שכיות",
+      "gloss": "शिल्प-वस्तुहरू"
+    },
+    {
+      "surface": "החמדה",
+      "gloss": "मनमोहक"
+    }
+  ],
+  "timestamp": "2026-08-26T22:22:45.350985041Z",
+  "model": "glm-5.3"
+}

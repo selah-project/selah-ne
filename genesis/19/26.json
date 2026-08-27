@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 19:26",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र उनकी पत्नीले उनको पछि-पछि हेरिन्, र ⟨उनी⟩ नुनको स्तम्भ भइन्।",
+  "tokens": [
+    {
+      "surface": "ותבט",
+      "gloss": "र हेरिन्"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "उनकी पत्नीले"
+    },
+    {
+      "surface": "מאחריו",
+      "gloss": "उनको पछि-पछि"
+    },
+    {
+      "surface": "ותהי",
+      "gloss": "र भइन्"
+    },
+    {
+      "surface": "נציב",
+      "gloss": "स्तम्भ"
+    },
+    {
+      "surface": "מלח",
+      "gloss": "नुनको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:47:18.262547326Z",
+  "model": "glm-5.3"
+}

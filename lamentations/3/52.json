@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 52,
+  "ref": "lamentations 3:52",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "घात लगाएर समाते मेरा शत्रुहरूले, चराझैं, निःकारण।",
+  "tokens": [
+    {
+      "surface": "צוד",
+      "gloss": "घात लगाएर"
+    },
+    {
+      "surface": "צדוני",
+      "gloss": "समाते मलाई"
+    },
+    {
+      "surface": "כצפור",
+      "gloss": "चराझैं"
+    },
+    {
+      "surface": "अयबי → אויבי",
+      "gloss": "मेरा शत्रुहरूले"
+    },
+    {
+      "surface": "חנם",
+      "gloss": "निःकारण"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:09.553572557Z",
+  "model": "glm-5.3"
+}

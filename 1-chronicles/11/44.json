@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "1-chronicles 11:44",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "उज्जिय्याह अश्तरोती; शामा र येइएल, होताम अरोएरीका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "עזיא",
+      "gloss": "उज्जिय्याह"
+    },
+    {
+      "surface": "העשתרתי",
+      "gloss": "अश्तरोती"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "शामा"
+    },
+    {
+      "surface": "ויעואל",
+      "gloss": "र येइएल"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חותם",
+      "gloss": "होताम"
+    },
+    {
+      "surface": "הערערי",
+      "gloss": "अरोएरी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:34.593922694Z",
+  "model": "glm-5.3"
+}

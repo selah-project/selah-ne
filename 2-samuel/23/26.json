@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "2-samuel 23:26",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "खेलेत्स पल्ती, इरा इक्केशको छोरा, तेकोआी।",
+  "tokens": [
+    {
+      "surface": "חלץ",
+      "gloss": "खेलेत्स"
+    },
+    {
+      "surface": "הפלטי",
+      "gloss": "पल्ती"
+    },
+    {
+      "surface": "עירא",
+      "gloss": "इरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עקש",
+      "gloss": "इक्केश"
+    },
+    {
+      "surface": "התקועי",
+      "gloss": "तेकोआी"
+    }
+  ],
+  "timestamp": "2026-08-26T21:54:21.607447255Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "malachi 2:1",
+  "book": "malachi",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "अब तिमीहरूका निम्ति ⟨हो⟩ ⟨यो⟩ आज्ञा, हे पुरोहितहरू।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אליכם",
+      "gloss": "तिमीहरूका निम्ति"
+    },
+    {
+      "surface": "המצוה",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "हे पुरोहितहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T23:48:20.999966730Z",
+  "model": "glm-5.3"
+}

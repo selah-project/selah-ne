@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "2-chronicles 33:21",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "बाइस वर्षको छ, आमोन ⟨उसको⟩ राज्य गर्दा; र दुई वर्ष ⟨उसले⟩ येरुशालाइममा राज्य गर्यो।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "बेटा"
+    },
+    {
+      "surface": "עשרिझ",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אמון",
+      "gloss": "आमोन"
+    },
+    {
+      "surface": "במלכו",
+      "gloss": "राज्य गर्दा"
+    },
+    {
+      "surface": "ושתים",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राज्य गर्यो"
+    },
+    {
+      "surface": "בירושלם",
+      "gloss": "येरुशालाइममा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:44:16.571855911Z",
+  "model": "glm-5.3"
+}

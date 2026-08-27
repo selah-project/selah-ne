@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "exodus 7:7",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "मोशे असी वर्षका छोरा ⟨थिए⟩, र अहारोन असी तीन वर्षका छोरा, जब तिनीहरूले फारोहसित बोले।",
+  "tokens": [
+    {
+      "surface": "ומשה",
+      "gloss": "र मोशे"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "असी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ואहרן",
+      "gloss": "र अहारोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ושמנים",
+      "gloss": "र असी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "בדברם",
+      "gloss": "जब तिनीहरूले बोले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सित"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारोह"
+    }
+  ],
+  "timestamp": "2026-08-26T20:05:19.881158549Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "deuteronomy 14:5",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "हिरो र त्सबी र यखमूर र अक्को र दिशोन र तेओ र जामेर।",
+  "tokens": [
+    {
+      "surface": "איל",
+      "gloss": "हिरो"
+    },
+    {
+      "surface": "וצבי",
+      "gloss": "त्सबी"
+    },
+    {
+      "surface": "ויחמור",
+      "gloss": "यखमूर"
+    },
+    {
+      "surface": "ואקו",
+      "gloss": "अक्को"
+    },
+    {
+      "surface": "ודישן",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ותאו",
+      "gloss": "तेओ"
+    },
+    {
+      "surface": "וזמר",
+      "gloss": "जामेर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:20.257310194Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 24:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "को ⟨हो⟩ यो महिमाको राजा? यहवे — बलिष्ठ र पराक्रमी; यहवे, युद्धमा पराक्रमी।",
+  "tokens": [
+    {
+      "surface": "מי",
+      "gloss": "को"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "महिमाको"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עזוז",
+      "gloss": "बलिष्ठ"
+    },
+    {
+      "surface": "וגבור",
+      "gloss": "र पराक्रमी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "पराक्रमी"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्धमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:53:53.155954832Z",
+  "model": "glm-5.3"
+}

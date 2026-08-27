@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 22:11",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "ऊन र सनपटाई एकसाथ मिसाइएको शात्नेज लुगा लगाउनु होइन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תלבש",
+      "gloss": "लगाउनु"
+    },
+    {
+      "surface": "שעטנז",
+      "gloss": "शात्नेज (मिस्रित लुगा)"
+    },
+    {
+      "surface": "צמר",
+      "gloss": "ऊन"
+    },
+    {
+      "surface": "ופשתים",
+      "gloss": "र सनपटाई"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकसाथ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:02:51.699225939Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 35:22",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "तर यदि अचानक, शत्रुता बिना उसलाई धकेल्‍यो, वा छल बिना उसमाथि कुनै वस्तु फाल्‍यो,",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "तर यदि"
+    },
+    {
+      "surface": "בפתע",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "איבה",
+      "gloss": "शत्रुता"
+    },
+    {
+      "surface": "הדפו",
+      "gloss": "उसलाई धकेल्‍यो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "השליך",
+      "gloss": "फाल्‍यो"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसमाथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "वस्तु"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "צדיה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-08-26T20:52:04.454329511Z",
+  "model": "glm-5.3"
+}

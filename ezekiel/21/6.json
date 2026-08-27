@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 21:6",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र यहवेको वचन मसँग आयो, यो भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र...भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "यो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:18:11.534565977Z",
+  "model": "glm-5.3"
+}

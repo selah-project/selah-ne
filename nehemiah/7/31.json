@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "nehemiah 7:31",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "मिख्मासका मानिसहरू — एक सय बाइस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "מכמס",
+      "gloss": "मिख्मासका"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "र बीस"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:44.883198268Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezra 2:25",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "किर्यत-यारिम, केफिरा र बेरोतका छोराहरू — सात सय उनतालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यत"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "यारिम"
+    },
+    {
+      "surface": "כפירה",
+      "gloss": "केफिरा"
+    },
+    {
+      "surface": "ובארות",
+      "gloss": "र बेरोत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "उनतालीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:54.900121830Z",
+  "model": "glm-5.3"
+}

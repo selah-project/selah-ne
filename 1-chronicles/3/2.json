@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "1-chronicles 3:2",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तेस्रो अबशालोम, माआखाको छोरा — ऊ गशूरका राजा तल्मैकी छोरी; चौथो अदोनियाह, खग्गीतको छोरा।",
+  "tokens": [
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "לאבשלום",
+      "gloss": "अबशालोम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מעכה",
+      "gloss": "माआखाको"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "תלמי",
+      "gloss": "तल्मैकी"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גשור",
+      "gloss": "गशूरका"
+    },
+    {
+      "surface": "הרביעי",
+      "gloss": "चौथो"
+    },
+    {
+      "surface": "אדניה",
+      "gloss": "अदोनियाह"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "חגית",
+      "gloss": "खग्गीतको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:32.236308859Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "genesis 49:22",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "योसेफ ⟨हो⟩ फलदायी छोरा, फलदायी छोरा पानीको स्रोतछेउमा; छोरीहरू भने पर्खालमाथि चढ्छन्।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फलदायी"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "פרת",
+      "gloss": "फलदायी"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "עין",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "छोरीहरू"
+    },
+    {
+      "surface": "צעדה",
+      "gloss": "चढ्छन्"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "שור",
+      "gloss": "पर्खाल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:50:06.371478103Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "2-chronicles 4:14",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र ⟨את⟩ आधारहरू बनाए, र ⟨את⟩ हौदहरू बनाए आधारहरूमाथि।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "आधारहरू"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "आधारहरू"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हौदहरू"
+    },
+    {
+      "surface": "הכירות",
+      "gloss": "हौदहरू"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "המכנות",
+      "gloss": "आधारहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T01:34:12.265406165Z",
+  "model": "glm-5.3"
+}

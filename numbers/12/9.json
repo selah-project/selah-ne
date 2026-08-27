@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 12:9",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र यहवेको क्रोध उनीहरूमा बल्यो, र ⟨उहाँले⟩ जानुभयो।",
+  "tokens": [
+    {
+      "surface": "ויחר",
+      "gloss": "बल्यो"
+    },
+    {
+      "surface": "אף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בם",
+      "gloss": "उनीहरूमा"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "जानुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:22.985445049Z",
+  "model": "glm-5.3"
+}

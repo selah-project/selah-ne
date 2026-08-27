@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 4:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "किनभने तिनीहरू अधर्मको रोटी खान्छन् र हिंसाका दाखरस पिउँछन्।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "खान्छन्"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "अधर्मको"
+    },
+    {
+      "surface": "ויין",
+      "gloss": "र दाखरस"
+    },
+    {
+      "surface": "חמסים",
+      "gloss": "हिंसाको"
+    },
+    {
+      "surface": "ישתו",
+      "gloss": "पिउँछन्"
+    }
+  ],
+  "timestamp": "2026-08-27T02:17:21.263746075Z",
+  "model": "glm-5.3"
+}

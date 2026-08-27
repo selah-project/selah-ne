@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 27:9",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "उसको चिच्याहट एलले सुन्नुहुन्छ कि, जब सङ्कट उसमाथि आउँछ?",
+  "tokens": [
+    {
+      "surface": "הצעקתו",
+      "gloss": "उसको चिच्याहट"
+    },
+    {
+      "surface": "ישמע",
+      "gloss": "सुन्नुहुन्छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसमाथि"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "सङ्कट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:37:05.687337456Z",
+  "model": "glm-5.3"
+}

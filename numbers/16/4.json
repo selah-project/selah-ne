@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "numbers 16:4",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "और मोशेले सुन्नुभयो, र आफ्नो अनुहारमा ढल्कनुभयो।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुन्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "ויפל",
+      "gloss": "ढल्कनुभयो"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "פניו",
+      "gloss": "आफ्नो अनुहार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:43:44.540751640Z",
+  "model": "glm-5.3"
+}

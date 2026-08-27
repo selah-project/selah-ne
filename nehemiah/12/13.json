@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "nehemiah 12:13",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "एज्राका लागि मेशुल्लाम; अमर्याका लागि येहोखानान।",
+  "tokens": [
+    {
+      "surface": "לעזרא",
+      "gloss": "एज्राका लागि"
+    },
+    {
+      "surface": "משלם",
+      "gloss": "मेशुल्लाम"
+    },
+    {
+      "surface": "לאמריה",
+      "gloss": "अमर्याका लागि"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "येहोखानान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:24.246749320Z",
+  "model": "glm-5.3"
+}

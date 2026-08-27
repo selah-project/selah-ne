@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "numbers 21:19",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र मत्तानाहबाट नखलिएल, र नखलिएलबाट बामोथ,",
+  "tokens": [
+    {
+      "surface": "וממתנה",
+      "gloss": "र मत्तानाहबाट"
+    },
+    {
+      "surface": "נחליאל",
+      "gloss": "नखलिएल"
+    },
+    {
+      "surface": "ומनחליאל",
+      "gloss": "र नखलिएलबाट"
+    },
+    {
+      "surface": "במות",
+      "gloss": "बामोथ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:00.378896550Z",
+  "model": "glm-5.3"
+}

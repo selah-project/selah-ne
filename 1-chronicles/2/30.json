@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 2:30",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "नादाबका छोराहरू सेलेद र अप्पायिम थिए; र सेलेद छोराबिना मर्यो।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "נדב",
+      "gloss": "नादाबका"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "सेलेद"
+    },
+    {
+      "surface": "ואפים",
+      "gloss": "र अप्पायिम"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "र मर्यो"
+    },
+    {
+      "surface": "סלד",
+      "gloss": "सेलेद"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:05.514467049Z",
+  "model": "glm-5.3"
+}

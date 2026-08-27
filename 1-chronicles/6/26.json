@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 6:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "एथ्नीका छोरा, जेरखका छोरा, अदायाहका छोरा।",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אתני",
+      "gloss": "एथ्नी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरख"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עדיה",
+      "gloss": "अदायाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:48.252171057Z",
+  "model": "glm-5.3"
+}

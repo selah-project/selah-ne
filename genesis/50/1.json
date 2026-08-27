@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 50:1",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "योसेफ आफ्ना पिताको अनुहारमाथि ढल्किए, र ⟨उनी⟩ उनीमाथि रोए, र उनलाई चुम्या।",
+  "tokens": [
+    {
+      "surface": "ויפל",
+      "gloss": "ढल्किए"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अनुहार"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आफ्ना पिताको"
+    },
+    {
+      "surface": "ויבך",
+      "gloss": "रोए"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उनीमाथि"
+    },
+    {
+      "surface": "וישק",
+      "gloss": "चुम्या"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उनलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:25.112201137Z",
+  "model": "glm-5.3"
+}

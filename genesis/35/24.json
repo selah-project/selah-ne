@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "genesis 35:24",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "राहेलका छोराहरू: योसेफ र बिन्यामीन।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "רחל",
+      "gloss": "राहेलका"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "ובנימן",
+      "gloss": "बिन्यामीन"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:15.031749860Z",
+  "model": "glm-5.3"
+}

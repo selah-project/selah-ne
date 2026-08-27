@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 22:14",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "मोआबका सरदारहरू उठे र बालाककहाँ आए, र भने: बिलाम हामीसँग आउन अस्वीकार गर्छन्।",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "उठे"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदारहरू"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबका"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "भने"
+    },
+    {
+      "surface": "מאן",
+      "gloss": "अस्वीकार गर्छन्"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिलाम"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "आउन"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हामीसँग"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:28.502873652Z",
+  "model": "glm-5.3"
+}

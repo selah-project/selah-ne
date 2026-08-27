@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "proverbs 25:25",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "थकित नेफेशमाथि चिसो पानी — र टाढाको देशबाट आएको असल समाचार।",
+  "tokens": [
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "קרים",
+      "gloss": "चिसो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "नेफेश"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "थकित"
+    },
+    {
+      "surface": "ושמועה",
+      "gloss": "र समाचार"
+    },
+    {
+      "surface": "טובה",
+      "gloss": "असल"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देशबाट"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "टाढाको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:45.398482832Z",
+  "model": "glm-5.3"
+}

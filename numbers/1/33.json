@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "numbers 1:33",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तिनीहरूका गनिएकाहरू एफ्राइमको छातामा चालीस हजार पाँच सय भए।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "तिनीहरूका गनिएकाहरू"
+    },
+    {
+      "surface": "למטה",
+      "gloss": "छातामा"
+    },
+    {
+      "surface": "אפרים",
+      "gloss": "एफ्राइमको"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:47.617120926Z",
+  "model": "glm-5.3"
+}

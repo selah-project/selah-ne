@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "leviticus 14:44",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तब पुरोहित आएर हेर्नेछ, र हेर, चोट घरमा फैलिएको छ भने — घरमा दाहक कुष्ठरोग हो; त्यो ⟨is⟩ अशुद्ध।",
+  "tokens": [
+    {
+      "surface": "ובא",
+      "gloss": "र आउनेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "पुरोहित"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "र हेर्नेछ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "פשה",
+      "gloss": "फैलिएको छ"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "चोट"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "צרעת",
+      "gloss": "कुष्ठरोग"
+    },
+    {
+      "surface": "ממארת",
+      "gloss": "दाहक"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "טמא",
+      "gloss": "अशुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "छ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:05.108227554Z",
+  "model": "glm-5.3"
+}

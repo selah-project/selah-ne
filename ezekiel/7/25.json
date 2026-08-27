@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 7:25",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "थर्की आउँछ, र तिनीहरू शान्ति खोज्नेछन्, तर हुनेछैन।",
+  "tokens": [
+    {
+      "surface": "קפדה",
+      "gloss": "थर्की"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "ובקשו",
+      "gloss": "र खोज्नेछन्"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "तर हुनेछैन"
+    }
+  ],
+  "timestamp": "2026-08-26T23:11:52.990702505Z",
+  "model": "glm-5.3"
+}

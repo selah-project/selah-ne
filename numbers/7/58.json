@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "numbers 7:58",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "पापबलिका लागि एउटा बोकाको छोरा, बाख्राको।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बोकाको छोरा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्राको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:28.263716703Z",
+  "model": "glm-5.3"
+}

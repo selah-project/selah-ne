@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 2:11",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र त्यसको सेना, र त्यसमा गनिएकाहरू — छ र चालीस हजार पाँच सय।",
+  "tokens": [
+    {
+      "surface": "וצבאו",
+      "gloss": "र त्यसको सेना"
+    },
+    {
+      "surface": "ופקדיו",
+      "gloss": "र त्यसमा गनिएकाहरू"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "छ"
+    },
+    {
+      "surface": "וארבעים",
+      "gloss": "र चालीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:36:17.960518573Z",
+  "model": "glm-5.3"
+}

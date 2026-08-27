@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 11:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "अर्पक्शद पाँच तीस वर्ष बाँचे, र उनले ⟨את⟩ शेलखलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "וארפכשד",
+      "gloss": "र अर्पक्शद"
+    },
+    {
+      "surface": "חי",
+      "gloss": "बाँचे"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "र जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेलखलाई"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "शेलख"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:01.583765415Z",
+  "model": "glm-5.3"
+}

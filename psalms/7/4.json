@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 7:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यहवे मेरा एलोहीम, यदि मैले यो गरेँ, यदि मेरा हातमा अन्याय ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "मेरा एलोहीम"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "עשיתי",
+      "gloss": "मैले गरेँ"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יש",
+      "gloss": "⟨छ⟩"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "בכפי",
+      "gloss": "मेरा हातमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:50:08.650914473Z",
+  "model": "glm-5.3"
+}

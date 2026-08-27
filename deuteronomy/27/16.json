@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 27:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "धिक्कारित छ से जसले आफ्नो पितालाई हल्का ठान्छ र आफ्नो आमालाई; र सबै जनता भन्नेछ: आमेन।",
+  "tokens": [
+    {
+      "surface": "ארור",
+      "gloss": "धिक्कारित"
+    },
+    {
+      "surface": "מקלה",
+      "gloss": "हल्का ठान्छ"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आफ्नो पितालाई"
+    },
+    {
+      "surface": "ואמו",
+      "gloss": "र आफ्नो आमालाई"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "भन्नेछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:30.714523320Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "exodus 25:30",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र तिमीले मेजमाथि अनुहारको रोटी मेरो सामु निरन्तर राख्नेछौ।",
+  "tokens": [
+    {
+      "surface": "ונתת",
+      "gloss": "र तिमी राख्नेछौ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "השלחן",
+      "gloss": "⟨the⟩ मेज"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "פנים",
+      "gloss": "अनुहारको"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "निरन्तर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:15:11.332148955Z",
+  "model": "glm-5.3"
+}

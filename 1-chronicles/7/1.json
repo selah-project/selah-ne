@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 7:1",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अनि यिस्साखारका छोराहरू — तोला, पुआह, याशुभ र शिम्रोन, चार जना।",
+  "tokens": [
+    {
+      "surface": "ולבני",
+      "gloss": "अनि …का छोराहरू"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिस्साखार"
+    },
+    {
+      "surface": "תולע",
+      "gloss": "तोला"
+    },
+    {
+      "surface": "ופואה",
+      "gloss": "र पुआह"
+    },
+    {
+      "surface": "ישיב",
+      "gloss": "याशुभ"
+    },
+    {
+      "surface": "ושמרון",
+      "gloss": "र शिम्रोन"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार जना"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:46.078743592Z",
+  "model": "glm-5.3"
+}

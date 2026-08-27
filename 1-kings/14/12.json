@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 14:12",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तर तँ, उठ, आफ्नो घर जा; तेरा खुट्टा शहरमा पस्दा नसक्दै बालक मर्नेछ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "तर तँ"
+    },
+    {
+      "surface": "קומי",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "जा"
+    },
+    {
+      "surface": "לביתך",
+      "gloss": "आफ्नो घर"
+    },
+    {
+      "surface": "בבאה",
+      "gloss": "पस्दा"
+    },
+    {
+      "surface": "רגליך",
+      "gloss": "तेरा खुट्टा"
+    },
+    {
+      "surface": "העירה",
+      "gloss": "शहरमा"
+    },
+    {
+      "surface": "ומת",
+      "gloss": "र मर्नेछ"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "बालक"
+    }
+  ],
+  "timestamp": "2026-08-26T22:04:26.594184640Z",
+  "model": "glm-5.3"
+}

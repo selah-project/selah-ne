@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 11:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "सातलाई र आठलाई पनि हिस्सा दे, किनकि पृथ्वीमाथि के विपत्ति आउनेछ भन्नेलाई तँ जान्दैनस्।",
+  "tokens": [
+    {
+      "surface": "תן",
+      "gloss": "दे"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "हिस्सा"
+    },
+    {
+      "surface": "לשבעה",
+      "gloss": "सातलाई"
+    },
+    {
+      "surface": "וגם",
+      "gloss": "र पनि"
+    },
+    {
+      "surface": "לשמונה",
+      "gloss": "आठलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תדע",
+      "gloss": "जान्दैनस्"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "आउनेछ"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "विपत्ति"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:30.451331389Z",
+  "model": "glm-5.3"
+}

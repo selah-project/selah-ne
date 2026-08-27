@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 28:23",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "तिम्रा आकाश, जुन तिम्रो टाउकोमाथि छ, तामा हुनेछन्; र त्यो जमिन, जुन तिम्रोमुनि छ, फलाम हुनेछ।",
+  "tokens": [
+    {
+      "surface": "והיו",
+      "gloss": "हुनेछन्"
+    },
+    {
+      "surface": "שמיך",
+      "gloss": "तिम्रा आकाश"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तिम्रो टाउको"
+    },
+    {
+      "surface": "נחשת",
+      "gloss": "तामा"
+    },
+    {
+      "surface": "והארץ",
+      "gloss": "र त्यो जमिन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "תחתיך",
+      "gloss": "तिम्रोमुनि"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "फलाम"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:39.015557470Z",
+  "model": "glm-5.3"
+}

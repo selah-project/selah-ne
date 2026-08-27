@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 10:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र ⟨את⟩ ओवल, ⟨את⟩ अविमाएल र ⟨את⟩ शेवालाई।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "ओवल"
+    },
+    {
+      "surface": "עובל",
+      "gloss": "ओवल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "अविमाएल"
+    },
+    {
+      "surface": "אבימאल",
+      "gloss": "अविमाएल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "शेवा"
+    },
+    {
+      "surface": "שבא",
+      "gloss": "शेवा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:02.785994639Z",
+  "model": "glm-5.3"
+}

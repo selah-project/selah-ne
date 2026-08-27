@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 30:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "मजमूर — गीत, घरको उद्घाटनको, दाउदका लागि।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "मजमूर"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חנכת",
+      "gloss": "उद्घाटनको"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घरको"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाउदका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:54:14.993618575Z",
+  "model": "glm-5.3"
+}

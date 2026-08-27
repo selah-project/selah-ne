@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 22:22",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "गरिबलाई लुट्नु होइन, किनकि ⟨उ⟩ गरिब ⟨हो⟩; र द्वारमा पीडितलाई कुल्चनु होइन।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגזל",
+      "gloss": "लुट्नु होइन"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरिबलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "דל",
+      "gloss": "गरिब"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תדכא",
+      "gloss": "कुल्चनु होइन"
+    },
+    {
+      "surface": "עני",
+      "gloss": "पीडितलाई"
+    },
+    {
+      "surface": "בשער",
+      "gloss": "द्वारमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:24.149490730Z",
+  "model": "glm-5.3"
+}

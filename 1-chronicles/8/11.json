@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 8:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र उसले हुशीमबाट ⟨את⟩ अभितुभ र ⟨את⟩ एल्पाललाई जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "ומחשים",
+      "gloss": "र हुशीमबाट"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अभितुभ"
+    },
+    {
+      "surface": "אביטוב",
+      "gloss": "अभितुभ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "एल्पाल"
+    },
+    {
+      "surface": "אלפעל",
+      "gloss": "एल्पाल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:20.359400348Z",
+  "model": "glm-5.3"
+}

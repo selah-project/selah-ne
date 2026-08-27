@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "isaiah 16:13",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "यही त्यो वचन हो जुन यहवेले मोआबको विषयमा त्यस समयदेखि बोल्नुभएको छ।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "यही"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभएको"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מאז",
+      "gloss": "त्यस समयदेखि"
+    }
+  ],
+  "timestamp": "2026-08-26T22:27:30.731758476Z",
+  "model": "glm-5.3"
+}

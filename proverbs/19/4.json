@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 19:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "धनले धेरै मित्रहरू थप्छ, र गरिब ⟨भने⟩ आफ्नो मित्रबाट छुटिन्छ।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "יסיף",
+      "gloss": "थप्छ"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "मित्रहरू"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "ודל",
+      "gloss": "र गरिब"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "आफ्नो मित्रबाट"
+    },
+    {
+      "surface": "יפרד",
+      "gloss": "छुटिन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:29.551025688Z",
+  "model": "glm-5.3"
+}

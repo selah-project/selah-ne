@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 4:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "शान्तिसहित एक मुठी भरिनु दुई मुठी भरी कठिन परिश्रम र वायुको सन्तापभन्दा राम्रो।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरिनु"
+    },
+    {
+      "surface": "כף",
+      "gloss": "एक मुठी"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "शान्तिसहित"
+    },
+    {
+      "surface": "ממלא",
+      "gloss": "भन्दा…भरी"
+    },
+    {
+      "surface": "חפנים",
+      "gloss": "दुई मुठी"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "कठिन परिश्रम"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "र सन्ताप"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वायुको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:48.555729398Z",
+  "model": "glm-5.3"
+}

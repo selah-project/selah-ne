@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "leviticus 14:24",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र याजकले दोष-offeringको भाले पाठो ⟨את⟩ र तेलको लोग ⟨את⟩ लिनेछ, र याजकले तिनीहरूलाई यहवेको सामु wave offeringको रूपमा हल्लाउनेछ;",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "र लिनेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजकले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भाले पाठो"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भाले पाठो"
+    },
+    {
+      "surface": "האשם",
+      "gloss": "दोष-offeringको"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "लोग"
+    },
+    {
+      "surface": "לג",
+      "gloss": "लोग"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेलको"
+    },
+    {
+      "surface": "והניף",
+      "gloss": "र हल्लाउनेछ"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "तिनीहरूलाई"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "याजकले"
+    },
+    {
+      "surface": "תנופה",
+      "gloss": "wave offeringको रूपमा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:25.937695279Z",
+  "model": "glm-5.3"
+}

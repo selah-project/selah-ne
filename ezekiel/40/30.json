@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 40:30",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "र बरण्डाहरू वरपर वरपर — लम्बाइ पाँच र बीस हात, र चौडाइ पाँच हात।",
+  "tokens": [
+    {
+      "surface": "ואלמות",
+      "gloss": "र बरण्डाहरू"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाइ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "र बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "र चौडाइ"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    }
+  ],
+  "timestamp": "2026-08-26T23:29:23.822078104Z",
+  "model": "glm-5.3"
+}

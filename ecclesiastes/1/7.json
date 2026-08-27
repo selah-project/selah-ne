@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 1:7",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "सबै खोलाहरू समुद्रमा जान्छन्, तर समुद्र भरिएको हुँदैन; खोलाहरू जाने ठाउँतर्फ नै उनीहरू फेरि जान फर्कन्छन्।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הנחלים",
+      "gloss": "खोलाहरू"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "जान्छन्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "והים",
+      "gloss": "तर समुद्र"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "हुँदैन"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरिएको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाउँ"
+    },
+    {
+      "surface": "שהנחלים",
+      "gloss": "खोलाहरू जाने"
+    },
+    {
+      "surface": "הלכים",
+      "gloss": "जान्छन्"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नै त्यहीँ"
+    },
+    {
+      "surface": "הם",
+      "gloss": "उनीहरू"
+    },
+    {
+      "surface": "שבים",
+      "gloss": "फर्कन्छन्"
+    },
+    {
+      "surface": "ללכת",
+      "gloss": "जान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:03.664812012Z",
+  "model": "glm-5.3"
+}

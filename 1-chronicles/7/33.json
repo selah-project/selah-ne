@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 7:33",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "याप्लेतका छोराहरू पासाख, बिम्हाल र अश्वात थिए; यी याप्लेतका छोराहरू हुन्।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "याप्लेतका"
+    },
+    {
+      "surface": "פסך",
+      "gloss": "पासाख"
+    },
+    {
+      "surface": "ובמהל",
+      "gloss": "र बिम्हाल"
+    },
+    {
+      "surface": "ועשות",
+      "gloss": "र अश्वात"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יפלט",
+      "gloss": "याप्लेतका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:31.449667855Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 25:31",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "याकोभले भने: आजै तिम्रो जेठो अधिकार मलाई ⟨את⟩ बेच।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभले"
+    },
+    {
+      "surface": "מכרה",
+      "gloss": "बेच"
+    },
+    {
+      "surface": "כיום",
+      "gloss": "आजै"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जेठो अधिकार"
+    },
+    {
+      "surface": "בכרתך",
+      "gloss": "तिम्रो जेठो अधिकार"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:52.467050159Z",
+  "model": "glm-5.3"
+}

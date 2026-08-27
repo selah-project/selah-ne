@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "exodus 31:12",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "तब यहवेले मोशेसित बोल्नुभयो, भन्दै हुनुभयो,",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सित"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै हुनुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:17:03.740779700Z",
+  "model": "glm-5.3"
+}

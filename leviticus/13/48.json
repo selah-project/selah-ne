@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "leviticus 13:48",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "वा तान्ने धागोमा वा बुन्ने धागोमा, सनको वा ऊनको, वा छालामा, वा छालाको कुनै पनि काममा —",
+  "tokens": [
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "तान्ने धागोमा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בערב",
+      "gloss": "बुन्ने धागोमा"
+    },
+    {
+      "surface": "לפשתים",
+      "gloss": "सनको लागि\/सनको"
+    },
+    {
+      "surface": "ולצמר",
+      "gloss": "वा ऊनको"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בעור",
+      "gloss": "छालामा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "कुनै पनि"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काममा"
+    },
+    {
+      "surface": "עור",
+      "gloss": "छालाको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:27:45.217927895Z",
+  "model": "glm-5.3"
+}

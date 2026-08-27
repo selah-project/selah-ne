@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 41:37",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "र ⟨सोच⟩ फारोहका आँखामा र उनका सबै दासहरूका आँखामा असल लाग्यो।",
+  "tokens": [
+    {
+      "surface": "וייטב",
+      "gloss": "असल लाग्यो"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "सोच"
+    },
+    {
+      "surface": "בעיני",
+      "gloss": "आँखामा"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारोह"
+    },
+    {
+      "surface": "ובעיני",
+      "gloss": "र आँखामा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עבדיו",
+      "gloss": "उनका दासहरूका"
+    }
+  ],
+  "timestamp": "2026-08-26T19:58:41.980394344Z",
+  "model": "glm-5.3"
+}

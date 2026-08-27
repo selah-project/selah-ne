@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "2-samuel 20:13",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "जब उहाँ ⟨सडकबाट⟩ हटाइए, हरेक मानिस योआभपछि निस्कियो, शेभा बिन बिख्रीलाई पछ्याउन।",
+  "tokens": [
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "הגה",
+      "gloss": "हटाइए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "המסלה",
+      "gloss": "सडक"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "निस्कियो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआभ"
+    },
+    {
+      "surface": "לרדף",
+      "gloss": "पछ्याउन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेभा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बिन"
+    },
+    {
+      "surface": "בכרי",
+      "gloss": "बिख्री"
+    }
+  ],
+  "timestamp": "2026-08-26T21:53:49.838026488Z",
+  "model": "glm-5.3"
+}

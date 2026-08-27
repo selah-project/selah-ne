@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "numbers 13:18",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र हेर्नेछौ ⟨את⟩ ⟨the⟩ देखौं-देश कस्तो ⟨हो⟩, र ⟨את⟩ त्यसमा बस्ने ⟨the⟩ मानिसलाई — बलियो ⟨हो⟩ वा कमजोर, थोरै ⟨हो⟩ वा धेरै।",
+  "tokens": [
+    {
+      "surface": "וראיתם",
+      "gloss": "र हेर्नेछौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "देश"
+    },
+    {
+      "surface": "हארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कस्तो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "मानिस"
+    },
+    {
+      "surface": "העם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "הישב",
+      "gloss": "बस्ने"
+    },
+    {
+      "surface": "עליה",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "החזק",
+      "gloss": "बलियो"
+    },
+    {
+      "surface": "हוא",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "הרפה",
+      "gloss": "कमजोर"
+    },
+    {
+      "surface": "המעט",
+      "gloss": "थोरै"
+    },
+    {
+      "surface": "हוא",
+      "gloss": "⟨हो⟩"
+    },
+    {
+      "surface": "אם",
+      "gloss": "वा"
+    },
+    {
+      "surface": "רב",
+      "gloss": "धेरै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:42:32.627031347Z",
+  "model": "glm-5.3"
+}

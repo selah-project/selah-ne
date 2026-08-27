@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 6:1",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "अनि यहवेको सन्दुक पलिश्तीहरूको देशमा सात महिना रह्यो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि … रह्यो"
+    },
+    {
+      "surface": "ארון",
+      "gloss": "सन्दुक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीहरूको"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "חדשים",
+      "gloss": "महिना"
+    }
+  ],
+  "timestamp": "2026-08-26T21:32:32.856345923Z",
+  "model": "glm-5.3"
+}

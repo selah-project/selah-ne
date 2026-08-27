@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 4:4",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "तर तिमीहरू, जो यहवे आफ्ना एलोहीममा टाँसिएका हौ, तिमीहरू सबै आज जीवित हौ।",
+  "tokens": [
+    {
+      "surface": "ואתם",
+      "gloss": "तर तिमीहरू"
+    },
+    {
+      "surface": "הדבקים",
+      "gloss": "टाँसिएका हौ"
+    },
+    {
+      "surface": "ביהוה",
+      "gloss": "यहवेमा"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "आफ्ना एलोहीम"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवित"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तिमीहरू सबै"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:40.292785857Z",
+  "model": "glm-5.3"
+}

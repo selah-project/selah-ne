@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 28:16",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र पहिलो महिनामा, महिनाको चौधौँ दिन, यहवेको पेसह।",
+  "tokens": [
+    {
+      "surface": "ובחדש",
+      "gloss": "र महिनामा"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिलो"
+    },
+    {
+      "surface": "בארבעה",
+      "gloss": "चौध"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दस)"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पेसह"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:52.059545434Z",
+  "model": "glm-5.3"
+}

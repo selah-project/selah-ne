@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 1:21",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र ⟨את⟩ हदोराम, र ⟨את⟩ उज़ाल, र ⟨את⟩ दिक्लाह।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "हदोराम"
+    },
+    {
+      "surface": "הדורם",
+      "gloss": "हदोराम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "उज़ाल"
+    },
+    {
+      "surface": "אוזל",
+      "gloss": "उज़ाल"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "दिक्लाह"
+    },
+    {
+      "surface": "דקלה",
+      "gloss": "दिक्लाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:13.072352295Z",
+  "model": "glm-5.3"
+}

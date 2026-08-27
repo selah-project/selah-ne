@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 30:3",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र मैले ज्ञान सिकिनँ, र पवित्रहरूको जानकारी म जान्दिनँ।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र ... न"
+    },
+    {
+      "surface": "למדתי",
+      "gloss": "मैले सिकिनँ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "ודעת",
+      "gloss": "र जानकारी"
+    },
+    {
+      "surface": "קדשים",
+      "gloss": "पवित्रहरूको"
+    },
+    {
+      "surface": "אדע",
+      "gloss": "म जान्दिनँ"
+    }
+  ],
+  "timestamp": "2026-08-27T02:18:12.466478796Z",
+  "model": "glm-5.3"
+}

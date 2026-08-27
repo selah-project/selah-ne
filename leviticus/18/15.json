@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 18:15",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "आफ्नी बुहारीको नाङगोपन नखोल्; ऊ आफ्नो छोराकी स्वास्नी हो; उनको नाङगोपन नखोल्।",
+  "tokens": [
+    {
+      "surface": "ערות",
+      "gloss": "नाङगोपन"
+    },
+    {
+      "surface": "כלתך",
+      "gloss": "बुहारीको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोल्"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "स्वास्नी"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "छोराकी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגלה",
+      "gloss": "खोल्"
+    },
+    {
+      "surface": "ערותה",
+      "gloss": "नाङगोपन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:59.976138778Z",
+  "model": "glm-5.3"
+}

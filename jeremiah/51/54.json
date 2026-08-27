@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "jeremiah 51:54",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 51,
+  "translation": "पुकारको ध्वनि बाबेलबाट ⟨आउँछ⟩, र ठूलो भङ्ग कस्दीहरूको देशबाट।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "ध्वनि"
+    },
+    {
+      "surface": "זעקה",
+      "gloss": "पुकारको"
+    },
+    {
+      "surface": "מבבל",
+      "gloss": "बाबेलबाट"
+    },
+    {
+      "surface": "ושבר",
+      "gloss": "र भङ्ग"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "देशबाट"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कस्दीहरूको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:10:15.651690867Z",
+  "model": "glm-5.3"
+}

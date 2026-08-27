@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "2-samuel 1:25",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "कति परेसिए! कति परेसिए!",
+  "tokens": [
+    {
+      "surface": "איך",
+      "gloss": "कति"
+    },
+    {
+      "surface": "נפלו",
+      "gloss": "परेसिए"
+    },
+    {
+      "surface": "גברים",
+      "gloss": "वीरहरू"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "हमिल्छामा",
+      "gloss": "⟨the>युद्धको"
+    },
+    {
+      "surface": "जहोनातान",
+      "gloss": "जहोनातान"
+    },
+    {
+      "surface": "अल",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "बामोतेख",
+      "gloss": "तिम्रा उचाइहरूमा"
+    },
+    {
+      "surface": "चलाल",
+      "gloss": "घाइते"
+    }
+  ],
+  "timestamp": "2026-08-26T21:43:39.394298670Z",
+  "model": "glm-5.3"
+}

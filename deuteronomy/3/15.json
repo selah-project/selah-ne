@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 3:15",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र माखिरलाई मैले ⟨את⟩ गिलआद दिएँ।",
+  "tokens": [
+    {
+      "surface": "ולמכיר",
+      "gloss": "र माखिरलाई"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "मैले दिएँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गिलआद"
+    },
+    {
+      "surface": "הגלעד",
+      "gloss": "गिलआद"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:41.716520741Z",
+  "model": "glm-5.3"
+}

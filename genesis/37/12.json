@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 37:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "र उनका दाजुभाइहरू आफ्ना पिताका ⟨את⟩ बथनहरू चराउन शखेम गए।",
+  "tokens": [
+    {
+      "surface": "וילכו",
+      "gloss": "गए"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उनका दाजुभाइहरू"
+    },
+    {
+      "surface": "לרעות",
+      "gloss": "चराउन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बथनहरू"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "बथनहरू"
+    },
+    {
+      "surface": "אביהם",
+      "gloss": "आफ्ना पिताका"
+    },
+    {
+      "surface": "בשכם",
+      "gloss": "शखेममा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:56:53.208608937Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,39 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 32:35",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र अतारोत-शोफान ⟨את⟩ र याजेर ⟨את⟩ र योग्बेहालाई पनि।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "अतारोत-शोफान"
+    },
+    {
+      "surface": "עטרת",
+      "gloss": "अतारोत"
+    },
+    {
+      "surface": "שופן",
+      "gloss": "शोफान"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "याजेर"
+    },
+    {
+      "surface": "יעזר",
+      "gloss": "याजेर"
+    },
+    {
+      "surface": "ויגבהה",
+      "gloss": "र योग्बेहालाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:42.413319356Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 2:10",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "एमिमहरू पहिले त्यहाँ बस्थे — ठूलो, बहुसंख्यक र अग्लो जाति, अनाकीहरूजस्तै।",
+  "tokens": [
+    {
+      "surface": "האמים",
+      "gloss": "एमिमहरू"
+    },
+    {
+      "surface": "לפנים",
+      "gloss": "पहिले"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बस्थे"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "र बहुसंख्यक"
+    },
+    {
+      "surface": "ורם",
+      "gloss": "र अग्लो"
+    },
+    {
+      "surface": "כענקים",
+      "gloss": "अनाकीहरूजस्तै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:54:22.050292733Z",
+  "model": "glm-5.3"
+}

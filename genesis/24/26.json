@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 24:26",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "त्यो मानिसले टाउको झुकायो र यहवेलाई दण्डवत् गर्यो।",
+  "tokens": [
+    {
+      "surface": "ויקד",
+      "gloss": "टाउको झुकायो"
+    },
+    {
+      "surface": "האיש",
+      "gloss": "त्यो मानिसले"
+    },
+    {
+      "surface": "וישתחו",
+      "gloss": "दण्डवत् गर्यो"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:35.379366864Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-chronicles 15:17",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "तर उच्चस्थानहरू इस्राएलबाट हटेनन्; तै पनि आसाको हृदय उसका सबै दिनभरि पूर्ण थियो।",
+  "tokens": [
+    {
+      "surface": "והבמות",
+      "gloss": "तर उच्चस्थानहरू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "סרו",
+      "gloss": "हटेनन्"
+    },
+    {
+      "surface": "מישראל",
+      "gloss": "इस्राएलबाट"
+    },
+    {
+      "surface": "רק",
+      "gloss": "तै पनि"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "אסא",
+      "gloss": "आसाको"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थियो"
+    },
+    {
+      "surface": "שלם",
+      "gloss": "पूर्ण"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "उसका दिनभरि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:36:55.510463994Z",
+  "model": "glm-5.3"
+}

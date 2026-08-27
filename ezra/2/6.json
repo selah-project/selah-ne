@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezra 2:6",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "पखत-मोआबका छोराहरू, येशुआ र योआबका छोराहरूमध्येका, दुई हजार आठ सय बाह्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פחת",
+      "gloss": "पखत"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूमध्येका"
+    },
+    {
+      "surface": "ישוע",
+      "gloss": "येशुआ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बाह्र"
+    }
+  ],
+  "timestamp": "2026-08-27T01:04:48.596366224Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 7:39",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र उल्लाका छोराहरू: अरख, र हन्निएल, र रित्स्या।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "עלא",
+      "gloss": "उल्ला"
+    },
+    {
+      "surface": "ארח",
+      "gloss": "अरख"
+    },
+    {
+      "surface": "וחניאל",
+      "gloss": "र हन्निएल"
+    },
+    {
+      "surface": "ורציא",
+      "gloss": "र रित्स्या"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:50.927895686Z",
+  "model": "glm-5.3"
+}

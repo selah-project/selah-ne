@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "1-chronicles 17:3",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अनि त्यसै राति एलोहीमको वचन नातानकहाँ आयो, यो भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "राति"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यसै"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "नातान"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:36.783556874Z",
+  "model": "glm-5.3"
+}

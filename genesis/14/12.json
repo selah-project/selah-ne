@@ -1,0 +1,63 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 14:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र ⟨את⟩ लोटलाई — अभ्रामको भाइको छोरा — र ⟨את⟩ उसको धन लिएर गए; ऊ सेदोममा बस्थ्यो।",
+  "tokens": [
+    {
+      "surface": "ויקחו",
+      "gloss": "र लिएर गए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लोट"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोटलाई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "उसको धन"
+    },
+    {
+      "surface": "רכשו",
+      "gloss": "उसको धन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "भाइको"
+    },
+    {
+      "surface": "אברם",
+      "gloss": "अभ्रामको"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "गए"
+    },
+    {
+      "surface": "והוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बस्थ्यो"
+    },
+    {
+      "surface": "בסדם",
+      "gloss": "सेदोममा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:45:24.341675845Z",
+  "model": "glm-5.3"
+}

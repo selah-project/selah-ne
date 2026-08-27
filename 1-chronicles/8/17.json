@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 8:17",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र ज़बद्याह, र मशुल्लाम, र हिज़्की, र हाबेर।",
+  "tokens": [
+    {
+      "surface": "וזבדיה",
+      "gloss": "र ज़बद्याह"
+    },
+    {
+      "surface": "ומשלם",
+      "gloss": "र मशुल्लाम"
+    },
+    {
+      "surface": "וחזקי",
+      "gloss": "र हिज़्की"
+    },
+    {
+      "surface": "וחבר",
+      "gloss": "र हाबेर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:26.565494083Z",
+  "model": "glm-5.3"
+}

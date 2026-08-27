@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 3:13",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "वरु, सबै मानिसले — ऊ खान्छ र पिउँछ र आफ्नो सबै श्रममा असल देख्छ — यो एलोहीमको ⟨हो⟩ दान हो।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "वरु"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "मानिसले"
+    },
+    {
+      "surface": "שיאכל",
+      "gloss": "ऊ खान्छ"
+    },
+    {
+      "surface": "ושתה",
+      "gloss": "र पिउँछ"
+    },
+    {
+      "surface": "וראה",
+      "gloss": "र देख्छ"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सबैमा"
+    },
+    {
+      "surface": "עמלו",
+      "gloss": "आफ्नो श्रम"
+    },
+    {
+      "surface": "מתת",
+      "gloss": "दान"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "היא",
+      "gloss": "यो ⟨हो⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:41.114262822Z",
+  "model": "glm-5.3"
+}

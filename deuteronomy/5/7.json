@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 5:7",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "तिम्रा लागि अन्य एलोहीम ⟨हुने⟩ छैनन् मेरो अनुहारको सामु।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैनन्"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछन्"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिम्रा-लागि"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अन्य"
+    },
+    {
+      "surface": "על",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अनुहारको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:26.267222456Z",
+  "model": "glm-5.3"
+}

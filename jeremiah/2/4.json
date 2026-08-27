@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 2:4",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "यहवेको वचन सुन, याआकोभको घराना, र इस्राएलको घरानाका सबै कुलहरू।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याआकोभको"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "משפחות",
+      "gloss": "कुलहरू"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरानाका"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:44:50.771520305Z",
+  "model": "glm-5.3"
+}

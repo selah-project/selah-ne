@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 24:24",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "उज्जिएलका छोराहरू: मिखाह; मिखाहका छोराहरू: शामुर।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…का छोराहरू"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज्जिएल"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिखाह"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूमा"
+    },
+    {
+      "surface": "מיכה",
+      "gloss": "मिखाहका"
+    },
+    {
+      "surface": "שמור",
+      "gloss": "शामुर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:56.860696015Z",
+  "model": "glm-5.3"
+}

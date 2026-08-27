@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 41:10",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "र कोठाहरूबीच बीस कोहितको चौडाइ थियो, घरवरिपरि वरपर, वरपर।",
+  "tokens": [
+    {
+      "surface": "ובין",
+      "gloss": "र ... बीच"
+    },
+    {
+      "surface": "הלשכות",
+      "gloss": "⟨the⟩ कोठाहरू"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौडाइ"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोहित"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    },
+    {
+      "surface": "לבית",
+      "gloss": "घरवरिपरि"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरपर"
+    }
+  ],
+  "timestamp": "2026-08-27T02:10:22.238783822Z",
+  "model": "glm-5.3"
+}

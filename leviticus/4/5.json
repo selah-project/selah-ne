@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "leviticus 4:5",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र अभिषिक्त कोहनले बछाडाको रगतबाट ⟨את⟩ त्यो लिई भेटघाटको पालभित्र ल्याउनेछ।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "लिनेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहनले"
+    },
+    {
+      "surface": "המשיח",
+      "gloss": "अभिषिक्त"
+    },
+    {
+      "surface": "מדם",
+      "gloss": "रगतबाट"
+    },
+    {
+      "surface": "הפר",
+      "gloss": "बछाडाको"
+    },
+    {
+      "surface": "והביא",
+      "gloss": "ल्याउनेछ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "त्यो (रगत)"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "אהל",
+      "gloss": "पाल"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "भेटघाटको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:23:38.278071624Z",
+  "model": "glm-5.3"
+}

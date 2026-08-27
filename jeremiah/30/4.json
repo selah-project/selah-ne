@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 30:4",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र यी ⟨the⟩ वचनहरू हुन् जुन यहवेले इस्राएल र यहूदाको विषयमा बोल्नुभयो।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…को विषयमा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र …को विषयमा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:57:16.316847139Z",
+  "model": "glm-5.3"
+}

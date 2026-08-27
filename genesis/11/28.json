@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 11:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "हारान आफ्ना पिता तेरखको अगाडि, आफ्नो जन्मभूमिमा, कस्दीहरूको ऊरमा मरे।",
+  "tokens": [
+    {
+      "surface": "וימת",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "הרן",
+      "gloss": "हारान"
+    },
+    {
+      "surface": "על",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अनुहारको"
+    },
+    {
+      "surface": "תרח",
+      "gloss": "तेरख"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आफ्ना पिता"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "भूमिमा"
+    },
+    {
+      "surface": "מולדתו",
+      "gloss": "आफ्नो जन्मको"
+    },
+    {
+      "surface": "באור",
+      "gloss": "ऊरमा"
+    },
+    {
+      "surface": "כשדים",
+      "gloss": "कस्दीहरूको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:59.075560764Z",
+  "model": "glm-5.3"
+}

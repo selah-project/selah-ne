@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "1-kings 1:46",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र पनि शलोमोह राज्यको सिंहासनमा बसेका छन्।",
+  "tokens": [
+    {
+      "surface": "וגם",
+      "gloss": "र पनि"
+    },
+    {
+      "surface": "ישב",
+      "gloss": "बसेका छन्"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोह"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "सिंहासन"
+    },
+    {
+      "surface": "המלוכה",
+      "gloss": "राज्यको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:55:58.138376299Z",
+  "model": "glm-5.3"
+}

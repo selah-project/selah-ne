@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 3:1",
+  "book": "jonah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "अनि यहवेको ⟨the⟩ वचन योनाकहाँ दोस्रो पटक आयो भन्नको लागि ⟨saying⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "שנית",
+      "gloss": "दोस्रो पटक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:39:52.424778060Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 25:12",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "सुनको नथ र शुद्ध सुनको गहनाजस्तै छ सुन्ने कानमा तीखो निन्दा गर्ने बुद्धिमान्।",
+  "tokens": [
+    {
+      "surface": "נזם",
+      "gloss": "नथ"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनको"
+    },
+    {
+      "surface": "וחלי",
+      "gloss": "र गहना"
+    },
+    {
+      "surface": "כתם",
+      "gloss": "शुद्ध सुनको"
+    },
+    {
+      "surface": "מוכיח",
+      "gloss": "तीखो निन्दा गर्ने"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमान्"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "אזן",
+      "gloss": "कान"
+    },
+    {
+      "surface": "שמעת",
+      "gloss": "सुन्ने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:25.726600933Z",
+  "model": "glm-5.3"
+}

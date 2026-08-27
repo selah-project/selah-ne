@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-samuel 26:13",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "त्यसपछि दाविदले ⟨the⟩ ठाउँ पार गर्नुभयो र परैबाट ⟨the⟩ पहाडको टुप्पोमा उभिनुभयो; ठूलो ⟨the⟩ दूरी ⟨was⟩ तिनीहरूबीच।",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "पार गर्नुभयो"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविदले"
+    },
+    {
+      "surface": "העבר",
+      "gloss": "⟨the⟩ ठाउँ"
+    },
+    {
+      "surface": "ויעמד",
+      "gloss": "उभिनुभयो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "टुप्पोमा"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "⟨the⟩ पहाडको"
+    },
+    {
+      "surface": "מרחק",
+      "gloss": "परैबाट"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "हמקום",
+      "gloss": "⟨the⟩ दूरी"
+    },
+    {
+      "surface": "ביניהם",
+      "gloss": "तिनीहरूबीच"
+    }
+  ],
+  "timestamp": "2026-08-26T21:41:58.947664366Z",
+  "model": "glm-5.3"
+}

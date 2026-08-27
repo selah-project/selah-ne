@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "nehemiah 2:11",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र म येरुशालाइम आइपुगें, र त्यहाँ तीन दिन बसें।",
+  "tokens": [
+    {
+      "surface": "ואבוא",
+      "gloss": "र आइपुगें"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "येरुशालाइम"
+    },
+    {
+      "surface": "ואהי",
+      "gloss": "र बसें"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:34.450214706Z",
+  "model": "glm-5.3"
+}

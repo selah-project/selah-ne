@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 15:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "केहातका छोराहरूका ⟨लागि⟩ उरिएल ⟨सरदार⟩, र उनका दाजुभाइहरू एक सय बीस।",
+  "tokens": [
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूका"
+    },
+    {
+      "surface": "קהת",
+      "gloss": "केहातका"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "उरिएल"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨सरदार⟩"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उनका दाजुभाइहरू"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "बीस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:22:32.089371483Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "1-chronicles 11:45",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "यदिएल शिम्रीको छोरा, र उसको दाजु योहा हत्तिजी।",
+  "tokens": [
+    {
+      "surface": "ידיעאל",
+      "gloss": "यदिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שמרי",
+      "gloss": "शिम्रीको"
+    },
+    {
+      "surface": "ויחא",
+      "gloss": "र योहा"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उसको दाजु"
+    },
+    {
+      "surface": "התיצי",
+      "gloss": "हत्तिजी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:44.092620957Z",
+  "model": "glm-5.3"
+}

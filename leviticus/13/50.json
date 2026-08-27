@@ -1,0 +1,51 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "leviticus 13:50",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र कोहेनले ⟨את⟩ धब्बालाई हेर्नेछ, र ⟨את⟩ धब्बालाई सात दिनसम्म थुनिदिनेछ।",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "र हेर्नेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहेन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धब्बा"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "धब्बा"
+    },
+    {
+      "surface": "והסגיר",
+      "gloss": "र थुनिदिनेछ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "धब्बा"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "धब्बा"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनसम्म"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:15.556549270Z",
+  "model": "glm-5.3"
+}

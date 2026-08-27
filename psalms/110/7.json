@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 110:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 110,
+  "translation": "उहाँ बाटोमा खोलाबाट पिउनुहुनेछ; त्यसैले उहाँ टाउको उचाल्नुहुनेछ।",
+  "tokens": [
+    {
+      "surface": "מנחל",
+      "gloss": "खोलाबाट"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "बाटोमा"
+    },
+    {
+      "surface": "ישתה",
+      "gloss": "पिउनुहुनेछ"
+    },
+    {
+      "surface": "על",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "כן",
+      "gloss": ""
+    },
+    {
+      "surface": "ירים",
+      "gloss": "उचाल्नुहुनेछ"
+    },
+    {
+      "surface": "ראש",
+      "gloss": "टाउको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:16:35.475312137Z",
+  "model": "glm-5.3"
+}

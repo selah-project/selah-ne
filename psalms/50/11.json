@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 50:11",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "म चिन्छु पहाडहरूको हरेक चरालाई, र खेतका जीव-जनावर मसँग छन्।",
+  "tokens": [
+    {
+      "surface": "ידעתי",
+      "gloss": "म चिन्छु"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "עוף",
+      "gloss": "चरा"
+    },
+    {
+      "surface": "הרים",
+      "gloss": "पहाडहरूको"
+    },
+    {
+      "surface": "וזיז",
+      "gloss": "र … जीव-जनावर"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेतका"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मसँग"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:17.597386020Z",
+  "model": "glm-5.3"
+}

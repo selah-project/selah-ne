@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "numbers 20:2",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र मण्डलीका लागि पानी थिएन, र तिनीहरू मोशे र अहरोनविरुद्ध भेला भए।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "र … छैन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थियो"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "לעדה",
+      "gloss": "मण्डलीका लागि"
+    },
+    {
+      "surface": "ויקהלו",
+      "gloss": "भेला भए"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र … विरुद्ध"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:45:51.910517061Z",
+  "model": "glm-5.3"
+}

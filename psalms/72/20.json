@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "psalms 72:20",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 72,
+  "translation": "दाउदका, यिशैका छोराका, प्रार्थनाहरू समाप्त भए।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "समाप्त भए"
+    },
+    {
+      "surface": "תפלות",
+      "gloss": "प्रार्थनाहरू"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउदका"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोराका"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशै"
+    }
+  ],
+  "timestamp": "2026-08-27T00:02:37.827865509Z",
+  "model": "glm-5.3"
+}

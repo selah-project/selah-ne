@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "daniel 2:36",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "यही सपना हो, र यसको अर्थ हामी राजाको अगाडि बताउँछौँ।",
+  "tokens": [
+    {
+      "surface": "דנה",
+      "gloss": "यही"
+    },
+    {
+      "surface": "חלמא",
+      "gloss": "सपना"
+    },
+    {
+      "surface": "ופשרה",
+      "gloss": "र यसको अर्थ"
+    },
+    {
+      "surface": "נאמר",
+      "gloss": "बताउँछौँ"
+    },
+    {
+      "surface": "קדם",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजाको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:57:38.900343605Z",
+  "model": "glm-5.3"
+}

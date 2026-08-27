@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-kings 6:28",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र उहाँले ⟨את⟩ करूबहरूलाई सुनले थाप्नुभयो।",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "र थाप्नुभयो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "करूबहरूलाई"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "करूबहरू"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:59:24.101690959Z",
+  "model": "glm-5.3"
+}

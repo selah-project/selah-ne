@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 21:12",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "तिनीहरूले उपवास घोषणा गरे, र ⟨את⟩ नाबोतलाई जनताको शिरमा बसाए।",
+  "tokens": [
+    {
+      "surface": "קראו",
+      "gloss": "घोषणा गरे"
+    },
+    {
+      "surface": "צום",
+      "gloss": "उपवास"
+    },
+    {
+      "surface": "והושיבו",
+      "gloss": "र बसाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नाबोत"
+    },
+    {
+      "surface": "נבות",
+      "gloss": "नाबोत"
+    },
+    {
+      "surface": "בראש",
+      "gloss": "शिरमा"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-08-26T22:07:12.709816028Z",
+  "model": "glm-5.3"
+}

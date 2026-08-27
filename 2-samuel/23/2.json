@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 23:2",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "यहवेको रुआखले ममा बोल्नुभयो, र उहाँको वचन मेरो जिब्रोमाथि छ।",
+  "tokens": [
+    {
+      "surface": "רוח",
+      "gloss": "रुआखले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "בי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "ומלתו",
+      "gloss": "र उहाँको वचन"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "לשוני",
+      "gloss": "मेरो जिब्रो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:54:40.751226042Z",
+  "model": "glm-5.3"
+}

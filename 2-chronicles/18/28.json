@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-chronicles 18:28",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "अनि इस्राएलका राजा र यहूदाका राजा यहोशापात रामोत-गिलादतर्फ माथि गए।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "अनि माथि गए"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "ויהושפט",
+      "gloss": "र यहोशापात"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "רמת",
+      "gloss": "रामोत"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलाद"
+    }
+  ],
+  "timestamp": "2026-08-27T02:23:20.894006369Z",
+  "model": "glm-5.3"
+}

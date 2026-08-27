@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 9:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "आउउहोस्, मेरो रोटी खानुहोस्, र मैले मिसाएको मदिरा पिउनुहोस्।",
+  "tokens": [
+    {
+      "surface": "לכו",
+      "gloss": "आउउहोस्"
+    },
+    {
+      "surface": "לחמו",
+      "gloss": "खानुहोस्"
+    },
+    {
+      "surface": "בלחמי",
+      "gloss": "मेरो रोटी"
+    },
+    {
+      "surface": "ושתו",
+      "gloss": "र पिउनुहोस्"
+    },
+    {
+      "surface": "ביין",
+      "gloss": "मदिरा"
+    },
+    {
+      "surface": "מסכתי",
+      "gloss": "मैले मिसाएको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:55.822119476Z",
+  "model": "glm-5.3"
+}

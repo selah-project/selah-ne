@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 116:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 116,
+  "translation": "म यहवेको सामु हिँड्नेछु ⟨the⟩ जीवितहरूको देशमा।",
+  "tokens": [
+    {
+      "surface": "אתהלך",
+      "gloss": "म हिँड्नेछु"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "को सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בארצות",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवितहरूको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:14.332699689Z",
+  "model": "glm-5.3"
+}

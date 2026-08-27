@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 36:1",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र यिनी हुन् एसावका वंशावली — ऊ नै एदोम हो।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यिनी हुन्"
+    },
+    {
+      "surface": "תלדות",
+      "gloss": "वंशावली"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावका"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ नै"
+    },
+    {
+      "surface": "אדום",
+      "gloss": "एदोम"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:52.060105108Z",
+  "model": "glm-5.3"
+}

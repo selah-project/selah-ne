@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "proverbs 10:31",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "धर्मीको मुख बुद्धि उमार्छ, तर बङ्गो जिब्रो काटिनेछ।",
+  "tokens": [
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मीको"
+    },
+    {
+      "surface": "ינוב",
+      "gloss": "उमार्छ"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ולשון",
+      "gloss": "तर जिब्रो"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "बङ्गाको"
+    },
+    {
+      "surface": "תכרת",
+      "gloss": "काटिनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:41.899385217Z",
+  "model": "glm-5.3"
+}

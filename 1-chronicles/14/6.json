@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 14:6",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र नोगाह, र नेफेग, र याफिया।",
+  "tokens": [
+    {
+      "surface": "ונגה",
+      "gloss": "र नोगाह"
+    },
+    {
+      "surface": "ונפג",
+      "gloss": "र नेफेग"
+    },
+    {
+      "surface": "ויפיע",
+      "gloss": "र याफिया"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:25.612625901Z",
+  "model": "glm-5.3"
+}

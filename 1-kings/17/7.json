@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "1-kings 17:7",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र केही दिनपछि घटना भयो, खोंच सुक्यो, किनकि देशमा पानी परेको थिएन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र घटना भयो"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "…पछि"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וייבש",
+      "gloss": "सुक्यो"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "खोंच"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भएको थियो"
+    },
+    {
+      "surface": "גשם",
+      "gloss": "वर्षा"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:05:41.360793258Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 6:23",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "किनकि आज्ञा ⟨⟨एउटा⟩⟩ बत्ती हो, र तोरा प्रकाश हो, र जीवनको बाटो अनुशासनका तागीहरू हुन्।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "נר",
+      "gloss": "बत्ती"
+    },
+    {
+      "surface": "מצוה",
+      "gloss": "आज्ञा"
+    },
+    {
+      "surface": "ותורה",
+      "gloss": "र तोरा"
+    },
+    {
+      "surface": "אור",
+      "gloss": "प्रकाश"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "र बाटो"
+    },
+    {
+      "surface": "חיים",
+      "gloss": "जीवनको"
+    },
+    {
+      "surface": "תוכחות",
+      "gloss": "तागीहरू"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "अनुशासनका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:22.618268580Z",
+  "model": "glm-5.3"
+}

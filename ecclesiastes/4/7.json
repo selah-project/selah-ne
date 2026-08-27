@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 4:7",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "म फर्केर फेरि हेरेँ, र सूर्यतलाको तल ⟨את⟩ ⟨त्यो⟩ व्यर्थता देखेँ।",
+  "tokens": [
+    {
+      "surface": "ושבתי",
+      "gloss": "म फर्केर"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "ואראה",
+      "gloss": "हेरेँ"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "व्यर्थता"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तलको तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्यतलाको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:48.555839193Z",
+  "model": "glm-5.3"
+}

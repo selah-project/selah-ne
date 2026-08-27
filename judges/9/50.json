@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 50,
+  "ref": "judges 9:50",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "तब अभिमेलेख तेबेसतर गए, र उनले तेबेसलाई घेरा हाले, र त्यसलाई कब्जा गरे।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गए"
+    },
+    {
+      "surface": "אבי׮לך",
+      "gloss": "अभिमेलेख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर"
+    },
+    {
+      "surface": "תבץ",
+      "gloss": "तेबेस"
+    },
+    {
+      "surface": "ויחן",
+      "gloss": "घेरा हाले"
+    },
+    {
+      "surface": "בתבץ",
+      "gloss": "तेबेसलाई"
+    },
+    {
+      "surface": "וילכדה",
+      "gloss": "कब्जा गरे"
+    }
+  ],
+  "timestamp": "2026-08-26T21:24:51.671707770Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 19:17",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "मोशेले ⟨את⟩ ⟨the⟩ जनतालाई एलोहीमसँग भेट्न ⟨the⟩ शिविरबाट निकाल्नुभयो, र ⟨they⟩ पहाडको फेदमा उभिए।",
+  "tokens": [
+    {
+      "surface": "ויוצא",
+      "gloss": "निकाल्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जनता"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "לקראת",
+      "gloss": "भेट्न"
+    },
+    {
+      "surface": "האलהים",
+      "gloss": "एलोहीमसँग"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "शिविर"
+    },
+    {
+      "surface": "ויתיצבו",
+      "gloss": "उभिए"
+    },
+    {
+      "surface": "בתחתית",
+      "gloss": "फेदमा"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पहाडको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:31.153416652Z",
+  "model": "glm-5.3"
+}

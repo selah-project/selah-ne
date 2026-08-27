@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 128:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 128,
+  "translation": "हेर, कि यसैगरी आशिषित हुनेछ त्यो पुरुष जो यहवेलाई डराउँछ।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "כן",
+      "gloss": "यसैगरी"
+    },
+    {
+      "surface": "יברך",
+      "gloss": "आशिषित हुनेछ"
+    },
+    {
+      "surface": "גבר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डराउँछ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:19.633161544Z",
+  "model": "glm-5.3"
+}

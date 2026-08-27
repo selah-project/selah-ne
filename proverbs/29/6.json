@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "proverbs 29:6",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "खराब मानिसको पापमा ⟨उसको⟩ जाल ⟨छ⟩, तर धार्मिकले गाउँछ र आनन्द गर्छ।",
+  "tokens": [
+    {
+      "surface": "בפשע",
+      "gloss": "पापमा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "מוקש",
+      "gloss": "जाल"
+    },
+    {
+      "surface": "וצדיק",
+      "gloss": "तर धार्मिकले"
+    },
+    {
+      "surface": "ירון",
+      "gloss": "गाउँछ"
+    },
+    {
+      "surface": "ושמח",
+      "gloss": "र आनन्द गर्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:19.307400912Z",
+  "model": "glm-5.3"
+}

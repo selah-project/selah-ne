@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "2-chronicles 2:8",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र मलाई धेरै मात्रामा काठ तयार गरिदेऊ, किनकि जुन घर म बनाउँदैछु त्यो ठूलो र अद्भुत छ।",
+  "tokens": [
+    {
+      "surface": "ולהכין",
+      "gloss": "र तयार गर्न"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "עצים",
+      "gloss": "काठ"
+    },
+    {
+      "surface": "לרב",
+      "gloss": "धेरै मात्रामा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "בונה",
+      "gloss": "बनाउँदैछु"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "והפלא",
+      "gloss": "र अद्भुत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:32:27.923789075Z",
+  "model": "glm-5.3"
+}

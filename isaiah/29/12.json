@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 29:12",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र पुस्तक त्यस-कहाँ दिइन्छ जसले पुस्तक जान्दैन, भनी, 'यो पढ़ न पर्व'; र ऊ भन्छ, 'म जान्दिनँ — पुस्तक।'",
+  "tokens": [
+    {
+      "surface": "ונתן",
+      "gloss": "र दिइन्छ"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "पुस्तक"
+    },
+    {
+      "surface": "על",
+      "gloss": "-कहाँ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्दैन"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पुस्तक"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भनी"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "पढ़"
+    },
+    {
+      "surface": "נא",
+      "gloss": "न पर्व"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ואמר",
+      "gloss": "र भन्छ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "म जान्दिनँ"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पुस्तक"
+    }
+  ],
+  "timestamp": "2026-08-26T22:31:51.055880138Z",
+  "model": "glm-5.3"
+}

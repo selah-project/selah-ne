@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "numbers 1:35",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तिनीहरूका गनिएकाहरू मनश्शेको छातामा बत्तीस हजार दुई सय भए।",
+  "tokens": [
+    {
+      "surface": "פקדיהם",
+      "gloss": "तिनीहरूका गनिएकाहरू"
+    },
+    {
+      "surface": "לमטה",
+      "gloss": "छातामा"
+    },
+    {
+      "surface": "מनשה",
+      "gloss": "मनश्शेको"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "र तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "र दुई सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:47.617457274Z",
+  "model": "glm-5.3"
+}

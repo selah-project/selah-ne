@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 13:11",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "हवाबाट पाइएको धन घट्छ, र हातद्वारा जम्म गर्ने ⟨he⟩ बढाउँछ।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "מהבל",
+      "gloss": "हवाबाट पाइएको"
+    },
+    {
+      "surface": "ימעט",
+      "gloss": "घट्छ"
+    },
+    {
+      "surface": "וקבץ",
+      "gloss": "र जम्म गर्ने"
+    },
+    {
+      "surface": "על",
+      "gloss": "द्वारा"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढाउँछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:38.820462276Z",
+  "model": "glm-5.3"
+}

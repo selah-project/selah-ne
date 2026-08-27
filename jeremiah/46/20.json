@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 46:20",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 46,
+  "translation": "मित्स्रायिम अति सुन्दर गाईबछी हो; उत्तरबाट छाडा बरूडा आउँछ, आउँछ।",
+  "tokens": [
+    {
+      "surface": "עגלה",
+      "gloss": "गाईबछी"
+    },
+    {
+      "surface": "יפה",
+      "gloss": "अति सुन्दर"
+    },
+    {
+      "surface": "פיה",
+      "gloss": ""
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मित्स्रायिम"
+    },
+    {
+      "surface": "קרץ",
+      "gloss": "छाडा बरूडा"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तरबाट"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउँछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:03:51.023286869Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "song-of-songs 7:11",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "म मेरो प्रियतमको ⟨हुँ⟩, र उनको तृष्णा ममाथि ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "לדודי",
+      "gloss": "मेरो प्रियतमको"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "र ममाथि"
+    },
+    {
+      "surface": "תשוקתו",
+      "gloss": "उनको तृष्णा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:44:44.718810122Z",
+  "model": "glm-5.3"
+}

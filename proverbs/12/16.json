@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 12:16",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "मूर्खको क्रोध त्यही क्षणमा थाहा हुन्छ, तर चतुर ⟨मानिस⟩ अपमान ढाक्छ।",
+  "tokens": [
+    {
+      "surface": "אויל",
+      "gloss": "मूर्खको"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "त्यही क्षणमा"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "थाहा हुन्छ"
+    },
+    {
+      "surface": "כעסו",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "וכסה",
+      "gloss": "तर ढाक्छ"
+    },
+    {
+      "surface": "קלון",
+      "gloss": "अपमान"
+    },
+    {
+      "surface": "ערום",
+      "gloss": "चतुर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:02.548538467Z",
+  "model": "glm-5.3"
+}

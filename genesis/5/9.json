@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "genesis 5:9",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अनोश सत्नब्बे वर्ष बाँच्यो, र उसले ⟨את⟩ केनानलाई जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्यो"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "अनोश"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "केनान"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनान"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:59.879240867Z",
+  "model": "glm-5.3"
+}

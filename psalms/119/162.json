@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 162,
+  "ref": "psalms 119:162",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "म तिम्रो वचनमा आनन्दित छु, ठूलो लुट ⟨अर्थात् लुटपाट⟩ पाउनेजस्तै।",
+  "tokens": [
+    {
+      "surface": "שש",
+      "gloss": "आनन्दित छु"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "על",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "אמרתך",
+      "gloss": "तिम्रो वचन"
+    },
+    {
+      "surface": "כמוצא",
+      "gloss": "पाउनेजस्तै"
+    },
+    {
+      "surface": "שלל",
+      "gloss": "लुट"
+    },
+    {
+      "surface": "רב",
+      "gloss": "ठूलो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:14:28.764346921Z",
+  "model": "glm-5.3"
+}

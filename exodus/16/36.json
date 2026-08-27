@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "exodus 16:36",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "और ⟨the⟩ ओमर ⟨is⟩ एक इपाको दसौँ भाग ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "והעמר",
+      "gloss": "और ओमर"
+    },
+    {
+      "surface": "עשרית",
+      "gloss": "दसौँ भाग"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "एक इपाको"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:10:24.874141565Z",
+  "model": "glm-5.3"
+}

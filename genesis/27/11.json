@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 27:11",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र याकोभले आफ्नी आमा रिब्काहसँग भने, हेर, मेरो भाइ एसाभ रौँटे मानिस हो र म ⟨is⟩ चिल्लो मानिस।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "רבקה",
+      "gloss": "रिब्काह"
+    },
+    {
+      "surface": "אמו",
+      "gloss": "आफ्नी आमा"
+    },
+    {
+      "surface": "הן",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाभ"
+    },
+    {
+      "surface": "अחि",
+      "gloss": "मेरो भाइ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "שער",
+      "gloss": "रौँटे"
+    },
+    {
+      "surface": "ואנכי",
+      "gloss": "र म"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "चिल्लो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:51:55.959828840Z",
+  "model": "glm-5.3"
+}

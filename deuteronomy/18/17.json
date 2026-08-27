@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 18:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र यहवेले मलाई भन्नुभयो: जे उनीहरूले बोलेका छन्, त्यो राम्रो छ।",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "היטיבו",
+      "gloss": "राम्रो छ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोलेका छन्"
+    }
+  ],
+  "timestamp": "2026-08-26T21:01:02.661757359Z",
+  "model": "glm-5.3"
+}

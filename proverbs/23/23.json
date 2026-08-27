@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 23:23",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "सत्य किन, र बेच्नु होइन — बुद्धि, र अनुशासन, र बुझ।",
+  "tokens": [
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תמכר",
+      "gloss": "बेच्नु होइन"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ומוסר",
+      "gloss": "र अनुशासन"
+    },
+    {
+      "surface": "ובינה",
+      "gloss": "र बुझ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:01.275372252Z",
+  "model": "glm-5.3"
+}

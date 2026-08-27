@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "ezra 2:38",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "पश्खुरका सन्तान — एक हजार दुई सय सत्तालीस।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "פשחור",
+      "gloss": "पश्खुरका"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "ארבעים",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "र सात"
+    }
+  ],
+  "timestamp": "2026-08-27T02:19:58.170374041Z",
+  "model": "glm-5.3"
+}

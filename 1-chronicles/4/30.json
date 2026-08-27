@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-chronicles 4:30",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र बेतुएलमा, र हर्मामा, र त्सिक्लागमा।",
+  "tokens": [
+    {
+      "surface": "ובבתואל",
+      "gloss": "र बेतुएलमा"
+    },
+    {
+      "surface": "ובחרמה",
+      "gloss": "र हर्मामा"
+    },
+    {
+      "surface": "ובציקלג",
+      "gloss": "र त्सिक्लागमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:47.599094333Z",
+  "model": "glm-5.3"
+}

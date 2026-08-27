@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ecclesiastes 1:10",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "यस्तो कुनै कुरा छ जसको बारेमा भनियोस्: हेर, यो नयाँ हो? — ⟨त्यो⟩ अघिल्ला युगहरूमा, जुन हामीभन्दा पहिले थिए, पहिले नै भइसकेको छ।",
+  "tokens": [
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "שיאמר",
+      "gloss": "भनियोस्"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नयाँ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    },
+    {
+      "surface": "כבर",
+      "gloss": "पहिले नै"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भइसकेको छ"
+    },
+    {
+      "surface": "לעלמים",
+      "gloss": "युगहरूमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "מלפננו",
+      "gloss": "हामीभन्दा पहिले"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:40.013349397Z",
+  "model": "glm-5.3"
+}

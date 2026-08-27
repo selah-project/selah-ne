@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-kings 5:12",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "उहाँले तीन हजार मसल बोल्नुभयो, र उहाँका गीतहरू पाँच र हजार थिए।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "משל",
+      "gloss": "मसल"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र ⟨थिए⟩"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "उहाँका गीतहरू"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "ואלף",
+      "gloss": "र हजार"
+    }
+  ],
+  "timestamp": "2026-08-26T21:58:22.595984539Z",
+  "model": "glm-5.3"
+}

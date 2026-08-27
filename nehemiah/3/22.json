@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "nehemiah 3:22",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र त्यसपछि कोहेनहरू — मैदानका मानिसहरूले — मर्मत गरे।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "र त्यसपछि"
+    },
+    {
+      "surface": "החזיקו",
+      "gloss": "मर्मत गरे"
+    },
+    {
+      "surface": "הכהנים",
+      "gloss": "कोहेनहरू"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "הככר",
+      "gloss": "मैदानका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:10:41.958887422Z",
+  "model": "glm-5.3"
+}

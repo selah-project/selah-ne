@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "jeremiah 52:23",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 52,
+  "translation": "र अनारहरू थिए छ्यान्नब्बे, दिशातर्फ; सबै अनारहरू एक सय, जालोमाथि, वरिपरि।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "र थिए"
+    },
+    {
+      "surface": "הרמנים",
+      "gloss": "अनारहरू"
+    },
+    {
+      "surface": "תשעים",
+      "gloss": "नब्बे"
+    },
+    {
+      "surface": "וששה",
+      "gloss": "र छ"
+    },
+    {
+      "surface": "רוחה",
+      "gloss": "दिशातर्फ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הרמונים",
+      "gloss": "अनारहरू"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "השבכה",
+      "gloss": "जालो"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरिपरि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:10:12.101802410Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "joshua 15:31",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र त्सिक्लाग, र माद्मान्नाह, र सन्सान्नाह।",
+  "tokens": [
+    {
+      "surface": "וצקלג",
+      "gloss": "र त्सिक्लाग"
+    },
+    {
+      "surface": "ומדמנה",
+      "gloss": "र माद्मान्नाह"
+    },
+    {
+      "surface": "וסנסנה",
+      "gloss": "र सन्सान्नाह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:29.299122656Z",
+  "model": "glm-5.3"
+}

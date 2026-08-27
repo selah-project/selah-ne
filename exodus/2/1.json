@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 2:1",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र लेवीको घरानाको एक जना मानिस गयो, र लेवीकी छोरीलाई ⟨विवाहका लागि⟩ लियो।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "र गयो"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक जना मानिस"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घरानाको"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवी"
+    },
+    {
+      "surface": "ויקח",
+      "gloss": "र लियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "लेवीकी छोरीलाई"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवीकी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:37.185267701Z",
+  "model": "glm-5.3"
+}

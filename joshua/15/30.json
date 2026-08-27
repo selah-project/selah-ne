@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "joshua 15:30",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र एल्तोलाद, र केसिल, र खोर्माह।",
+  "tokens": [
+    {
+      "surface": "ואלתולד",
+      "gloss": "र एल्तोलाद"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "र केसिल"
+    },
+    {
+      "surface": "וחרמה",
+      "gloss": "र खोर्माह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:29.299022270Z",
+  "model": "glm-5.3"
+}

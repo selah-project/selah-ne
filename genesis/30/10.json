@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 30:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र लेआहकी दासी जिल्पाले याकोभलाई एउटा छोरा जन्म दिइन्।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दिइन्"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "जिल्पाले"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआहकी"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोभलाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एउटा छोरा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:15.452496002Z",
+  "model": "glm-5.3"
+}

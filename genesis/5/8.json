@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "genesis 5:8",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अनि शेतका सम्पूर्ण दिनहरू बाह्र वर्ष र नौ सय वर्ष भए, र ⟨उनी⟩ मरे।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "שת",
+      "gloss": "शेतका"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-बाह्र"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ותשע",
+      "gloss": "र नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मरे"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:54.130426495Z",
+  "model": "glm-5.3"
+}

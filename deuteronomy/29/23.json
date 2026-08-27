@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 29:23",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र सबै जातिहरू भन्नेछन् — किन यहवेले यस देशलाई यस्तो गर्नुभयो? यो ठूलो क्रोधको तातोपनाको के अर्थ हो?",
+  "tokens": [
+    {
+      "surface": "ואמרו",
+      "gloss": "र भन्नेछन्"
+    },
+    {
+      "surface": "कול \/ כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जातिहरू"
+    },
+    {
+      "surface": "על",
+      "gloss": "—"
+    },
+    {
+      "surface": "מה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "ככה",
+      "gloss": "यस्तो"
+    },
+    {
+      "surface": "לארץ",
+      "gloss": "देशलाई"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यस"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "חרי",
+      "gloss": "क्रोधको तातोपना"
+    },
+    {
+      "surface": "האף",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:06:14.339526277Z",
+  "model": "glm-5.3"
+}

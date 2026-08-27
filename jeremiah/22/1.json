@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jeremiah 22:1",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "यसो भन्नुभयो यहवेले: यहूदाका राजाको घरमा ओर्लेर त्यहाँ ⟨את⟩ यो वचन बोल्।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רד",
+      "gloss": "ओर्लेर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "र बोल्"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T22:54:05.560909125Z",
+  "model": "glm-5.3"
+}

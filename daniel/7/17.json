@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "daniel 7:17",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यी विशाल पशुहरू — ती ⟨हुन्⟩ चार, चार राजा ⟨हुन्⟩ जो पृथ्वीबाट उठ्नेछन्।",
+  "tokens": [
+    {
+      "surface": "אלין",
+      "gloss": "यी"
+    },
+    {
+      "surface": "חיותא",
+      "gloss": "पशुहरू"
+    },
+    {
+      "surface": "רברבתא",
+      "gloss": "विशाल"
+    },
+    {
+      "surface": "די",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אנין",
+      "gloss": "ती"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "ארבעה",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מלכין",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יקומון",
+      "gloss": "उठ्नेछन्"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "ארעא",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:01:02.602444410Z",
+  "model": "glm-5.3"
+}

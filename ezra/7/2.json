@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezra 7:2",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "शल्लूमको छोरा, त्सादोकको छोरा, अखितूबको छोरा —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शल्लूम"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "צדוק",
+      "gloss": "त्सादोक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אחיטוב",
+      "gloss": "अखितूब"
+    }
+  ],
+  "timestamp": "2026-08-27T01:06:50.399297089Z",
+  "model": "glm-5.3"
+}

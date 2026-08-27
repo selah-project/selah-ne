@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 92:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 92,
+  "translation": "दस-तारको वाद्यमा, नेबेलमा, हिगायोनको साथ किन्नोरमा।",
+  "tokens": [
+    {
+      "surface": "עלי",
+      "gloss": "मा"
+    },
+    {
+      "surface": "עשור",
+      "gloss": "दस-तारको वाद्य"
+    },
+    {
+      "surface": "ועלי",
+      "gloss": "र"
+    },
+    {
+      "surface": "נבל",
+      "gloss": "नेबेल"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "साथ"
+    },
+    {
+      "surface": "הגיון",
+      "gloss": "हिगायोनको"
+    },
+    {
+      "surface": "בכנור",
+      "gloss": "किन्नोरमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:19.062908241Z",
+  "model": "glm-5.3"
+}

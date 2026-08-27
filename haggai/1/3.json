@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "haggai 1:3",
+  "book": "haggai",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र भयो यहवेको वचन हाग्गगी नबीको हातद्वारा, भन्नको लागि।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हातद्वारा"
+    },
+    {
+      "surface": "חגי",
+      "gloss": "हाग्गगी"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    },
+    {
+      "surface": "लאמר",
+      "gloss": "भन्नको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:04.521125361Z",
+  "model": "glm-5.3"
+}

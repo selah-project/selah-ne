@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "isaiah 10:31",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "मदमेना भाग्यो; गेबिमका बासिन्दाहरूले आश्रय खोजे।",
+  "tokens": [
+    {
+      "surface": "נדדה",
+      "gloss": "भाग्यो"
+    },
+    {
+      "surface": "מדמनה",
+      "gloss": "मदमेना"
+    },
+    {
+      "surface": "ישבי",
+      "gloss": "बासिन्दाहरू"
+    },
+    {
+      "surface": "הגבים",
+      "gloss": "गेबिमका"
+    },
+    {
+      "surface": "העיזו",
+      "gloss": "आश्रय खोजे"
+    }
+  ],
+  "timestamp": "2026-08-26T22:25:20.526090741Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "psalms 89:53",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 89,
+  "translation": "यहवे धन्य छन् ⟨सदासर्वदा⟩। आमेन, र आमेन।",
+  "tokens": [
+    {
+      "surface": "ברוך",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदासर्वदाका लागि"
+    },
+    {
+      "surface": "אמן",
+      "gloss": "आमेन"
+    },
+    {
+      "surface": "ואמן",
+      "gloss": "र आमेन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:07:41.212743606Z",
+  "model": "glm-5.3"
+}

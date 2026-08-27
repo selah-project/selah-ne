@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 13:8",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "तब यहवेको वचन मसँग आयो, यो भन्नुभैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "तब … आयो ⟨यो भयो⟩"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्नुभैः"
+    }
+  ],
+  "timestamp": "2026-08-26T22:50:48.497264635Z",
+  "model": "glm-5.3"
+}

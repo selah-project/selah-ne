@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "genesis 37:1",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "र याकोभ आफ्ना पिताको परदेश-वासको देशमा, कनान देशमा बस्न थाले।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "बस्न थाले"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    },
+    {
+      "surface": "बארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "מגורי",
+      "gloss": "परदेश-वास"
+    },
+    {
+      "surface": "אביו",
+      "gloss": "आफ्ना पिताको"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    }
+  ],
+  "timestamp": "2026-08-26T19:56:43.746479421Z",
+  "model": "glm-5.3"
+}

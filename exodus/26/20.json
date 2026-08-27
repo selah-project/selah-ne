@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "exodus 26:20",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र मिश्कानको दोस्रो छेउका लागि, उत्तरतर्फ, बीस कडा।",
+  "tokens": [
+    {
+      "surface": "ולצלע",
+      "gloss": "र छेउका लागि"
+    },
+    {
+      "surface": "हמשכן",
+      "gloss": "मिश्कानको"
+    },
+    {
+      "surface": "השנית",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "צפון",
+      "gloss": "उत्तर"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "קרש",
+      "gloss": "कडा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:15:09.070894680Z",
+  "model": "glm-5.3"
+}

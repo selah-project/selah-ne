@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "deuteronomy 32:40",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "किनकि म आकाशतिर मेरो हात उठाउँछु र भन्नेछु: सधैँ सदासम्म जिउँदै छु म।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אשא",
+      "gloss": "उठाउँछु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तिर"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "ידי",
+      "gloss": "मेरो हाथ"
+    },
+    {
+      "surface": "ואמרתי",
+      "gloss": "र भन्नेछु"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जिउँदै छु"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "לעלם",
+      "gloss": "सधैँ सदासम्म"
+    }
+  ],
+  "timestamp": "2026-08-27T01:55:29.260541810Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "isaiah 14:28",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "राजा आखाजको मृत्युको वर्षमा यो भविष्यवाणी-भार ⟨भयो⟩।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "वर्षमा"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्युको"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "आखाजको"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "המשא",
+      "gloss": "भविष्यवाणी-भार"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:53.848037709Z",
+  "model": "glm-5.3"
+}

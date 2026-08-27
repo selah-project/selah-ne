@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "nehemiah 7:33",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अर्को नेभोका जनहरू, बयानउनन्पचास।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "जनहरू"
+    },
+    {
+      "surface": "נבו",
+      "gloss": "नेभो"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्को"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "बयान"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "उनन्पचास"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:07.083814886Z",
+  "model": "glm-5.3"
+}

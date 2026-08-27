@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-chronicles 25:18",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "एघारौँ अज़रएल, उनका छोराहरू र उनका भाइहरू — बाह्र जना।",
+  "tokens": [
+    {
+      "surface": "עשתי",
+      "gloss": "एघारौँ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "अज़रएल"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उनका छोराहरू"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उनका भाइहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्र"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "जना"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:28.272072969Z",
+  "model": "glm-5.3"
+}

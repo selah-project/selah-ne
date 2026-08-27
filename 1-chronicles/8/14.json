@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 8:14",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र अखियो, शाशाक र येरेमोत —",
+  "tokens": [
+    {
+      "surface": "ואחיו",
+      "gloss": "र अखियो"
+    },
+    {
+      "surface": "ששק",
+      "gloss": "शाशाक"
+    },
+    {
+      "surface": "וירמות",
+      "gloss": "र येरेमोत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:06.832522817Z",
+  "model": "glm-5.3"
+}

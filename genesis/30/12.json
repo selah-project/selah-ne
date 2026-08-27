@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 30:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र लेआहकी दासी जिल्पाले याकोभलाई दोस्रो छोरा जन्म दिइन्।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दिइन्"
+    },
+    {
+      "surface": "זלפה",
+      "gloss": "जिल्पाले"
+    },
+    {
+      "surface": "שפחת",
+      "gloss": "दासी"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआहकी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोभलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:15.452733026Z",
+  "model": "glm-5.3"
+}

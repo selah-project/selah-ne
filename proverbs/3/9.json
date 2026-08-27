@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 3:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "आफ्नो धनले यहवेलाई ⟨את⟩ सम्मान गर, र आफ्नो सबै उपजको पहिलो फलबाट।",
+  "tokens": [
+    {
+      "surface": "כבד",
+      "gloss": "सम्मान गर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवेलाई"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "מהונך",
+      "gloss": "आफ्नो धनले"
+    },
+    {
+      "surface": "ומראשית",
+      "gloss": "र पहिलो फलबाट"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "תבואתך",
+      "gloss": "आफ्नो उपज"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:53.184850756Z",
+  "model": "glm-5.3"
+}

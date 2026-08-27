@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 19:20",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "सल्लाह सुन् र ताडना ग्रहण गर, ताकि आफ्नो अन्त्यमा तिमी बुद्धिमान बन।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुन्"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "सल्लाह"
+    },
+    {
+      "surface": "וקבל",
+      "gloss": "र ग्रहण गर"
+    },
+    {
+      "surface": "מוסר",
+      "gloss": "ताडना"
+    },
+    {
+      "surface": "למען",
+      "gloss": "ताकि"
+    },
+    {
+      "surface": "תחכם",
+      "gloss": "बुद्धिमान बन"
+    },
+    {
+      "surface": "באחרिपך",
+      "gloss": "आफ्नो अन्त्यमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:56.346904622Z",
+  "model": "glm-5.3"
+}

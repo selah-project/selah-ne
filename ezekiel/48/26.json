@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "ezekiel 48:26",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र यिसास्खारको सीमामा, पूर्व दिशादेखि पश्चिम दिशासम्म — जेबुलुन ⟨एउटा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खारको"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "दिखादेखि"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबुलुन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:32:03.678424515Z",
+  "model": "glm-5.3"
+}

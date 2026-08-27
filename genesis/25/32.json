@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 25:32",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "एसावले भने: हेर, म मर्न गइरहेको छु, अनि यो जेठो अधिकार मलाई किन चाहिन्छ?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावले"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "गइरहेको छु"
+    },
+    {
+      "surface": "למות",
+      "gloss": "मर्न"
+    },
+    {
+      "surface": "ולמה",
+      "gloss": "अनि किन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "בכרה",
+      "gloss": "जेठो अधिकार"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:52.467179943Z",
+  "model": "glm-5.3"
+}

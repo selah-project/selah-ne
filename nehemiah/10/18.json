@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 10:18",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "आटेर, खिज्कियाह, अज्जुर,",
+  "tokens": [
+    {
+      "surface": "אטר",
+      "gloss": "आटेर"
+    },
+    {
+      "surface": "חזקיה",
+      "gloss": "खिज्कियाह"
+    },
+    {
+      "surface": "עזור",
+      "gloss": "अअज्जुर"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:18.589711322Z",
+  "model": "glm-5.3"
+}

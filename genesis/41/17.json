@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 41:17",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "र फारोहले योसेफलाई भन्नुभयो: मेरो सपनामा, हेर, म ⟨आफै⟩ नदीको किनारामा उभिएको छु।",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारोह"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफ"
+    },
+    {
+      "surface": "בחלמי",
+      "gloss": "मेरो सपनामा"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "हेर, म"
+    },
+    {
+      "surface": "עמד",
+      "gloss": "उभिएको छु"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारामा"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "नदी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:57:53.988132345Z",
+  "model": "glm-5.3"
+}

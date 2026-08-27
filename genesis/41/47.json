@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "genesis 41:47",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "र ⟨the⟩ देशले बालीका वर्षहरूमा मुठीमुठी अन्न उत्पन्न गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ויקבץ",
+      "gloss": ""
+    },
+    {
+      "surface": "ותעש",
+      "gloss": "उत्पन्न गर्‍यो"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशले"
+    },
+    {
+      "surface": "בשבע",
+      "gloss": "बालीका"
+    },
+    {
+      "surface": "שני",
+      "gloss": "वर्षहरूमा"
+    },
+    {
+      "surface": "השבע",
+      "gloss": "बाली"
+    },
+    {
+      "surface": "לקמצים",
+      "gloss": "मुठीमुठी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:58:54.739261234Z",
+  "model": "glm-5.3"
+}

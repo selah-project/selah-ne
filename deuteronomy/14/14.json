@@ -1,0 +1,30 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 14:14",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र ⟨את⟩ हरेक कागलाई त्यसको प्रकारअनुसार।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "हरेक काग"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "काग"
+    },
+    {
+      "surface": "למינו",
+      "gloss": "त्यसको प्रकारअनुसार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:54.915780287Z",
+  "model": "glm-5.3"
+}

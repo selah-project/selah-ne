@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 45:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 45,
+  "translation": "किनकि यी दुई वर्षदेखि अनिकाल ⟨the⟩ देशको बीचमा छ, अनि अझै पाँच वर्ष बाँकी छन् जसमा न जोताइ न कटाइ हुनेछ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "שנתים",
+      "gloss": "दुई वर्ष"
+    },
+    {
+      "surface": "הרעב",
+      "gloss": "अनिकाल"
+    },
+    {
+      "surface": "בקרב",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देशको"
+    },
+    {
+      "surface": "ועוד",
+      "gloss": "अनि अझै"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसमा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "חריש",
+      "gloss": "जोताइ"
+    },
+    {
+      "surface": "וקציר",
+      "gloss": "न कटाइ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:01:10.872315456Z",
+  "model": "glm-5.3"
+}

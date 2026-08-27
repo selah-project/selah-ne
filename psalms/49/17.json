@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "psalms 49:17",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "नडराऊ किनभने मानिस धनी बन्छ, किनभने उसको घरको काभोद बढ्छ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डराऊ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "יעשר",
+      "gloss": "धनी बन्छ"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "ירבה",
+      "gloss": "बढ्छ"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "काभोद"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "उसको घरको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:57:48.854448160Z",
+  "model": "glm-5.3"
+}

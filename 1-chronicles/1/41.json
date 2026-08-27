@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "1-chronicles 1:41",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अनाका छोराहरू: दिशोन; र दिशोनका छोराहरू: हमरान, र एश्बान, र यितरान, र केरान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ענה",
+      "gloss": "अनाका"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोन"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "דישון",
+      "gloss": "दिशोनका"
+    },
+    {
+      "surface": "חמרן",
+      "gloss": "हमरान"
+    },
+    {
+      "surface": "ואשבן",
+      "gloss": "र एश्बान"
+    },
+    {
+      "surface": "ויתרן",
+      "gloss": "र यितरान"
+    },
+    {
+      "surface": "וכרן",
+      "gloss": "र केरान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:44.225177684Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "exodus 5:10",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र जान-thumped गर्ने",
+  "tokens": [],
+  "timestamp": "2026-08-26T20:05:26.018324696Z",
+  "model": "glm-5.3"
+}

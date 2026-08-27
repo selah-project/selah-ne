@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 31:24",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "उनले सूती लुगा बनाई बेचिन्, र कनानीलाई पट्टा दिइन्।",
+  "tokens": [
+    {
+      "surface": "סדין",
+      "gloss": "सूती लुगा"
+    },
+    {
+      "surface": "עשתה",
+      "gloss": "बनाई"
+    },
+    {
+      "surface": "ותמכר",
+      "gloss": "र बेचिन्"
+    },
+    {
+      "surface": "וחגור",
+      "gloss": "र पट्टा"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "दिइन्"
+    },
+    {
+      "surface": "לכנעני",
+      "gloss": "कनानीलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:49.391377223Z",
+  "model": "glm-5.3"
+}

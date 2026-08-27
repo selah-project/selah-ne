@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 19:23",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "सूर्य पृथ्वीमाथि उदाएको थियो, र लोत त्सोअरमा प्रवेश गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "יצא",
+      "gloss": "उदाएको थियो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ולוט",
+      "gloss": "र लोत"
+    },
+    {
+      "surface": "בא",
+      "gloss": "प्रवेश गर्‍यो"
+    },
+    {
+      "surface": "צערה",
+      "gloss": "त्सोअरमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:47:22.660223785Z",
+  "model": "glm-5.3"
+}

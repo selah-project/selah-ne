@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 22:11",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "शुद्ध हृदय माया गर्ने — उसका ओठको मिठो वाणी; राजा उसको मित्र ⟨हुन्छ⟩।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "माया गर्ने"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חן",
+      "gloss": "मिठो वाणी"
+    },
+    {
+      "surface": "שפתיו",
+      "gloss": "उसका ओठको"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "उसको मित्र"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:18.810898238Z",
+  "model": "glm-5.3"
+}

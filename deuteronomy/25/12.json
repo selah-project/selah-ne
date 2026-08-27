@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 25:12",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "तब उसको ⟨את⟩ हात काट्नु — तिम्रो आँखाले उसलाई दया गर्नु होइन।",
+  "tokens": [
+    {
+      "surface": "וקצתה",
+      "gloss": "र काट्नेछौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उसको हात"
+    },
+    {
+      "surface": "כפה",
+      "gloss": "उसको हात"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תחוס",
+      "gloss": "दया गर्नेछ"
+    },
+    {
+      "surface": "עינך",
+      "gloss": "तिम्रो आँखाले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:20.582717912Z",
+  "model": "glm-5.3"
+}

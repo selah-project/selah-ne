@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 8:27",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "उहाँले आकाशहरूलाई तयार गर्दा म त्यहाँ थिएँ; तेहोमको सतहमा गोलो चक्र कोर्दा।",
+  "tokens": [
+    {
+      "surface": "בהכינו",
+      "gloss": "तयार गर्दा"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाशहरूलाई"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "בחוקו",
+      "gloss": "कोर्दा"
+    },
+    {
+      "surface": "חוג",
+      "gloss": "गोलो चक्र"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सतहमा"
+    },
+    {
+      "surface": "תהום",
+      "gloss": "तेहोमको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:20.523962432Z",
+  "model": "glm-5.3"
+}

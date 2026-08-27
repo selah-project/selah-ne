@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "numbers 33:43",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र तिनीहरू पुनोनबाट यात्रा गरे, र तिनीहरू ओभोथमा डेरा बसाए।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "यात्रा गरे"
+    },
+    {
+      "surface": "מפונן",
+      "gloss": "पुनोनबाट"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "באבת",
+      "gloss": "ओभोथमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:11.605044538Z",
+  "model": "glm-5.3"
+}

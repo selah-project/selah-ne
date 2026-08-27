@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 142:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 142,
+  "translation": "मेरो स्वर यहवेतर्फ चिच्याउँछु, मेरो स्वर यहवेतर्फ विनती गर्छु।",
+  "tokens": [
+    {
+      "surface": "קולי",
+      "gloss": "मेरो स्वर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אזעק",
+      "gloss": "चिच्याउँछु"
+    },
+    {
+      "surface": "קולי",
+      "gloss": "मेरो स्वर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אתחנן",
+      "gloss": "विनती गर्छु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:17:19.647236116Z",
+  "model": "glm-5.3"
+}

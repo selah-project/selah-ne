@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "joshua 15:33",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "निम्नभूमिमा: एश्ताओल, त्सोरआ र अश्नाह।",
+  "tokens": [
+    {
+      "surface": "בשפלה",
+      "gloss": "निम्नभूमिमा"
+    },
+    {
+      "surface": "אשתאול",
+      "gloss": "एश्ताओल"
+    },
+    {
+      "surface": "וצרעה",
+      "gloss": "त्सोरआ"
+    },
+    {
+      "surface": "ואשנה",
+      "gloss": "अश्नाह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:27.327376510Z",
+  "model": "glm-5.3"
+}

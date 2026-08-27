@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 70,
+  "ref": "numbers 7:70",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "पापबलिका लागि एउटा बादर, बाख्राको ⟨एउटा⟩।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बादर"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्राको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:35.434140095Z",
+  "model": "glm-5.3"
+}

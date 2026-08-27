@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "ezekiel 42:18",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "दक्षिणतर्फलाई ⟨את⟩ उनले नाप्नुभयो, पाँच सय कुलो, नाप्ने कुलाले।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दक्षिणतर्फ"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "הדרום",
+      "gloss": "दक्षिण"
+    },
+    {
+      "surface": "מדד",
+      "gloss": "उनले नाप्नुभयो"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "קנים",
+      "gloss": "कुलो"
+    },
+    {
+      "surface": "בקנה",
+      "gloss": "कुलाले"
+    },
+    {
+      "surface": "המדה",
+      "gloss": "नाप्ने"
+    }
+  ],
+  "timestamp": "2026-08-26T23:29:25.386671193Z",
+  "model": "glm-5.3"
+}

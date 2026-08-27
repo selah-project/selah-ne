@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "jeremiah 48:19",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "बाटोमा उभिऊ र हेरऊ, बस्ने, अरोएरकी, सोधू भागेकालाई र उम्केकीलाई, भनऊ: के भयो?",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "-मा"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "बाटो"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "उभिऊ"
+    },
+    {
+      "surface": "וצפי",
+      "gloss": "र हेरऊ"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बस्ने"
+    },
+    {
+      "surface": "ערוער",
+      "gloss": "अरोएर"
+    },
+    {
+      "surface": "שאलי",
+      "gloss": "सोधू"
+    },
+    {
+      "surface": "נס",
+      "gloss": "भागेकालाई"
+    },
+    {
+      "surface": "ונמלטה",
+      "gloss": "र उम्केकीलाई"
+    },
+    {
+      "surface": "אמרי",
+      "gloss": "भनऊ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "נהיתה",
+      "gloss": "भयो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:07:04.523615827Z",
+  "model": "glm-5.3"
+}

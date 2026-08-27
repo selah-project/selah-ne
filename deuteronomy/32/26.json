@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "deuteronomy 32:26",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "मैले भनेँ: तिनलाई उडाइदिन्छु, मानवबाट तिनको सम्झना लोप पार्छु।",
+  "tokens": [
+    {
+      "surface": "אמרתי",
+      "gloss": "मैले भनेँ"
+    },
+    {
+      "surface": "אפאיהם",
+      "gloss": "तिनलाई उडाइदिन्छु"
+    },
+    {
+      "surface": "אשביתה",
+      "gloss": "लोप पार्छु"
+    },
+    {
+      "surface": "מאנוש",
+      "gloss": "मानवबाट"
+    },
+    {
+      "surface": "זכרם",
+      "gloss": "तिनको सम्झना"
+    }
+  ],
+  "timestamp": "2026-08-26T21:08:28.413676120Z",
+  "model": "glm-5.3"
+}

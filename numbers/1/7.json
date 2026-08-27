@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 1:7",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "यहूदाका लागि नख्शोन, अम्मिनादावका छोरा।",
+  "tokens": [
+    {
+      "surface": "ליהודה",
+      "gloss": "यहूदाका लागि"
+    },
+    {
+      "surface": "נחשון",
+      "gloss": "नख्शोन"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עמינדב",
+      "gloss": "अम्मिनादावका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:36.518405415Z",
+  "model": "glm-5.3"
+}

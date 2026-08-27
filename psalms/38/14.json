@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "psalms 38:14",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "तर म ⟨होइँ⟩ जस्तो बधिर, सुन्दिनँ; र जस्तो मूक, ⟨उसको⟩ मुख खोल्दैन।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "तर म"
+    },
+    {
+      "surface": "כחרש",
+      "gloss": "जस्तो बधिर"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אשמע",
+      "gloss": "सुन्दिनँ"
+    },
+    {
+      "surface": "וכאלם",
+      "gloss": "र जस्तो मूक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יפתח",
+      "gloss": "खोल्दैन"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "⟨उसको⟩ मुख"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:02.323725505Z",
+  "model": "glm-5.3"
+}

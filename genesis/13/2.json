@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 13:2",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र अभ्राम धनी थिए — अत्यन्तै — पशुहरूमा, चाँदीमा र सुनमा।",
+  "tokens": [
+    {
+      "surface": "ואברם",
+      "gloss": "र अभ्राम"
+    },
+    {
+      "surface": "כבד",
+      "gloss": "धनी\/भारी"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्तै"
+    },
+    {
+      "surface": "במקנה",
+      "gloss": "पशुहरूमा"
+    },
+    {
+      "surface": "בכסף",
+      "gloss": "चाँदीमा"
+    },
+    {
+      "surface": "ובזהב",
+      "gloss": "र सुनमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:45:33.152389540Z",
+  "model": "glm-5.3"
+}

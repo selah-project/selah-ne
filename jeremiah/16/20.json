@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 16:20",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "के मानिसले आफ्ना लागि देवताहरू बनाउनेछ, र तिनीहरू देवता होइनन्?",
+  "tokens": [
+    {
+      "surface": "היעשה",
+      "gloss": "के बनाउनेछ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आफ्ना लागि"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसले"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवताहरू"
+    },
+    {
+      "surface": "והמה",
+      "gloss": "र तिनीहरू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइनन्"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता"
+    }
+  ],
+  "timestamp": "2026-08-26T22:51:34.289448183Z",
+  "model": "glm-5.3"
+}

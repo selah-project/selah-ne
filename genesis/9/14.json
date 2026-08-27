@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "genesis 9:14",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "जब म बादल ल्याउँछु पृथ्वीमाथि, तब धनु देखिनेछ बादलमा।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "र यो हुनेछ"
+    },
+    {
+      "surface": "בענני",
+      "gloss": "म बादल ल्याउँदा"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ונראתה",
+      "gloss": "र देखिनेछ"
+    },
+    {
+      "surface": "הקשת",
+      "gloss": "धनु"
+    },
+    {
+      "surface": "בענן",
+      "gloss": "बादलमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:21.159535803Z",
+  "model": "glm-5.3"
+}

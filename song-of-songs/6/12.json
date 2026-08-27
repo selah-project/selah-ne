@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 6:12",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "मैले जानिनसकेँ; मेरो नेफेशले मलाई मेरा जन-नादिवका रथहरूमा राख्यो।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "मैले जानिनसकेँ"
+    },
+    {
+      "surface": "ידעתי",
+      "gloss": "जानिनसकेँ"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरो नेफेश"
+    },
+    {
+      "surface": "שמתני",
+      "gloss": "राख्यो"
+    },
+    {
+      "surface": "מרכבות",
+      "gloss": "रथहरूमा"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरा जन"
+    },
+    {
+      "surface": "נדिऑ",
+      "gloss": "नादिव"
+    }
+  ],
+  "timestamp": "2026-08-27T00:44:11.061559015Z",
+  "model": "glm-5.3"
+}

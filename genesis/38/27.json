@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 38:27",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "र उनको प्रसवको समय भयो, र हेर, उनको पेटमा जुम्ल्याहाहरू ⟨थिए⟩।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "को समय"
+    },
+    {
+      "surface": "לדתה",
+      "gloss": "उनको प्रसव"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "תאומים",
+      "gloss": "जुम्ल्याहाहरू"
+    },
+    {
+      "surface": "בבטנה",
+      "gloss": "उनको पेटमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:57:32.611741991Z",
+  "model": "glm-5.3"
+}

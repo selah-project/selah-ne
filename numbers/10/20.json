@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "numbers 10:20",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र गादका छोराहरूका कुलको सेनामाथि देउएलका छोरा एल्यासाफ ⟨थिए⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र माथि"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "कुलको"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूका"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादका"
+    },
+    {
+      "surface": "אליסף",
+      "gloss": "एल्यासाफ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "דעואל",
+      "gloss": "देउएलका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:41.965256134Z",
+  "model": "glm-5.3"
+}

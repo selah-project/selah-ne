@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 16:7",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "यहवेको दूतले उनलाई मरुभूमिको पानीको स्रोतमा, शूरको बाटोमा रहेको स्रोतमा भेट्‍टायो।",
+  "tokens": [
+    {
+      "surface": "וימצאה",
+      "gloss": "भेट्‍टायो"
+    },
+    {
+      "surface": "מלאך",
+      "gloss": "दूत"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "על",
+      "gloss": "नजिकै"
+    },
+    {
+      "surface": "עין",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानीको"
+    },
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमिमा"
+    },
+    {
+      "surface": "על",
+      "gloss": "नजिकै"
+    },
+    {
+      "surface": "העין",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "बाटोमा"
+    },
+    {
+      "surface": "שור",
+      "gloss": "शूर"
+    }
+  ],
+  "timestamp": "2026-08-26T19:45:55.517361254Z",
+  "model": "glm-5.3"
+}

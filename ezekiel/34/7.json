@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 34:7",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "यसैले हे गोठालाहरू, यहवेको ⟨את⟩ वचन सुन।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "यसैले"
+    },
+    {
+      "surface": "רעים",
+      "gloss": "गोठालाहरू"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:25:50.578405982Z",
+  "model": "glm-5.3"
+}

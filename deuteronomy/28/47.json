@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "deuteronomy 28:47",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "किनभने सबै कुराको बाहुल्यतामा हर्ष र असल मनले तिमीले आफ्ना एलोहीम यहवेको ⟨את⟩ सेवा गरेनौ।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "עבדת",
+      "gloss": "तिमीले सेवा गरेनौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवेको"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "आफ्ना एलोहीम"
+    },
+    {
+      "surface": "בשמחה",
+      "gloss": "हर्षसाथ"
+    },
+    {
+      "surface": "ובטוב",
+      "gloss": "र असल"
+    },
+    {
+      "surface": "לבב",
+      "gloss": "मन"
+    },
+    {
+      "surface": "מרב",
+      "gloss": "बाहुल्यतामा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै कुराको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:06:34.568398333Z",
+  "model": "glm-5.3"
+}

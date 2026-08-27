@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 26:21",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र तिनीहरूका चालीस चौडाहरू चाँदीका हुनेछन् — एउटा कडाको तल दुई चौडा, र एउटा कडाको तल दुई चौडा।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "र चालीस"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "तिनीहरूका चौडा"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "चौडा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "कडा"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "चौडा"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "कडा"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:15:34.748353314Z",
+  "model": "glm-5.3"
+}

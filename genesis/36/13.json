@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "genesis 36:13",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र यी हुन् रेउएलका छोराहरू — नखत, जेरख, शम्मा र मिज्जा; यी नै थिए एसावकी पत्नी बस्मतका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "רעואל",
+      "gloss": "रेउएलका"
+    },
+    {
+      "surface": "נחת",
+      "gloss": "नखत"
+    },
+    {
+      "surface": "וזרח",
+      "gloss": "जेरख"
+    },
+    {
+      "surface": "שמה",
+      "gloss": "शम्मा"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "र मिज्जा"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בשמת",
+      "gloss": "बस्मतका"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "पत्नी"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसावकी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:56:15.085164897Z",
+  "model": "glm-5.3"
+}

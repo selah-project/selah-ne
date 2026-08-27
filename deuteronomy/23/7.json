@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 23:7",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "उनको शान्ति र उनको भलाइ खोज्नेछौँनौ, आफ्ना सबै दिनहरूमा, सधैँको लागि।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תדרש",
+      "gloss": "खोज्नेछौँनौ"
+    },
+    {
+      "surface": "שלמם",
+      "gloss": "उनको शान्ति"
+    },
+    {
+      "surface": "וטבתם",
+      "gloss": "र उनको भलाइ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימיך",
+      "gloss": "आफ्ना दिनहरूमा"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सधैँको लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:30.879048897Z",
+  "model": "glm-5.3"
+}

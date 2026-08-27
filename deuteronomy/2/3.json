@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 2:3",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "तिमीहरूलाई ⟨पर्याप्त भयो⟩ — यो पर्वत ⟨את⟩ घुमिसकेका छौ; आफूलाई उत्तरतर्फ घुमाऊ।",
+  "tokens": [
+    {
+      "surface": "רב",
+      "gloss": "पर्याप्त भयो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "סב",
+      "gloss": "घुमिसकेका छौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्वत"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "פנו",
+      "gloss": "घुमाऊ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आफूलाई"
+    },
+    {
+      "surface": "צפנה",
+      "gloss": "उत्तरतर्फ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:51.867203066Z",
+  "model": "glm-5.3"
+}

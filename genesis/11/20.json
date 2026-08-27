@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 11:20",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र रेउले बत्तीस वर्ष बाँच्नुभयो, र उनले ⟨את⟩ सेरुगलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्नुभयो"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेउ"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "र तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सेरुगलाई"
+    },
+    {
+      "surface": "שרוג",
+      "gloss": "सेरुग"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:44.075798426Z",
+  "model": "glm-5.3"
+}

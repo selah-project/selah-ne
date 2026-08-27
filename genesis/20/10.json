@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 20:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "अविमेलेखले अभ्राहामलाई भन्नुभयो, के देख्नुभयो, कि तिमीले ⟨את⟩ यो कुरा गर्नुभयो?",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "אבימלך",
+      "gloss": "अविमेलेखले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "ראית",
+      "gloss": "देख्नुभयो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "गर्नुभयो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो कुरा"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:20.124369073Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 22:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "सङ्गीत-नेताका लागि, 'भोरको हरिणी' शैलीमा, दाऊदको मिजमोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "सङ्गीत-नेताका लागि"
+    },
+    {
+      "surface": "על",
+      "gloss": "शैलीमा"
+    },
+    {
+      "surface": "אילת",
+      "gloss": "हरिणी"
+    },
+    {
+      "surface": "השחר",
+      "gloss": "भोरको"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिजमोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊदको"
+    }
+  ],
+  "timestamp": "2026-08-27T02:38:55.344772875Z",
+  "model": "glm-5.3"
+}

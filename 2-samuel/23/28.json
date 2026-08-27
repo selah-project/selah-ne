@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "2-samuel 23:28",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "त्सल्मोन अखोखी, महराइ नेतोफाती।",
+  "tokens": [
+    {
+      "surface": "צלמון",
+      "gloss": "त्सल्मोन"
+    },
+    {
+      "surface": "האחחי",
+      "gloss": "अखोखी"
+    },
+    {
+      "surface": "מהרי",
+      "gloss": "महराइ"
+    },
+    {
+      "surface": "הנטפתי",
+      "gloss": "नेतोफाती"
+    }
+  ],
+  "timestamp": "2026-08-26T21:54:21.607755819Z",
+  "model": "glm-5.3"
+}

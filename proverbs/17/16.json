@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "proverbs 17:16",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "किन यो — मूर्खको हातमा मूल्य, बुद्धि किन्नलाई, तर मनभने छैन?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "मחיר",
+      "gloss": "मूल्य"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हातमा"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खको"
+    },
+    {
+      "surface": "לקנות",
+      "gloss": "किन्नलाई"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "तर मनभने"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:48.978911858Z",
+  "model": "glm-5.3"
+}

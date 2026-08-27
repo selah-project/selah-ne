@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 48:42",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "मोआब जनताबाट नाश हुनेछ, किनकि ऊ यहवेविरुद्ध आकण्ठ उभियो।",
+  "tokens": [
+    {
+      "surface": "ונשמד",
+      "gloss": "नाश हुनेछ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "מעם",
+      "gloss": "जनताबाट"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הגדיל",
+      "gloss": "आकण्ठ उभियो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:06:56.144692236Z",
+  "model": "glm-5.3"
+}

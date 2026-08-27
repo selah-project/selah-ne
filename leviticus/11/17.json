@@ -1,0 +1,40 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 11:17",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र ⟨את⟩ सानो लटोको र ⟨את⟩ समुद्री काग र ⟨את⟩ ठूलो लटोको,",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "सानो लटोको"
+    },
+    {
+      "surface": "הכוס",
+      "gloss": "सानो लटोको"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "समुद्री काग"
+    },
+    {
+      "surface": "השלך",
+      "gloss": "समुद्री काग"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "ठूलो लटोको"
+    },
+    {
+      "surface": "הינשוף",
+      "gloss": "ठूलो लटोको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:21.962523669Z",
+  "model": "glm-5.3"
+}

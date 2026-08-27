@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 69,
+  "ref": "numbers 7:69",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एउटा बछौडा, गोरुको सन्तान ⟨एउटा⟩, एउटा भाले, एउटा बोका, एक वर्षको छोरा, बलिदानका लागि।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछौडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गोरु"
+    },
+    {
+      "surface": "איל",
+      "gloss": "भाले"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "बोका"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक वर्षको"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "बलिदानका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:35.433943741Z",
+  "model": "glm-5.3"
+}

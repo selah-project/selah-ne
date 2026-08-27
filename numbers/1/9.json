@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 1:9",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "ज़बुलूनका लागि — एलिआभ, हेलोनका छोरा।",
+  "tokens": [
+    {
+      "surface": "לזבולן",
+      "gloss": "ज़बुलूनका लागि"
+    },
+    {
+      "surface": "אליאב",
+      "gloss": "एलिआभ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "חלן",
+      "gloss": "हेलोनका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:29.818044639Z",
+  "model": "glm-5.3"
+}

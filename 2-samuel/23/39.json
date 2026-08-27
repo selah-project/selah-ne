@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "2-samuel 23:39",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "उरिय्याह ⟨the⟩ हित्ती — सबै गरी तीस र सात।",
+  "tokens": [
+    {
+      "surface": "אוריה",
+      "gloss": "उरिय्याह"
+    },
+    {
+      "surface": "החתי",
+      "gloss": "हित्ती"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै गरी"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "र सात"
+    }
+  ],
+  "timestamp": "2026-08-26T21:55:34.921363108Z",
+  "model": "glm-5.3"
+}

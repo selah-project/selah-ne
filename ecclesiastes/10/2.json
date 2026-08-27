@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 10:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "बुद्धिमानको हृदय उसको दायाँतिर ⟨छ⟩, तर मूर्खको हृदय उसको बायाँतिर ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "חכם",
+      "gloss": "बुद्धिमानको"
+    },
+    {
+      "surface": "לימינו",
+      "gloss": "उसको दायाँतिर"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "तर हृदय"
+    },
+    {
+      "surface": "כסיל",
+      "gloss": "मूर्खको"
+    },
+    {
+      "surface": "לשמאלו",
+      "gloss": "उसको बायाँतिर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:16.194060380Z",
+  "model": "glm-5.3"
+}

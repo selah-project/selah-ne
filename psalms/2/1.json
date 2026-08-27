@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 2:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "किन जातिहरू भीषण भए, र जनजातिहरूले व्यर्थमा खोस्रो मारे?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "רגשו",
+      "gloss": "भीषण भए"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "जातिहरू"
+    },
+    {
+      "surface": "ולאמים",
+      "gloss": "र जनजातिहरूले"
+    },
+    {
+      "surface": "יהגו",
+      "gloss": "खोस्रो मारे"
+    },
+    {
+      "surface": "ריק",
+      "gloss": "व्यर्थमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:00.888774952Z",
+  "model": "glm-5.3"
+}

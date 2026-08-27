@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 78,
+  "ref": "numbers 7:78",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बाह्रौँ दिनमा नप्तालीका सन्तानका नायक एनानको छोरा अखिरा ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "…मा दिन"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नायक"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "…का सन्तानका लागि"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नप्ताली"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखिरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:07.023658474Z",
+  "model": "glm-5.3"
+}

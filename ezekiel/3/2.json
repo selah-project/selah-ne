@@ -1,0 +1,43 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 3:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "मैले ⟨את⟩ मेरो मुख खोलेँ, र उहाँले मलाई यो ⟨the⟩ मगमारा खुवाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "ואפתח",
+      "gloss": "मैले खोलेँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेरो मुख"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरो मुख"
+    },
+    {
+      "surface": "ויאכלני",
+      "gloss": "उहाँले मलाई खुवाउनुभयो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो मगमारा"
+    },
+    {
+      "surface": "המגלה",
+      "gloss": "मगमारा"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:12:05.142572790Z",
+  "model": "glm-5.3"
+}

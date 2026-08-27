@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-kings 3:16",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उहाँले भन्नुभयो, यहवे यस्तो भुन्छ, यो खोँडोलाई खाल्डो खाल्डो बनाऊ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यस्तो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भुन्छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाऊ"
+    },
+    {
+      "surface": "הנחל",
+      "gloss": "खोँडोलाई"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "खाल्डो"
+    },
+    {
+      "surface": "גבים",
+      "gloss": "खाल्डो"
+    }
+  ],
+  "timestamp": "2026-08-26T22:10:33.726174618Z",
+  "model": "glm-5.3"
+}

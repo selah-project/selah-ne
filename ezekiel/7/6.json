@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ezekiel 7:6",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अन्त्य आयो, अन्त्य आयो; ⟨अन्त्य⟩ तिम्रो विरुद्ध जाग्यो; हेर, आउँदैछ।",
+  "tokens": [
+    {
+      "surface": "קץ",
+      "gloss": "अन्त्य"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "הקץ",
+      "gloss": "⟨अन्त्य⟩"
+    },
+    {
+      "surface": "הקיץ",
+      "gloss": "जाग्यो"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिम्रो विरुद्ध"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आउँदैछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:11:41.094444555Z",
+  "model": "glm-5.3"
+}

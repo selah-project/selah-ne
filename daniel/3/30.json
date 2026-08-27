@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "daniel 3:30",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तब राजाले शद्रक, मेशक र अवद-नेगोलाई बाबेल प्रदेशमा ⟨is⟩ उन्नति दिनुभयो।",
+  "tokens": [
+    {
+      "surface": "באדין",
+      "gloss": "तब"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "הצלח",
+      "gloss": "उन्नति गराउनुभयो"
+    },
+    {
+      "surface": "לשדרך",
+      "gloss": "शद्रकलाई"
+    },
+    {
+      "surface": "מישך",
+      "gloss": "मेशक"
+    },
+    {
+      "surface": "ועבד",
+      "gloss": "र अवद"
+    },
+    {
+      "surface": "נגו",
+      "gloss": "नेगो"
+    },
+    {
+      "surface": "במדינת",
+      "gloss": "प्रदेशमा"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:58:05.666625160Z",
+  "model": "glm-5.3"
+}

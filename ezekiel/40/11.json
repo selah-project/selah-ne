@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 40:11",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "उनले ⟨את⟩ ढोकाको प्रवेशद्वारको चौडाइ दश हात नाप्नुभयो, र ढोकाको लम्बाइ तेह्र हात।",
+  "tokens": [
+    {
+      "surface": "וימד",
+      "gloss": "उनले नाप्नुभयो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "चौडाइ"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौडाइ"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "प्रवेशद्वार"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोकाको"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दश"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाइ"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोकाको"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तेह्र"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": ""
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    }
+  ],
+  "timestamp": "2026-08-27T02:10:54.136113050Z",
+  "model": "glm-5.3"
+}

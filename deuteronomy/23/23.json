@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 23:23",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "तर जब तिमी मन्नत मान्न छोड्छौ, तिमीमा पाप हुनेछैन।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "तर जब"
+    },
+    {
+      "surface": "תחדל",
+      "gloss": "तिमी छोड्छौ"
+    },
+    {
+      "surface": "לנדר",
+      "gloss": "मन्नत मान्न"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तिमीमा"
+    },
+    {
+      "surface": "חטא",
+      "gloss": "पाप"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:45.188569280Z",
+  "model": "glm-5.3"
+}

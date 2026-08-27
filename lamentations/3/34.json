@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "lamentations 3:34",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "पृथ्वीका सबै बन्दीहरूलाई आफ्ना खुट्टातल कुल्चनुहुन्न —",
+  "tokens": [
+    {
+      "surface": "לדכא",
+      "gloss": "कुल्चनुहुन्न"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "רגליו",
+      "gloss": "आफ्ना खुट्टा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אסירי",
+      "gloss": "बन्दीहरूलाई"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वीका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:13.179078179Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "1-chronicles 21:19",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र दाविद गादको वचनअनुसार माथि गयो, जुन उसले यहवेको नाममा बोलेको थियो।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "र माथि गयो"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "בדבר",
+      "gloss": "वचनअनुसार"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलेको थियो"
+    },
+    {
+      "surface": "בשם",
+      "gloss": "नाममा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:16.001963945Z",
+  "model": "glm-5.3"
+}

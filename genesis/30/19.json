@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "genesis 30:19",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "अनि लेआह फेरि गर्भवती भइन्, र याकोभलाई छैटौँ छोरा जन्म दिइन्।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "गर्भवती भइन्"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेरि"
+    },
+    {
+      "surface": "לאה",
+      "gloss": "लेआह"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "जन्म दिइन्"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ששי",
+      "gloss": "छैटौँ"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोभलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:32.953546762Z",
+  "model": "glm-5.3"
+}

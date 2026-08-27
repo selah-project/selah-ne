@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ezekiel 41:20",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "जमिनदेखि ढोकामाथिसम्म करूवहरू र तालवृक्षहरू बनाइएका थिए — र ⟨on⟩ ⟨the⟩ हेखलको भित्तामा।",
+  "tokens": [
+    {
+      "surface": "מהארץ",
+      "gloss": "जमिनदेखि"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "हाप्ताख",
+      "gloss": "⟨the⟩ ढोका"
+    },
+    {
+      "surface": "הכרובים",
+      "gloss": "⟨the⟩ करूवहरू"
+    },
+    {
+      "surface": "והתמरים",
+      "gloss": "र ⟨the⟩ तालवृक्षहरू"
+    },
+    {
+      "surface": "עשוים",
+      "gloss": "बनाइएका"
+    },
+    {
+      "surface": "וקיר",
+      "gloss": "र भित्ता"
+    },
+    {
+      "surface": "ההיכל",
+      "gloss": "हेखलको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:29:34.865688422Z",
+  "model": "glm-5.3"
+}

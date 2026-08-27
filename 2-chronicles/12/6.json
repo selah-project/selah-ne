@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 12:6",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "तब इस्राएलका सरदारहरू र राजा निहुरिए, र तिनीहरूले भने: यहवे धर्मी हुनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "ויכנעו",
+      "gloss": "निहुरिए"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदारहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "והמלך",
+      "gloss": "र राजा"
+    },
+    {
+      "surface": "ויאמרו",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-27T01:36:05.942669379Z",
+  "model": "glm-5.3"
+}

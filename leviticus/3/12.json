@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "leviticus 3:12",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र यदि उसको बलि ⟨is⟩ बाखी, त ⟨he⟩ त्यसलाई यहवेको सामु चढाउनेछ",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "עז",
+      "gloss": "बाखी"
+    },
+    {
+      "surface": "קרבנו",
+      "gloss": "उसको बलि"
+    },
+    {
+      "surface": "והקריבו",
+      "gloss": "चढाउनेछ ⟨he⟩"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:22:27.016031069Z",
+  "model": "glm-5.3"
+}

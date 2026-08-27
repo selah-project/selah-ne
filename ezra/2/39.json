@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "ezra 2:39",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "खारिमका सन्तानहरू — एक हजार सत्र।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरू"
+    },
+    {
+      "surface": "חרם",
+      "gloss": "खारिमका"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "ושבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "सत्र"
+    }
+  ],
+  "timestamp": "2026-08-27T02:35:32.572852414Z",
+  "model": "glm-5.3"
+}

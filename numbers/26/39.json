@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 26:39",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "शेफूफामका — शूफामी कुल; खूफामका — खूफामी कुल।",
+  "tokens": [
+    {
+      "surface": "לשפופם",
+      "gloss": "शेफूफामका"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "השופמי",
+      "gloss": "शूफामी"
+    },
+    {
+      "surface": "לחופם",
+      "gloss": "खूफामका"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "कुल"
+    },
+    {
+      "surface": "החופמי",
+      "gloss": "खूफामी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:08.432111410Z",
+  "model": "glm-5.3"
+}

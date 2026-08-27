@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 19:26",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "पितालाई लुट्ने, आमालाई भगाउने छोरा — लज्जा दिने र निन्दा ल्याउने।",
+  "tokens": [
+    {
+      "surface": "משדד",
+      "gloss": "लुट्ने"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पितालाई"
+    },
+    {
+      "surface": "יבריח",
+      "gloss": "भगाउने"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आमालाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מביש",
+      "gloss": "लज्जा दिने"
+    },
+    {
+      "surface": "ומחפיר",
+      "gloss": "र निन्दा ल्याउने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:28.506222925Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 34:26",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "अनि यिसास्खारका छोराहरूको कुलका ⟨the⟩ नासी ⟨the⟩ पाल्तिएल, अज्जानको छोरा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "कुलका"
+    },
+    {
+      "surface": "बני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खार"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "פלטיאל",
+      "gloss": "पाल्तिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עזן",
+      "gloss": "अज्जान"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:27.439030149Z",
+  "model": "glm-5.3"
+}

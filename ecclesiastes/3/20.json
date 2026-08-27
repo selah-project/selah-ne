@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "ecclesiastes 3:20",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "सबैथोक एउटै स्थानतर्फ जान्छ; सबैथोक माटोबाट भएको ⟨हो⟩, र सबैथोक माटोतर्फ फर्किन्छ।",
+  "tokens": [
+    {
+      "surface": "הכל",
+      "gloss": "सबैथोक"
+    },
+    {
+      "surface": "הולך",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटै"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सबैथोक"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भएको"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "माटो"
+    },
+    {
+      "surface": "והכל",
+      "gloss": "र सबैथोक"
+    },
+    {
+      "surface": "שב",
+      "gloss": "फर्किन्छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "העפר",
+      "gloss": "माटो"
+    }
+  ],
+  "timestamp": "2026-08-27T02:19:24.293713041Z",
+  "model": "glm-5.3"
+}

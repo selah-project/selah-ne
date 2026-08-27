@@ -1,0 +1,83 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ecclesiastes 4:3",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र ती दुवैभन्दा उत्तम ⟨את⟩ ऊ जो अझैसम्म भएको छैन, जसले ⟨את⟩ खराब काम देखेको छैन जो सूर्यको तल गरिएको छ।",
+  "tokens": [
+    {
+      "surface": "וטוב",
+      "gloss": "र उत्तम"
+    },
+    {
+      "surface": "משניהם",
+      "gloss": "ती दुवैभन्दा"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊ जो अझैसम्म भएको छैन"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עדן",
+      "gloss": "अझैसम्म"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भएको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देखेको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खराब काम"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "נעשה",
+      "gloss": "गरिएको"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्यको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:48.978455801Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 27:31",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र बथानहरूमाथि हागरी याजिज थियो; राजा दाविदको भएको धनसम्पत्तिका यी सबै प्रमुखहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ...माथि"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "बथानहरू"
+    },
+    {
+      "surface": "יזיז",
+      "gloss": "याजिज"
+    },
+    {
+      "surface": "ההגרי",
+      "gloss": "हागरी"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "प्रमुखहरू"
+    },
+    {
+      "surface": "הרכוש",
+      "gloss": "धनसम्पत्तिका"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    }
+  ],
+  "timestamp": "2026-08-27T01:29:32.552647103Z",
+  "model": "glm-5.3"
+}

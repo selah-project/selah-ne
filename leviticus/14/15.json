@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "leviticus 14:15",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र हाकोहेनले तेलको लोगबाट ⟨some⟩ लिनेछन् र हाकोहेनको दायाँ... होइन, बायाँ हत्केलामा खन्याउनेछन्।",
+  "tokens": [
+    {
+      "surface": "ולקח",
+      "gloss": "लिनेछन्"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हाकोहेन"
+    },
+    {
+      "surface": "מלג",
+      "gloss": "लोगबाट ⟨some⟩"
+    },
+    {
+      "surface": "השמן",
+      "gloss": "तेलको"
+    },
+    {
+      "surface": "ויצק",
+      "gloss": "खन्याउनेछन्"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हत्केला"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "हाकोहेनको"
+    },
+    {
+      "surface": "השמאלית",
+      "gloss": "बायाँ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:28:46.688251312Z",
+  "model": "glm-5.3"
+}

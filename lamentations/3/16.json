@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "lamentations 3:16",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र उहाँले गिट्टीले मेरा दाँत चपाउनुभयो, उहाँले मलाई खरानीमा थिच्नुभयो।",
+  "tokens": [
+    {
+      "surface": "ויגרס",
+      "gloss": "र ... चपाउनुभयो"
+    },
+    {
+      "surface": "בחצץ",
+      "gloss": "गिट्टीले"
+    },
+    {
+      "surface": "שני",
+      "gloss": "मेरा दाँत"
+    },
+    {
+      "surface": "הכפישני",
+      "gloss": "थिच्नुभयो"
+    },
+    {
+      "surface": "באפר",
+      "gloss": "खरानीमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:22.078701024Z",
+  "model": "glm-5.3"
+}

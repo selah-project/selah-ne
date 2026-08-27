@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "exodus 37:11",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "र उनले ⟨את⟩ त्यसलाई शुद्ध सुनले मढाए, र त्यसका लागि वरिपरि सुनको जेत बनाए।",
+  "tokens": [
+    {
+      "surface": "ויצף",
+      "gloss": "र उनले मढाए"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "त्यसलाई"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनले"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "ויעש",
+      "gloss": "र उनले बनाए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यसका लागि"
+    },
+    {
+      "surface": "זר",
+      "gloss": "जेत"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनको"
+    },
+    {
+      "surface": "סביב",
+      "gloss": "वरिपरि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:19:57.816872663Z",
+  "model": "glm-5.3"
+}

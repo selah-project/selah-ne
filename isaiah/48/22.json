@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "isaiah 48:22",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "शान्ति छैन, यहवेले भन्नुभयो, दुष्टहरूका लागि।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לרשעים",
+      "gloss": "दुष्टहरूका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T22:38:16.776249192Z",
+  "model": "glm-5.3"
+}

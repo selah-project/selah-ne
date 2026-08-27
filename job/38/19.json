@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "job 38:19",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "उज्यालो बस्ने ⟨त्यो⟩ बाटो कहाँ छ? र अन्धकार — ⟨त्यसको⟩ स्थान कहाँ छ?",
+  "tokens": [
+    {
+      "surface": "אי",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨त्यो⟩"
+    },
+    {
+      "surface": "הדרך",
+      "gloss": "बाटो"
+    },
+    {
+      "surface": "ישכן",
+      "gloss": "बस्ने"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उज्यालो"
+    },
+    {
+      "surface": "וחשך",
+      "gloss": "र अन्धकार"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨त्यसको⟩"
+    },
+    {
+      "surface": "मקמו",
+      "gloss": "स्थान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:41:21.002622623Z",
+  "model": "glm-5.3"
+}

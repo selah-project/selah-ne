@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 2:12",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र बोअज़ले ⟨את⟩ ओवेदलाई जन्म दियो, र ओवेदले ⟨את⟩ यिशाइलाई जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "ובעז",
+      "gloss": "र बोअज़ले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ओवेदलाई"
+    },
+    {
+      "surface": "עובד",
+      "gloss": "ओवेद"
+    },
+    {
+      "surface": "ועובד",
+      "gloss": "र ओवेदले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यिशाइलाई"
+    },
+    {
+      "surface": "ישי",
+      "gloss": "यिशाइ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:13.994027024Z",
+  "model": "glm-5.3"
+}

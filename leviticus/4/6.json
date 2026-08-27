@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 4:6",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र कोहनले ⟨את⟩ आफ्नो औंला रगतमा डुबाई, यहवेको सामु पवित्र पर्दाको ⟨את⟩ अगाडि रगतबाट सात पटक छर्कनेछ।",
+  "tokens": [
+    {
+      "surface": "וטבל",
+      "gloss": "डुबाउनेछ"
+    },
+    {
+      "surface": "הכהן",
+      "gloss": "कोहनले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो औंला"
+    },
+    {
+      "surface": "אצבעו",
+      "gloss": "आफ्नो औंला"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "रगतमा"
+    },
+    {
+      "surface": "והזה",
+      "gloss": "छर्कनेछ"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "הדם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "פעמים",
+      "gloss": "पटक"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अगाडि (पर्दाको)"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "פרכת",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "הקדש",
+      "gloss": "पवित्र"
+    }
+  ],
+  "timestamp": "2026-08-26T20:23:38.278378805Z",
+  "model": "glm-5.3"
+}

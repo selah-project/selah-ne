@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "numbers 7:28",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बाख्राको एउटा भाले, पाप-बलिको लागि।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "भाले"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्राको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-बलिको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:06.777699454Z",
+  "model": "glm-5.3"
+}

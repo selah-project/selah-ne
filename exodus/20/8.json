@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 20:8",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "शब्बाथको दिनलाई ⟨את⟩ पवित्र तुल्याउन ⟨को लागि⟩ सम्झना गर।",
+  "tokens": [
+    {
+      "surface": "זכור",
+      "gloss": "सम्झना गर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दिन"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बाथको"
+    },
+    {
+      "surface": "לקדשו",
+      "gloss": "पवित्र तुल्याउन"
+    }
+  ],
+  "timestamp": "2026-08-26T20:11:58.588942025Z",
+  "model": "glm-5.3"
+}

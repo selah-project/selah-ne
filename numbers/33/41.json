@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "numbers 33:41",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र ⟨the⟩ होर पहाडबाट यात्रा गरे, र तिनीहरू त्सल्मोनामा डेरा बसाए।",
+  "tokens": [
+    {
+      "surface": "ויסעו",
+      "gloss": "यात्रा गरे"
+    },
+    {
+      "surface": "מהר",
+      "gloss": "पहाडबाट"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "होर"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "בצלמנה",
+      "gloss": "त्सल्मोनामा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:11.604689081Z",
+  "model": "glm-5.3"
+}

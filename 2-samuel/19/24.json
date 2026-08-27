@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "2-samuel 19:24",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र राजाले शिमीलाई भने, तिमी मर्नेछैनौ; र राजाले उसलाई शपथ लिए।",
+  "tokens": [
+    {
+      "surface": "ויאमר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "המलך",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "שמעי",
+      "gloss": "शिमी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "תמות",
+      "gloss": "तिमी मर्नेछैनौ"
+    },
+    {
+      "surface": "וישבע",
+      "gloss": "शपथ लिए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:52:25.979254256Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 23:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "धनी हुन थाकिनेछौ; आफ्नो बुद्धिबाट त्याग गर्नु।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תיגע",
+      "gloss": "थाक"
+    },
+    {
+      "surface": "להעשיר",
+      "gloss": "धनी हुन"
+    },
+    {
+      "surface": "מבינתך",
+      "gloss": "तिम्रो बुद्धिबाट"
+    },
+    {
+      "surface": "חדל",
+      "gloss": "त्याग गर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:03.692088453Z",
+  "model": "glm-5.3"
+}

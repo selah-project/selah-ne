@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "proverbs 6:29",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "त्यसैगरी जो आफ्नो साथीकी स्त्रीकहाँ जान्छ, ⟨he⟩ निर्दोष रहनेछैन — जो कोही उसलाई छुन्छ।",
+  "tokens": [
+    {
+      "surface": "כן",
+      "gloss": "त्यसैगरी"
+    },
+    {
+      "surface": "הבא",
+      "gloss": "जान्छ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אשת",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "רעהו",
+      "gloss": "आफ्नो साथीकी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "ינקה",
+      "gloss": "निर्दोष रहनेछ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जो कोही"
+    },
+    {
+      "surface": "הנגע",
+      "gloss": "छुन्छ"
+    },
+    {
+      "surface": "בה",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:34.772502207Z",
+  "model": "glm-5.3"
+}

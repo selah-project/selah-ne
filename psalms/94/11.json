@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 94:11",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 94,
+  "translation": "यहवेले मानिसका विचारहरू जान्नुहुन्छ, कि ती ⟨हुन्⟩ हेलो।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्नुहुन्छ"
+    },
+    {
+      "surface": "מחשבות",
+      "gloss": "विचारहरू"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसका"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "המה",
+      "gloss": "ती"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेलो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:45.678126560Z",
+  "model": "glm-5.3"
+}

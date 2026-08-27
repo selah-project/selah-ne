@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-kings 10:12",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र उठ्यो, र आयो, र शोमरोन गयो; ऊ बाटोमा गोठाहरूको बेथ-एकेदमा ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठ्यो"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गयो"
+    },
+    {
+      "surface": "שמרון",
+      "gloss": "शोमरोन"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "עקד",
+      "gloss": "एकेद"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "गोठाहरूको"
+    },
+    {
+      "surface": "בדרך",
+      "gloss": "बाटोमा"
+    }
+  ],
+  "timestamp": "2026-08-26T22:15:12.705526713Z",
+  "model": "glm-5.3"
+}

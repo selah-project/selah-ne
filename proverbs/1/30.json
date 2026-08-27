@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 1:30",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "उनीहरूले मेरो सल्लाह मानेनन्, मेरो सम्पूर्ण तागीतलाई तुच्छ ठाने।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אבו",
+      "gloss": "माने"
+    },
+    {
+      "surface": "לעצתי",
+      "gloss": "मेरो सल्लाह"
+    },
+    {
+      "surface": "נאצו",
+      "gloss": "तुच्छ ठाने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "תוכחתי",
+      "gloss": "मेरो तागीतलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:21.536302052Z",
+  "model": "glm-5.3"
+}

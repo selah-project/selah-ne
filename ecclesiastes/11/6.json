@@ -1,0 +1,98 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "ecclesiastes 11:6",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "बिहान ⟨את⟩ आफ्नो बीउ छर, र साँझ आफ्नो हात नराख, किनकि तिमीलाई थाहा छैन कि यो वा त्यो कुन उत्तम हुनेछ, वा दुवै एकसर्तै राम्रा हुनेछन्।",
+  "tokens": [
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "छर"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "आफ्नो बीउ"
+    },
+    {
+      "surface": "זרעך",
+      "gloss": "आफ्नो बीउ"
+    },
+    {
+      "surface": "ולערב",
+      "gloss": "र साँझ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תנח",
+      "gloss": "राख"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "आफ्नो हात"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אינך",
+      "gloss": "तिमीलाई छैन"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "थाहा"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "कुन"
+    },
+    {
+      "surface": "יכשר",
+      "gloss": "उत्तम हुनेछ"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "זה",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "ואם",
+      "gloss": "वा"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "दुवै"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एकसर्तै"
+    },
+    {
+      "surface": "טובים",
+      "gloss": "राम्रा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:53.232283904Z",
+  "model": "glm-5.3"
+}

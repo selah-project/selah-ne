@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezra 8:32",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "अनि हामी यरूशलेम आयौं, र त्यहाँ तीन दिन बस्‍यौं।",
+  "tokens": [
+    {
+      "surface": "ונבוא",
+      "gloss": "अनि हामी आयौं"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरूशलेम"
+    },
+    {
+      "surface": "ונשב",
+      "gloss": "र बस्‍यौं"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:08:40.431473187Z",
+  "model": "glm-5.3"
+}

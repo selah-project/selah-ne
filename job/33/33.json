@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "job 33:33",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "यदि छैन भने, तिमी मलाई सुन; मौन बस, र म तिमीलाई बुद्धि सिकाउँछु।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "החרש",
+      "gloss": "मौन बस"
+    },
+    {
+      "surface": "ואאלפך",
+      "gloss": "र म तिमीलाई सिकाउँछु"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:39:02.397184301Z",
+  "model": "glm-5.3"
+}

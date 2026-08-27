@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 1:33",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र मिद्यानका छोराहरू: एय्फा र एफेर, खनोख, अविदा र एलदा; यी सबै कतुराका छोराहरू थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्यान"
+    },
+    {
+      "surface": "עיפה",
+      "gloss": "एय्फा"
+    },
+    {
+      "surface": "ועפר",
+      "gloss": "र एफेर"
+    },
+    {
+      "surface": "וחנוך",
+      "gloss": "र खनोख"
+    },
+    {
+      "surface": "ואבידע",
+      "gloss": "र अविदा"
+    },
+    {
+      "surface": "ואלדעה",
+      "gloss": "र एलदा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "קטורה",
+      "gloss": "कतुराका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:33.864087895Z",
+  "model": "glm-5.3"
+}

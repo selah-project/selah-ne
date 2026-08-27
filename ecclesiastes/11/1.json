@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ecclesiastes 11:1",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "आफ्नो रोटी पानीको सतहमाथि पठाऊ, किनकि धेरै दिनहरूमा त्यसलाई फेला पार्नेछौ।",
+  "tokens": [
+    {
+      "surface": "שלח",
+      "gloss": "पठाऊ"
+    },
+    {
+      "surface": "לחמך",
+      "gloss": "आफ्नो रोटी"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सतहमा"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानीको"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "धेरैमा"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "תמצאנו",
+      "gloss": "त्यसलाई फेला पार्नेछौ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:30.451067052Z",
+  "model": "glm-5.3"
+}

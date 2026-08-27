@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "joshua 18:26",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "मिज्पेह, केफिरा र मोजाह,",
+  "tokens": [
+    {
+      "surface": "והמצפה",
+      "gloss": "मिज्पेह"
+    },
+    {
+      "surface": "והכפירה",
+      "gloss": "केफिरा"
+    },
+    {
+      "surface": "והמצה",
+      "gloss": "मोजाह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:57.898732230Z",
+  "model": "glm-5.3"
+}

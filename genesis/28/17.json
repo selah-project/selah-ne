@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 28:17",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र ⟨उनी⟩ डराए, र भने, कति भयानक छ ⟨यो⟩ स्थान! ⟨यो⟩ ⟨अरू⟩ केही होइन, तर एलोहीमको घर, र ⟨यो⟩ आकाशहरूको ढोका हो।",
+  "tokens": [
+    {
+      "surface": "ויירא",
+      "gloss": "डराए"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कति"
+    },
+    {
+      "surface": "נורא",
+      "gloss": "भयानक"
+    },
+    {
+      "surface": "המקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "אין",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אם",
+      "gloss": "तर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "וזה",
+      "gloss": "र ⟨यो⟩"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशहरूको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:51:59.737849991Z",
+  "model": "glm-5.3"
+}

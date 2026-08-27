@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "joshua 15:27",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "अनि खत्सर-गद्दाह, र हेश्मोन, र बेथ-पालेत।",
+  "tokens": [
+    {
+      "surface": "וחצר",
+      "gloss": "र खत्सर-"
+    },
+    {
+      "surface": "גדה",
+      "gloss": "गद्दाह"
+    },
+    {
+      "surface": "וחשמון",
+      "gloss": "र हेश्मोन"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ-"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "पालेत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:55:39.742059384Z",
+  "model": "glm-5.3"
+}

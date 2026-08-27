@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-samuel 19:14",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "और शाउलले दूतहरू ⟨את⟩ दाउदलाई लिन पठाए, र उनले भनिन्: ऊ बिरामी छ।",
+  "tokens": [
+    {
+      "surface": "וישלח",
+      "gloss": "और पठाए"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "מלאכים",
+      "gloss": "दूतहरू"
+    },
+    {
+      "surface": "לקחת",
+      "gloss": "लिन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "दाउद"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउद"
+    },
+    {
+      "surface": "ותאמר",
+      "gloss": "र भनिन्"
+    },
+    {
+      "surface": "חלה",
+      "gloss": "बिरामी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ छ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:38:36.801037079Z",
+  "model": "glm-5.3"
+}

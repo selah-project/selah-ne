@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "ezra 2:49",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "उज्जाका छोराहरू, पसेखका छोराहरू, बेसैका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עזא",
+      "gloss": "उज्जा"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פסח",
+      "gloss": "पसेख"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בסי",
+      "gloss": "बेसै"
+    }
+  ],
+  "timestamp": "2026-08-27T01:05:54.052293799Z",
+  "model": "glm-5.3"
+}

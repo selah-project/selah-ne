@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 19:35",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "तिमीहरूले न्यायमा, नापमा, तौलमा र हाल (तरल) नापमा अन्याय गर्नेछौँन्।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "नगर"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "गर्नेछौँन्"
+    },
+    {
+      "surface": "עול",
+      "gloss": "अन्याय"
+    },
+    {
+      "surface": "במשפט",
+      "gloss": "न्यायमा"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "नापमा"
+    },
+    {
+      "surface": "במשקל",
+      "gloss": "तौलमा"
+    },
+    {
+      "surface": "ובמשורה",
+      "gloss": "र हाल नापमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:36.237685634Z",
+  "model": "glm-5.3"
+}

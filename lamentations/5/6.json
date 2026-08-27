@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "lamentations 5:6",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "मिस्रायिमलाई हामीले हात दियौं, अश्शूरलाई, रोटीले तृप्त हुन।",
+  "tokens": [
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रायिम"
+    },
+    {
+      "surface": "נתנו",
+      "gloss": "हामीले दियौं"
+    },
+    {
+      "surface": "יד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "לשבע",
+      "gloss": "तृप्त हुन"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:33.198449762Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 22:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "निन्दकलाई निकाल, र विवाद बाहिर निस्कन्छ, र झगडा र अपमान बन्द हुन्छन्।",
+  "tokens": [
+    {
+      "surface": "גרש",
+      "gloss": "निकाल"
+    },
+    {
+      "surface": "לץ",
+      "gloss": "निन्दकलाई"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "र निस्कन्छ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "विवाद"
+    },
+    {
+      "surface": "וישבת",
+      "gloss": "र बन्द हुन्छ"
+    },
+    {
+      "surface": "דין",
+      "gloss": "झगडा"
+    },
+    {
+      "surface": "וקלון",
+      "gloss": "र अपमान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:18.810593510Z",
+  "model": "glm-5.3"
+}

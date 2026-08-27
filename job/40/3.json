@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "job 40:3",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "तब अय्योभले ⟨את⟩ यहवेलाई उत्तर दिए र भने —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिए"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अय्योभले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यहवे"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:41:42.561239583Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 34:9",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "त्यसैले हे गोठालाहरू, यहवेको वचन सुन्नुहोस्।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "गोठालाहरू"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुन्नुहोस्"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T23:25:53.954009392Z",
+  "model": "glm-5.3"
+}

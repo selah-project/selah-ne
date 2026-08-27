@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 148:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 148,
+  "translation": "आगो र असिना, हिम र कुहिरो, आँधीको हावा — उहाँको वचन पूरा गर्ने।",
+  "tokens": [
+    {
+      "surface": "אש",
+      "gloss": "आगो"
+    },
+    {
+      "surface": "וברד",
+      "gloss": "र असिना"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "हिम"
+    },
+    {
+      "surface": "וקיטור",
+      "gloss": "र कुहिरो"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "हावा"
+    },
+    {
+      "surface": "סערה",
+      "gloss": "आँधीको"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "पूरा गर्ने"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "उहाँको वचन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:35.944498590Z",
+  "model": "glm-5.3"
+}

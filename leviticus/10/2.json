@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 10:2",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "यहवेको सामुबाट आगो निस्कियो, र त्यसले ⟨את⟩ उनीहरूलाई निल्यो, र उनीहरू यहवेको सामु मरे।",
+  "tokens": [
+    {
+      "surface": "ותצא",
+      "gloss": "निस्कियो"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगो"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "सामुबाट"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "निल्यो"
+    },
+    {
+      "surface": "אותם",
+      "gloss": "⟨את⟩",
+      "marks": "उनीहरूलाई"
+    },
+    {
+      "surface": "וימתו",
+      "gloss": "मरे"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:59.800516557Z",
+  "model": "glm-5.3"
+}

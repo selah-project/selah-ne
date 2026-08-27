@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-kings 18:11",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र अब तिमी भन्दछौ, जाऊ, आफ्ना अधिपतिलाई भन: हेर, एलियाहु यहाँ छ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "र-अब"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्दछौ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन"
+    },
+    {
+      "surface": "לאדניך",
+      "gloss": "आफ्ना-अधिपतिलाई"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "אליהו",
+      "gloss": "एलियाहु"
+    }
+  ],
+  "timestamp": "2026-08-26T22:06:21.984442621Z",
+  "model": "glm-5.3"
+}

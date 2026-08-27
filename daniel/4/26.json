@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "daniel 4:26",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "बाह्र महिनाको अन्त्यमा ⟨उनी⟩ बाबेलको राज्यको दरबारमा हिँडिरहेका ⟨थिए⟩।",
+  "tokens": [
+    {
+      "surface": "לקצת",
+      "gloss": "अन्त्यमा"
+    },
+    {
+      "surface": "ירחין",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "תרי",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "היכל",
+      "gloss": "दरबार"
+    },
+    {
+      "surface": "מלכותא",
+      "gloss": "राज्यको"
+    },
+    {
+      "surface": "די",
+      "gloss": "⟨जुन⟩"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "מהלך",
+      "gloss": "हिँडिरहेका"
+    },
+    {
+      "surface": "הוה",
+      "gloss": "⟨थिए⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T00:58:58.448446201Z",
+  "model": "glm-5.3"
+}

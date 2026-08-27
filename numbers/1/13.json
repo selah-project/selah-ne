@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "numbers 1:13",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "आशेरका लागि — पगिएल, ओक्रानको छोरा।",
+  "tokens": [
+    {
+      "surface": "לאשר",
+      "gloss": "आशेरका लागि"
+    },
+    {
+      "surface": "פגעיאל",
+      "gloss": "पगिएल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עכרן",
+      "gloss": "ओक्रानको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:46.699217493Z",
+  "model": "glm-5.3"
+}

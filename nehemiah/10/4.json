@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "nehemiah 10:4",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "पश्खुर, अमर्याह, मल्कियाह,",
+  "tokens": [
+    {
+      "surface": "פשחור",
+      "gloss": "पश्खुर"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्याह"
+    },
+    {
+      "surface": "מלכיה",
+      "gloss": "मल्कियाह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:01.135222734Z",
+  "model": "glm-5.3"
+}

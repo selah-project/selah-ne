@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 6:4",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "गुटाइएका ढुङ्गाका ती तहहरू, र एउटा नयाँ काठको तह; र खर्च राजाको भवनबाट दिइयोस्।",
+  "tokens": [
+    {
+      "surface": "נדבכין",
+      "gloss": "तहहरू"
+    },
+    {
+      "surface": "די",
+      "gloss": "गुटाइएका"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ढुङ्गाका"
+    },
+    {
+      "surface": "גלל",
+      "gloss": "गुटाइएका"
+    },
+    {
+      "surface": "תלתא",
+      "gloss": "ती"
+    },
+    {
+      "surface": "ונדבך",
+      "gloss": "र एउटा तह"
+    },
+    {
+      "surface": "די",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "אע",
+      "gloss": "काठको"
+    },
+    {
+      "surface": "חדת",
+      "gloss": "नयाँ"
+    },
+    {
+      "surface": "ונפקתא",
+      "gloss": "र खर्च"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "בית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "תתיהב",
+      "gloss": "दिइयोस्"
+    }
+  ],
+  "timestamp": "2026-08-27T01:07:33.095750025Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 22:39",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "बिल्आम बालाकसँग गयो, र तिनीहरू किर्यात-खुत्सोत आए।",
+  "tokens": [
+    {
+      "surface": "וילך",
+      "gloss": "गयो"
+    },
+    {
+      "surface": "בלעם",
+      "gloss": "बिल्आम"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "בלק",
+      "gloss": "बालाक"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "किर्यात"
+    },
+    {
+      "surface": "חצות",
+      "gloss": "खुत्सोत"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:02.467159839Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "deuteronomy 14:12",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र यी हुन् जुन तिमीहरू तीमध्येबाट नखाऊ: ⟨the⟩ गिद्द, र ⟨the⟩ पेरेस, र ⟨the⟩ ओजनिया।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "מהם",
+      "gloss": "तीमध्येबाट"
+    },
+    {
+      "surface": "הנשר",
+      "gloss": "गिद्द"
+    },
+    {
+      "surface": "והפרס",
+      "gloss": "र पेरेस"
+    },
+    {
+      "surface": "והעזניה",
+      "gloss": "र ओजनिया"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:57.387218410Z",
+  "model": "glm-5.3"
+}

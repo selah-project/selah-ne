@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 3:12",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उहाँले ⟨את⟩ आफ्नो धनुक तान्नुभयो र मलाई बाणको निसाना बनाएर उभिनुभयो।",
+  "tokens": [
+    {
+      "surface": "דרך",
+      "gloss": "तान्नुभयो"
+    },
+    {
+      "surface": "קשתו",
+      "gloss": "आफ्नो धनुक"
+    },
+    {
+      "surface": "ויציבני",
+      "gloss": "र मलाई उभिनुभयो"
+    },
+    {
+      "surface": "כמטרא",
+      "gloss": "निसानाको जस्तो"
+    },
+    {
+      "surface": "לחץ",
+      "gloss": "बाणको लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:44.051872548Z",
+  "model": "glm-5.3"
+}

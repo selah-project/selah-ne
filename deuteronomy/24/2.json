@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 24:2",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र ऊ उसको घरबाट निस्कन्छे, र जान्छे, र अर्को पुरुषकी हुन्छे।",
+  "tokens": [
+    {
+      "surface": "ויצאה",
+      "gloss": "र-निस्कन्छे"
+    },
+    {
+      "surface": "מביתו",
+      "gloss": "उसको-घरबाट"
+    },
+    {
+      "surface": "והלכה",
+      "gloss": "र-जान्छे"
+    },
+    {
+      "surface": "והיתה",
+      "gloss": "र-हुन्छे"
+    },
+    {
+      "surface": "לאיש",
+      "gloss": "अर्को-पुरुषका-लागि"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "अर्को"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:52.848005087Z",
+  "model": "glm-5.3"
+}

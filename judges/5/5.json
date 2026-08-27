@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "judges 5:5",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "पहाडहरू यहवेको सामु बगे, यो सिनाइ, यहवेको सामु, यिस्राएलका एलोहीमको सामु।",
+  "tokens": [
+    {
+      "surface": "הרים",
+      "gloss": "पहाडहरू"
+    },
+    {
+      "surface": "נזלו",
+      "gloss": "बगे"
+    },
+    {
+      "surface": "मפני",
+      "gloss": "…को सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "סיני",
+      "gloss": "सिनाइ"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "…को सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהי",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:21:29.085926857Z",
+  "model": "glm-5.3"
+}

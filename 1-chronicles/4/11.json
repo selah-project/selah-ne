@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 4:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र शुखाको भाइ खेलुभले ⟨את⟩ मेखिरलाई जन्म दियो; ऊ एश्तोनको पिता हो।",
+  "tokens": [
+    {
+      "surface": "וכלוב",
+      "gloss": "र खेलुभ"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…को भाइ"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "शुखा"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेखिरलाई"
+    },
+    {
+      "surface": "מחיר",
+      "gloss": "मेखिर"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "…को पिता"
+    },
+    {
+      "surface": "אשתון",
+      "gloss": "एश्तोन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:15.781796650Z",
+  "model": "glm-5.3"
+}

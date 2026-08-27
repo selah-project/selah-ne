@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 23:1",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "झूटो बात उठाउने होइन; दुष्टका साथ आफ्नो हाथ राख्ने होइन, हिंसाको साक्षी बन्न।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठाउने"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "बात"
+    },
+    {
+      "surface": "שוא",
+      "gloss": "झूटो"
+    },
+    {
+      "surface": "אל",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תשת",
+      "gloss": "राख्ने"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "आफ्नो हाथ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "साथ"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टका"
+    },
+    {
+      "surface": "להית",
+      "gloss": "बन्न"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसाको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:40.196655523Z",
+  "model": "glm-5.3"
+}

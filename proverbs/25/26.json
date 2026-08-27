@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "proverbs 25:26",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "मैलो पारिएको झरना र बिग्रेको धारा — दुष्टको अगाडि लरखराउने धर्मी।",
+  "tokens": [
+    {
+      "surface": "מעין",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "נרפש",
+      "gloss": "मैलो पारिएको"
+    },
+    {
+      "surface": "ומקור",
+      "gloss": "र धारा"
+    },
+    {
+      "surface": "मשחת",
+      "gloss": "बिग्रेको"
+    },
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "מט",
+      "gloss": "लरखराउने"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:45.398778121Z",
+  "model": "glm-5.3"
+}

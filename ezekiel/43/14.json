@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "ezekiel 43:14",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 43,
+  "translation": "र जमिनमा रहेको काखदेखि तल्लो छजसम्म दुई हात, र चौडाइ एक हात; र सानो छजदेखि ठूलो छजसम्म चार हात, र चौडाइ एक हातको ।",
+  "tokens": [
+    {
+      "surface": "ומחיק",
+      "gloss": "र काखदेखि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "העזרה",
+      "gloss": "छज"
+    },
+    {
+      "surface": "התחתונה",
+      "gloss": "तल्लो"
+    },
+    {
+      "surface": "שתים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "र चौडाइ"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ומהעזרה",
+      "gloss": "र छजदेखि"
+    },
+    {
+      "surface": "הקטנה",
+      "gloss": "सानो"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "हעזרה",
+      "gloss": "छज"
+    },
+    {
+      "surface": "הגדולה",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "र चौडाइ"
+    },
+    {
+      "surface": "האמה",
+      "gloss": "एक हातको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:30:09.635274142Z",
+  "model": "glm-5.3"
+}

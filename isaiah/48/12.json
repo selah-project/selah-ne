@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "isaiah 48:12",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "मलाई सुन, हे याकोभ, र इस्राएल, मेरो बोलाइएको हो; म ⟨is⟩ ऊ; म पहिलो हुँ, अनि म अन्तिम ⟨am⟩।",
+  "tokens": [
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "हे याकोभ"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "र इस्राएल"
+    },
+    {
+      "surface": "מקראי",
+      "gloss": "मेरो बोलाइएको"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "ראשון",
+      "gloss": "पहिलो"
+    },
+    {
+      "surface": "אף",
+      "gloss": "अनि पनि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אחרון",
+      "gloss": "अन्तिम"
+    }
+  ],
+  "timestamp": "2026-08-26T22:38:39.833462971Z",
+  "model": "glm-5.3"
+}

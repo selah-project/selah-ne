@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 32:17",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र बाह्रौँ वर्षमा, महिनाको पन्ध्रौँ दिनमा, यहवेको वचन ममा आयो, भन्दै हुँदैः",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "בשתי",
+      "gloss": "बाह्रौँमा"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "बाह्रौँ"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "בחמשה",
+      "gloss": "पन्ध्रौँमा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "पन्ध्र"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "היה",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "ममा"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै हुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:23:52.224144120Z",
+  "model": "glm-5.3"
+}

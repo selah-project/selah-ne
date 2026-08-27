@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "numbers 27:5",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र मोशेले तिनीहरूको मुद्दालाई यहवेको सामु पुर्‍याए।",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "पुर्‍याए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मुद्दालाई"
+    },
+    {
+      "surface": "משפטן",
+      "gloss": "मुद्दा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:15.617503500Z",
+  "model": "glm-5.3"
+}

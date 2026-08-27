@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 51,
+  "ref": "lamentations 3:51",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "मेरो आँखाले मेरो नेफेशलाई कष्ट दिन्छ, मेरा सहरका सबै छोरीहरूको कारण।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "मेरो आँखाले"
+    },
+    {
+      "surface": "עוללה",
+      "gloss": "कष्ट दिन्छ"
+    },
+    {
+      "surface": "לנפשי",
+      "gloss": "मेरो नेफेशलाई"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सबै...को कारण"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "छोरीहरू"
+    },
+    {
+      "surface": "עירי",
+      "gloss": "मेरा सहरका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:09.553461360Z",
+  "model": "glm-5.3"
+}

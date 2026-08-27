@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 36:26",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र तिनका चालीस चाँदीका आधार — एक तख्तामुनि दुई आधार, र अर्को तख्तामुनि दुई आधार।",
+  "tokens": [
+    {
+      "surface": "וארבעים",
+      "gloss": "र चालीस"
+    },
+    {
+      "surface": "אדניהם",
+      "gloss": "तिनका आधार"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदीका"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "मुनि"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ושני",
+      "gloss": "र दुई"
+    },
+    {
+      "surface": "אדנים",
+      "gloss": "आधार"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "मुनि"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ता"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "अर्को"
+    }
+  ],
+  "timestamp": "2026-08-26T20:20:00.890666016Z",
+  "model": "glm-5.3"
+}

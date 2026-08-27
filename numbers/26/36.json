@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 26:36",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र शुतेलखका छोराहरू यी हुन्: एरानका — एरनी मिश्पाखा।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "र यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שותלח",
+      "gloss": "शुतेलखका"
+    },
+    {
+      "surface": "לערן",
+      "gloss": "एरानका"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "मिश्पाखा"
+    },
+    {
+      "surface": "הערני",
+      "gloss": "एरनी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:40.188371785Z",
+  "model": "glm-5.3"
+}

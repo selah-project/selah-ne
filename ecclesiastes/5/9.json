@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 5:9",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "चान्दी प्रेम गर्नेले चान्दीले तृप्त हुँदैन, र धन प्रेम गर्नेलाई आम्दानी प्राप्त हुँदैन — यो पनि हेवेल ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम गर्ने"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चान्दी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ישבע",
+      "gloss": "तृप्त हुनेछ"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चान्दीले"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "र जो"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "प्रेम गर्छ"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תבואה",
+      "gloss": "आम्दानी"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेवेल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:36.543120050Z",
+  "model": "glm-5.3"
+}

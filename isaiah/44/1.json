@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "isaiah 44:1",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 44,
+  "translation": "र अब सुन, हे मेरो दास याकोभ, र इस्राएल, जसलाई मैले चयन गरें त्यसलाई।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "र अब"
+    },
+    {
+      "surface": "שמע",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "मेरो दास"
+    },
+    {
+      "surface": "וישראל",
+      "gloss": "र इस्राएल"
+    },
+    {
+      "surface": "בחרתי",
+      "gloss": "मैले चयन गरें"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T22:37:26.360255682Z",
+  "model": "glm-5.3"
+}

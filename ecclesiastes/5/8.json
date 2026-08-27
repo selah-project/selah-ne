@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 5:8",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र जमिनको लाभ सबैका लागि ⟨हो⟩ — राजा पनि खेतबाट ⟨आफै⟩ सेविन्छ।",
+  "tokens": [
+    {
+      "surface": "ויתרון",
+      "gloss": "र लाभ"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "जमिनको"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सबैका लागि"
+    },
+    {
+      "surface": "היא",
+      "gloss": "हो"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "לשדה",
+      "gloss": "खेतबाट"
+    },
+    {
+      "surface": "נעבד",
+      "gloss": "सेविन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:26.243675980Z",
+  "model": "glm-5.3"
+}

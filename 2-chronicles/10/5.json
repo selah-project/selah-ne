@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "2-chronicles 10:5",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "उहाँले तिनीहरूलाई भन्नुभयो, अझै तीन दिन ⟨את⟩ बितुन्जेल, त्यसपछि मसँग फर्किएर आउ; र ⟨את⟩ जनता गए।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "तिनीहरूलाई"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ושובו",
+      "gloss": "फर्किएर आउ"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "गए"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-08-27T01:36:12.614307720Z",
+  "model": "glm-5.3"
+}

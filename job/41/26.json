@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "job 41:26",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "ऊ ⟨את⟩ सबै उच्च ⟨things⟩ लाई देख्छ; ऊ सबै दम्भी छोराहरूमाथि राजा ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै उच्च चीजहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "גבה",
+      "gloss": "उच्च"
+    },
+    {
+      "surface": "יראה",
+      "gloss": "देख्छ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "על",
+      "gloss": "-माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שחץ",
+      "gloss": "दम्भ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:20.824066438Z",
+  "model": "glm-5.3"
+}

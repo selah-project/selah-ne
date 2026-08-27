@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "jeremiah 41:4",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 41,
+  "translation": "र भयो — ⟨את⟩ गदल्याहूलाई मारेको दोस्रो दिनमा, र कुनै मानिसले ⟨सो⟩ जानेन।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השני",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "להמिप",
+      "gloss": "मारेको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गदल्याहूलाई"
+    },
+    {
+      "surface": "גדलיהו",
+      "gloss": "गदल्याहू"
+    },
+    {
+      "surface": "ואיש",
+      "gloss": "र कुनै मानिसले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जानेन"
+    }
+  ],
+  "timestamp": "2026-08-26T23:02:51.788556674Z",
+  "model": "glm-5.3"
+}

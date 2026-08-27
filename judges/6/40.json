@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 40,
+  "ref": "judges 6:40",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र एलोहीमले त्यही रात त्यसो गर्नुभयो; र गिजामा मात्र सुख्खा भयो, र सबै जमिनमा शिशिर थियो।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "र गर्नुभयो"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसो"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "सुख्खा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "הגזה",
+      "gloss": "गिजामा"
+    },
+    {
+      "surface": "לבדה",
+      "gloss": "मात्र"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र मा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "जमिन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थियो"
+    },
+    {
+      "surface": "טל",
+      "gloss": "शिशिर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:22:46.379445883Z",
+  "model": "glm-5.3"
+}

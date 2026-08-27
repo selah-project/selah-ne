@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "job 28:20",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "तर बुद्धि कहाँबाट आउँछ, र बुझाइको ठाउँ यो कहाँ ⟨हो⟩?",
+  "tokens": [
+    {
+      "surface": "והחכמה",
+      "gloss": "र बुद्धि"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "कहाँबाट"
+    },
+    {
+      "surface": "תבוא",
+      "gloss": "आउँछ"
+    },
+    {
+      "surface": "ואי",
+      "gloss": "र कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "ठाउँ"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुझाइको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:37:21.829331610Z",
+  "model": "glm-5.3"
+}

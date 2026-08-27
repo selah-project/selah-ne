@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "2-chronicles 5:4",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र इस्राएलका सबै वृद्धहरू आए, र लेवीहरूले ⟨את⟩ सन्दुक उठाए।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "र आए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "זקני",
+      "gloss": "वृद्धहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "וישאו",
+      "gloss": "र उठाए"
+    },
+    {
+      "surface": "הלוים",
+      "gloss": "लेवीहरूले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सन्दुक"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "सन्दुक"
+    }
+  ],
+  "timestamp": "2026-08-27T01:32:58.993257566Z",
+  "model": "glm-5.3"
+}

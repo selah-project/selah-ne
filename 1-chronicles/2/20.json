@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "1-chronicles 2:20",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "अनि हूरले ⟨את⟩ ऊरीलाई जन्म दिए, र ऊरीले ⟨את⟩ बेत्सालेललाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "וחור",
+      "gloss": "अनि हूरले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ऊरीलाई"
+    },
+    {
+      "surface": "אורי",
+      "gloss": "ऊरीलाई"
+    },
+    {
+      "surface": "ואורי",
+      "gloss": "र ऊरीले"
+    },
+    {
+      "surface": "הוליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बेत्सालेललाई"
+    },
+    {
+      "surface": "בצלאל",
+      "gloss": "बेत्सालेललाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:12.034909384Z",
+  "model": "glm-5.3"
+}

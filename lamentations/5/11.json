@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "lamentations 5:11",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "सियोनका स्त्रीहरूलाई ⟨उनीहरूले⟩ दमन गरे, यहूदाका सहरहरूमा कुमारीहरूलाई।",
+  "tokens": [
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रीहरूलाई"
+    },
+    {
+      "surface": "בציון",
+      "gloss": "सियोनका"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "दमन गरे"
+    },
+    {
+      "surface": "בתלת",
+      "gloss": "कुमारीहरूलाई"
+    },
+    {
+      "surface": "בערी",
+      "gloss": "सहरहरूमा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:43.494443760Z",
+  "model": "glm-5.3"
+}

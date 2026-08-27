@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 33:16",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "राजा ठूलो सेनाले उद्धार पाउँदैन; बलवान् ठूलो शक्तिले छुटाइन्न।",
+  "tokens": [
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "נושע",
+      "gloss": "उद्धार पाउँछ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "प्रचुरले"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "גבור",
+      "gloss": "बलवान्"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ינצל",
+      "gloss": "छुटाइन्छ"
+    },
+    {
+      "surface": "ברב",
+      "gloss": "प्रचुरले"
+    },
+    {
+      "surface": "כח",
+      "gloss": "शक्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T23:54:41.281260854Z",
+  "model": "glm-5.3"
+}

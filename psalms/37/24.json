@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 37:24",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "यदि ऊ ढल्छ, तै पनि ढालिनेछैन, किनकि यहवे उसको हातलाई थाम्नुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "ऊ ढल्छ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "तै पनि"
+    },
+    {
+      "surface": "יוטל",
+      "gloss": "ढालिनेछैन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "סומך",
+      "gloss": "थाम्नुहुन्छ"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उसको हातलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:18.887075487Z",
+  "model": "glm-5.3"
+}

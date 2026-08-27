@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "job 36:25",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "सबै मानिसले उहाँलाई देखेका छन्; मरणशीलले टाढाबाट हेर्छ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "חזו",
+      "gloss": "देखेका छन्"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उहाँलाई"
+    },
+    {
+      "surface": "אנוש",
+      "gloss": "मरणशील"
+    },
+    {
+      "surface": "יביט",
+      "gloss": "हेर्छ"
+    },
+    {
+      "surface": "מרחוק",
+      "gloss": "टाढाबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:40:35.485312075Z",
+  "model": "glm-5.3"
+}

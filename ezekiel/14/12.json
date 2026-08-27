@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 14:12",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र यहवेको वचन मसँग आयो, यसो भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:16:29.033753551Z",
+  "model": "glm-5.3"
+}

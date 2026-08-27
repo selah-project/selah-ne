@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 26:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "कुकुरका कानहरू समात्ने मानिस — त्यस्तै झगडामा रिसाउँदै उक्लने ⟨हो⟩, जुन उसको ⟨होइन⟩।",
+  "tokens": [
+    {
+      "surface": "מחזיק",
+      "gloss": "समात्ने"
+    },
+    {
+      "surface": "באזני",
+      "gloss": "कानहरूमा"
+    },
+    {
+      "surface": "כלב",
+      "gloss": "कुकुरका"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "उक्लने"
+    },
+    {
+      "surface": "מתעבר",
+      "gloss": "रिसाउँदै"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "झगडा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:17.899089719Z",
+  "model": "glm-5.3"
+}

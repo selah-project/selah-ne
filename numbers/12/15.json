@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 12:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र मिर्याम छाउनीबाहिर सात दिन बन्द रहिन्, र मिर्याम भित्र्याइएसम्म जनता हिँडेन।",
+  "tokens": [
+    {
+      "surface": "ותסגר",
+      "gloss": "बन्द रहिन्"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "मिर्याम"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "छाउनी"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "והעם",
+      "gloss": "र जनता"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "נסע",
+      "gloss": "हिँडेन"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "भित्र्याइए"
+    },
+    {
+      "surface": "מרים",
+      "gloss": "मिर्याम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:53.760813818Z",
+  "model": "glm-5.3"
+}

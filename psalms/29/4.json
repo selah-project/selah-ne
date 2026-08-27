@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 29:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "यहवेको स्वर बलमा ⟨छ⟩; यहवेको स्वर भव्यतामा ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בכח",
+      "gloss": "बलमा"
+    },
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בהדר",
+      "gloss": "भव्यतामा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:53:45.709046412Z",
+  "model": "glm-5.3"
+}

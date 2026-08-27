@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "zechariah 1:2",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "यहवे तिमीहरूका पिताहरूमाथि क्रोधित हुनुभयो — ठूलो क्रोधले।",
+  "tokens": [
+    {
+      "surface": "קצף",
+      "gloss": "क्रोधित हुनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "אבותיכם",
+      "gloss": "तिमीहरूका पिताहरू"
+    },
+    {
+      "surface": "קצף",
+      "gloss": "ठूलो क्रोध"
+    }
+  ],
+  "timestamp": "2026-08-26T23:44:44.456001563Z",
+  "model": "glm-5.3"
+}

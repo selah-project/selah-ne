@@ -1,0 +1,55 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 23:1",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "जब तिमी शासक ⟨את⟩ सँग खान बस्छौ, ⟨את⟩ जे तिम्रो अगाडि छ त्यसलाई बुझेर बुझ्।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תשב",
+      "gloss": "बस्छौ"
+    },
+    {
+      "surface": "ללחום",
+      "gloss": "खान"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शासक"
+    },
+    {
+      "surface": "מושל",
+      "gloss": "शासक"
+    },
+    {
+      "surface": "בין",
+      "gloss": "बुझेर"
+    },
+    {
+      "surface": "תבין",
+      "gloss": "बुझ्"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जे तिम्रो अगाडि छ"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तिम्रो अगाडि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:03.691620514Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "genesis 10:21",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र शेमलाई पनि जन्म भयो — ऊ सबै एबेरका छोराहरूको पिता, येफेतको ठूलो दाजु ⟨हुन्⟩।",
+  "tokens": [
+    {
+      "surface": "ולשם",
+      "gloss": "र शेमलाई"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "जन्म भयो"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "एबेर"
+    },
+    {
+      "surface": "אחי",
+      "gloss": "दाजु"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "येफेतको"
+    },
+    {
+      "surface": "הגדול",
+      "gloss": "ठूलो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:05.244046895Z",
+  "model": "glm-5.3"
+}

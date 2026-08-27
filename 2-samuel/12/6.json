@@ -1,0 +1,71 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-samuel 12:6",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र ⟨את⟩ त्यो पाडो ऊ चार गुणा तिर्नेछ, किनकि उसले ⟨את⟩ यो काम गर्‍यो, र किनकि उसले दया गरेन।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "त्यो पाडो"
+    },
+    {
+      "surface": "הכבשה",
+      "gloss": "त्यो पाडो"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "तिर्नेछ"
+    },
+    {
+      "surface": "ארבעתים",
+      "gloss": "चार गुणा"
+    },
+    {
+      "surface": "עקב",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्‍यो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो काम"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "काम"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र किनकि"
+    },
+    {
+      "surface": "אשר",
+      "gloss": ""
+    },
+    {
+      "surface": "לא",
+      "gloss": "गरेन"
+    },
+    {
+      "surface": "חמל",
+      "gloss": "दया"
+    }
+  ],
+  "timestamp": "2026-08-26T21:48:30.232026622Z",
+  "model": "glm-5.3"
+}

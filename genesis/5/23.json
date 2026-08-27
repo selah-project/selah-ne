@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 5:23",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "त्यसो भएर खानोखका सबै दिनहरू पाँच र साठी वर्ष र तीन सय वर्ष भए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "חנוך",
+      "gloss": "खानोखका"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "र साठी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "र तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:23.326705889Z",
+  "model": "glm-5.3"
+}

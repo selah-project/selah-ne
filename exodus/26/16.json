@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "exodus 26:16",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "दश हात ⟨हो⟩ त्यस तख्ताको लम्बाइ, र एक हात र आधा हात ⟨हो⟩ एउटा तख्ताको चौडाइ।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "दश"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लम्बाइ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "त्यस तख्ताको"
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "र एक हात"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "र आधा"
+    },
+    {
+      "surface": "האमה",
+      "gloss": "हात"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौडाइ"
+    },
+    {
+      "surface": "הקרש",
+      "gloss": "तख्ताको"
+    },
+    {
+      "surface": "हאחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:51:15.251205680Z",
+  "model": "glm-5.3"
+}

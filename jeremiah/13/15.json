@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 13:15",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "सुन र कान लगाऊ; घमण्ड नगर, किनभने यहवेले बोल्नुभएको छ।",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "והאזינו",
+      "gloss": "र कान लगाऊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תגבהו",
+      "gloss": "घमण्ड गर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभएको छ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:50:56.919354775Z",
+  "model": "glm-5.3"
+}

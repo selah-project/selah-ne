@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 41,
+  "ref": "joshua 19:41",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "तिनीहरूको निधनको सीमा यो थियो: त्सोरआ, एश्ताओल र इर-शेमेश।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "נחלתם",
+      "gloss": "तिनीहरूको निधन"
+    },
+    {
+      "surface": "צרעה",
+      "gloss": "त्सोरआ"
+    },
+    {
+      "surface": "ואשתאול",
+      "gloss": "र एश्ताओल"
+    },
+    {
+      "surface": "ועיר",
+      "gloss": "र इर"
+    },
+    {
+      "surface": "שמש",
+      "gloss": "शेमेश"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:32.271364795Z",
+  "model": "glm-5.3"
+}

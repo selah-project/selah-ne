@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 24:10",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "जब तिमी आफ्नो निकटतमलाई कुनै वस्तुको ऋण दिन्छौ, उसको गिरवी लिन उसको घरभित्र नजानु।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "תשה",
+      "gloss": "ऋण दिन्छौ"
+    },
+    {
+      "surface": "ברעך",
+      "gloss": "आफ्नो निकटतमलाई"
+    },
+    {
+      "surface": "משאת",
+      "gloss": "ऋण"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "कुनै वस्तुको"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבא",
+      "gloss": "जानु"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "ביתו",
+      "gloss": "उसको घर"
+    },
+    {
+      "surface": "לעבט",
+      "gloss": "गिरवी लिन"
+    },
+    {
+      "surface": "עבטו",
+      "gloss": "उसको गिरवी"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:15.763706958Z",
+  "model": "glm-5.3"
+}

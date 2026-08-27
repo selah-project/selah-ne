@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "exodus 7:25",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र सात दिन पूरा भए, यहवेले ⟨את⟩ नदीलाई प्रहार गरेपछि।",
+  "tokens": [
+    {
+      "surface": "וימלא",
+      "gloss": "र पूरा भए"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "הכות",
+      "gloss": "प्रहार गरेको"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "नदीलाई"
+    },
+    {
+      "surface": "היאר",
+      "gloss": "नदी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:06:17.248336139Z",
+  "model": "glm-5.3"
+}

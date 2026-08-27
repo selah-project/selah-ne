@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 58,
+  "ref": "lamentations 3:58",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "अदोनाइ, तिमीले मेरो नेफेशका मुद्दाहरू लड्नुभयो; तिमीले मेरो जीवन छुटाउनुभयो।",
+  "tokens": [
+    {
+      "surface": "רבת",
+      "gloss": "लड्नुभयो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "ריבי",
+      "gloss": "मुद्दाहरू"
+    },
+    {
+      "surface": "נפשי",
+      "gloss": "मेरो नेफेशका"
+    },
+    {
+      "surface": "גאלת",
+      "gloss": "छुटाउनुभयो"
+    },
+    {
+      "surface": "חיי",
+      "gloss": "मेरो जीवन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:28.398715155Z",
+  "model": "glm-5.3"
+}

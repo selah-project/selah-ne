@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "leviticus 11:23",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र हरेक उड्ने किरा, जसका चार खुट्टा छन् — त्यो ⟨तिमीहरूका लागि⟩ घृणित वस्तु हो।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "र हरेक"
+    },
+    {
+      "surface": "שרץ",
+      "gloss": "किरा"
+    },
+    {
+      "surface": "העוף",
+      "gloss": "उड्ने"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसका"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यसका"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "רגלים",
+      "gloss": "खुट्टा"
+    },
+    {
+      "surface": "שקץ",
+      "gloss": "घृणित वस्तु"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो हो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:21.489237648Z",
+  "model": "glm-5.3"
+}

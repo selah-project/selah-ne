@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 33:3",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र ऊ ⟨את⟩ तरवार देशमाथि आउँदै देख्छ, र सिङमा फुक्छ, र जनतालाई चेतावनी दिन्छ —",
+  "tokens": [
+    {
+      "surface": "וראה",
+      "gloss": "र देख्छ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "तरवार"
+    },
+    {
+      "surface": "החרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "באה",
+      "gloss": "आउँदै"
+    },
+    {
+      "surface": "על",
+      "gloss": "…माथि"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "ותקע",
+      "gloss": "र फुक्छ"
+    },
+    {
+      "surface": "בשופר",
+      "gloss": "सिङमा"
+    },
+    {
+      "surface": "והזהיר",
+      "gloss": "र चेतावनी दिन्छ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जनतालाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    }
+  ],
+  "timestamp": "2026-08-26T23:24:41.068033379Z",
+  "model": "glm-5.3"
+}

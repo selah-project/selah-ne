@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 1:5",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "सूर्य उदाउँछ, र सूर्य अस्ताउँछ, र आफ्नो ठाउँतर्फ हाँफिँदै उदाउने ऊ त्यहीँ हुन्छ।",
+  "tokens": [
+    {
+      "surface": "וזרח",
+      "gloss": "उदाउँछ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "ובא",
+      "gloss": "अस्ताउँछ"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "מקומו",
+      "gloss": "आफ्नो ठाउँ"
+    },
+    {
+      "surface": "שואף",
+      "gloss": "हाँफिँदै"
+    },
+    {
+      "surface": "זורח",
+      "gloss": "उदाउने"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहीँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:03.664350630Z",
+  "model": "glm-5.3"
+}

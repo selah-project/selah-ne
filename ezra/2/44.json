@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "ezra 2:44",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "केरोसका छोराहरू, सिआहाका छोराहरू, पदोनका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "קרס",
+      "gloss": "केरोसका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "סיעהא",
+      "gloss": "सिआहाका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "पदोनका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:06:01.747817009Z",
+  "model": "glm-5.3"
+}

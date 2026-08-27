@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 33:16",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "त्यसै दिन एसाभ आफ्नो बाटो हुँदै सेइर फर्कियो।",
+  "tokens": [
+    {
+      "surface": "וישב",
+      "gloss": "फर्कियो"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यसै"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "एसाभ"
+    },
+    {
+      "surface": "לדרכו",
+      "gloss": "आफ्नो बाटो हुँदै"
+    },
+    {
+      "surface": "שעירה",
+      "gloss": "सेइर"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:23.673217562Z",
+  "model": "glm-5.3"
+}

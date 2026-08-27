@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 5:19",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "दोष-अर्पण ⟨हो⟩; ऊ यहवेको निम्ति निश्चय दोषी भयो।",
+  "tokens": [
+    {
+      "surface": "אשם",
+      "gloss": "दोष-अर्पण"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "दोषी भयो"
+    },
+    {
+      "surface": "אשם",
+      "gloss": "निश्चय दोषी"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको निम्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T20:23:59.525257177Z",
+  "model": "glm-5.3"
+}

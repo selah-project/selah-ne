@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "job 34:31",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "कि एललाई कसैले भनेको छ: मैले ⟨दण्ड⟩ बहन गरें, म बिगार्ने छैन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "האמר",
+      "gloss": "भनिएको छ"
+    },
+    {
+      "surface": "נשאתי",
+      "gloss": "मैले बहन गरें"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אחבל",
+      "gloss": "म बिगार्नेछु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:39:41.526946942Z",
+  "model": "glm-5.3"
+}

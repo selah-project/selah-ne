@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "isaiah 56:9",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 56,
+  "translation": "खेतका सबै जनावरहरू, खान आउ, जङ्गलका सबै जनावरहरू ⟨पनि⟩।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जनावरहरू"
+    },
+    {
+      "surface": "שדי",
+      "gloss": "खेतका"
+    },
+    {
+      "surface": "אתיו",
+      "gloss": "आउ"
+    },
+    {
+      "surface": "לאכל",
+      "gloss": "खान"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "חיתו",
+      "gloss": "जनावरहरू"
+    },
+    {
+      "surface": "ביער",
+      "gloss": "जङ्गलका"
+    }
+  ],
+  "timestamp": "2026-08-26T22:41:15.196982950Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 26:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "जसरी काँडो नशालोको हातमा चढ्छ, त्यसरी उखान बोक्लीहरूको मुखमा ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "חוח",
+      "gloss": "काँडो"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "चढ्छ"
+    },
+    {
+      "surface": "ביד",
+      "gloss": "हातमा"
+    },
+    {
+      "surface": "שכור",
+      "gloss": "नशालोको"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "त्यसरी उखान"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "मुखमा"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "बोक्लीहरूको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:56.827286917Z",
+  "model": "glm-5.3"
+}

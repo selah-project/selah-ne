@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "exodus 40:26",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "र उनले भेटघाटको त्रुटिमा पर्दाको अगाडि सुनको वेदी ⟨את⟩ राखे।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "राखे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सुनको वेदी"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "הזהב",
+      "gloss": "सुनको"
+    },
+    {
+      "surface": "באהל",
+      "gloss": "त्रुटिमा"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "भेटघाटको"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "הפרכת",
+      "gloss": "पर्दाको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:21:10.590491946Z",
+  "model": "glm-5.3"
+}

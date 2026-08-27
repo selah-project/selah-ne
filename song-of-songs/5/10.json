@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 5:10",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "मेरो प्रिय ⟨हो⟩ चम्किलो र रातो, दस हजारमा झण्डा जस्तै अगाडि देखिने।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "मेरो प्रिय"
+    },
+    {
+      "surface": "צח",
+      "gloss": "चम्किलो"
+    },
+    {
+      "surface": "ואדום",
+      "gloss": "र रातो"
+    },
+    {
+      "surface": "דגול",
+      "gloss": "झण्डा जस्तै अगाडि देखिने"
+    },
+    {
+      "surface": "מרבבה",
+      "gloss": "दस हजारमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:43:44.894879951Z",
+  "model": "glm-5.3"
+}

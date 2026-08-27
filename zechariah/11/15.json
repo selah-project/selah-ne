@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "zechariah 11:15",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र यहवेले मलाई भन्नुभयो: अझै आफ्ना लागि मूर्ख गडारीको उपकरण लिनुहोस्।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "קח",
+      "gloss": "लिनुहोस्"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफ्ना लागि"
+    },
+    {
+      "surface": "כלי",
+      "gloss": "उपकरण"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "गडारीको"
+    },
+    {
+      "surface": "אולי",
+      "gloss": "मूर्ख"
+    }
+  ],
+  "timestamp": "2026-08-27T02:12:52.430442378Z",
+  "model": "glm-5.3"
+}

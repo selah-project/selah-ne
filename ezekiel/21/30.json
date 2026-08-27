@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "ezekiel 21:30",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र तिम्यौ, वध गरिने दुष्ट, यिस्राएलको नेता, जसको दिन आएको छ, अधर्मको अन्त्यको समयमा।",
+  "tokens": [
+    {
+      "surface": "ואתה",
+      "gloss": "र तिम्यौ"
+    },
+    {
+      "surface": "חלל",
+      "gloss": "वध गरिने"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नेता"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसको"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आएको छ"
+    },
+    {
+      "surface": "יומו",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समयमा"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्मको"
+    },
+    {
+      "surface": "קץ",
+      "gloss": "अन्त्यको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:19:01.206282103Z",
+  "model": "glm-5.3"
+}

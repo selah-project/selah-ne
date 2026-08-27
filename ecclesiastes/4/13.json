@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 4:13",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "गरिब र बुद्धिमान् बालक त्यस वृद्ध र मूर्ख राजाभन्दा उत्तम छ, जसले अझै चेतावनी ग्रहण गर्न जान्दैन।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "उत्तम"
+    },
+    {
+      "surface": "ילד",
+      "gloss": "बालक"
+    },
+    {
+      "surface": "מסכן",
+      "gloss": "गरिब"
+    },
+    {
+      "surface": "וחכם",
+      "gloss": "र बुद्धिमान्"
+    },
+    {
+      "surface": "ממלך",
+      "gloss": "राजाभन्दा"
+    },
+    {
+      "surface": "זקן",
+      "gloss": "वृद्ध"
+    },
+    {
+      "surface": "וכסיל",
+      "gloss": "र मूर्ख"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "जान्दैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्दैन छ"
+    },
+    {
+      "surface": "להזהר",
+      "gloss": "चेतावनी ग्रहण गर्न"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:49.767923571Z",
+  "model": "glm-5.3"
+}

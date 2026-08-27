@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 13:9",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "अरोएरबाट, जो अर्नोन खोंचको किनारामा छ, र ⟨⟨the⟩⟩ सहर, जो खोंचको बीचमा छ, र सारा मैदान मेदेबादेखि दिबोनसम्म —",
+  "tokens": [
+    {
+      "surface": "מערוער",
+      "gloss": "अरोएरबाट"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनारा"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "खोंच"
+    },
+    {
+      "surface": "ארנון",
+      "gloss": "अर्नोन"
+    },
+    {
+      "surface": "והעיר",
+      "gloss": "र ⟨the⟩ सहर"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "हנחל",
+      "gloss": "⟨the⟩ खोंच"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सारा"
+    },
+    {
+      "surface": "המישר",
+      "gloss": "⟨the⟩ मैदान"
+    },
+    {
+      "surface": "מידבא",
+      "gloss": "मेदेबादेखि"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "דיבון",
+      "gloss": "दिबोन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:31.372410556Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,12 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 26:13",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र ⟨हाम्रो कुरा नगरौँ — माथिको सन्दर्भअनुसार⟩",
+  "tokens": [],
+  "timestamp": "2026-08-26T20:14:33.020745890Z",
+  "model": "glm-5.3"
+}

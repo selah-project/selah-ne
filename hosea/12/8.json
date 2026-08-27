@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "hosea 12:8",
+  "book": "hosea",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "कनान — उसको हातमा छलका तराजु छन्; उसले दमन गर्न रुचाउँछ।",
+  "tokens": [
+    {
+      "surface": "כנען",
+      "gloss": "कनान"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "उसको हातमा"
+    },
+    {
+      "surface": "מאזני",
+      "gloss": "तराजु"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छलका"
+    },
+    {
+      "surface": "לעשק",
+      "gloss": "दमन गर्न"
+    },
+    {
+      "surface": "אהב",
+      "gloss": "रुचाउँछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:34:57.969468133Z",
+  "model": "glm-5.3"
+}

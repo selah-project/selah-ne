@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "1-chronicles 9:37",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र गेदोर, र अह्यो, र जेखर्याह, र मिक्लोत।",
+  "tokens": [
+    {
+      "surface": "וגדור",
+      "gloss": "र गेदोर"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र अह्यो"
+    },
+    {
+      "surface": "וזכריה",
+      "gloss": "र जेखर्याह"
+    },
+    {
+      "surface": "ומקלות",
+      "gloss": "र मिक्लोत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:32.401970513Z",
+  "model": "glm-5.3"
+}

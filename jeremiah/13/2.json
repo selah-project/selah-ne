@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 13:2",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "तब मैले ⟨את⟩ ⟨the⟩ मेखला किनेँ, यहवेको वचनअनुसार, र आफ्ना कटीमा लगाएँ।",
+  "tokens": [
+    {
+      "surface": "ואקנה",
+      "gloss": "तब मैले किनेँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेखला"
+    },
+    {
+      "surface": "האזור",
+      "gloss": "मेखला"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "वचनअनुसार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "ואשם",
+      "gloss": "र लगाएँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מתני",
+      "gloss": "आफ्ना कटी"
+    }
+  ],
+  "timestamp": "2026-08-26T22:50:06.969778012Z",
+  "model": "glm-5.3"
+}

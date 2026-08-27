@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "numbers 26:11",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "तर कोरखका छोराहरू मरेनन्।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "तर ...का छोराहरू"
+    },
+    {
+      "surface": "קרח",
+      "gloss": "कोरख"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "מתו",
+      "gloss": "मरे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:26.450872644Z",
+  "model": "glm-5.3"
+}

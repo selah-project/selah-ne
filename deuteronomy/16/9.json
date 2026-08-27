@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 16:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "सात सप्ताह आफैलाई गन्नु — दलानमा हँसिया लगाउन थालेदेखि तँ सात सप्ताह गन्न थाल्नु।",
+  "tokens": [
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सप्ताह"
+    },
+    {
+      "surface": "תספר",
+      "gloss": "गन्नु"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफैलाई"
+    },
+    {
+      "surface": "מהחל",
+      "gloss": "…देखि"
+    },
+    {
+      "surface": "חרमש",
+      "gloss": "हँसिया"
+    },
+    {
+      "surface": "בקמה",
+      "gloss": "दलानमा"
+    },
+    {
+      "surface": "תחל",
+      "gloss": "थाल्नु"
+    },
+    {
+      "surface": "לספר",
+      "gloss": "गन्न"
+    },
+    {
+      "surface": "שבעה",
+      "gloss": "सात"
+    },
+    {
+      "surface": "שבעות",
+      "gloss": "सप्ताह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:01:00.781882717Z",
+  "model": "glm-5.3"
+}

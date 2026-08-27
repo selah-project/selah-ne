@@ -1,0 +1,82 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-samuel 14:26",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र ⟨the⟩ जनता ⟨the⟩ वनमा आयो, र हेर, महको बगर; तर ⟨there was⟩ कोही पनि आफ्नो हात आफ्नो मुखतर्फ पुर्‍याउने थिएन, किनकि जनताले ⟨את⟩ ⟨the⟩ शपथलाई डरायो।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "र आयो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "⟨the⟩ जनता"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "היער",
+      "gloss": "⟨the⟩ वन"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "הלך",
+      "gloss": "बगर"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "महको"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "तर ⟨there was⟩ कोही पनि… नाइन"
+    },
+    {
+      "surface": "משיג",
+      "gloss": "पुर्‍याउने"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "आफ्नो हात"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "פיו",
+      "gloss": "आफ्नो मुख"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "ירא",
+      "gloss": "डरायो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनताले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शपथलाई"
+    },
+    {
+      "surface": "השבעה",
+      "gloss": "⟨the⟩ शपथलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T21:36:46.871745614Z",
+  "model": "glm-5.3"
+}

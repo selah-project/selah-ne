@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "2-kings 2:22",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "त्यसैले पानी यस दिनसम्म निको भए, एलिशाको वचनअनुसार जुन उनले बोलेका थिए।",
+  "tokens": [
+    {
+      "surface": "וירפו",
+      "gloss": "निको भए"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "हाजह",
+      "gloss": "यस"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "वचनअनुसार"
+    },
+    {
+      "surface": "אלישע",
+      "gloss": "एलिशाको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोलेका थिए"
+    }
+  ],
+  "timestamp": "2026-08-26T22:10:03.648201341Z",
+  "model": "glm-5.3"
+}

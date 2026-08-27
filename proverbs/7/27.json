@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 7:27",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "शेओलका बाटाहरू ⟨नै⟩ उसको घर हुन् — मृत्युका भित्री कोठाहरूमा ओर्लने।",
+  "tokens": [
+    {
+      "surface": "דרכי",
+      "gloss": "बाटाहरू"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शेओलका"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "उसको घर"
+    },
+    {
+      "surface": "ירדות",
+      "gloss": "ओर्लने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "חדרי",
+      "gloss": "भित्री कोठाहरू"
+    },
+    {
+      "surface": "מות",
+      "gloss": "मृत्युका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:27.065905981Z",
+  "model": "glm-5.3"
+}

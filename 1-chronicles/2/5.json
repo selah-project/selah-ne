@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 2:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "पेरेत्सका छोराहरू: खेत्सरोन र खामुल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेत्सका"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "खेत्सरोन"
+    },
+    {
+      "surface": "וחמול",
+      "gloss": "र खामुल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:30.106028808Z",
+  "model": "glm-5.3"
+}

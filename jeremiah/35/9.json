@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "jeremiah 35:9",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "ताकि हामी बस्नका लागि घरहरू नबनाईँ, र हामीलाई दाङ्गुर, र खेत, र बीउ हुनेछैन।",
+  "tokens": [
+    {
+      "surface": "ולבלתי",
+      "gloss": "ताकि…न"
+    },
+    {
+      "surface": "בנות",
+      "gloss": "बनाईँ"
+    },
+    {
+      "surface": "בתים",
+      "gloss": "घरहरू"
+    },
+    {
+      "surface": "לשבתנו",
+      "gloss": "हामी बस्नका लागि"
+    },
+    {
+      "surface": "וכרם",
+      "gloss": "र दाङ्गुर"
+    },
+    {
+      "surface": "ושדה",
+      "gloss": "र खेत"
+    },
+    {
+      "surface": "וזרע",
+      "gloss": "र बीउ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हामीलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T22:59:46.867502176Z",
+  "model": "glm-5.3"
+}

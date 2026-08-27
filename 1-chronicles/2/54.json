@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 54,
+  "ref": "1-chronicles 2:54",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "सल्माका छोराहरू: बेत-लेखेम, र नेतोफाती, अतरोत बेत-योआब, र मानाखतीको आधा — तस्रीहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שלמא",
+      "gloss": "सल्मा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    },
+    {
+      "surface": "ונטופתי",
+      "gloss": "र नेतोफाती"
+    },
+    {
+      "surface": "עטרות",
+      "gloss": "अतरोत"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआब"
+    },
+    {
+      "surface": "וחצי",
+      "gloss": "र आधा"
+    },
+    {
+      "surface": "המנחתי",
+      "gloss": "मानाखतीको"
+    },
+    {
+      "surface": "הצרעי",
+      "gloss": "तस्रीहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:55.069081841Z",
+  "model": "glm-5.3"
+}

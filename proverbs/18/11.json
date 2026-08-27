@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 18:11",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "धनीको धन ⟨उसको⟩ बलको सहर हो, र ऊजैको कल्पनामा उच्च पर्खालझैँ ⟨हुन्छ⟩।",
+  "tokens": [
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनीको"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "עזו",
+      "gloss": "उसको बल"
+    },
+    {
+      "surface": "וכחומה",
+      "gloss": "र पर्खालझैँ"
+    },
+    {
+      "surface": "נשגבה",
+      "gloss": "उच्च"
+    },
+    {
+      "surface": "במשכיתו",
+      "gloss": "ऊजैको कल्पनामा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:17:42.712044639Z",
+  "model": "glm-5.3"
+}

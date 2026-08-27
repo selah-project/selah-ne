@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 60,
+  "ref": "numbers 7:60",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "नवौँ दिनमा बिन्यामिनका छोराहरूको नासी अबिदान — गिदोनीको छोरा।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "नवौँ"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "לבני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिन"
+    },
+    {
+      "surface": "אבידן",
+      "gloss": "अबिदान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "גדעני",
+      "gloss": "गिदोनी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:28.263982223Z",
+  "model": "glm-5.3"
+}

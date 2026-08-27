@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 114:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 114,
+  "translation": "तिमीलाई के भयो, हे समुद्र, कि ⟨तिमी⟩ भाग्यौ? हे यर्दन, कि ⟨तिमी⟩ पछाडि फर्कियौ?",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "הים",
+      "gloss": "हे समुद्र"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "תנוס",
+      "gloss": "भाग्यौ"
+    },
+    {
+      "surface": "הירדן",
+      "gloss": "हे यर्दन"
+    },
+    {
+      "surface": "תסב",
+      "gloss": "फर्कियौ"
+    },
+    {
+      "surface": "לאחור",
+      "gloss": "पछाडि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:36.369081127Z",
+  "model": "glm-5.3"
+}

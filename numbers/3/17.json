@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 3:17",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यी लेवीका छोराहरू तिनका नामअनुसार थिए: गेरेशोन, र केहात, र मेरारी।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "לוי",
+      "gloss": "लेवीका"
+    },
+    {
+      "surface": "בשמתם",
+      "gloss": "तिनका नामअनुसार"
+    },
+    {
+      "surface": "גרשון",
+      "gloss": "गेरेशोन"
+    },
+    {
+      "surface": "וקהת",
+      "gloss": "र केहात"
+    },
+    {
+      "surface": "ומררי",
+      "gloss": "र मेरारी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:36:25.358905153Z",
+  "model": "glm-5.3"
+}

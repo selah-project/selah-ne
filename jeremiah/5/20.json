@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "jeremiah 5:20",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "याकोभको घरमा यो कुरा घोषणा गर, र यहूदामा यसलाई सुनाउ, यो भनेर।",
+  "tokens": [
+    {
+      "surface": "הגידו",
+      "gloss": "घोषणा गर"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यो कुरा"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभको"
+    },
+    {
+      "surface": "והשמיעוה",
+      "gloss": "र सुनाउ"
+    },
+    {
+      "surface": "ביהודה",
+      "gloss": "यहूदामा"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भनेर"
+    }
+  ],
+  "timestamp": "2026-08-26T22:46:55.536603531Z",
+  "model": "glm-5.3"
+}

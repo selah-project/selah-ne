@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 37:11",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "र यस्तो भयो: जब हट्यो सेना कस्दीहरूको यरुशालेमदेखि, फारोहको सेनाको डरले —",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "בהעלות",
+      "gloss": "जब हट्यो"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "הכשדים",
+      "gloss": "कस्दीहरूको"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "देखि"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "यरुशालेम"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "डरले"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारोहको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:01:35.462822167Z",
+  "model": "glm-5.3"
+}

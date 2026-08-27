@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "proverbs 24:30",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "अल्छी मानिसको खेतमा म गुँडेर, र बुद्धि-नभएको मानिसको दाखबारीमा ⟨म गुँडें⟩।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "माथि\/नजिक"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "עצל",
+      "gloss": "अल्छी"
+    },
+    {
+      "surface": "עברתי",
+      "gloss": "म गुँडेर"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र नजिक"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "दाखबारी"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "חסר",
+      "gloss": "नभएको"
+    },
+    {
+      "surface": "לב",
+      "gloss": "बुद्धि\/हृदय"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:53.000735417Z",
+  "model": "glm-5.3"
+}

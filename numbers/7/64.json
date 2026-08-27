@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 64,
+  "ref": "numbers 7:64",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र एउटा शाखामय भाले बाख्रा पाप-भेटका लागि।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "शाखामय भाले बाख्रा"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्राको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप-भेटका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:35.282746185Z",
+  "model": "glm-5.3"
+}

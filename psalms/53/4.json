@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "psalms 53:4",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 53,
+  "translation": "सबै पछि हटे, एकसाथ दूषित भए; असल गर्ने कोही छैन, अझ कोही एक जना पनि छैन।",
+  "tokens": [
+    {
+      "surface": "כלו",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "סג",
+      "gloss": "पछि हटे"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "נאלחו",
+      "gloss": "दूषित भए"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्ने"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "अझ"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक जना"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:44.637105749Z",
+  "model": "glm-5.3"
+}

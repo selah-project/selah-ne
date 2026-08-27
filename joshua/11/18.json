@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "joshua 11:18",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "धेरै दिनसम्म यिहोशुआले ⟨את⟩ यी सबै राजाहरूसित युद्ध गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ימים",
+      "gloss": "दिनहरू"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्‍यो"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यिहोशुआ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै राजाहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजाहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:42.938499872Z",
+  "model": "glm-5.3"
+}

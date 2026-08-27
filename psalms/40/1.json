@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 40:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "संगीत-निर्देशकका लागि, दाउिदको ⟨मिज्मोर⟩।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "संगीत-निर्देशकका लागि"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाउिदको"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "⟨मिज्मोर⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:42.161969936Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "habakkuk 1:1",
+  "book": "habakkuk",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "त्यो भार जुन हबक्कूक नबीले दर्शनमा देखे।",
+  "tokens": [
+    {
+      "surface": "המשא",
+      "gloss": "भार"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "חזה",
+      "gloss": "देखे"
+    },
+    {
+      "surface": "חבקוק",
+      "gloss": "हबक्कूक"
+    },
+    {
+      "surface": "הנביא",
+      "gloss": "नबी"
+    }
+  ],
+  "timestamp": "2026-08-26T23:42:42.066552614Z",
+  "model": "glm-5.3"
+}

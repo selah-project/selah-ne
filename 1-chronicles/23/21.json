@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "1-chronicles 23:21",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "मरारीका छोराहरू: मखली र मुशी; मखलीका छोराहरू: एलाजार र किश।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारीका"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "मखली"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "र मुशी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "मखलीका"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "וקיש",
+      "gloss": "र किश"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:40.603721343Z",
+  "model": "glm-5.3"
+}

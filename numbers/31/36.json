@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "numbers 31:36",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र सेनामा गग्नेहरूको भागको आधा ⟨⟨भाग⟩⟩ — कुल भेडाको सङ्ख्या — तीन लाख र तीस हजार र सात हजार पाँच सय।",
+  "tokens": [
+    {
+      "surface": "ותהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "המחצה",
+      "gloss": "आधा"
+    },
+    {
+      "surface": "חלक",
+      "gloss": "भाग"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "गग्नेहरूको"
+    },
+    {
+      "surface": "בצבא",
+      "gloss": "सेनामा"
+    },
+    {
+      "surface": "מספר",
+      "gloss": "सङ्ख्या"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "भेडाको"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלשים",
+      "gloss": "र तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבעת",
+      "gloss": "र सात"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:52.427654086Z",
+  "model": "glm-5.3"
+}

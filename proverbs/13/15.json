@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 13:15",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "असल बुद्धि अनुग्रह दिन्छ; तर विश्वासघातीहरूको बाटो कठिन छ।",
+  "tokens": [
+    {
+      "surface": "שכל",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "दिन्छ"
+    },
+    {
+      "surface": "חן",
+      "gloss": "अनुग्रह"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "तर बाटो"
+    },
+    {
+      "surface": "בגדים",
+      "gloss": "विश्वासघातीहरूको"
+    },
+    {
+      "surface": "איתן",
+      "gloss": "कठिन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:42.322534795Z",
+  "model": "glm-5.3"
+}

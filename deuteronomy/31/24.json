@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 31:24",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र यसो भयो कि जब मोशेले यो तोरातका वचनहरू ⟨את⟩ पुस्तकमा पूरा नभएसम्म लेखिसके।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र यसो भयो"
+    },
+    {
+      "surface": "ככלות",
+      "gloss": "जब सकाउँदा"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "לכתב",
+      "gloss": "लेख्न"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो तोरातका वचनहरू"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "התורה",
+      "gloss": "यो तोरातका"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "ספר",
+      "gloss": "पुस्तक"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "תמם",
+      "gloss": "पूरा नभएसम्म"
+    }
+  ],
+  "timestamp": "2026-08-26T21:08:08.906757462Z",
+  "model": "glm-5.3"
+}

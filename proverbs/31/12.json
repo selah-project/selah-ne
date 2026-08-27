@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 31:12",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "उसले उसलाई भलो गर्छे, अनि खराब होइन, आफ्नो जीवनका सबै दिनहरूमा।",
+  "tokens": [
+    {
+      "surface": "גמלתהו",
+      "gloss": "उसले उसलाई भलो गर्छे"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "भलो"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "अनि होइन"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "חייה",
+      "gloss": "आफ्नो जीवनका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:51.801334274Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 28:17",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र यस महिनाको पन्ध्रौँ दिन ⟨is⟩ पर्व — सात दिनसम्म गरी मatsot खाइनेछ।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "र पन्ध्रौँमा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "पन्ध्र"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "חג",
+      "gloss": "पर्व"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "अखमीरी रोटी"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खाइनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:49:08.130380512Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-samuel 14:3",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र तँ राजाकहाँ जाऊ र उसलाई यसरी भन् । र योआभले ⟨את⟩ ती शब्दहरू उसको मुखमा राख्यो ।",
+  "tokens": [
+    {
+      "surface": "ובאת",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "ודברת",
+      "gloss": "भन्"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "यसरी"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "וישם",
+      "gloss": "राख्यो"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआभले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "ती शब्दहरू"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "शब्दहरू"
+    },
+    {
+      "surface": "בפיה",
+      "gloss": "उसको मुखमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:48:58.103352183Z",
+  "model": "glm-5.3"
+}

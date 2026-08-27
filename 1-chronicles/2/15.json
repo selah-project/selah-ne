@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 2:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "ओत्सेम छैटौँ, दाविद सातौँ।",
+  "tokens": [
+    {
+      "surface": "אצם",
+      "gloss": "ओत्सेम"
+    },
+    {
+      "surface": "הששי",
+      "gloss": "छैटौँ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाविद"
+    },
+    {
+      "surface": "השבעי",
+      "gloss": "सातौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:55.819344006Z",
+  "model": "glm-5.3"
+}

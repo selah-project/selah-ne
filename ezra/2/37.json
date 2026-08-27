@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "ezra 2:37",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "इम्मेरका सन्तान — एक हजार उनचास।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "इम्मेरका"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "एक हजार"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "उनचास"
+    },
+    {
+      "surface": "ושנים",
+      "gloss": "र दुई"
+    }
+  ],
+  "timestamp": "2026-08-27T02:19:58.170170743Z",
+  "model": "glm-5.3"
+}

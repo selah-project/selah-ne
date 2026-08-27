@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 1:12",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "दानका लागि — अखीएजेर, अम्मिशद्दाइका छोरा।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "दानका लागि"
+    },
+    {
+      "surface": "אחיעזר",
+      "gloss": "अखीएजेर"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עמישדי",
+      "gloss": "अम्मिशद्दाइका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:35:29.818504118Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "proverbs 7:24",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अब त, हे छोराहरू, मलाई सुन, र मेरो मुखका वचनहरूमा कान लगाऊ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "अब त"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "हे छोराहरू"
+    },
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "והקשיבו",
+      "gloss": "र कान लगाऊ"
+    },
+    {
+      "surface": "לאמרי",
+      "gloss": "वचनहरूमा"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरो मुखका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:28.109788294Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 25:5",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "अनि अभ्राहामले आफ्नो सबै थोक यित्सखाकलाई दिनुभयो।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "दिनुभयो"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै थोक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उहाँको थियो"
+    },
+    {
+      "surface": "ליצחק",
+      "gloss": "यित्सखाकलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:11.403438214Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "zechariah 8:20",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "यसरी भन्नुहुन्छ यहवे त्सबाओतले: अझै मानिसहरू आउनेछन्, र धेरै सहरहरूका बासिन्दाहरू।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यसरी"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुहुन्छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओत"
+    },
+    {
+      "surface": "עד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨कि⟩"
+    },
+    {
+      "surface": "यבאו",
+      "gloss": "आउनेछन्"
+    },
+    {
+      "surface": "עמים",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "וישבי",
+      "gloss": "र बासिन्दाहरू"
+    },
+    {
+      "surface": "ערים",
+      "gloss": "सहरहरूका"
+    },
+    {
+      "surface": "רבות",
+      "gloss": "धेरै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:46:50.160215240Z",
+  "model": "glm-5.3"
+}

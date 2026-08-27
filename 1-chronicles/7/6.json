@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 7:6",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बिन्यामीनका — बेला, र बेखेर, र येदियाएल — तीन।",
+  "tokens": [
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीनका"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "बेला"
+    },
+    {
+      "surface": "ובכר",
+      "gloss": "र बेखेर"
+    },
+    {
+      "surface": "וידיעאל",
+      "gloss": "र येदियाएल"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T02:21:34.695566694Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "psalms 103:8",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 103,
+  "translation": "यहवे करुणामय र अनुग्रहमय हुनुहुन्छ, क्रोधमा ढिलो र ठूलो खेसेद भएको।",
+  "tokens": [
+    {
+      "surface": "רחום",
+      "gloss": "करुणामय"
+    },
+    {
+      "surface": "וחנון",
+      "gloss": "र अनुग्रहमय"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "ढिलो"
+    },
+    {
+      "surface": "אפים",
+      "gloss": "क्रोधमा"
+    },
+    {
+      "surface": "ורב",
+      "gloss": "र ठूलो"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "खेसेद"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:58.477306231Z",
+  "model": "glm-5.3"
+}

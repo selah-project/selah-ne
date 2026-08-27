@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 46,
+  "ref": "numbers 1:46",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अनि गनिएका सबैको ⟨सङ्ख्या⟩ छ सय हजार र तीन हजार र पाँच सय र पचास भयो।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "अनि भयो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הפקדים",
+      "gloss": "गनिएकाहरू"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "मאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושלשת",
+      "gloss": "र तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וחמשים",
+      "gloss": "र पचास"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:06.911265555Z",
+  "model": "glm-5.3"
+}

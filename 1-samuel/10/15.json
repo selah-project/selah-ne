@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-samuel 10:15",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र शाउलका काकाले भने, \"मलाई भन न, शमुएलले तिमीहरूलाई के भन्नुभयो?\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "काका"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलका"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बताऊ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "न"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएलले"
+    }
+  ],
+  "timestamp": "2026-08-26T21:34:23.501546267Z",
+  "model": "glm-5.3"
+}

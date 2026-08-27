@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 2:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "तर म ⟨मेरो⟩ राजालाई अभिषेक गरेको छु — जियोनमा, मेरो पवित्र पर्वतमा।",
+  "tokens": [
+    {
+      "surface": "ואני",
+      "gloss": "तर म"
+    },
+    {
+      "surface": "נסכתי",
+      "gloss": "अभिषेक गरेको छु"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "मेरो राजालाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "जियोन"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "קדשי",
+      "gloss": "मेरो पवित्र"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:36.461704885Z",
+  "model": "glm-5.3"
+}

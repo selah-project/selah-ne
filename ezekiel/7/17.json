@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ezekiel 7:17",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "सबै हातहरू कमजोर हुनेछन्, र सबै घुँडाहरू पानी बनेर जानेछन्।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "הידים",
+      "gloss": "हातहरू"
+    },
+    {
+      "surface": "תרפינה",
+      "gloss": "कमजोर हुनेछन्"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "ברכים",
+      "gloss": "घुँडाहरू"
+    },
+    {
+      "surface": "תלכנה",
+      "gloss": "जानेछन्"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-08-26T23:12:19.210363325Z",
+  "model": "glm-5.3"
+}

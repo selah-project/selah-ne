@@ -1,0 +1,91 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ecclesiastes 4:4",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र मैले ⟨את⟩ सबै परिश्रम र ⟨את⟩ कामको सबै सफलता हेरें — कि त्यो मानिसको आफ्नो साथीदेखि जलन हो; यो पनि हेबेल र वायुको सन्त्रास हो।",
+  "tokens": [
+    {
+      "surface": "וראיתי",
+      "gloss": "र हेरें"
+    },
+    {
+      "surface": "אני",
+      "gloss": "मैले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै परिश्रम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "עמל",
+      "gloss": "परिश्रम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "सबै सफलता"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "כשרון",
+      "gloss": "सफलता"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "कामको"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "היא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "קנאת",
+      "gloss": "जलन"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिसको"
+    },
+    {
+      "surface": "מרעהו",
+      "gloss": "आफ्नो साथीदेखि"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "र सन्त्रास"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "वायुको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:48.978633749Z",
+  "model": "glm-5.3"
+}

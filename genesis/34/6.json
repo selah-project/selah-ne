@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 34:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "अनि शेखेमका पिता खमोर याकोभसँग बोल्न उनकहाँ निस्किए।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "अनि निस्किए"
+    },
+    {
+      "surface": "חמור",
+      "gloss": "खमोर"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "שכם",
+      "gloss": "शेखेमका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभसँग"
+    },
+    {
+      "surface": "לדבר",
+      "gloss": "बोल्न"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩ उनको साथमा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:47.145802365Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "job 40:32",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "आफ्नो हात उसमाथि राख; युद्ध सम्झ — अझ थप्ने छैनस्।",
+  "tokens": [
+    {
+      "surface": "שים",
+      "gloss": "राख"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसमाथि"
+    },
+    {
+      "surface": "כפך",
+      "gloss": "आफ्नो हात"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "सम्झ"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תוסף",
+      "gloss": "थप्ने छैनस्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:42:18.818940203Z",
+  "model": "glm-5.3"
+}

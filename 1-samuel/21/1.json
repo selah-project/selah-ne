@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-samuel 21:1",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "उ उठ्यो र गयो, र योनातान ⟨the⟩ सहरमा आयो।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उ उठ्यो"
+    },
+    {
+      "surface": "וילך",
+      "gloss": "र गयो"
+    },
+    {
+      "surface": "ויהונתן",
+      "gloss": "योनातान"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "⟨the⟩ सहरमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:39:56.807078809Z",
+  "model": "glm-5.3"
+}

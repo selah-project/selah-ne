@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "deuteronomy 25:10",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "र इस्राएलमा उसको नाम 'जुत्ता खोसिएकोको घर' भनिनेछ।",
+  "tokens": [
+    {
+      "surface": "ונקרא",
+      "gloss": "र भनिनेछ"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसको नाम"
+    },
+    {
+      "surface": "בישראל",
+      "gloss": "इस्राएलमा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "חלוץ",
+      "gloss": "खोसिएको"
+    },
+    {
+      "surface": "הנעל",
+      "gloss": "जुत्ता"
+    }
+  ],
+  "timestamp": "2026-08-26T21:04:20.582348548Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 137,
+  "ref": "psalms 119:137",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "तपाईँ धर्मी हुनुहुन्छ, यहवे, र तपाईँका न्यायहरू सरल छन्।",
+  "tokens": [
+    {
+      "surface": "צדיק",
+      "gloss": "धर्मी"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तपाईँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "וישר",
+      "gloss": "र सरल"
+    },
+    {
+      "surface": "משפטיך",
+      "gloss": "तपाईँका न्यायहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:14:23.648560491Z",
+  "model": "glm-5.3"
+}

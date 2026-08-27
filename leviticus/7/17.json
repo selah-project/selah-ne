@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "leviticus 7:17",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र बलिको मासस्र्यमा तेस्रो दिनसम्म बाँकी रहेको कुरा आगोमा जलाइनेछ।",
+  "tokens": [
+    {
+      "surface": "והנותר",
+      "gloss": "र बाँकी रहेको कुरा"
+    },
+    {
+      "surface": "מבשר",
+      "gloss": "मासबाट"
+    },
+    {
+      "surface": "הזבח",
+      "gloss": "बलिको"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השלישי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    },
+    {
+      "surface": "ישרף",
+      "gloss": "जलाइनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:50.299995804Z",
+  "model": "glm-5.3"
+}

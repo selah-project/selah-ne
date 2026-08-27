@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 33:9",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "शुद्ध छु म, विद्रोहबिना; निर्दोष छु म, र ममा अधर्म छैन।",
+  "tokens": [
+    {
+      "surface": "זך",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "אני",
+      "gloss": "छु म"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "פשע",
+      "gloss": "विद्रोह"
+    },
+    {
+      "surface": "חף",
+      "gloss": "निर्दोश"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "छु म"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "עון",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "לי",
+      "gloss": "ममा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:39:02.808232249Z",
+  "model": "glm-5.3"
+}

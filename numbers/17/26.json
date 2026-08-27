@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 17:26",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "मोशेले ⟨את⟩ यहवेले आफूलाई आज्ञा दिनुभएअनुसार नै गरे; त्यसरी नै उनले गरे।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "गरे"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "अनुसार"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा दिनुभए"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "आफूलाई"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसरी नै"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गरे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:43:51.075125031Z",
+  "model": "glm-5.3"
+}

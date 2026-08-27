@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "ecclesiastes 2:23",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "किनकि उसका सबै दिनहरू व्यथाहरू नै ⟨हुन्छन्⟩, र उसको काम क्षोभ ⟨हो⟩; रातमा समेत उसको मन बसेन — यो पनि हेवेल ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימיו",
+      "gloss": "उसका दिनहरू"
+    },
+    {
+      "surface": "מכאבים",
+      "gloss": "व्यथाहरू"
+    },
+    {
+      "surface": "וכעס",
+      "gloss": "र क्षोभ"
+    },
+    {
+      "surface": "ענינו",
+      "gloss": "उसको काम"
+    },
+    {
+      "surface": "גם",
+      "gloss": "समेत"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रातमा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "बसेन"
+    },
+    {
+      "surface": "שכב",
+      "gloss": "बस्नु"
+    },
+    {
+      "surface": "לבו",
+      "gloss": "उसको मन"
+    },
+    {
+      "surface": "גם",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेवेल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨हो⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:14.427246771Z",
+  "model": "glm-5.3"
+}

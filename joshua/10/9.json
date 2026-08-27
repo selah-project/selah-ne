@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 10:9",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र यहोशुआ उनीहरूमाथि अचानक आइपुगे — रातभरि उनी गिल्गलबाट माथि चढे।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "र आइपुगे"
+    },
+    {
+      "surface": "אליהם",
+      "gloss": "उनीहरूमाथि"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "פתאם",
+      "gloss": "अचानक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הלילה",
+      "gloss": "रातभरि"
+    },
+    {
+      "surface": "עלה",
+      "gloss": "माथि चढे"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "הגלגל",
+      "gloss": "गिल्गल"
+    }
+  ],
+  "timestamp": "2026-08-26T21:13:33.227219752Z",
+  "model": "glm-5.3"
+}

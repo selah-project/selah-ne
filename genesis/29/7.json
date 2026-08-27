@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "genesis 29:7",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "उनले भने, हेर, दिन अझै ठूलो ⟨छ⟩; पशुधन भेला हुने समय ⟨होइन⟩; बखरालाई पानि पिलाऊ र जाऊ, चराऊ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "उनले भने"
+    },
+    {
+      "surface": "הן",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझै"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "האסף",
+      "gloss": "भेला हुने"
+    },
+    {
+      "surface": "המקנה",
+      "gloss": "पशुधन"
+    },
+    {
+      "surface": "השקו",
+      "gloss": "पानि पिलाऊ"
+    },
+    {
+      "surface": "הצאן",
+      "gloss": "बखरा"
+    },
+    {
+      "surface": "ולכו",
+      "gloss": "र जाऊ"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "चराऊ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:21.818412436Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "proverbs 23:27",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "किनकि वेश्या एउटा गहिरो खाडल हो, र अपरिचित स्त्री एउटा साँघुरो इनार।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "שוחה",
+      "gloss": "खाडल"
+    },
+    {
+      "surface": "עמקה",
+      "gloss": "गहिरो"
+    },
+    {
+      "surface": "זונה",
+      "gloss": "वेश्या"
+    },
+    {
+      "surface": "ובאר",
+      "gloss": "र इनार"
+    },
+    {
+      "surface": "צרה",
+      "gloss": "साँघुरो"
+    },
+    {
+      "surface": "נכריה",
+      "gloss": "अपरिचित स्त्री"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:58.455404049Z",
+  "model": "glm-5.3"
+}

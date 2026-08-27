@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 3:10",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "घात बसेको भालु उहाँ मलाई ⟨हो⟩, लुकेका ठाउँहरूमा सिंह।",
+  "tokens": [
+    {
+      "surface": "דב",
+      "gloss": "भालु"
+    },
+    {
+      "surface": "ארב",
+      "gloss": "घात बसेको"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "אריה",
+      "gloss": "सिंह"
+    },
+    {
+      "surface": "במסתרים",
+      "gloss": "लुकेका ठाउँहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:44.051565258Z",
+  "model": "glm-5.3"
+}

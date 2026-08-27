@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 12:23",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "दोरको राजा, दोरको नाफतमा, एक; गिलगलको गोयिमको राजा एक।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "דור",
+      "gloss": "दोरको"
+    },
+    {
+      "surface": "לנפת",
+      "gloss": "नाफतमा"
+    },
+    {
+      "surface": "דור",
+      "gloss": "दोरको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "गोयिमको"
+    },
+    {
+      "surface": "לגלגל",
+      "gloss": "गिलगलको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:39.482897154Z",
+  "model": "glm-5.3"
+}

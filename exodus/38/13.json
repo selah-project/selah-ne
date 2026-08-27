@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 38:13",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "र पूर्वतिरको छेउमा, सूर्योदयतिर पचास ⟨आम्मा⟩ थियो।",
+  "tokens": [
+    {
+      "surface": "ולפאת",
+      "gloss": "र छेउमा"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्वतिरको"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "सूर्योदयतिर"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "आम्मा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:20:27.871213458Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 5:25",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र यो त्यो लेख हो जुन लेखिएको छ: मेने, मेने, तेकेल, उफर्सिन।",
+  "tokens": [
+    {
+      "surface": "ודנה",
+      "gloss": "र यो"
+    },
+    {
+      "surface": "כתבא",
+      "gloss": "लेख"
+    },
+    {
+      "surface": "די",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "רשים",
+      "gloss": "लेखिएको छ"
+    },
+    {
+      "surface": "מנא",
+      "gloss": "मेने"
+    },
+    {
+      "surface": "מनא",
+      "gloss": "मेने"
+    },
+    {
+      "surface": "תקל",
+      "gloss": "तेकेल"
+    },
+    {
+      "surface": "ופרסין",
+      "gloss": "उफर्सिन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:59:11.102227137Z",
+  "model": "glm-5.3"
+}

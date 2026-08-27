@@ -1,0 +1,59 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "judges 3:18",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र ⟨את⟩ भेटी नजिक ल्याउन सकिएपछि उनले भेटी बोक्ने मानिसहरूलाई ⟨את⟩ पठाइदिए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जब"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "सकिए"
+    },
+    {
+      "surface": "להקריב",
+      "gloss": "नजिक ल्याउन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भेटी"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "भेटी"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "पठाइदिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मानिसहरूलाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "बोक्ने"
+    },
+    {
+      "surface": "המנחה",
+      "gloss": "भेटी"
+    }
+  ],
+  "timestamp": "2026-08-26T21:21:44.433064673Z",
+  "model": "glm-5.3"
+}

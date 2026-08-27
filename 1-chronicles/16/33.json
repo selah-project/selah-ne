@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 16:33",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "तब यहवेको सामु वनका रूखहरू रमाउनेछन्, किनकि उहाँ ⟨את⟩ पृथ्वीलाई न्याय गर्न आउनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ירננו",
+      "gloss": "रमाउनेछन्"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "रूखहरू"
+    },
+    {
+      "surface": "היער",
+      "gloss": "वनका"
+    },
+    {
+      "surface": "מלפני",
+      "gloss": "…को सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "בא",
+      "gloss": "आउनुहुन्छ"
+    },
+    {
+      "surface": "לשפוט",
+      "gloss": "न्याय गर्न"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पृथ्वी"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:00.613911914Z",
+  "model": "glm-5.3"
+}

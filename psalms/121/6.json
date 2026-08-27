@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 121:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 121,
+  "translation": "दिनमा सूर्यले तिमीलाई पिट्नेछैन, र रातमा चन्द्रमाले पनि।",
+  "tokens": [
+    {
+      "surface": "יומם",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्यले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יככה",
+      "gloss": "पिट्नेछैन"
+    },
+    {
+      "surface": "וירח",
+      "gloss": "र चन्द्रमाले"
+    },
+    {
+      "surface": "בלילה",
+      "gloss": "रातमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:15:42.805401196Z",
+  "model": "glm-5.3"
+}

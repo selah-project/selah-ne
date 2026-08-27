@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "2-samuel 1:17",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र दाविदले शाउल र उनका छोरा येहोनातानका लागि यो विलापगीत ⟨את⟩ गाए।",
+  "tokens": [
+    {
+      "surface": "ויקנן",
+      "gloss": "गाए"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाविदले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो विलापगीत"
+    },
+    {
+      "surface": "הקינה",
+      "gloss": "विलापगीत"
+    },
+    {
+      "surface": "हזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "על",
+      "gloss": "का लागि"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र…का लागि"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "येहोनातान"
+    },
+    {
+      "surface": "बנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:58:25.060190175Z",
+  "model": "glm-5.3"
+}

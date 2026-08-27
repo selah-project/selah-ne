@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 47:2",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 47,
+  "translation": "जाँतो ले र पिठो पिस; आफ्नो पट्टी खोल, आफ्नो झोल्टे उघार, घुँडा खोल, नदीहरू तर।",
+  "tokens": [
+    {
+      "surface": "קחי",
+      "gloss": "ले"
+    },
+    {
+      "surface": "רחים",
+      "gloss": "जाँतो"
+    },
+    {
+      "surface": "וטחני",
+      "gloss": "र पिस"
+    },
+    {
+      "surface": "קמח",
+      "gloss": "पिठो"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "צמתך",
+      "gloss": "आफ्नो पट्टी"
+    },
+    {
+      "surface": "חשפי",
+      "gloss": "उघार"
+    },
+    {
+      "surface": "שבל",
+      "gloss": "आफ्नो झोल्टे"
+    },
+    {
+      "surface": "גלי",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "שוק",
+      "gloss": "घुँडा"
+    },
+    {
+      "surface": "עברי",
+      "gloss": "तर"
+    },
+    {
+      "surface": "נהרות",
+      "gloss": "नदीहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T22:38:40.257502585Z",
+  "model": "glm-5.3"
+}

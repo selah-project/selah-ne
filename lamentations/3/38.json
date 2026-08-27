@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 38,
+  "ref": "lamentations 3:38",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "एल्योनको मुखबाट के राम्रा कुरा र नराम्रा कुरा निस्कँदैनन् र?",
+  "tokens": [
+    {
+      "surface": "מפי",
+      "gloss": "बाट मुख"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "के ... न"
+    },
+    {
+      "surface": "תצא",
+      "gloss": "निस्कँदैनन् र"
+    },
+    {
+      "surface": "הרעות",
+      "gloss": "नराम्रा कुरा"
+    },
+    {
+      "surface": "והטוב",
+      "gloss": "र राम्रा कुरा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:50.330951901Z",
+  "model": "glm-5.3"
+}

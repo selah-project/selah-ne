@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 4:28",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र तिनीहरू बेर-शेबा, मोलादा र खत्सर-शुआलमा बसे।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "र तिनीहरू बसे"
+    },
+    {
+      "surface": "בבאר",
+      "gloss": "बेर-शेबामा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "बेर-शेबा"
+    },
+    {
+      "surface": "ומולדה",
+      "gloss": "र मोलादा"
+    },
+    {
+      "surface": "וחצר",
+      "gloss": "र खत्सर-शुआल"
+    },
+    {
+      "surface": "שועל",
+      "gloss": "खत्सर-शुआल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:18.451406870Z",
+  "model": "glm-5.3"
+}

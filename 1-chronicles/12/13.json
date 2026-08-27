@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 12:13",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "योखानान आठौँ, एल्जाबाद नवौँ।",
+  "tokens": [
+    {
+      "surface": "יוחנן",
+      "gloss": "योखानान"
+    },
+    {
+      "surface": "השמיני",
+      "gloss": "आठौँ"
+    },
+    {
+      "surface": "אלזבד",
+      "gloss": "एल्जाबाद"
+    },
+    {
+      "surface": "התשיעי",
+      "gloss": "नवौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:32.799733570Z",
+  "model": "glm-5.3"
+}

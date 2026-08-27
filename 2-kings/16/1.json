@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "2-kings 16:1",
+  "book": "2-kings",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "पेकह रमल्याहूको छोराको सत्रौँ वर्षमा योतामको छोरा अहाज यहूदाको राजा राजा भयो।",
+  "tokens": [
+    {
+      "surface": "בשנת",
+      "gloss": "वर्षमा"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "עשרה",
+      "gloss": "-दश"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "לפקח",
+      "gloss": "पेकहको"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "רמליהו",
+      "gloss": "रमल्याहू"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा भयो"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अहाज"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "יותם",
+      "gloss": "יोताम"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:17:35.140199987Z",
+  "model": "glm-5.3"
+}

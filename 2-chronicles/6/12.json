@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "2-chronicles 6:12",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र उ यहवेको वेदीअगाडि, सम्पूर्ण इस्राएलको सभाको सामुन्ने उभियो, र आफ्ना हात फिजायो।",
+  "tokens": [
+    {
+      "surface": "ויעמד",
+      "gloss": "उभियो"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "נגד",
+      "gloss": "सामुन्ने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "सभाको"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलको"
+    },
+    {
+      "surface": "ויפרש",
+      "gloss": "फिजायो"
+    },
+    {
+      "surface": "כפיו",
+      "gloss": "आफ्ना हात"
+    }
+  ],
+  "timestamp": "2026-08-27T01:31:41.221430002Z",
+  "model": "glm-5.3"
+}

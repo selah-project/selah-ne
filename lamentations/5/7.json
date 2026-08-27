@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "lamentations 5:7",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "हाम्रा पिताहरूले पाप गरे, ती अब छैनन्; हामी तिनका अधर्महरू बोक्यौं।",
+  "tokens": [
+    {
+      "surface": "אבתינו",
+      "gloss": "हाम्रा पिताहरू"
+    },
+    {
+      "surface": "חטאו",
+      "gloss": "पाप गरे"
+    },
+    {
+      "surface": "אינם",
+      "gloss": "ती छैनन्"
+    },
+    {
+      "surface": "אנחנו",
+      "gloss": "हामी"
+    },
+    {
+      "surface": "עונתיהם",
+      "gloss": "तिनका अधर्महरू"
+    },
+    {
+      "surface": "סבלנו",
+      "gloss": "बोक्यौं"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:33.198621768Z",
+  "model": "glm-5.3"
+}

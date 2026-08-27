@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 7:27",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "गाईको बच्चाको एउटा बछडा, एउटा भाले भेडा, एउटा वर्षको छाउको एउटा लागो, होम-बलिको लागि।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बच्चा"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाईको"
+    },
+    {
+      "surface": "איל",
+      "gloss": "भाले भेडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "लागो"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बच्चा"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक वर्षको"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "होम-बलिको लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:06.777569860Z",
+  "model": "glm-5.3"
+}

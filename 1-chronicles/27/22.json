@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "1-chronicles 27:22",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "दानका लागि अजरेल येरोखामका छोरा; यी ⟨हुन्⟩ यिस्राएलका गोत्तहरूका सरदारहरू।",
+  "tokens": [
+    {
+      "surface": "לדן",
+      "gloss": "दानका लागि"
+    },
+    {
+      "surface": "עזראל",
+      "gloss": "अजरेल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "येरोखामका"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "שרי",
+      "gloss": "सरदारहरू"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "गोत्तहरूका"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:30:12.128933179Z",
+  "model": "glm-5.3"
+}

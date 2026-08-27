@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "judges 21:4",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र ⟨it came to pass⟩ भोलिपल्टै ⟨the⟩ जनता बिहानै उठे, र त्यहाँ एउटा वेदी बनाए, र होमबलि र मेल-मिलापका बलिहरू चढाए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "⟨it came to pass⟩"
+    },
+    {
+      "surface": "ममחרत",
+      "gloss": "भोलिपल्टै"
+    },
+    {
+      "surface": "וישכי׮ु",
+      "gloss": "बिहानै उठे"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "ויבनו",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "एउटा वेदी"
+    },
+    {
+      "surface": "ויעलו",
+      "gloss": "चढाए"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "होमबलि"
+    },
+    {
+      "surface": "ושלमים",
+      "gloss": "र मेल-मिलापका बलिहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T21:29:21.583061133Z",
+  "model": "glm-5.3"
+}

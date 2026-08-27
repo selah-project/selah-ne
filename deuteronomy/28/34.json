@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "deuteronomy 28:34",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "र तिम्रा आँखाले जे देख्नेछौ, त्यसको दृश्यले तिमी पागल हुनेछौ।",
+  "tokens": [
+    {
+      "surface": "והיית",
+      "gloss": "र तिमी हुनेछौ"
+    },
+    {
+      "surface": "משגע",
+      "gloss": "पागल"
+    },
+    {
+      "surface": "ממראה",
+      "gloss": "दृश्यले"
+    },
+    {
+      "surface": "עיניך",
+      "gloss": "तिम्रा आँखा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे"
+    },
+    {
+      "surface": "תראה",
+      "gloss": "देख्नेछौ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:39.665267264Z",
+  "model": "glm-5.3"
+}

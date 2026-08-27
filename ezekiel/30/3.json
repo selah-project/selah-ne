@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 30:3",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "किनकि नजिक छ दिन, र नजिक छ यहवेको दिन; बादलको दिन, राष्ट्रहरूको समय त्यो हुनेछ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नजिक छ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "וקרוב",
+      "gloss": "र नजिक छ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ענן",
+      "gloss": "बादलको"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "גוים",
+      "gloss": "राष्ट्रहरूको"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "त्यो हुनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:23:20.530470006Z",
+  "model": "glm-5.3"
+}

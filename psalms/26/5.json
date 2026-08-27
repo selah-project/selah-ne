@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 26:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "मैले दुष्टहरूको भेला घृणा गरें, र दुष्टहरूसँग बस्नेछुइनँ।",
+  "tokens": [
+    {
+      "surface": "שנאתי",
+      "gloss": "मैले घृणा गरें"
+    },
+    {
+      "surface": "קהל",
+      "gloss": "भेला"
+    },
+    {
+      "surface": "מרעים",
+      "gloss": "दुष्टहरूको"
+    },
+    {
+      "surface": "ועם",
+      "gloss": "र …सँग"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरू"
+    },
+    {
+      "surface": "לא",
+      "gloss": "इनँ"
+    },
+    {
+      "surface": "אשב",
+      "gloss": "बस्नेछु"
+    }
+  ],
+  "timestamp": "2026-08-26T23:53:18.556001097Z",
+  "model": "glm-5.3"
+}

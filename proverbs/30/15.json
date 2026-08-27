@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 30:15",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "जुकाका दुई छोरीहरू छन् — ‘देऊ, देऊ!’ तीन कुरा छन् जुन तृप्त हुँदैनन्, चारले ‘पुग्यो’ भन्दैनन्:",
+  "tokens": [
+    {
+      "surface": "לעלוקה",
+      "gloss": "जुकाका"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "बנות",
+      "gloss": "छोरीहरू"
+    },
+    {
+      "surface": "הב",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "הב",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "שלוש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "छन्"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैनन्"
+    },
+    {
+      "surface": "תשבענה",
+      "gloss": "तृप्त हुने"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "भन्दैनन्"
+    },
+    {
+      "surface": "הון",
+      "gloss": "पुग्यो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:00.263795252Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 7:10",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यहवेले फेरि अखाजतर्फ बोल्न थप्नुभयो, भन्नुहुँदै:",
+  "tokens": [
+    {
+      "surface": "ויוסף",
+      "gloss": "…थप्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्न"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तर्फ"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अखाज"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T22:24:26.058188401Z",
+  "model": "glm-5.3"
+}

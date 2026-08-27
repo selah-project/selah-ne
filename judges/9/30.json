@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "judges 9:30",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र सहरको सरदार जेबुलले एबेदको छोरा गालका ⟨את⟩ कुराहरू सुन्यो, र उसको क्रोध सल्कियो।",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "र सुन्यो"
+    },
+    {
+      "surface": "זבל",
+      "gloss": "जेबुल"
+    },
+    {
+      "surface": "שר",
+      "gloss": "सरदार"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहरको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "कुराहरू"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "געל",
+      "gloss": "गाल"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "एबेद"
+    },
+    {
+      "surface": "ויחר",
+      "gloss": "सल्कियो"
+    },
+    {
+      "surface": "אפו",
+      "gloss": "उसको क्रोध"
+    }
+  ],
+  "timestamp": "2026-08-26T21:24:27.660712297Z",
+  "model": "glm-5.3"
+}

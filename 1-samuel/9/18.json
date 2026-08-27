@@ -1,0 +1,70 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "1-samuel 9:18",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "शाउल ढोकाको बीचमा शमुएल नजिक पुगे, र भने: कृपया मलाई बताउनुहोस्, द्रष्टाको घर कहाँ छ?",
+  "tokens": [
+    {
+      "surface": "ויגש",
+      "gloss": "नजिक पुगे"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शमुएल"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोकाको"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "הגידה",
+      "gloss": "बताउनुहोस्"
+    },
+    {
+      "surface": "נא",
+      "gloss": "कृपया"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "אי",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "זה",
+      "gloss": "⟨यो⟩"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "הראה",
+      "gloss": "द्रष्टाको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:33:58.952057279Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 118:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 118,
+  "translation": "अहरोनको घरानाले अहिले भनोस्: किनभने सदासर्वदा उहाको खेसेद छ।",
+  "tokens": [
+    {
+      "surface": "יאמרו",
+      "gloss": "भनोस्"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अहिले"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरानाले"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोनको"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "לעולם",
+      "gloss": "सदासर्वदा"
+    },
+    {
+      "surface": "חסדו",
+      "gloss": "उहाको खेसेद"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:04.127890759Z",
+  "model": "glm-5.3"
+}

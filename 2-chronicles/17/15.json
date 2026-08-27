@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "2-chronicles 17:15",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र उनकै हातमुनि येहोखानान ⟨सरदार⟩, र उनकसँग दुई सय असी हजार।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र …मा"
+    },
+    {
+      "surface": "ידו",
+      "gloss": "उनको हातमुनि"
+    },
+    {
+      "surface": "יהוחנן",
+      "gloss": "येहोखानान"
+    },
+    {
+      "surface": "השר",
+      "gloss": "⟨सरदार⟩"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "र उनकसँग"
+    },
+    {
+      "surface": "מאתים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "ושמונים",
+      "gloss": "र असी"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:37:01.529562225Z",
+  "model": "glm-5.3"
+}

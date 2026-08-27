@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "nehemiah 12:15",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "खारीमका लागि अद्ना; मेरायोतका लागि खेल्काइ।",
+  "tokens": [
+    {
+      "surface": "לחרם",
+      "gloss": "खारीमका लागि"
+    },
+    {
+      "surface": "עדנא",
+      "gloss": "अद्ना"
+    },
+    {
+      "surface": "למריות",
+      "gloss": "मेरायोतका लागि"
+    },
+    {
+      "surface": "חלקי",
+      "gloss": "खेल्काइ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:24.247084437Z",
+  "model": "glm-5.3"
+}

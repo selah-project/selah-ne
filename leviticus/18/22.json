@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 18:22",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र ⟨את⟩ पुरुषसँग स्त्रीको मिलनझैँ नसुत, त्यो घृणित कुरा हो।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩"
+    },
+    {
+      "surface": "זכר",
+      "gloss": "पुरुष"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תשכב",
+      "gloss": "नसुत"
+    },
+    {
+      "surface": "משכבי",
+      "gloss": "मिलन"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्रीको"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घृणित कुरा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो हो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:30:33.508502779Z",
+  "model": "glm-5.3"
+}

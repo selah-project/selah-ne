@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "1-chronicles 4:24",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "शिमोनका छोराहरू: नेमुएल, र यामीन, यारीभ, जेरख, शाउल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमोनका"
+    },
+    {
+      "surface": "נמואל",
+      "gloss": "नेमुएल"
+    },
+    {
+      "surface": "וימין",
+      "gloss": "र यामीन"
+    },
+    {
+      "surface": "יריב",
+      "gloss": "यारीभ"
+    },
+    {
+      "surface": "זרח",
+      "gloss": "जेरख"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:37.530125051Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "judges 20:44",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "र बिन्यामीनबाट अठार हजार मानिस ढले — यी सबै ⟨थिए⟩ ⟨את⟩ सबै यी वीर पुरुषहरू।",
+  "tokens": [
+    {
+      "surface": "ויפלו",
+      "gloss": "र ढले"
+    },
+    {
+      "surface": "מבנימן",
+      "gloss": "बिन्यामीनबाट"
+    },
+    {
+      "surface": "שמנה",
+      "gloss": "अठार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(अठार)"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै यी वीर पुरुषहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "אנשי",
+      "gloss": "पुरुषहरू"
+    },
+    {
+      "surface": "חיל",
+      "gloss": "वीर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:29:58.978144693Z",
+  "model": "glm-5.3"
+}

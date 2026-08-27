@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ecclesiastes 2:2",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "मैले हाँसोको विषयमा भनें: पागलपन! र आनन्दको विषयमा: यसले के गर्छ?",
+  "tokens": [
+    {
+      "surface": "לשחוק",
+      "gloss": "हाँसोको विषयमा"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मैले भनें"
+    },
+    {
+      "surface": "מהולל",
+      "gloss": "पागलपन"
+    },
+    {
+      "surface": "ולשמחה",
+      "gloss": "र आनन्दको विषयमा"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यसले"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:06.943674863Z",
+  "model": "glm-5.3"
+}

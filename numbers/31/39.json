@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 31:39",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "र गधा तीस हजार पाँच सय, र तिनको यहवेको लागि कर एक साठी थियो।",
+  "tokens": [
+    {
+      "surface": "וחמרים",
+      "gloss": "र गधा"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "וחמש",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ומכסם",
+      "gloss": "र तिनको कर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको लागि"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "וששים",
+      "gloss": "साठी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:50:54.318251228Z",
+  "model": "glm-5.3"
+}

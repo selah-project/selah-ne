@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "proverbs 8:14",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "मसँग ⟨हो⟩ परामर्श र दृढ बुद्धि; म ⟨हुँ⟩ बुझ्ने शक्ति; मसँग ⟨छ⟩ पराक्रम।",
+  "tokens": [
+    {
+      "surface": "לי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "עצה",
+      "gloss": "परामर्श"
+    },
+    {
+      "surface": "ותושיה",
+      "gloss": "र दृढ बुद्धि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "बुझ्ने शक्ति"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "גבורה",
+      "gloss": "पराक्रम"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:22.162666813Z",
+  "model": "glm-5.3"
+}

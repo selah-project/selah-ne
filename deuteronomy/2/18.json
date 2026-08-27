@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "deuteronomy 2:18",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "तिमी आज मोआबको सीमा ⟨את⟩ — अरलाई — ⟨את⟩ पार गर्दैछौ।",
+  "tokens": [
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "עבר",
+      "gloss": "पार गर्दैछौ"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मोआबको सीमा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "अर"
+    },
+    {
+      "surface": "ער",
+      "gloss": "अर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:29.617968270Z",
+  "model": "glm-5.3"
+}

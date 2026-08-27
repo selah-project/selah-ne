@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "esther 4:9",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "हाताक आउनुभयो र एस्तरलाई मर्दोखैका वचनहरू ⟨את⟩ बतायो।",
+  "tokens": [
+    {
+      "surface": "ויבוא",
+      "gloss": "आउनुभयो"
+    },
+    {
+      "surface": "התך",
+      "gloss": "हाताक"
+    },
+    {
+      "surface": "ויגד",
+      "gloss": "बतायो"
+    },
+    {
+      "surface": "לאסתר",
+      "gloss": "एस्तरलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "वचनहरू"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मर्दोखैका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:53:32.836040876Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ecclesiastes 7:27",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "हेर, यो मैले पाएँ — कोहेलेतले भनी: एक⟨सँग⟩एक जोडेर हिसाब पाउन।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "מצאתי",
+      "gloss": "मैले पाएँ"
+    },
+    {
+      "surface": "אמרה",
+      "gloss": "भन्दै भनी"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "कोहेलेत"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לאחת",
+      "gloss": "सँग एक"
+    },
+    {
+      "surface": "למצא",
+      "gloss": "पाउन"
+    },
+    {
+      "surface": "חשबון",
+      "gloss": "हिसाब"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:05.463305994Z",
+  "model": "glm-5.3"
+}

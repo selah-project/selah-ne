@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 21:25",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "अनि दावीदले त्यस स्थानको लागि अर्नानलाई सुनका शेकेलहरू, तौलमा छ सय दिए।",
+  "tokens": [
+    {
+      "surface": "ויתן",
+      "gloss": "दिए"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दावीदले"
+    },
+    {
+      "surface": "לארנן",
+      "gloss": "अर्नानलाई"
+    },
+    {
+      "surface": "במקום",
+      "gloss": "स्थानको लागि"
+    },
+    {
+      "surface": "שקלי",
+      "gloss": "शेकेलहरू"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनका"
+    },
+    {
+      "surface": "משקל",
+      "gloss": "तौलमा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:10.728685245Z",
+  "model": "glm-5.3"
+}

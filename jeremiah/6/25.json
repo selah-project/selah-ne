@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "jeremiah 6:25",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "खेतमा नजाऊ र बाटोमा नहिँड -- किनभने शत्रुको तरवार ⟨हो⟩, वरपर त्रास ⟨हो⟩।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תצאי",
+      "gloss": "नजाऊ"
+    },
+    {
+      "surface": "השדה",
+      "gloss": "खेतमा"
+    },
+    {
+      "surface": "ובדרך",
+      "gloss": "र बाटोमा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תלכי",
+      "gloss": "नहिँड"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "לאיב",
+      "gloss": "शत्रुको"
+    },
+    {
+      "surface": "מגור",
+      "gloss": "त्रास"
+    },
+    {
+      "surface": "מסביב",
+      "gloss": "वरपर"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:09.684114608Z",
+  "model": "glm-5.3"
+}

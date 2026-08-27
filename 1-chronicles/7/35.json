@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "1-chronicles 7:35",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "उनका भाइ हेलेमका छोराहरू त्सोपाख, यिम्ना, शेलेश र अमाल थिए।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "הלם",
+      "gloss": "हेलेम"
+    },
+    {
+      "surface": "אחיו",
+      "gloss": "उनका भाइ"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोपाख"
+    },
+    {
+      "surface": "וימנע",
+      "gloss": "र यिम्ना"
+    },
+    {
+      "surface": "ושלש",
+      "gloss": "र शेलेश"
+    },
+    {
+      "surface": "ועמל",
+      "gloss": "र अमाल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:31.450038529Z",
+  "model": "glm-5.3"
+}

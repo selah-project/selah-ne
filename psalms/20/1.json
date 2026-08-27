@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 20:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "सङ्गीतनिर्देशकका लागि — दाऊदको मिज़मोर।",
+  "tokens": [
+    {
+      "surface": "למנצח",
+      "gloss": "सङ्गीतनिर्देशकका लागि"
+    },
+    {
+      "surface": "מזמור",
+      "gloss": "मिज़मोर"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊदका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:52:28.257721243Z",
+  "model": "glm-5.3"
+}

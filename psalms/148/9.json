@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 148:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 148,
+  "translation": "पहाडहरू र सबै डाँडाहरू, फलफूलका रूखहरू र सबै देवदारहरू —",
+  "tokens": [
+    {
+      "surface": "ההרים",
+      "gloss": "पहाडहरू"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "גבעות",
+      "gloss": "डाँडाहरू"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "रूखहरू"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फलफूल"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "ארזים",
+      "gloss": "देवदारहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:16.151613716Z",
+  "model": "glm-5.3"
+}

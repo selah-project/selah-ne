@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "lamentations 3:28",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "उसले एक्लै बसोस् र मौन रहोस्, किनकि ⟨उसले⟩ त्यो आफूमाथि उठाएको छ।",
+  "tokens": [
+    {
+      "surface": "ישב",
+      "gloss": "बसोस्"
+    },
+    {
+      "surface": "בדד",
+      "gloss": "एक्लै"
+    },
+    {
+      "surface": "וידם",
+      "gloss": "र मौन रहोस्"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "נטל",
+      "gloss": "उठाएको छ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "आफूमाथि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:46:45.150181464Z",
+  "model": "glm-5.3"
+}

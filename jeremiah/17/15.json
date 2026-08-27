@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "jeremiah 17:15",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "हेर, तिनीहरू मलाई भन्छन्: \"यहवेको वचन कहाँ छ? आओस् न!\"",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "המה",
+      "gloss": "तिनीहरू"
+    },
+    {
+      "surface": "אמרים",
+      "gloss": "भन्छन्"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ छ"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आओस्"
+    },
+    {
+      "surface": "נא",
+      "gloss": "न"
+    }
+  ],
+  "timestamp": "2026-08-27T02:05:11.411790916Z",
+  "model": "glm-5.3"
+}

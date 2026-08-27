@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 18:23",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "निवेदन ⟨गर्दै⟩ बोल्छ गरिब, तर धनी कठोरतापूर्वक उत्तर दिन्छ।",
+  "tokens": [
+    {
+      "surface": "תחנונים",
+      "gloss": "निवेदन"
+    },
+    {
+      "surface": "ידबר",
+      "gloss": "बोल्छ"
+    },
+    {
+      "surface": "רש",
+      "gloss": "गरिब"
+    },
+    {
+      "surface": "ועשיר",
+      "gloss": "तर धनी"
+    },
+    {
+      "surface": "יענה",
+      "gloss": "उत्तर दिन्छ"
+    },
+    {
+      "surface": "עזות",
+      "gloss": "कठोरतापूर्वक"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:34.142288134Z",
+  "model": "glm-5.3"
+}

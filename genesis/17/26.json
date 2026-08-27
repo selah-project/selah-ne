@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "genesis 17:26",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "त्यही दिन नै अभ्राहाम र यिश्माएल उनका छोराको सुन्नत गरियो।",
+  "tokens": [
+    {
+      "surface": "בעצם",
+      "gloss": "नै त्यही"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "נמול",
+      "gloss": "सुन्नत गरियो"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "וישמעאל",
+      "gloss": "र यिश्माएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:45:38.476893867Z",
+  "model": "glm-5.3"
+}

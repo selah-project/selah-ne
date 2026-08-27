@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "jeremiah 42:7",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "दस दिनको अन्त्यपछि ङिर्मयाहुकहाँ यहवेको वचन आयो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "מקץ",
+      "gloss": "अन्त्यपछि"
+    },
+    {
+      "surface": "עשרת",
+      "gloss": "दस"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ויהי",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "—कहाँ"
+    },
+    {
+      "surface": "ירמיהו",
+      "gloss": "ङिर्मयाहु"
+    }
+  ],
+  "timestamp": "2026-08-26T23:05:07.433224132Z",
+  "model": "glm-5.3"
+}

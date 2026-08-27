@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 29:3",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "तर यहवेले तिमीहरूलाई जान्ने हृदय, देख्ने आँखाहरू र सुन्ने कानहरू यस दिनसम्म दिनुभएन।",
+  "tokens": [
+    {
+      "surface": "ולא",
+      "gloss": "तर …एन"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिनुभएन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "לב",
+      "gloss": "हृदय"
+    },
+    {
+      "surface": "לדעת",
+      "gloss": "जान्ने"
+    },
+    {
+      "surface": "ועינים",
+      "gloss": "र आँखाहरू"
+    },
+    {
+      "surface": "לראות",
+      "gloss": "देख्ने"
+    },
+    {
+      "surface": "ואזנים",
+      "gloss": "र कानहरू"
+    },
+    {
+      "surface": "לשמע",
+      "gloss": "सुन्ने"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "यस दिन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    }
+  ],
+  "timestamp": "2026-08-26T21:05:55.178876572Z",
+  "model": "glm-5.3"
+}

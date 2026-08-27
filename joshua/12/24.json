@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "joshua 12:24",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "तिर्साको राजा एक; सबै राजा एकतीस।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "תרצה",
+      "gloss": "तिर्साको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "מלכים",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "र एक"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:39.483031577Z",
+  "model": "glm-5.3"
+}

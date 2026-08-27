@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "lamentations 5:12",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "सरदारहरू आफ्नै हातले झुण्डिए, वृद्धहरूका अनुहारलाई आदर गरिएन।",
+  "tokens": [
+    {
+      "surface": "שרים",
+      "gloss": "सरदारहरू"
+    },
+    {
+      "surface": "בידם",
+      "gloss": "आफ्नै हातले"
+    },
+    {
+      "surface": "נתלו",
+      "gloss": "झुण्डिए"
+    },
+    {
+      "surface": "פני",
+      "gloss": "अनुहारलाई"
+    },
+    {
+      "surface": "זקנים",
+      "gloss": "वृद्धहरूका"
+    },
+    {
+      "surface": "לא",
+      "gloss": "गरिएन"
+    },
+    {
+      "surface": "נהדרו",
+      "gloss": "आदर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:43.494603031Z",
+  "model": "glm-5.3"
+}

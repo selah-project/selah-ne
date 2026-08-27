@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ecclesiastes 2:5",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "मैले आफ्नाका लागि बगैंचाहरू र फरपरदेसहरू बनाएँ, र तिनमा हरेक फलका रूखहरू रोपें।",
+  "tokens": [
+    {
+      "surface": "עשיתי",
+      "gloss": "बनाएँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "आफ्नाका लागि"
+    },
+    {
+      "surface": "גנות",
+      "gloss": "बगैंचाहरू"
+    },
+    {
+      "surface": "ופרדסים",
+      "gloss": "र फरपरदेसहरू"
+    },
+    {
+      "surface": "ונטעתי",
+      "gloss": "र रोपें"
+    },
+    {
+      "surface": "בהם",
+      "gloss": "तिनमा"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "रूखहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "פרי",
+      "gloss": "फल"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:52.543664770Z",
+  "model": "glm-5.3"
+}

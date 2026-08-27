@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 26:18",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "पागल बन्न नाट गर्नेले झिल्का, बाण र मृत्यु फाल्छ ⟨जस्तै⟩ —",
+  "tokens": [
+    {
+      "surface": "כמתלהלה",
+      "gloss": "पागल जस्तै नाट गर्ने"
+    },
+    {
+      "surface": "הירה",
+      "gloss": "फाल्ने"
+    },
+    {
+      "surface": "זקים",
+      "gloss": "झिल्का"
+    },
+    {
+      "surface": "חצים",
+      "gloss": "बाण"
+    },
+    {
+      "surface": "ומות",
+      "gloss": "र मृत्यु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:17.899330272Z",
+  "model": "glm-5.3"
+}

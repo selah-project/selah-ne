@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 48,
+  "ref": "genesis 31:48",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "अनि लाभानले भने, यो थाक आज म र तिमीबीच साक्षी हो; यसैले त्यसको नाम गलएद भनियो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "अनि…भने"
+    },
+    {
+      "surface": "לבן",
+      "gloss": "लाभानले"
+    },
+    {
+      "surface": "הגל",
+      "gloss": "यो थाक"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "ביני",
+      "gloss": "म…बीच"
+    },
+    {
+      "surface": "ובינך",
+      "gloss": "र तिमीबीच"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "על",
+      "gloss": "यसैले…का कारण"
+    },
+    {
+      "surface": "כן",
+      "gloss": "यसैले"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "भनियो"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "त्यसको नाम"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गलएद"
+    }
+  ],
+  "timestamp": "2026-08-26T19:54:30.099288299Z",
+  "model": "glm-5.3"
+}

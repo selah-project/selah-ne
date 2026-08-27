@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 35,
+  "ref": "leviticus 23:35",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "पहिलो दिनमा पवित्र भेला ⟨हुनेछ⟩; तिमीहरूले कुनै पनि सेवा-काम गर्नेछौ कि नगर्नेछौ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "הראשון",
+      "gloss": "पहिलो"
+    },
+    {
+      "surface": "מקרא",
+      "gloss": "भेला"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "पवित्र"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै पनि"
+    },
+    {
+      "surface": "מלאכת",
+      "gloss": "काम"
+    },
+    {
+      "surface": "עבדה",
+      "gloss": "सेवा-"
+    },
+    {
+      "surface": "לא",
+      "gloss": "नगर्नेछौ कि"
+    },
+    {
+      "surface": "תעשו",
+      "gloss": "गर्नेछौ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:35.940077909Z",
+  "model": "glm-5.3"
+}

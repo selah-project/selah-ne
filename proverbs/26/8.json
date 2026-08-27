@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 26:8",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "गोफामा ढुङ्गा बाँध्नुझैँ, कसैले मूर्खलाई मान दिन्छ।",
+  "tokens": [
+    {
+      "surface": "כצרור",
+      "gloss": "बाँध्नुझैँ"
+    },
+    {
+      "surface": "אבן",
+      "gloss": "ढुङ्गा"
+    },
+    {
+      "surface": "במרגמה",
+      "gloss": "गोफामा"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसरी नै"
+    },
+    {
+      "surface": "נותן",
+      "gloss": "दिन्छ"
+    },
+    {
+      "surface": "לכסיל",
+      "gloss": "मूर्खलाई"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "मान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:37.727156515Z",
+  "model": "glm-5.3"
+}

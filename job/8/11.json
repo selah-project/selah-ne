@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "job 8:11",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "के दलदलविना गोमे उब्जन्छ? पानीविना खर्खरुवा बढ्छ?",
+  "tokens": [
+    {
+      "surface": "היגאה",
+      "gloss": "के ... उब्जन्छ?"
+    },
+    {
+      "surface": "גמא",
+      "gloss": "गोमे"
+    },
+    {
+      "surface": "בלא",
+      "gloss": "विना"
+    },
+    {
+      "surface": "בצה",
+      "gloss": "दलदल"
+    },
+    {
+      "surface": "ישגה",
+      "gloss": "बढ्छ?"
+    },
+    {
+      "surface": "אחו",
+      "gloss": "खर्खरुवा"
+    },
+    {
+      "surface": "בלי",
+      "gloss": "विना"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:31:18.086680868Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "numbers 14:26",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "तब यहवेले मोशे र अहरोनलाई यसो भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "तब बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र लाई"
+    },
+    {
+      "surface": "אהרן",
+      "gloss": "अहरोन"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्नुभयो —"
+    }
+  ],
+  "timestamp": "2026-08-27T01:52:38.422552234Z",
+  "model": "glm-5.3"
+}

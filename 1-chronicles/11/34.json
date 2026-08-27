@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "1-chronicles 11:34",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "हाशेम गिजोनीका छोराहरू, योनातान सागेको छोरा, हारारी।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "השם",
+      "gloss": "हाशेम"
+    },
+    {
+      "surface": "הגזוני",
+      "gloss": "गिजोनीका"
+    },
+    {
+      "surface": "יונתן",
+      "gloss": "योनातान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שגה",
+      "gloss": "सागेको"
+    },
+    {
+      "surface": "ההררי",
+      "gloss": "हारारी"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:59.541507847Z",
+  "model": "glm-5.3"
+}

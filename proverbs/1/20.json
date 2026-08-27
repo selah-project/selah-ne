@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "proverbs 1:20",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "ज्ञान बाहिर कराउँछे, चौडा चोकहरूमा ⟨आफ्नो⟩ स्वर दिन्छे।",
+  "tokens": [
+    {
+      "surface": "חכמות",
+      "gloss": "ज्ञान"
+    },
+    {
+      "surface": "בחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "תרנה",
+      "gloss": "कराउँछे"
+    },
+    {
+      "surface": "ברחבות",
+      "gloss": "चौडा चोकहरूमा"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दिन्छे"
+    },
+    {
+      "surface": "קולה",
+      "gloss": "⟨आफ्नो⟩ स्वर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:28.917578957Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "zechariah 2:5",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "मैले आफ्ना आँखा उठाएँ र देखेँ, र हेर्, एक ⟨पुरुष⟩ — र उनको हातमा नाप्ने डोरी।",
+  "tokens": [
+    {
+      "surface": "ואשא",
+      "gloss": "मैले उठाएँ"
+    },
+    {
+      "surface": "עיני",
+      "gloss": "आफ्ना आँखा"
+    },
+    {
+      "surface": "וארא",
+      "gloss": "र देखेँ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर्"
+    },
+    {
+      "surface": "איש",
+      "gloss": "एक ⟨पुरुष⟩"
+    },
+    {
+      "surface": "ובידו",
+      "gloss": "र उनको हातमा"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "नाप्ने डोरी"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "नाप"
+    }
+  ],
+  "timestamp": "2026-08-27T02:12:45.644338309Z",
+  "model": "glm-5.3"
+}

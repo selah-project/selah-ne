@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "leviticus 11:37",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र यदि तिनीहरूको शवमध्येको केही यस्तो जुताइएको बीउमा, जुन जुतिनेछ, खस्छ भने त्यो शुद्ध छ।",
+  "tokens": [
+    {
+      "surface": "וכי",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "יפל",
+      "gloss": "खस्छ"
+    },
+    {
+      "surface": "מנבלתם",
+      "gloss": "तिनीहरूको शवमध्येको केही"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "जुनसुकै"
+    },
+    {
+      "surface": "זרע",
+      "gloss": "बीउ"
+    },
+    {
+      "surface": "זרוע",
+      "gloss": "जुताइएको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "יזרע",
+      "gloss": "जुतिनेछ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "छ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:25.571889163Z",
+  "model": "glm-5.3"
+}

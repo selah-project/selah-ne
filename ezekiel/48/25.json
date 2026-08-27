@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "ezekiel 48:25",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र शिमओनको सीमामा, पूर्व दिशादेखि पश्चिम दिशासम्म — यिसास्खार ⟨एउटा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "שמעון",
+      "gloss": "शिमओनको"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "दिखादेखि"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "יששכר",
+      "gloss": "यिसास्खार"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:32:03.678202341Z",
+  "model": "glm-5.3"
+}

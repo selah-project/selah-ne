@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "deuteronomy 3:23",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र त्यस समयमा म यहवेकहाँ बिन्ती गर्दै भनेँ:",
+  "tokens": [
+    {
+      "surface": "ואתחנן",
+      "gloss": "बिन्ती गर्दै भनेँ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "त्यस समयमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:48.415769732Z",
+  "model": "glm-5.3"
+}

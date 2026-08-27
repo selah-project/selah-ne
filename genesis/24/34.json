@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 24:34",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "तब उहाँले भन्नुभयो, म अभ्राहामको दास हुँ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    }
+  ],
+  "timestamp": "2026-08-26T19:49:57.516157485Z",
+  "model": "glm-5.3"
+}

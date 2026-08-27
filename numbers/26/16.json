@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "numbers 26:16",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "ल-ओज्नीका ⟨ल⟩ ⟨the⟩ ओज्नी परिवार; ल-एरीका ⟨ल⟩ ⟨the⟩ एरी परिवार।",
+  "tokens": [
+    {
+      "surface": "לאזני",
+      "gloss": "ल-ओज्नी"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "परिवार"
+    },
+    {
+      "surface": "האזני",
+      "gloss": "ओज्नी"
+    },
+    {
+      "surface": "לערי",
+      "gloss": "ल-एरी"
+    },
+    {
+      "surface": "मשפחת",
+      "gloss": "परिवार"
+    },
+    {
+      "surface": "הערי",
+      "gloss": "एरी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:45.816619892Z",
+  "model": "glm-5.3"
+}

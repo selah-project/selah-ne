@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "1-chronicles 2:47",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "यह्दाइका छोराहरू: रेगेम, योताम, गेशान, पेलेत, एय्फा र शाअफ।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יהדי",
+      "gloss": "यह्दाइका"
+    },
+    {
+      "surface": "רגם",
+      "gloss": "रेगेम"
+    },
+    {
+      "surface": "ויותם",
+      "gloss": "योताम"
+    },
+    {
+      "surface": "וגישן",
+      "gloss": "गेशान"
+    },
+    {
+      "surface": "ופלט",
+      "gloss": "पेलेत"
+    },
+    {
+      "surface": "ועיפה",
+      "gloss": "एय्फा"
+    },
+    {
+      "surface": "ושעף",
+      "gloss": "शाअफ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:18.436322027Z",
+  "model": "glm-5.3"
+}

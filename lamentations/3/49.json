@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 49,
+  "ref": "lamentations 3:49",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "मेरो आँखा बगिरह्यो, र त्यो शान्त हुनेछैन, बिना कुनै विश्रामका।",
+  "tokens": [
+    {
+      "surface": "עיני",
+      "gloss": "मेरो आँखा"
+    },
+    {
+      "surface": "נגרה",
+      "gloss": "बगिरह्यो"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र-होइन"
+    },
+    {
+      "surface": "תדמה",
+      "gloss": "शान्त हुनेछैन"
+    },
+    {
+      "surface": "מאין",
+      "gloss": "बिना"
+    },
+    {
+      "surface": "הפגות",
+      "gloss": "विश्रामहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:09.553107649Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "exodus 22:17",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "जादूगर्नीलाई तिमी जीवित राख्नेछैनौ।",
+  "tokens": [
+    {
+      "surface": "מכשפה",
+      "gloss": "जादूगर्नी"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תחיה",
+      "gloss": "जीवित राख्नेछैनौ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:12:26.828643027Z",
+  "model": "glm-5.3"
+}

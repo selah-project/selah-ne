@@ -1,0 +1,74 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "ecclesiastes 2:17",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "त्यसैले मैले ⟨את⟩ जीवनलाई घृणा गरेँ, किनभने सूर्यको तल गरिएको काम मलाई खराब लाग्यो, किनभने ⟨the⟩ सारा कुरा हेबेल र रुहको क्लेश हो।",
+  "tokens": [
+    {
+      "surface": "ושנאתי",
+      "gloss": "घृणा गरेँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जीवन"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "המעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "שנעשה",
+      "gloss": "गरिएको"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "השמש",
+      "gloss": "सूर्य"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "הכל",
+      "gloss": "सारा कुरा"
+    },
+    {
+      "surface": "הבל",
+      "gloss": "हेबेल"
+    },
+    {
+      "surface": "ורעות",
+      "gloss": "क्लेश"
+    },
+    {
+      "surface": "רוח",
+      "gloss": "रुह"
+    }
+  ],
+  "timestamp": "2026-08-27T00:49:38.778375684Z",
+  "model": "glm-5.3"
+}

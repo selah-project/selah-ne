@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 8:18",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "धन र महिमा मसँग ⟨את⟩ छन्, टिकाउ धन र धर्मिता पनि।",
+  "tokens": [
+    {
+      "surface": "עשר",
+      "gloss": "धन"
+    },
+    {
+      "surface": "וכבוד",
+      "gloss": "र महिमा"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩ मसँग छन्",
+      "marks": "धन र महिमा"
+    },
+    {
+      "surface": "הון",
+      "gloss": "टिकाउ धन"
+    },
+    {
+      "surface": "עתק",
+      "gloss": "टिकाउ"
+    },
+    {
+      "surface": "וצדקה",
+      "gloss": "र धर्मिता"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:58.056298610Z",
+  "model": "glm-5.3"
+}

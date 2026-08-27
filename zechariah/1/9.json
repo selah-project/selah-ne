@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "zechariah 1:9",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "तब मैले भनेँ, हे मेरा अदोनाइ, यी को हुन्? र मलाई सोध्ने मलाकले मलाई भन्यो, म तिमीलाई देखाउँछु कि यी को हुन्।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "तब मैले भनेँ"
+    },
+    {
+      "surface": "מה",
+      "gloss": "को"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "मेरा अदोनाइ"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "המלאך",
+      "gloss": "मलाकले"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "सोध्ने"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אראך",
+      "gloss": "तिमीलाई देखाउँछु"
+    },
+    {
+      "surface": "מה",
+      "gloss": "कि को"
+    },
+    {
+      "surface": "המה",
+      "gloss": "तिनीहरू"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    }
+  ],
+  "timestamp": "2026-08-26T23:44:39.729072112Z",
+  "model": "glm-5.3"
+}

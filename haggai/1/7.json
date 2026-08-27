@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "haggai 1:7",
+  "book": "haggai",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "त्सबाओतका यहवेले यसो भन्नुभयो: आफ्ना बाटाहरूमाथि आफ्नो हृदय राख।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אमר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "त्सबाओतका"
+    },
+    {
+      "surface": "שימו",
+      "gloss": "राख"
+    },
+    {
+      "surface": "לבבכם",
+      "gloss": "आफ्नो हृदय"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "דרכיכם",
+      "gloss": "आफ्ना बाटाहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T23:44:30.071157309Z",
+  "model": "glm-5.3"
+}

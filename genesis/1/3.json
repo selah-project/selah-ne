@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 1:3",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अनि परमेश्वरले भन्नुभयो, \"उज्यालो होओस्,\" र उज्यालो भयो।",
+  "tokens": [
+    {
+      "surface": "वयोमर",
+      "gloss": "अनि ...भन्नुभयो"
+    },
+    {
+      "surface": "एलोहिम",
+      "gloss": "एलोहिमले"
+    },
+    {
+      "surface": "येहि",
+      "gloss": "होओस्"
+    },
+    {
+      "surface": "ओर",
+      "gloss": "उज्यालो"
+    },
+    {
+      "surface": "वयेहि",
+      "gloss": "र ...भयो"
+    },
+    {
+      "surface": "ओर",
+      "gloss": "उज्यालो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:40:28.564445905Z",
+  "model": "glm-5.3"
+}

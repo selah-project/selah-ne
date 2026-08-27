@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "ezekiel 36:16",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "र यहवेको वचन मसमक्ष आयो, यसो भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र ⟨यो⟩ भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसमक्ष"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:26:29.049301813Z",
+  "model": "glm-5.3"
+}

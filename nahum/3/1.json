@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "nahum 3:1",
+  "book": "nahum",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "हाय रगतको सहर! यो सबै झुट र हिंसात्मक लुटले भरिएको छ; शिकार बिदा हुँदैन।",
+  "tokens": [
+    {
+      "surface": "הוי",
+      "gloss": "हाय"
+    },
+    {
+      "surface": "עיר",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "דמים",
+      "gloss": "रगतको"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "यो सबै"
+    },
+    {
+      "surface": "כחש",
+      "gloss": "झुट"
+    },
+    {
+      "surface": "פרק",
+      "gloss": "हिंसात्मक लुट"
+    },
+    {
+      "surface": "מלאה",
+      "gloss": "भरिएको छ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ימיש",
+      "gloss": "बिदा हुँदैन"
+    },
+    {
+      "surface": "טרף",
+      "gloss": "शिकार"
+    }
+  ],
+  "timestamp": "2026-08-26T23:42:26.718329929Z",
+  "model": "glm-5.3"
+}

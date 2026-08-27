@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "job 11:9",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "⟨त्यसको⟩ माप भन्दा पृथ्वी लामो छ ⟨र⟩ सागरभन्दा फराकिलो छ।",
+  "tokens": [
+    {
+      "surface": "ארכה",
+      "gloss": "लामो"
+    },
+    {
+      "surface": "מארץ",
+      "gloss": "भन्दा पृथ्वी"
+    },
+    {
+      "surface": "מדה",
+      "gloss": "माप"
+    },
+    {
+      "surface": "ורחבה",
+      "gloss": "र फराकिलो"
+    },
+    {
+      "surface": "मני",
+      "gloss": "भन्दा"
+    },
+    {
+      "surface": "ים",
+      "gloss": "सागर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:32:12.132632385Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,62 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "jeremiah 36:11",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "मीखायाहले — गमर्याहको छोरा, शाफानको नाति — यहवेका सबै वचनहरू ⟨את⟩ पुस्तकबाट सुन्यो,",
+  "tokens": [
+    {
+      "surface": "וישמע",
+      "gloss": "सुन्यो"
+    },
+    {
+      "surface": "מכיהו",
+      "gloss": "मीखायाहले"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "גמריהו",
+      "gloss": "गमर्याहको"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "שפן",
+      "gloss": "शाफानको"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै वचनहरू"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेका"
+    },
+    {
+      "surface": "מעל",
+      "gloss": "…बाट"
+    },
+    {
+      "surface": "הספר",
+      "gloss": "पुस्तक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:00:46.913779293Z",
+  "model": "glm-5.3"
+}

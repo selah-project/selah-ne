@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 105:23",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 105,
+  "translation": "यिस्राएल मिस्रमा आयो, र याकोभ खामको देशमा परदेसी भयो।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आयो"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्रमा"
+    },
+    {
+      "surface": "ויעקב",
+      "gloss": "र याकोभ"
+    },
+    {
+      "surface": "גר",
+      "gloss": "परदेसी भयो"
+    },
+    {
+      "surface": "באरץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खामको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:10:48.924286728Z",
+  "model": "glm-5.3"
+}

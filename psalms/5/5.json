@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "psalms 5:5",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "किनकि तपाईं राम्रोमन पाउने एल हुनुहुन्न; तपाईंसँग नराम्रो बस्नेछैन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "חפץ",
+      "gloss": "राम्रोमन पाउने"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तपाईं"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יגרך",
+      "gloss": "तपाईंसँग बस्नेछैन"
+    },
+    {
+      "surface": "רע",
+      "gloss": "नराम्रो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:50.176349550Z",
+  "model": "glm-5.3"
+}

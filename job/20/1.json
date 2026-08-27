@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "job 20:1",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "अनि त्सोफर नामातीले उत्तर दिए र भने,",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "उत्तर दिए"
+    },
+    {
+      "surface": "צפר",
+      "gloss": "त्सोफर"
+    },
+    {
+      "surface": "הנעמתי",
+      "gloss": "नामाती"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    }
+  ],
+  "timestamp": "2026-08-27T00:35:23.971367598Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "joshua 19:36",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र अदामाह, र हारामाह, र खात्सोर।",
+  "tokens": [
+    {
+      "surface": "ואדמה",
+      "gloss": "र अदामाह"
+    },
+    {
+      "surface": "והרמה",
+      "gloss": "र हारामाह"
+    },
+    {
+      "surface": "וחצור",
+      "gloss": "र खात्सोर"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:54.710272950Z",
+  "model": "glm-5.3"
+}

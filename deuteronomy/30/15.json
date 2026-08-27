@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "deuteronomy 30:15",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "हेर, आज मैले तिम्रो सामु राखेको छु — ⟨את⟩ जीवन र ⟨את⟩ भलाइलाई, तर ⟨את⟩ मृत्यु र ⟨את⟩ नराम्राइलाई।",
+  "tokens": [
+    {
+      "surface": "ראה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "נתתי",
+      "gloss": "मैले राखेको छु"
+    },
+    {
+      "surface": "לפניך",
+      "gloss": "तिम्रो सामु"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "जीवन"
+    },
+    {
+      "surface": "החיים",
+      "gloss": "जीवन"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "भलाइ"
+    },
+    {
+      "surface": "הטוב",
+      "gloss": "भलाइ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "मृत्यु"
+    },
+    {
+      "surface": "המות",
+      "gloss": "मृत्यु"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "नराम्राइ"
+    },
+    {
+      "surface": "הרע",
+      "gloss": "नराम्राइ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:06:55.681024595Z",
+  "model": "glm-5.3"
+}

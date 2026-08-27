@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 52:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 52,
+  "translation": "तिमीले निगल्ने सबै वचनहरूलाई प्रेम गर्यौ, हे छली जिभ्रो।",
+  "tokens": [
+    {
+      "surface": "אהבת",
+      "gloss": "तिमीले ... प्रेम गर्यौ"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "वचनहरूलाई"
+    },
+    {
+      "surface": "בלע",
+      "gloss": "निगल्ने"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जिभ्रो"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छली"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:39.998314353Z",
+  "model": "glm-5.3"
+}

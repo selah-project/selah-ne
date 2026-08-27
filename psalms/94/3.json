@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 94:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 94,
+  "translation": "कति सम्सम्म, हे यहवे, कति सम्सम्म दुष्टहरू रमाउनेछन्?",
+  "tokens": [
+    {
+      "surface": "עד",
+      "gloss": "कति"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "सम्सम्म"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "कति"
+    },
+    {
+      "surface": "מתי",
+      "gloss": "सम्सम्म"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरू"
+    },
+    {
+      "surface": "יעלזו",
+      "gloss": "रमाउनेछन्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:37.808655818Z",
+  "model": "glm-5.3"
+}

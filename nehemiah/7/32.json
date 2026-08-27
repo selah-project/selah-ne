@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "nehemiah 7:32",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बेत-एल र हाईका मानिसहरू — एक सय तेइस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एलका"
+    },
+    {
+      "surface": "והעי",
+      "gloss": "र हाई"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושלשה",
+      "gloss": "र तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:44.883304556Z",
+  "model": "glm-5.3"
+}

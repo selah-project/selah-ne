@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "isaiah 2:5",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "हे याकोभको घराना, आउनुहोस्, र यहवेको उज्यालोमा हिँडौं।",
+  "tokens": [
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभको"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "आउनुहोस्"
+    },
+    {
+      "surface": "ונלכה",
+      "gloss": "र हिँडौं"
+    },
+    {
+      "surface": "באור",
+      "gloss": "उज्यालोमा"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    }
+  ],
+  "timestamp": "2026-08-26T22:22:53.346027111Z",
+  "model": "glm-5.3"
+}

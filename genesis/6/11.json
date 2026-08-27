@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "genesis 6:11",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र पृथ्वी एलोहीमको सामु भ्रष्ट भयो, र पृथ्वी हिंसाले भरियो।",
+  "tokens": [
+    {
+      "surface": "ותשחת",
+      "gloss": "र भ्रष्ट भयो"
+    },
+    {
+      "surface": "האरץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "ותמלא",
+      "gloss": "र भरियो"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंसाले"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:54.504441953Z",
+  "model": "glm-5.3"
+}

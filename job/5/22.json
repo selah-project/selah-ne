@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "job 5:22",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "विनाश र अकालमा तिमी हाँस्नेछौ, र पृथ्वीका जनावरहरूबाट डराउनेछैनौ।",
+  "tokens": [
+    {
+      "surface": "לשד",
+      "gloss": "विनाशमा"
+    },
+    {
+      "surface": "ולכפן",
+      "gloss": "र अकालमा"
+    },
+    {
+      "surface": "תשחק",
+      "gloss": "तिमी हाँस्नेछौ"
+    },
+    {
+      "surface": "ומחית",
+      "gloss": "र … बाट"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न… (negation absorbed into verb)"
+    },
+    {
+      "surface": "תירא",
+      "gloss": "डराउनेछैनौ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:30:43.679229284Z",
+  "model": "glm-5.3"
+}

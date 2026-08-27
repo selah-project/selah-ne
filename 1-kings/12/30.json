@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "1-kings 12:30",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र यो कुरा पाप बन्यो, र जनता ⟨एक ⟨את⟩ गोरु⟩को अघि जान थाले, दानसम्म।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "यो कुरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पाप बन्यो"
+    },
+    {
+      "surface": "וילכו",
+      "gloss": "जान थाले"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अघि"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक ⟨את⟩ गोरु"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    }
+  ],
+  "timestamp": "2026-08-26T22:03:27.899051518Z",
+  "model": "glm-5.3"
+}

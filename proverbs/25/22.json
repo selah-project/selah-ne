@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "proverbs 25:22",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "किनकि तिमी उसको टाउकोमा अंगारा थाप्छौ, र यहवे तिमीलाई ⟨प्रतिफल⟩ तिर्नुहुनेछ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "גחלים",
+      "gloss": "अंगारा"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "חתה",
+      "gloss": "थाप्छौ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ראשו",
+      "gloss": "उसको टाउको"
+    },
+    {
+      "surface": "ויהוה",
+      "gloss": "र यहवे"
+    },
+    {
+      "surface": "ישלם",
+      "gloss": "तिर्नुहुनेछ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:27.937190204Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,35 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 11:14",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र ⟨את⟩ दाआ, र ⟨את⟩ अय्या — त्यसको प्रकारअनुसार।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "दाआ"
+    },
+    {
+      "surface": "हדאה",
+      "gloss": "दाआ"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "अय्या"
+    },
+    {
+      "surface": "האיה",
+      "gloss": "अय्या"
+    },
+    {
+      "surface": "למינה",
+      "gloss": "त्यसको प्रकारअनुसार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:58.344613105Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 46:23",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 46,
+  "translation": "अनि दानका छोराहरू: खुशिम।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "अनि …का छोराहरू"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "חשים",
+      "gloss": "खुशिम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:01:22.677329720Z",
+  "model": "glm-5.3"
+}

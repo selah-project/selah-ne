@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "proverbs 6:21",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "तिनलाई सधैँ आफ्नो हृदयमा बाँध, तिनलाई आफ्नो घाँटीमा बाँध।",
+  "tokens": [
+    {
+      "surface": "קשרם",
+      "gloss": "बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "לבך",
+      "gloss": "आफ्नो हृदय"
+    },
+    {
+      "surface": "תמיד",
+      "gloss": "सधैँ"
+    },
+    {
+      "surface": "ענדם",
+      "gloss": "बाँध"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "גרגרתך",
+      "gloss": "आफ्नो घाँटी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:22.617845789Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "jonah 1:1",
+  "book": "jonah",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अनि यहवेको वचन अमित्ताइको छोरा योनाकहाँ आयो, भन्नू भएको थियो —",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "अनि…आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "יונה",
+      "gloss": "योना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אמתי",
+      "gloss": "अमित्ताइको"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नू भएको थियो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:39:54.985216258Z",
+  "model": "glm-5.3"
+}

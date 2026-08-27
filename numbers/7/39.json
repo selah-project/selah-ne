@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "numbers 7:39",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एक बछडा, गाईवस्तुको सन्तान; एक भाले बेटा; एक एक वर्षको भाले पाठा, बलिदानका लागि।",
+  "tokens": [
+    {
+      "surface": "פר",
+      "gloss": "बछडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाईवस्तुको"
+    },
+    {
+      "surface": "איל",
+      "gloss": "भाले बेटा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "भाले पाठा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "सन्तान"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक वर्षको"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "बलिदानका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:51.748107655Z",
+  "model": "glm-5.3"
+}

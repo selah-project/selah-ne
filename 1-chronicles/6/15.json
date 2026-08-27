@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 6:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "शिमा उनका छोरा, चग्गिया उनका छोरा, असाया उनका छोरा।",
+  "tokens": [
+    {
+      "surface": "שמעא",
+      "gloss": "शिमा"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "חגיה",
+      "gloss": "चग्गिया"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    },
+    {
+      "surface": "עשיה",
+      "gloss": "असाया"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उनका छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:21:32.356421002Z",
+  "model": "glm-5.3"
+}

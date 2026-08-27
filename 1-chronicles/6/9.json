@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 6:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "तखत उसको छोरा, ऊरिएल उसको छोरा, उज्जियाह उसको छोरा, र शाऊल उसको छोरा।",
+  "tokens": [
+    {
+      "surface": "תחת",
+      "gloss": "तखत"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "אוריאל",
+      "gloss": "ऊरिएल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "עזיה",
+      "gloss": "उज्जियाह"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    },
+    {
+      "surface": "ושאול",
+      "gloss": "र शाऊल"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:34.673998833Z",
+  "model": "glm-5.3"
+}

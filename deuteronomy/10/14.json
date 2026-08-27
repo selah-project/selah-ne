@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "deuteronomy 10:14",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "हेर, आकाशहरू र आकाशहरूका आकाशहरू, ⟨the⟩ पृथ्वी र त्यसमा भएको सबै कुरा यहवे तिम्रा एलोहीमका हुन्।",
+  "tokens": [
+    {
+      "surface": "הן",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेका"
+    },
+    {
+      "surface": "אלהיך",
+      "gloss": "तिम्रा एलोहीमका"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशहरू"
+    },
+    {
+      "surface": "ושמי",
+      "gloss": "र आकाशहरूका"
+    },
+    {
+      "surface": "השמים",
+      "gloss": "आकाशहरू"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "וכל",
+      "gloss": "र सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जे कुरा"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यसमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:57:58.136839642Z",
+  "model": "glm-5.3"
+}

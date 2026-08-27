@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 22:8",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "अधर्म रोप्ने अवन् काट्नेछ, र उसको क्रोधको छडी नष्ट हुनेछ।",
+  "tokens": [
+    {
+      "surface": "זורע",
+      "gloss": "रोप्ने"
+    },
+    {
+      "surface": "עולה",
+      "gloss": "अधर्म"
+    },
+    {
+      "surface": "יקצור",
+      "gloss": "काट्नेछ"
+    },
+    {
+      "surface": "און",
+      "gloss": "अवन्"
+    },
+    {
+      "surface": "ושבט",
+      "gloss": "र छडी"
+    },
+    {
+      "surface": "עברתו",
+      "gloss": "उसको क्रोधको"
+    },
+    {
+      "surface": "יכלה",
+      "gloss": "नष्ट हुनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:20.328280799Z",
+  "model": "glm-5.3"
+}

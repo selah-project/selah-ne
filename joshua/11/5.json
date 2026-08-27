@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "joshua 11:5",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र ती सबै राजाहरू भेला भए, र तिनीहरू आए र यिस्राएलसँग लड्न मेरोमका पानी ⟨तिर⟩ एकसाथ डेरा गाडे।",
+  "tokens": [
+    {
+      "surface": "ויועדו",
+      "gloss": "भेला भए"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "המלכים",
+      "gloss": "राजाहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "ती"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "आए"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा गाडे"
+    },
+    {
+      "surface": "יחדו",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "⟨तिर⟩"
+    },
+    {
+      "surface": "מי",
+      "gloss": "पानी"
+    },
+    {
+      "surface": "מרום",
+      "gloss": "मेरोम"
+    },
+    {
+      "surface": "להלחם",
+      "gloss": "लड्न"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "यשरएल",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:25.358376631Z",
+  "model": "glm-5.3"
+}

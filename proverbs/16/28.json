@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "proverbs 16:28",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "छली मानिसले कलह पठाउँछ, र कुरौटे अगम वान्धवलाई छुट्याउँछ।",
+  "tokens": [
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "छली"
+    },
+    {
+      "surface": "ישלח",
+      "gloss": "पठाउँछ"
+    },
+    {
+      "surface": "מדון",
+      "gloss": "कलह"
+    },
+    {
+      "surface": "ונרגן",
+      "gloss": "र कुरौटे"
+    },
+    {
+      "surface": "מפריד",
+      "gloss": "छुट्याउँछ"
+    },
+    {
+      "surface": "אלוף",
+      "gloss": "अगम वान्धवलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:55.796002603Z",
+  "model": "glm-5.3"
+}

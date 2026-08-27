@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 21:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "झुकामामा छेउमा बस्नु कलह गर्ने स्त्रीको घरभन्दा र साझा घरभन्दा असल हो।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "असल हो"
+    },
+    {
+      "surface": "לשבת",
+      "gloss": "बस्नु"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פנת",
+      "gloss": "छेउमा"
+    },
+    {
+      "surface": "גג",
+      "gloss": "झुकामाको"
+    },
+    {
+      "surface": "מאשת",
+      "gloss": "स्त्रीभन्दा"
+    },
+    {
+      "surface": "מדינים",
+      "gloss": "कलह गर्ने"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र घरभन्दा"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "साझा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:30.212407965Z",
+  "model": "glm-5.3"
+}

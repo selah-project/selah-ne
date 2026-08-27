@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 62,
+  "ref": "lamentations 3:62",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "मेरिविरुद्ध उठ्नेहरूका ओठहरू र उनीहरूको बडबडानी, दिनभरि।",
+  "tokens": [
+    {
+      "surface": "שפתי",
+      "gloss": "ओठहरू"
+    },
+    {
+      "surface": "קמי",
+      "gloss": "मेरिविरुद्ध उठ्नेहरूका"
+    },
+    {
+      "surface": "והגיונם",
+      "gloss": "र उनीहरूको बडबडानी"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "मेरिविरुद्ध"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-27T02:18:38.548187911Z",
+  "model": "glm-5.3"
+}

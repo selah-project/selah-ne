@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 21:21",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "तर यदि ⟨उसले⟩ एक दिन वा दुई दिन उभिइरहन्छ, भने ⟨उसलाई⟩ दण्ड दिइने छैन, किनकि ऊ ⟨मालिकको⟩ चाँदी हो।",
+  "tokens": [
+    {
+      "surface": "אך",
+      "gloss": "तर"
+    },
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "יום",
+      "gloss": "एक दिन"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "יומים",
+      "gloss": "दुई दिन"
+    },
+    {
+      "surface": "יעמד",
+      "gloss": "उभिइरहन्छ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יקם",
+      "gloss": "दण्ड दिइने"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כספו",
+      "gloss": "उसको चाँदी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:12:38.874508670Z",
+  "model": "glm-5.3"
+}

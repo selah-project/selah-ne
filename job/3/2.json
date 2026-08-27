@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "job 3:2",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "अनि अइयोभले उत्तर दिनुभयो र भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "ויען",
+      "gloss": "अनि उत्तर दिनुभयो"
+    },
+    {
+      "surface": "איוב",
+      "gloss": "अइयोभले"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:29:45.317511177Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 21,
+  "ref": "exodus 33:21",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "र यहवेले भन्नुभयो: हेर, मसँग ⟨את⟩ एउटा स्थान छ, र तिमी चट्टानमाथि उभिनेछौ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "מקום",
+      "gloss": "स्थान"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "मसँग"
+    },
+    {
+      "surface": "ונצבת",
+      "gloss": "र तिमी उभिनेछौ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "הצור",
+      "gloss": "चट्टान"
+    }
+  ],
+  "timestamp": "2026-08-26T20:18:43.907767922Z",
+  "model": "glm-5.3"
+}

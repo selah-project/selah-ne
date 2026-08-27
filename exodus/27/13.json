@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "exodus 27:13",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र ह प्राङ्गणको — पूर्वतर्फ, सूर्योदयतिर — चौडाइ पचास कोही हुनेछ।",
+  "tokens": [
+    {
+      "surface": "ורחב",
+      "gloss": "र चौडाइ"
+    },
+    {
+      "surface": "החצר",
+      "gloss": "प्राङ्गणको"
+    },
+    {
+      "surface": "לפאת",
+      "gloss": "—तर्फ"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "מזרחה",
+      "gloss": "सूर्योदयतिर"
+    },
+    {
+      "surface": "חמשים",
+      "gloss": "पचास"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "कोही"
+    }
+  ],
+  "timestamp": "2026-08-26T20:15:19.524276443Z",
+  "model": "glm-5.3"
+}

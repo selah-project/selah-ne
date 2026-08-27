@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "isaiah 3:19",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "झुम्काहरू, र काँडीहरू, र पर्दाहरू।",
+  "tokens": [
+    {
+      "surface": "הנטיפות",
+      "gloss": "झुम्काहरू"
+    },
+    {
+      "surface": "והשירות",
+      "gloss": "र काँडीहरू"
+    },
+    {
+      "surface": "वהרעלות",
+      "gloss": "र पर्दाहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T22:23:41.344975004Z",
+  "model": "glm-5.3"
+}

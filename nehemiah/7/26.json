@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 7:26",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बेत-लेखेम र नेतोफाका मानिसहरू, एक सय असी र आठ।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "लेखेम"
+    },
+    {
+      "surface": "ונטפה",
+      "gloss": "र नेतोफा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "שמנים",
+      "gloss": "असी"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र आठ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:53.475211657Z",
+  "model": "glm-5.3"
+}

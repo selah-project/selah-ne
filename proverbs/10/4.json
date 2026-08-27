@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 10:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "कुटिल हातले काम गर्नेले गरिब हुन्छ, तर चनाखो हातहरूले धनी बनाउँछन्।",
+  "tokens": [
+    {
+      "surface": "ראש",
+      "gloss": "गरिब हुन्छ"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "काम गर्नेले"
+    },
+    {
+      "surface": "כף",
+      "gloss": "हातले"
+    },
+    {
+      "surface": "רמיה",
+      "gloss": "कुटिल"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "तर हातहरूले"
+    },
+    {
+      "surface": "חרוצים",
+      "gloss": "चनाखो"
+    },
+    {
+      "surface": "תעשיר",
+      "gloss": "धनी बनाउँछन्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:21:15.705216084Z",
+  "model": "glm-5.3"
+}

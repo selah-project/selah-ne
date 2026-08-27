@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "ezra 7:4",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "जेरख्याको छोरा, उज्जीको छोरा, बुक्कीको छोरा —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "זרחיה",
+      "gloss": "जेरख्या"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עזי",
+      "gloss": "उज्जी"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "בקי",
+      "gloss": "बुक्की"
+    }
+  ],
+  "timestamp": "2026-08-27T01:06:50.399617747Z",
+  "model": "glm-5.3"
+}

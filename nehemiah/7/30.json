@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "nehemiah 7:30",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "रामा र गिबआका मानिसहरू — छ सय एक्काइस।",
+  "tokens": [
+    {
+      "surface": "אנשי",
+      "gloss": "मानिसहरू"
+    },
+    {
+      "surface": "הרמה",
+      "gloss": "रामाका"
+    },
+    {
+      "surface": "וגבע",
+      "gloss": "र गिबआ"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשरिझ",
+      "gloss": "बीस",
+      "_comment": ""
+    },
+    {
+      "surface": "ואחד",
+      "gloss": "र एक"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:44.883087110Z",
+  "model": "glm-5.3"
+}

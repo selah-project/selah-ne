@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "ezekiel 48:27",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र जेबुलुनको सीमामा, पूर्व दिशादेखि पश्चिम दिशासम्म — गाद ⟨एउटा⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जेबुलुनको"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "दिखादेखि"
+    },
+    {
+      "surface": "קדמה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "दिशा"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिम"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:32:03.678562415Z",
+  "model": "glm-5.3"
+}

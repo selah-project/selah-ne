@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 109:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 109,
+  "translation": "उसलाई खेसेद तान्ने नहोओस्, र उसका अनाथहरूलाई अनुग्रह गर्ने नहोऊन्।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "होओस्"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "משך",
+      "gloss": "तान्ने"
+    },
+    {
+      "surface": "חסד",
+      "gloss": "खेसेद"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र न"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "होऊन्"
+    },
+    {
+      "surface": "חונן",
+      "gloss": "अनुग्रह गर्ने"
+    },
+    {
+      "surface": "ליתומיו",
+      "gloss": "उसका अनाथहरूलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:02.969817261Z",
+  "model": "glm-5.3"
+}

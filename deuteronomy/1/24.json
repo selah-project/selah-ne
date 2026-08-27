@@ -1,0 +1,50 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "deuteronomy 1:24",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र तिनीहरू फर्केर पहाडतर्फ चढे, र एश्कोलको खोँचसम्म पुगे, र ⟨את⟩ त्यसलाई खोजी गरे।",
+  "tokens": [
+    {
+      "surface": "ויפנו",
+      "gloss": "र फर्केर"
+    },
+    {
+      "surface": "ויעלו",
+      "gloss": "चढे"
+    },
+    {
+      "surface": "ההרה",
+      "gloss": "पहाडतर्फ"
+    },
+    {
+      "surface": "ויבאו",
+      "gloss": "र पुगे"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "נחל",
+      "gloss": "खोँच"
+    },
+    {
+      "surface": "אשכל",
+      "gloss": "एश्कोलको"
+    },
+    {
+      "surface": "וירגלו",
+      "gloss": "र खोजी गरे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "⟨את⟩",
+      "marks": "त्यसलाई (भूमि)"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:03.716277843Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 34,
+  "ref": "genesis 21:34",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र अभ्राहाम धेरै दिनसम्म पलिश्तीहरूको देशमा बसाइ रहे।",
+  "tokens": [
+    {
+      "surface": "ויגר",
+      "gloss": "बसाइ रहे"
+    },
+    {
+      "surface": "אברהם",
+      "gloss": "अभ्राहाम"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीहरूको"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "धेरै"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:12.832572218Z",
+  "model": "glm-5.3"
+}

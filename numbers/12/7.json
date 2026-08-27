@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "numbers 12:7",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "त्यस्तो होइन मेरो सेवक मोशे; मेरो सारा घरमा ऊ नै विश्वासयोग्य छ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यस्तो"
+    },
+    {
+      "surface": "עבדי",
+      "gloss": "मेरो सेवक"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सारा …मा"
+    },
+    {
+      "surface": "ביתי",
+      "gloss": "मेरो घर"
+    },
+    {
+      "surface": "נאמן",
+      "gloss": "विश्वासयोग्य"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ नै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:41:24.853968467Z",
+  "model": "glm-5.3"
+}

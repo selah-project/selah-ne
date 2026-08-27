@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 95:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 95,
+  "translation": "किनकि यहवे ⟨एक⟩ ठूलो एल हुनुहुन्छ, सबै देवताहरूमाथि ठूलो राजा हुनुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "ומלך",
+      "gloss": "र राजा"
+    },
+    {
+      "surface": "גדול",
+      "gloss": "ठूलो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवताहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:08:59.816856965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 67,
+  "ref": "ezra 2:67",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "तिनीहरूका उँटहरू चार सय तीस पाँच, गधाहरू छ हजार सात सय बीस।",
+  "tokens": [
+    {
+      "surface": "גמליהם",
+      "gloss": "तिनीहरूका उँटहरू"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "וחמשה",
+      "gloss": "र पाँच"
+    },
+    {
+      "surface": "חמרים",
+      "gloss": "गधाहरू"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "छ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "र बीस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:06:08.704972412Z",
+  "model": "glm-5.3"
+}

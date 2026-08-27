@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 9:18",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र ती सन्तानहरू नोखका — जो डुङ्गाबाट निस्किए — शेम, र खाम, र याफेत थिए; र खाम ⟨हो⟩ उहाँ कनानको पिता हो।",
+  "tokens": [
+    {
+      "surface": "ויהיו",
+      "gloss": "र थिए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "सन्तानहरू"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोखका"
+    },
+    {
+      "surface": "היצאים",
+      "gloss": "जो निस्किए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "התבה",
+      "gloss": "डुङ्गा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेम"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "र खाम"
+    },
+    {
+      "surface": "ויפת",
+      "gloss": "र याफेत"
+    },
+    {
+      "surface": "וחם",
+      "gloss": "र खाम"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उहाँ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "כנען",
+      "gloss": "कनानको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:32.187889889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 11:7",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "किनकि तिमीहरूका आँखाहरूले नै यहवेको सम्पूर्ण महान् काम ⟨את⟩ देखे, जो उहाँले गर्नुभयो।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "עיניכם",
+      "gloss": "तिमीहरूका आँखाहरूले"
+    },
+    {
+      "surface": "הראת",
+      "gloss": "नै देखे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सम्पूर्ण महान् काम"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "מעשה",
+      "gloss": "काम"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "הגדל",
+      "gloss": "महान्"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:58:35.112593250Z",
+  "model": "glm-5.3"
+}

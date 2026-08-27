@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "daniel 5:27",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "तेकेल — तिमी तराजूमा तौलियौ, र कमी भएको पाइयौ।",
+  "tokens": [
+    {
+      "surface": "תקל",
+      "gloss": "तेकेल"
+    },
+    {
+      "surface": "תקילתה",
+      "gloss": "तौलियौ"
+    },
+    {
+      "surface": "במאזניא",
+      "gloss": "तराजूमा"
+    },
+    {
+      "surface": "והשתכחת",
+      "gloss": "र पाइयौ"
+    },
+    {
+      "surface": "חסיר",
+      "gloss": "कमी भएको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:59:11.102604956Z",
+  "model": "glm-5.3"
+}

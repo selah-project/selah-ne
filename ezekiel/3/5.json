@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "ezekiel 3:5",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "किनकि तिमी गहिरो ओठ र भारी जिब्रे जातिकहाँ पठाइएका होइनौ, तर यिस्राएलको घरकहाँ ⟨हौ⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जाति"
+    },
+    {
+      "surface": "עמקי",
+      "gloss": "गहिरो"
+    },
+    {
+      "surface": "שפה",
+      "gloss": "ओठ"
+    },
+    {
+      "surface": "וכבדי",
+      "gloss": "र भारी"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जिब्रे"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "שלוח",
+      "gloss": "पठाइएका"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:12:25.081470485Z",
+  "model": "glm-5.3"
+}

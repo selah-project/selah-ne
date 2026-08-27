@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "proverbs 26:23",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "माटोको भाँडामाथि थापिएको फोहोर-चाँदी ⟨त्यस्तै हो⟩ — बल्दा ओठहरू र खराब हृदय।",
+  "tokens": [
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "סיגים",
+      "gloss": "फोहोर"
+    },
+    {
+      "surface": "מצפה",
+      "gloss": "थापिएको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "माटोको भाँडा"
+    },
+    {
+      "surface": "שפתים",
+      "gloss": "ओठहरू"
+    },
+    {
+      "surface": "דלקים",
+      "gloss": "बल्दा"
+    },
+    {
+      "surface": "ולב",
+      "gloss": "र हृदय"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    }
+  ],
+  "timestamp": "2026-08-27T00:27:46.945778617Z",
+  "model": "glm-5.3"
+}

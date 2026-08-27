@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 31:7",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "उसले पिओस् र आफ्नो गरिबी बिर्सोस्, र आफ्नो कष्ट फेरि सम्झनेछैन।",
+  "tokens": [
+    {
+      "surface": "ישתה",
+      "gloss": "पिओस्"
+    },
+    {
+      "surface": "וישכח",
+      "gloss": "र बिर्सोस्"
+    },
+    {
+      "surface": "רישו",
+      "gloss": "आफ्नो गरिबी"
+    },
+    {
+      "surface": "ועמלו",
+      "gloss": "र आफ्नो कष्ट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יזכר",
+      "gloss": "सम्झनेछ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "फेरि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:48.809093875Z",
+  "model": "glm-5.3"
+}

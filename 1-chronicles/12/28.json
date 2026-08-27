@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 12:28",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र यहोयादा, अहरोनको ⟨अगुवा⟩, र उनकै साथ तीन हजार र सात सय।",
+  "tokens": [
+    {
+      "surface": "ויהוידע",
+      "gloss": "र यहोयादा"
+    },
+    {
+      "surface": "הנגיד",
+      "gloss": "अगुवा"
+    },
+    {
+      "surface": "לאהרן",
+      "gloss": "अहरोनको"
+    },
+    {
+      "surface": "ועמו",
+      "gloss": "र उनकै साथ"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושבע",
+      "gloss": "र सात"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:23.652013360Z",
+  "model": "glm-5.3"
+}

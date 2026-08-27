@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "leviticus 23:6",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "र यस महिनाको पन्ध्रौँ दिन यहवेको निम्ति मत्जोतको पर्व ⟨छ⟩; सात दिनसम्म मत्जोत खानेछौ।",
+  "tokens": [
+    {
+      "surface": "ובחמשה",
+      "gloss": "र पन्ध्रौँमा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "-ौँ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "חג",
+      "gloss": "पर्व"
+    },
+    {
+      "surface": "המצות",
+      "gloss": "मत्जोतको"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको निम्ति"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिनसम्म"
+    },
+    {
+      "surface": "מצות",
+      "gloss": "मत्जोत"
+    },
+    {
+      "surface": "תאכלו",
+      "gloss": "खानेछौ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:32:40.674188323Z",
+  "model": "glm-5.3"
+}

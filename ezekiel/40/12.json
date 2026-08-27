@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "ezekiel 40:12",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "कोठाहरूअगाडि सीमा एक हात ⟨थियो⟩, र यताबाट एक हातको सीमा; र कोठा यताबाट छ हात, र उताबाट छ हात।",
+  "tokens": [
+    {
+      "surface": "וגבול",
+      "gloss": "र सीमा"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "התאות",
+      "gloss": "कोठाहरू"
+    },
+    {
+      "surface": "אמה",
+      "gloss": "एक हात"
+    },
+    {
+      "surface": "אחת",
+      "gloss": ""
+    },
+    {
+      "surface": "ואמה",
+      "gloss": "र एक हात"
+    },
+    {
+      "surface": "אחת",
+      "gloss": ""
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "מפה",
+      "gloss": "यताबाट"
+    },
+    {
+      "surface": "והתא",
+      "gloss": "र कोठा"
+    },
+    {
+      "surface": "שש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "यताबाट"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "र छ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "מפו",
+      "gloss": "उताबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T02:10:54.136407575Z",
+  "model": "glm-5.3"
+}

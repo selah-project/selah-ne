@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "1-chronicles 3:8",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र एलिशामा, र एल्यादा, र एलिफेलेत — नौ जना।",
+  "tokens": [
+    {
+      "surface": "ואלישמע",
+      "gloss": "र एलिशामा"
+    },
+    {
+      "surface": "ואלידע",
+      "gloss": "र एल्यादा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "र एलिफेलेत"
+    },
+    {
+      "surface": "תשעה",
+      "gloss": "नौ जना"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:21.877884603Z",
+  "model": "glm-5.3"
+}

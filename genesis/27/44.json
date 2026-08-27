@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 44,
+  "ref": "genesis 27:44",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र उसैसँग केही दिन बस, जबसम्म तेरो भाइको क्रोध फर्किन्छ।",
+  "tokens": [
+    {
+      "surface": "וישבת",
+      "gloss": "र बस"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उसैसँग"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחדים",
+      "gloss": "केही"
+    },
+    {
+      "surface": "עד",
+      "gloss": "जबसम्म"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन समयमा"
+    },
+    {
+      "surface": "תשוב",
+      "gloss": "फर्किन्छ"
+    },
+    {
+      "surface": "חמת",
+      "gloss": "क्रोध"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरो भाइको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:51:40.763425962Z",
+  "model": "glm-5.3"
+}

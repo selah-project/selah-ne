@@ -1,0 +1,78 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "2-chronicles 3:3",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "यी हुन् शलोमोले एलोहीमको ⟨את⟩ घर बनाउन राखेका जगहरू — लम्बाइ पहिलो नापअनुसार साठी हात, र चौडाइ बीस हात।",
+  "tokens": [
+    {
+      "surface": "ואלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "הוסד",
+      "gloss": "जग राखिए"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमोले"
+    },
+    {
+      "surface": "לבנות",
+      "gloss": "बनाउन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "घर"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीमको"
+    },
+    {
+      "surface": "הארך",
+      "gloss": "लम्बाइ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "במדה",
+      "gloss": "नापमा"
+    },
+    {
+      "surface": "הראשונה",
+      "gloss": "पहिलो"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ששים",
+      "gloss": "साठी"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "र चौडाइ"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    }
+  ],
+  "timestamp": "2026-08-27T02:23:51.878009940Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "genesis 3:20",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र अदामले आफ्नी श्रीमतीको नाउँ खव्वा राखे, किनभने ऊ सबै जीवितकी आमा भइन्।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "र …नाउँ राखे"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "अदाम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाउँ"
+    },
+    {
+      "surface": "אשתו",
+      "gloss": "आफ्नी श्रीमतीको"
+    },
+    {
+      "surface": "חוה",
+      "gloss": "खव्वा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "היתה",
+      "gloss": "भइन्"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आमा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "חי",
+      "gloss": "जीवित"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:48.444200976Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "2-chronicles 1:6",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र शलोमो त्यहाँ, यहवेको सामु, मोआदको तम्बूमा भएको ताम्रको वेदीमाथि चढे, र त्यसमाथि हजार होमबलि चढाए।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "र चढे"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शलोमो"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "वेदी"
+    },
+    {
+      "surface": "הנחשת",
+      "gloss": "ताम्रको"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "सामु"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לאהל",
+      "gloss": "तम्बूमा"
+    },
+    {
+      "surface": "מועד",
+      "gloss": "मोआदको"
+    },
+    {
+      "surface": "ויעל",
+      "gloss": "र चढाए"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "त्यसमाथि"
+    },
+    {
+      "surface": "עלות",
+      "gloss": "होमबलि"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    }
+  ],
+  "timestamp": "2026-08-27T01:30:13.866912714Z",
+  "model": "glm-5.3"
+}

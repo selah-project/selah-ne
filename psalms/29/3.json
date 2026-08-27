@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 29:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "यहवेको स्वर ⟨स⟩ माथि छ; काभोदको एलले गर्जाउँछ; यहवे ठूला पानीहरूमाथि ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "स्वर"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "המים",
+      "gloss": "पानीहरू ⟨स⟩"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एलले"
+    },
+    {
+      "surface": "הכבוד",
+      "gloss": "काभोदको"
+    },
+    {
+      "surface": "הרעים",
+      "gloss": "गर्जाउँछ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "מים",
+      "gloss": "पानीहरू"
+    },
+    {
+      "surface": "רבים",
+      "gloss": "ठूला"
+    }
+  ],
+  "timestamp": "2026-08-26T23:53:45.708946396Z",
+  "model": "glm-5.3"
+}

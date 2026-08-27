@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 9:16",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र उनले ⟨את⟩ होमबलि नजिक ल्याए, र विधिअनुसार त्यसलाई गरे।",
+  "tokens": [
+    {
+      "surface": "ויקרב",
+      "gloss": "नजिक ल्याए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "होमबलि"
+    },
+    {
+      "surface": "העלה",
+      "gloss": "होमबलि"
+    },
+    {
+      "surface": "ויעשה",
+      "gloss": "गरे"
+    },
+    {
+      "surface": "כמשפט",
+      "gloss": "विधिअनुसार"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:47.008312907Z",
+  "model": "glm-5.3"
+}

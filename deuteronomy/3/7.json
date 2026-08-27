@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "deuteronomy 3:7",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तर सबै चौपाया र सहरहरूको लुट हामीले आफ्ना लागि लुट्‍यौं।",
+  "tokens": [
+    {
+      "surface": "וכל",
+      "gloss": "तर सबै"
+    },
+    {
+      "surface": "הבהמה",
+      "gloss": "चौपाया"
+    },
+    {
+      "surface": "ושלל",
+      "gloss": "र लुट"
+    },
+    {
+      "surface": "הערים",
+      "gloss": "सहरहरूको"
+    },
+    {
+      "surface": "בזונו",
+      "gloss": "हामीले लुट्‍यौं"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "आफ्ना लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:18.501750579Z",
+  "model": "glm-5.3"
+}

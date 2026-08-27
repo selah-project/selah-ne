@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 14:3",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "कुनै घिनलाग्दो वस्तु खाने होइन।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "תאכל",
+      "gloss": "खाने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "תועבה",
+      "gloss": "घिनलाग्दो वस्तु"
+    }
+  ],
+  "timestamp": "2026-08-26T20:59:51.154114774Z",
+  "model": "glm-5.3"
+}

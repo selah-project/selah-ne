@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "proverbs 4:5",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "बुद्धिमत्ता किन, विवेक किन; बिर्सनु होइन, र मेरो मुखका वचनहरूबाट नझुक।",
+  "tokens": [
+    {
+      "surface": "קנה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धिमत्ता"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "בינה",
+      "gloss": "विवेक"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשכח",
+      "gloss": "बिर्सनु होइन"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र न"
+    },
+    {
+      "surface": "תט",
+      "gloss": "झुक"
+    },
+    {
+      "surface": "מאמרי",
+      "gloss": "…का वचनहरूबाट"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मेरो मुख"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:13.541805138Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "esther 4:6",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "अनि हाताख राजाको गेटभन्दा अगाडिको सहरको चोकमा मर्दोखैकहाँ निस्कियो।",
+  "tokens": [
+    {
+      "surface": "ויצא",
+      "gloss": "निस्कियो"
+    },
+    {
+      "surface": "התך",
+      "gloss": "हाताख"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मर्दोखै"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…मा"
+    },
+    {
+      "surface": "רחוב",
+      "gloss": "चोक"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "सहरको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "לפני",
+      "gloss": "अगाडि"
+    },
+    {
+      "surface": "שער",
+      "gloss": "गेट"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:53:12.938941920Z",
+  "model": "glm-5.3"
+}

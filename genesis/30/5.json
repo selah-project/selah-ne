@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "genesis 30:5",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 30,
+  "translation": "र बिल्हाले गर्भ धारण गरिन्, र याकोभलाई एक छोरा जन्म दिइन्।",
+  "tokens": [
+    {
+      "surface": "ותהר",
+      "gloss": "र गर्भ धारण गरिन्"
+    },
+    {
+      "surface": "בלהה",
+      "gloss": "बिल्हाले"
+    },
+    {
+      "surface": "ותלד",
+      "gloss": "र जन्म दिइन्"
+    },
+    {
+      "surface": "ליעקב",
+      "gloss": "याकोभलाई"
+    },
+    {
+      "surface": "בן",
+      "gloss": "एक छोरा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:52:26.016751868Z",
+  "model": "glm-5.3"
+}

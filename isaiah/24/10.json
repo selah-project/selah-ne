@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "isaiah 24:10",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "तोहूको ⟨सहर⟩ भाँचियो, प्रवेशबाट सबै घर बन्द गरियो।",
+  "tokens": [
+    {
+      "surface": "נשברה",
+      "gloss": "भाँचियो"
+    },
+    {
+      "surface": "קרית",
+      "gloss": "सहर"
+    },
+    {
+      "surface": "תהו",
+      "gloss": "तोहू (शून्यता)"
+    },
+    {
+      "surface": "סגר",
+      "gloss": "बन्द गरियो"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घर"
+    },
+    {
+      "surface": "מבוא",
+      "gloss": "प्रवेशबाट"
+    }
+  ],
+  "timestamp": "2026-08-26T22:29:36.860818541Z",
+  "model": "glm-5.3"
+}

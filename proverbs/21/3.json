@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "proverbs 21:3",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "धार्मिकता र न्याय गर्नु बलिभन्दा यहवेका निम्ति रोजिएको ⟨काम⟩ हो।",
+  "tokens": [
+    {
+      "surface": "עשה",
+      "gloss": "गर्नु"
+    },
+    {
+      "surface": "צדקה",
+      "gloss": "धार्मिकता"
+    },
+    {
+      "surface": "ומשפט",
+      "gloss": "र न्याय"
+    },
+    {
+      "surface": "נבחר",
+      "gloss": "रोजिएको"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेका निम्ति"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "बलिभन्दा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:39.931732932Z",
+  "model": "glm-5.3"
+}

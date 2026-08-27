@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-kings 4:16",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "बाना, खुशाइको छोरा, आशेरमा र बेआलोतमा ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "בענא",
+      "gloss": "बाना"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "חושי",
+      "gloss": "खुशाइको"
+    },
+    {
+      "surface": "באשר",
+      "gloss": "आशेरमा"
+    },
+    {
+      "surface": "ובעלות",
+      "gloss": "र बेआलोतमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:57:21.693307718Z",
+  "model": "glm-5.3"
+}

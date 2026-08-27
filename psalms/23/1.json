@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 23:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "दाउदको गीत। यहवे मेरा गोठाला हुनुहुन्छ; म वञ्चित हुनेछैनँ।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाउदको"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "רעי",
+      "gloss": "मेरा गोठाला"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אחסר",
+      "gloss": "वञ्चित हुनेछैनँ"
+    }
+  ],
+  "timestamp": "2026-08-27T02:12:55.945664185Z",
+  "model": "glm-5.3"
+}

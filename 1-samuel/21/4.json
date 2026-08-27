@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 21:4",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "र अब तिम्रो हातमुनि के छ? पाँच रोटी मेरो हातमा दिइहाल, वा जे पाइन्छ।",
+  "tokens": [
+    {
+      "surface": "ועתה",
+      "gloss": "र अब"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "תחת",
+      "gloss": "मुनि"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तिम्रो हात"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "रोटी"
+    },
+    {
+      "surface": "תנה",
+      "gloss": "दिइहाल"
+    },
+    {
+      "surface": "בידי",
+      "gloss": "मेरो हातमा"
+    },
+    {
+      "surface": "או",
+      "gloss": "वा"
+    },
+    {
+      "surface": "הנמצא",
+      "gloss": "जे पाइन्छ"
+    }
+  ],
+  "timestamp": "2026-08-26T21:39:56.807801665Z",
+  "model": "glm-5.3"
+}

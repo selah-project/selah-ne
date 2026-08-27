@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "daniel 4:25",
+  "book": "daniel",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "यो सबै कुरा नेबुखद्नेत्सर राजामाथि आइपुग्यो।",
+  "tokens": [
+    {
+      "surface": "כלא",
+      "gloss": "सबै कुरा"
+    },
+    {
+      "surface": "מטא",
+      "gloss": "आइपुग्यो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "נבוכדנצר",
+      "gloss": "नेबुखद्नेत्सर"
+    },
+    {
+      "surface": "מלכא",
+      "gloss": "राजा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:58:58.448205970Z",
+  "model": "glm-5.3"
+}

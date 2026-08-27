@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "proverbs 2:11",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "विवेकले तिमीलाई रक्षा गर्नेछ, बुद्धिले तिमीलाई जगाउनेछ।",
+  "tokens": [
+    {
+      "surface": "מזמה",
+      "gloss": "विवेक"
+    },
+    {
+      "surface": "תשמר",
+      "gloss": "रक्षा गर्नेछ"
+    },
+    {
+      "surface": "עליך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "תבונה",
+      "gloss": "बुद्धि"
+    },
+    {
+      "surface": "תנצרכה",
+      "gloss": "जगाउनेछ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:50.427347738Z",
+  "model": "glm-5.3"
+}

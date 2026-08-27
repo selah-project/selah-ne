@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "lamentations 5:10",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "हाम्रो छाला भोकको उग्र आँचका कारण तन्दुरझैँ तप्यो।",
+  "tokens": [
+    {
+      "surface": "עורנו",
+      "gloss": "हाम्रो छाला"
+    },
+    {
+      "surface": "כתנור",
+      "gloss": "तन्दुरझैँ"
+    },
+    {
+      "surface": "נכמרו",
+      "gloss": "तप्यो"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "का कारण"
+    },
+    {
+      "surface": "זלעפות",
+      "gloss": "उग्र आँच"
+    },
+    {
+      "surface": "רעב",
+      "gloss": "भोकको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:43.494300289Z",
+  "model": "glm-5.3"
+}

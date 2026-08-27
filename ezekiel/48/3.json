@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezekiel 48:3",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र आशेरको सीमामा, पूर्वी छेउदेखि पश्चिमी छेउसम्म — नाफ्ताली, एउटा ⟨भाग⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र ... मा"
+    },
+    {
+      "surface": "גבול",
+      "gloss": "सीमा"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "आशेरको"
+    },
+    {
+      "surface": "מפאת",
+      "gloss": "छेउदेखि"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्वी"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "र ... सम्म"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "छेउ"
+    },
+    {
+      "surface": "ימה",
+      "gloss": "पश्चिमी"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:31:36.165750781Z",
+  "model": "glm-5.3"
+}

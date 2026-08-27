@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 14:7",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र एउटा दिन हुनेछ — त्यो यहवेलाई चिनिनेछ; दिन पनि होइन र रात पनि होइन; र साँझको समयमा उज्यालो हुनेछ।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "र हुनेछ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "יודע",
+      "gloss": "चिनिनेछ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रात"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "र हुनेछ"
+    },
+    {
+      "surface": "לעת",
+      "gloss": "समयमा"
+    },
+    {
+      "surface": "ערב",
+      "gloss": "साँझको"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उज्यालो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:00.245900036Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,38 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "genesis 42:17",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 42,
+  "translation": "र उनले ⟨את⟩ तिनीहरूलाई हिरासमा जम्मा गरे — तीन दिनसम्म।",
+  "tokens": [
+    {
+      "surface": "ויאסף",
+      "gloss": "जम्मा गरे"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "तिनीहरूलाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "हिरासमा"
+    },
+    {
+      "surface": "משमר",
+      "gloss": "हिरास"
+    },
+    {
+      "surface": "שלשת",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    }
+  ],
+  "timestamp": "2026-08-27T02:27:22.295857313Z",
+  "model": "glm-5.3"
+}

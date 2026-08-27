@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "1-chronicles 5:12",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "योएल ⟨⟨हो⟩⟩ प्रमुख, र शाफाम दोस्रो, र यानाइ र शाफात बाशानमा थिए।",
+  "tokens": [
+    {
+      "surface": "יואל",
+      "gloss": "योएल"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    },
+    {
+      "surface": "ושפם",
+      "gloss": "र शाफाम"
+    },
+    {
+      "surface": "המשנה",
+      "gloss": "दोस्रो"
+    },
+    {
+      "surface": "ויעני",
+      "gloss": "र यानाइ"
+    },
+    {
+      "surface": "ושפט",
+      "gloss": "र शाफात"
+    },
+    {
+      "surface": "בבשן",
+      "gloss": "बाशानमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:26.573781744Z",
+  "model": "glm-5.3"
+}

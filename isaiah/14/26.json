@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "isaiah 14:26",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "यो ⟨हो⟩ सारा पृथ्वीमाथि गरिएको परामर्श, र यो ⟨हो⟩ सारा राष्ट्रहरूमाथि तन्काइएको हात।",
+  "tokens": [
+    {
+      "surface": "זאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "העצה",
+      "gloss": "परामर्श"
+    },
+    {
+      "surface": "היעוצה",
+      "gloss": "गरिएको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "र यो"
+    },
+    {
+      "surface": "היד",
+      "gloss": "हात"
+    },
+    {
+      "surface": "הנטויה",
+      "gloss": "तन्काइएको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "राष्ट्रहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:53.847718217Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "1-chronicles 2:39",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र अजर्याले ⟨את⟩ खेलेत्सलाई जन्म दिए, र खेलेत्सले ⟨את⟩ एलएसालाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ועזריה",
+      "gloss": "र अजर्याले"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खेलेत्सलाई"
+    },
+    {
+      "surface": "חלץ",
+      "gloss": "खेलेत्स"
+    },
+    {
+      "surface": "וחלץ",
+      "gloss": "र खेलेत्सले"
+    },
+    {
+      "surface": "הליד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एलएसालाई"
+    },
+    {
+      "surface": "אלעשה",
+      "gloss": "एलएसा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:10.155823646Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,77 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "deuteronomy 4:39",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र तिमीले आज जानी आफ्नो मुटुमा फर्काऊ, कि यहवे — उहाँ नै ⟨is⟩ एलोहीम हुनुहुन्छ — माथि आकाशमा र तल पृथ्वीमा; अरू कोही ⟨is⟩ छैन।",
+  "tokens": [
+    {
+      "surface": "וידעת",
+      "gloss": "र तिमीले जानी"
+    },
+    {
+      "surface": "हיום",
+      "gloss": "आज"
+    },
+    {
+      "surface": "והשבת",
+      "gloss": "र फर्काऊ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "לבבך",
+      "gloss": "आफ्नो मुटु"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "उहाँ नै"
+    },
+    {
+      "surface": "האלהים",
+      "gloss": "एलोहीम"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "आकाशमा"
+    },
+    {
+      "surface": "ממעל",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ועל",
+      "gloss": "र"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वीमा"
+    },
+    {
+      "surface": "מתחת",
+      "gloss": "तल"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अरू कोही"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:14.344124528Z",
+  "model": "glm-5.3"
+}

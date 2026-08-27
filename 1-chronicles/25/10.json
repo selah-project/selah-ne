@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "1-chronicles 25:10",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "तेस्रो जाक्कूर — उसका छोराहरू र उसका भाइहरू बाह्र जना।",
+  "tokens": [
+    {
+      "surface": "השלשי",
+      "gloss": "तेस्रो"
+    },
+    {
+      "surface": "זכור",
+      "gloss": "जाक्कूर"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उसका छोराहरू"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उसका भाइहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्र"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(जना)"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:17.803868247Z",
+  "model": "glm-5.3"
+}

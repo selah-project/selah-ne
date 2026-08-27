@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 23:16",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "गेर्शोमका छोराहरू: शेबुएल ⟨the⟩ प्रमुख।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "גרשום",
+      "gloss": "गेर्शोमका"
+    },
+    {
+      "surface": "שבואל",
+      "gloss": "शेबुएल"
+    },
+    {
+      "surface": "הראש",
+      "gloss": "प्रमुख"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:03.359822660Z",
+  "model": "glm-5.3"
+}

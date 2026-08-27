@@ -1,0 +1,73 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 12:18",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "फारोहले अभ्रामलाई बोलायो र भन्यो: मैले तिमीलाई यो के गरेँ भनेर? मलाई किन भनेनौ कि ⟨से⟩ तिम्री पत्नी हो?",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलायो"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फारोहले"
+    },
+    {
+      "surface": "לאברם",
+      "gloss": "अभ्रामलाई"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्यो"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "זאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "עשית",
+      "gloss": "गरेँ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "הגדת",
+      "gloss": "भनेनौ"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "אשתך",
+      "gloss": "तिम्री पत्नी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨से⟩ हो"
+    }
+  ],
+  "timestamp": "2026-08-26T19:45:22.901455939Z",
+  "model": "glm-5.3"
+}

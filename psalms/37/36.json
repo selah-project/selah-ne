@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "psalms 37:36",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "तर ⟨ऊ⟩ बित्यो, र हेर, ऊ छैन; मैले उसलाई खोजेँ, तर ऊ भेटिएन।",
+  "tokens": [
+    {
+      "surface": "ויעבר",
+      "gloss": "तर बित्यो"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ऊ छैन"
+    },
+    {
+      "surface": "ואבקשהו",
+      "gloss": "मैले उसलाई खोजेँ"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "तर होइन"
+    },
+    {
+      "surface": "נמצא",
+      "gloss": "भेटिएन"
+    }
+  ],
+  "timestamp": "2026-08-26T23:55:54.183554557Z",
+  "model": "glm-5.3"
+}

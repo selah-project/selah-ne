@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 24:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "मरारीका छोराहरू मखली र मूशी; याजियाहका छोराहरू — उसको छोरा बेनो।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "מררי",
+      "gloss": "मरारीका"
+    },
+    {
+      "surface": "מחלי",
+      "gloss": "मखली"
+    },
+    {
+      "surface": "ומושי",
+      "gloss": "र मूशी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יעזיהו",
+      "gloss": "याजियाहका"
+    },
+    {
+      "surface": "בנו",
+      "gloss": "उसको छोरा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:42.543519646Z",
+  "model": "glm-5.3"
+}

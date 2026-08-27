@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "song-of-songs 8:10",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "म भित्ता हुँ, र मेरा स्तनहरू कलशझैँ; तब म उहाँका आँखामा शान्ति पाउनेजस्तो भएँ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "חומה",
+      "gloss": "भित्ता"
+    },
+    {
+      "surface": "ושדי",
+      "gloss": "र मेरा स्तनहरू"
+    },
+    {
+      "surface": "כמגדלות",
+      "gloss": "कलशझैँ"
+    },
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "הייתי",
+      "gloss": "म भएँ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "उहाँका आँखामा"
+    },
+    {
+      "surface": "כמוצאת",
+      "gloss": "पाउनेजस्तो"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्ति"
+    }
+  ],
+  "timestamp": "2026-08-27T00:44:47.716575386Z",
+  "model": "glm-5.3"
+}

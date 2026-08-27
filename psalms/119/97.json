@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 97,
+  "ref": "psalms 119:97",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "कति प्रेम गर्छु म तिम्रो तोरालाई ! सारा दिन त्यही मेरो ध्यान हो ।",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "कति"
+    },
+    {
+      "surface": "אהבתי",
+      "gloss": "प्रेम गर्छु म"
+    },
+    {
+      "surface": "תורתך",
+      "gloss": "तिम्रो तोरालाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सारा"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "היא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "שיחתי",
+      "gloss": "मेरो ध्यान"
+    }
+  ],
+  "timestamp": "2026-08-27T00:14:07.429709611Z",
+  "model": "glm-5.3"
+}

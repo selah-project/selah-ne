@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "nehemiah 7:47",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "केरोसका सन्तान, सिआका सन्तान, पादोनका सन्तान।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "…का सन्तान"
+    },
+    {
+      "surface": "קירס",
+      "gloss": "केरोस"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का सन्तान"
+    },
+    {
+      "surface": "סיעא",
+      "gloss": "सिआ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "…का सन्तान"
+    },
+    {
+      "surface": "פדון",
+      "gloss": "पादोन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:57.975961812Z",
+  "model": "glm-5.3"
+}

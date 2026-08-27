@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 21:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "गाद दाउदकहाँ आए, र उहाँलाई यसो भने: यहवेले भन्नुभयो — आफ्ना लागि ⟨एउटा⟩ लिऊ।",
+  "tokens": [
+    {
+      "surface": "ויבא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गाद"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…कहाँ"
+    },
+    {
+      "surface": "דויד",
+      "gloss": "दाउद"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उहाँलाई"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "קבל",
+      "gloss": "लिऊ"
+    },
+    {
+      "surface": "לך",
+      "gloss": "आफ्ना लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:40.431098729Z",
+  "model": "glm-5.3"
+}

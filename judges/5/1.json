@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "judges 5:1",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "त्यसै दिनमा देबोराह र अबिनोअमका छोरा बाराकले गाउनुभयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "ותשר",
+      "gloss": "गाउनुभयो"
+    },
+    {
+      "surface": "דבורה",
+      "gloss": "देबोराह"
+    },
+    {
+      "surface": "וברק",
+      "gloss": "र बाराक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אבינעם",
+      "gloss": "अबिनोअमका"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यसै"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T21:21:37.363809596Z",
+  "model": "glm-5.3"
+}

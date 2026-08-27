@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 24:16",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "उन्नाइसौँ पतख्यालाई, बीसौँ येहेज्केललाई।",
+  "tokens": [
+    {
+      "surface": "לפתחיה",
+      "gloss": "पतख्यालाई"
+    },
+    {
+      "surface": "תשעा",
+      "gloss": "उन्नाइसौँ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨उन्नाइसौँभित्रको -teen⟩"
+    },
+    {
+      "surface": "ליחזקאל",
+      "gloss": "येहेज्केललाई"
+    },
+    {
+      "surface": "העשרिझ",
+      "gloss": "बीसौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:55.445217712Z",
+  "model": "glm-5.3"
+}

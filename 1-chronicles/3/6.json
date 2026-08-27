@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "1-chronicles 3:6",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र इभार, र एलिशामा, र एलिफेलेत —",
+  "tokens": [
+    {
+      "surface": "ויבחר",
+      "gloss": "र इभार"
+    },
+    {
+      "surface": "ואלישמע",
+      "gloss": "र एलिशामा"
+    },
+    {
+      "surface": "ואליפלט",
+      "gloss": "र एलिफेलेत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:21.877616981Z",
+  "model": "glm-5.3"
+}

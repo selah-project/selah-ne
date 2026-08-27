@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "lamentations 3:36",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "आफ्नो मुद्दामा मानिसलाई बेइन्साफ गर्नुहुन्न — अदोनाइले यो देख्नुभएन।",
+  "tokens": [
+    {
+      "surface": "לעות",
+      "gloss": "बेइन्साफ गर्नुहुन्न"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसलाई"
+    },
+    {
+      "surface": "בריבו",
+      "gloss": "आफ्नो मुद्दामा"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइले"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "ראה",
+      "gloss": "देख्नुभएन"
+    }
+  ],
+  "timestamp": "2026-08-27T00:47:13.179420497Z",
+  "model": "glm-5.3"
+}

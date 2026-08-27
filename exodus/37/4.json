@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 37:4",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 37,
+  "translation": "र उसले शित्तिमको काठका टाँगहरू बनायो, र ⟨את⟩ तिनलाई सुनले मढ्यो।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "र बनायो"
+    },
+    {
+      "surface": "בדי",
+      "gloss": "टाँगहरू"
+    },
+    {
+      "surface": "עצי",
+      "gloss": "काठका"
+    },
+    {
+      "surface": "שטים",
+      "gloss": "शित्तिमको"
+    },
+    {
+      "surface": "ויצף",
+      "gloss": "र मढ्यो"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "⟨את⟩",
+      "marks": "तिनलाई"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुनले"
+    }
+  ],
+  "timestamp": "2026-08-26T20:19:47.929184850Z",
+  "model": "glm-5.3"
+}

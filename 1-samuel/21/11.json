@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-samuel 21:11",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "दाउद उठे र त्यही दिन शाउलको अनुहारबाट भागे र गतका राजा अकीशकहाँ आए।",
+  "tokens": [
+    {
+      "surface": "ויקם",
+      "gloss": "उठे"
+    },
+    {
+      "surface": "דוד",
+      "gloss": "दाउद"
+    },
+    {
+      "surface": "ויברח",
+      "gloss": "भागे"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "מפני",
+      "gloss": "अनुहारबाट"
+    },
+    {
+      "surface": "שאול",
+      "gloss": "शाउलको"
+    },
+    {
+      "surface": "ויבא",
+      "gloss": "आए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "कहाँ"
+    },
+    {
+      "surface": "אכיש",
+      "gloss": "अकीश"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "גת",
+      "gloss": "गतका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:40:24.519799367Z",
+  "model": "glm-5.3"
+}

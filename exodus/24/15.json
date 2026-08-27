@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 24:15",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र मोशे पर्वतमाथि चढ्नुभयो, र बादलले ⟨את⟩ पर्वतलाई ढाक्यो।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "चढ्नुभयो"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "ויכס",
+      "gloss": "ढाक्यो"
+    },
+    {
+      "surface": "הענן",
+      "gloss": "बादलले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्वतलाई"
+    },
+    {
+      "surface": "ההר",
+      "gloss": "पर्वत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:50:32.163686445Z",
+  "model": "glm-5.3"
+}

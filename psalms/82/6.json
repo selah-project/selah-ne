@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "psalms 82:6",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 82,
+  "translation": "मैले भनें: तिमीहरू देवता हौ, र तिमीहरू सबै एल्योनका सन्तान हौ।",
+  "tokens": [
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मैले भनें"
+    },
+    {
+      "surface": "אלהים",
+      "gloss": "देवता"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तिमीहरू"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र ... का सन्तान"
+    },
+    {
+      "surface": "עליון",
+      "gloss": "एल्योन"
+    },
+    {
+      "surface": "כלכם",
+      "gloss": "तिमीहरू सबै"
+    }
+  ],
+  "timestamp": "2026-08-27T00:05:10.997471900Z",
+  "model": "glm-5.3"
+}

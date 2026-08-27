@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 84:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 84,
+  "translation": "कति प्रिय छन् तिम्रा वासस्थानहरू, हे सेनाहरूका यहवे!",
+  "tokens": [
+    {
+      "surface": "מה",
+      "gloss": "कति"
+    },
+    {
+      "surface": "ידידות",
+      "gloss": "प्रिय"
+    },
+    {
+      "surface": "משכנותיך",
+      "gloss": "तिम्रा वासस्थानहरू"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "צבאות",
+      "gloss": "सेनाहरूका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:06:48.254871946Z",
+  "model": "glm-5.3"
+}

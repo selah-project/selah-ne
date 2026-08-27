@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "joel 1:10",
+  "book": "joel",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "उजाड भयो ⟨the⟩ खेत, शोक गर्छे ⟨the⟩ भूमि, किनकि उजाड भयो ⟨the⟩ अन्न, सुक्यो ⟨the⟩ नयाँ द्राक्षारस, क्षीण भयो ⟨the⟩ तेल।",
+  "tokens": [
+    {
+      "surface": "שדד",
+      "gloss": "उजाड भयो"
+    },
+    {
+      "surface": "שדה",
+      "gloss": "खेत"
+    },
+    {
+      "surface": "אבלה",
+      "gloss": "शोक गर्छे"
+    },
+    {
+      "surface": "אדמה",
+      "gloss": "भूमि"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "שדד",
+      "gloss": "उजाड भयो"
+    },
+    {
+      "surface": "דגן",
+      "gloss": "अन्न"
+    },
+    {
+      "surface": "הוביש",
+      "gloss": "सुक्यो"
+    },
+    {
+      "surface": "תירוש",
+      "gloss": "नयाँ द्राक्षारस"
+    },
+    {
+      "surface": "אמלल",
+      "gloss": "क्षीण भयो"
+    },
+    {
+      "surface": "יצהר",
+      "gloss": "तेल"
+    }
+  ],
+  "timestamp": "2026-08-26T23:36:13.180126134Z",
+  "model": "glm-5.3"
+}

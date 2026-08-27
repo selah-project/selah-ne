@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "psalms 29:7",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "यहवेको स्वरले आगका ज्वालाहरू काट्छ ⟨काट्छ⟩।",
+  "tokens": [
+    {
+      "surface": "קול",
+      "gloss": "स्वरले"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "חצב",
+      "gloss": "काट्छ"
+    },
+    {
+      "surface": "להבות",
+      "gloss": "ज्वालाहरू"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:53:40.838341092Z",
+  "model": "glm-5.3"
+}

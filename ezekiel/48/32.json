@@ -1,0 +1,85 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "ezekiel 48:32",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 48,
+  "translation": "र पूर्व छेउतर्फ पाँच सय र चार हजार, र तीन ढोका: योसेफको एउटा ढोका, बिन्यामीनको एउटा ढोका, दानको एउटा ढोका।",
+  "tokens": [
+    {
+      "surface": "ואל",
+      "gloss": "र तर्फ"
+    },
+    {
+      "surface": "פאת",
+      "gloss": "छेउ"
+    },
+    {
+      "surface": "קדימה",
+      "gloss": "पूर्व"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "וארבעת",
+      "gloss": "र चार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושערים",
+      "gloss": "र ढोका"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "ושער",
+      "gloss": "र ढोका"
+    },
+    {
+      "surface": "יוסף",
+      "gloss": "योसेफको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामीनको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "שער",
+      "gloss": "ढोका"
+    },
+    {
+      "surface": "דן",
+      "gloss": "दानको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:32:13.511224327Z",
+  "model": "glm-5.3"
+}

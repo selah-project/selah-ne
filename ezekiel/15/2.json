@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "ezekiel 15:2",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "हे मानवको छोरा, अङ्गुरको रूख सबै रूखभन्दा के हो? जङ्गलका रूखहरूबीच भएको ⟨सानो⟩ हाँगो ⟨त्यो भन्दा के हो⟩?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानवको"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हो"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "הגפן",
+      "gloss": "अङ्गुरको"
+    },
+    {
+      "surface": "מכל",
+      "gloss": "सबैभन्दा"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "הזמורה",
+      "gloss": "हाँगो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भएको"
+    },
+    {
+      "surface": "בעצי",
+      "gloss": "रूखहरूबीच"
+    },
+    {
+      "surface": "היער",
+      "gloss": "जङ्गलका"
+    }
+  ],
+  "timestamp": "2026-08-26T23:15:34.044886381Z",
+  "model": "glm-5.3"
+}

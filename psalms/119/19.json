@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 119:19",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 119,
+  "translation": "म ⟨is⟩ पृथ्वीमा ⟨the⟩ आगन्तुक हुँ; मबाट तपाईंका आज्ञाहरू नलुकाउनुहोस्।",
+  "tokens": [
+    {
+      "surface": "גר",
+      "gloss": "आगन्तुक"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "באर्थ",
+      "gloss": "पृथ्वीमा"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תסתר",
+      "gloss": "लुकाउनुहोस्"
+    },
+    {
+      "surface": "ממני",
+      "gloss": "मबाट"
+    },
+    {
+      "surface": "מצותיך",
+      "gloss": "तपाईंका आज्ञाहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:31.026272391Z",
+  "model": "glm-5.3"
+}

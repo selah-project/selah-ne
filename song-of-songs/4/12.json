@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "song-of-songs 4:12",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "बन्द बगैंचा हो मेरी बहिनी दुलही; बन्द स्रोत, छाप लगाइएको झरना।",
+  "tokens": [
+    {
+      "surface": "גן",
+      "gloss": "बगैंचा"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "बन्द"
+    },
+    {
+      "surface": "אחתי",
+      "gloss": "मेरी बहिनी"
+    },
+    {
+      "surface": "כלה",
+      "gloss": "दुलही"
+    },
+    {
+      "surface": "גל",
+      "gloss": "स्रोत"
+    },
+    {
+      "surface": "נעול",
+      "gloss": "बन्द"
+    },
+    {
+      "surface": "מעין",
+      "gloss": "झरना"
+    },
+    {
+      "surface": "חתום",
+      "gloss": "छाप लगाइएको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:43:26.827126170Z",
+  "model": "glm-5.3"
+}

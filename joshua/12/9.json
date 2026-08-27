@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "joshua 12:9",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "यरिखोको राजा — एक; हाइको राजा, जो बेत-एलको छेउमा छ — एक।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יריחו",
+      "gloss": "यरिखोको"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "העי",
+      "gloss": "हाइको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "מצד",
+      "gloss": "छेउमा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत-"
+    },
+    {
+      "surface": "אל",
+      "gloss": "एल"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:05.796271943Z",
+  "model": "glm-5.3"
+}

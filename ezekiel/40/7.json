@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 40:7",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "अनि ⟨the⟩ कोठा — एक बिँडी लामो, र एक बिँडी चौडा; र ⟨the⟩ कोठाहरूबीच पाँच हात; र ⟨the⟩ ढोकाको डिठ्यो ⟨the⟩ ढोकाको ⟨the⟩ बरान्दाको छेउबाट, ⟨the⟩ भवनतिरबाट — एक बिँडी।",
+  "tokens": [
+    {
+      "surface": "והתא",
+      "gloss": "अनि ⟨the⟩ कोठा"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "बिँडी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "ארך",
+      "gloss": "लामो"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "र बिँडी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "רחב",
+      "gloss": "चौडा"
+    },
+    {
+      "surface": "ובין",
+      "gloss": "र बीच"
+    },
+    {
+      "surface": "התאים",
+      "gloss": "कोठाहरू"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "וסף",
+      "gloss": "र डिठ्यो"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोकाको"
+    },
+    {
+      "surface": "מאצל",
+      "gloss": "छेउबाट"
+    },
+    {
+      "surface": "אולם",
+      "gloss": "बरान्दा"
+    },
+    {
+      "surface": "השער",
+      "gloss": "ढोकाको"
+    },
+    {
+      "surface": "מהבית",
+      "gloss": "भवनतिरबाट"
+    },
+    {
+      "surface": "קנה",
+      "gloss": "बिँडी"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    }
+  ],
+  "timestamp": "2026-08-26T23:28:34.262780818Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "jeremiah 2:14",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "इस्राएल दास हो? ऊ घरमा जन्मिएको हो? किन ऊ लुटको परिणाम भयो?",
+  "tokens": [
+    {
+      "surface": "העבד",
+      "gloss": "दास"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "אם",
+      "gloss": "⟨के⟩"
+    },
+    {
+      "surface": "יליד",
+      "gloss": "जन्मिएको"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घरमा"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "מדוע",
+      "gloss": "किन"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "לבז",
+      "gloss": "लुटको परिणाम"
+    }
+  ],
+  "timestamp": "2026-08-26T22:45:21.609914377Z",
+  "model": "glm-5.3"
+}

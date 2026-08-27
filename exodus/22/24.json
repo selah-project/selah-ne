@@ -1,0 +1,79 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "exodus 22:24",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "यदि मेरो जनमध्ये तिमीसितकै गरिबलाई चाँदी उसाउँछौ, भिकारीझैँ नहोऊ, ब्याज उसमाथि नलगाऊ।",
+  "tokens": [
+    {
+      "surface": "אם",
+      "gloss": "यदि"
+    },
+    {
+      "surface": "כסף",
+      "gloss": "चाँदी"
+    },
+    {
+      "surface": "תלוה",
+      "gloss": "उसाउँछौ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेरो जन"
+    },
+    {
+      "surface": "עמי",
+      "gloss": "मेरो जन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "गरिबलाई"
+    },
+    {
+      "surface": "העני",
+      "gloss": "गरिब"
+    },
+    {
+      "surface": "עמך",
+      "gloss": "तिमीसितकै"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "होऊ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसका निम्ति"
+    },
+    {
+      "surface": "כנשה",
+      "gloss": "भिकारीझैँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשימון",
+      "gloss": "लगाऊ"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उसमाथि"
+    },
+    {
+      "surface": "נשך",
+      "gloss": "ब्याज"
+    }
+  ],
+  "timestamp": "2026-08-26T20:13:31.962997653Z",
+  "model": "glm-5.3"
+}

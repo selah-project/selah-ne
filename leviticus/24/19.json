@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "leviticus 24:19",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र एक मानिसले जब आफ्नो सहकर्मीमा खराबी ल्याउँछ, जसरी उसले गर्‍यो त्यसरी नै उसलाई गरिनेछ।",
+  "tokens": [
+    {
+      "surface": "ואיש",
+      "gloss": "र एक मानिस"
+    },
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "ल्याउँछ"
+    },
+    {
+      "surface": "מום",
+      "gloss": "खराबी"
+    },
+    {
+      "surface": "בעמיתו",
+      "gloss": "आफ्नो सहकर्मीमा"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जसरी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्‍यो"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसरी नै"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गरिनेछ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:32:52.293076722Z",
+  "model": "glm-5.3"
+}

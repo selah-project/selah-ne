@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "1-chronicles 25:15",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "आठौँ येशायाहू — उनका छोराहरू र उनका दाजुभाइहरू बाह्र जना थिए।",
+  "tokens": [
+    {
+      "surface": "השמיני",
+      "gloss": "आठौँ"
+    },
+    {
+      "surface": "ישעיהו",
+      "gloss": "येशायाहू"
+    },
+    {
+      "surface": "בניו",
+      "gloss": "उनका छोराहरू"
+    },
+    {
+      "surface": "ואחיו",
+      "gloss": "र उनका दाजुभाइहरू"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "बाह्र"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "जना"
+    }
+  ],
+  "timestamp": "2026-08-27T01:28:12.455507644Z",
+  "model": "glm-5.3"
+}

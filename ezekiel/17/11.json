@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 17:11",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "र यहवेको वचन मसँग आयो, भन्दै:",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र...आयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मसँग"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:17:10.334014811Z",
+  "model": "glm-5.3"
+}

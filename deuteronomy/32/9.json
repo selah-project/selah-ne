@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 32:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "किनकि यहवेको भाग ⟨हो⟩ उहाँको जनता; याकोभ ⟨हो⟩ उहाँको उत्तराधिकारको नाप।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "חלק",
+      "gloss": "भाग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "उहाँको जनता"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    },
+    {
+      "surface": "חבל",
+      "gloss": "नाप"
+    },
+    {
+      "surface": "נחלתו",
+      "gloss": "उहाँको उत्तराधिकारको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:07:21.407211718Z",
+  "model": "glm-5.3"
+}

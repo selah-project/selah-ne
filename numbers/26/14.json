@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "numbers 26:14",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "यी ⟨are⟩ शिमोनीहरूका परिवारहरू: बाइस हजार दुई सय।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "משפחת",
+      "gloss": "परिवारहरू"
+    },
+    {
+      "surface": "हשמעני",
+      "gloss": "शिमोनीहरूका"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "ועשרים",
+      "gloss": "र बीस"
+    },
+    {
+      "surface": "אלף",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ומאתים",
+      "gloss": "र दुई सय"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:45.816268041Z",
+  "model": "glm-5.3"
+}

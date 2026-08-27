@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "exodus 39:2",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 39,
+  "translation": "र उनले ⟨את⟩ एफोद बनाए — सुन, नीलो, र बैजनी, र किर्मीज-रातो, र मस्रिएको सनु।",
+  "tokens": [
+    {
+      "surface": "ויעש",
+      "gloss": "र बनाए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "एफोद"
+    },
+    {
+      "surface": "האפד",
+      "gloss": "एफोद"
+    },
+    {
+      "surface": "זהב",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "תכלת",
+      "gloss": "नीलो"
+    },
+    {
+      "surface": "ואरגמן",
+      "gloss": "र बैजनी"
+    },
+    {
+      "surface": "ותולעת",
+      "gloss": "र किर्मीज"
+    },
+    {
+      "surface": "שני",
+      "gloss": "रातो"
+    },
+    {
+      "surface": "ושש",
+      "gloss": "र सनु"
+    },
+    {
+      "surface": "משזר",
+      "gloss": "मस्रिएको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:21:39.883717305Z",
+  "model": "glm-5.3"
+}

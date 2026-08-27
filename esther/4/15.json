@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "esther 4:15",
+  "book": "esther",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "एस्तेरले फर्काएर मर्दोखीलाई भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אסתר",
+      "gloss": "एस्तेरले"
+    },
+    {
+      "surface": "להשיב",
+      "gloss": "फर्काएर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "מרדכי",
+      "gloss": "मर्दोखी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:53:52.701314602Z",
+  "model": "glm-5.3"
+}

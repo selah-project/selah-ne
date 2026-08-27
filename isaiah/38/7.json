@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 38:7",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "र यो तिमीलाई यहवेको ⟨את⟩-बाट चिन्ह हो, कि यहवे ⟨את⟩ यो वचन गर्नेछ जो उहाँले बोल्नुभयो।",
+  "tokens": [
+    {
+      "surface": "וזה",
+      "gloss": "र यो"
+    },
+    {
+      "surface": "לך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "האות",
+      "gloss": "चिन्ह"
+    },
+    {
+      "surface": "מאת",
+      "gloss": "⟨את⟩-बाट"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "कि"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गर्नेछ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "यो वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभयो"
+    }
+  ],
+  "timestamp": "2026-08-26T22:35:23.720282305Z",
+  "model": "glm-5.3"
+}

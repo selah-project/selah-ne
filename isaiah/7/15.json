@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "isaiah 7:15",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "ऊ दही र मह खानेछ, ऊ नराम्रो अस्वीकार गर्न र असल छान्न जान्नका लागि।",
+  "tokens": [
+    {
+      "surface": "חמאה",
+      "gloss": "दही"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "र मह"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खानेछ"
+    },
+    {
+      "surface": "לדעתו",
+      "gloss": "जान्नका लागि"
+    },
+    {
+      "surface": "מאוס",
+      "gloss": "अस्वीकार गर्न"
+    },
+    {
+      "surface": "ברע",
+      "gloss": "नराम्रो"
+    },
+    {
+      "surface": "ובחור",
+      "gloss": "र छान्न"
+    },
+    {
+      "surface": "בטוב",
+      "gloss": "असल"
+    }
+  ],
+  "timestamp": "2026-08-26T22:24:46.181017334Z",
+  "model": "glm-5.3"
+}

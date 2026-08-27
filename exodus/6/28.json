@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 6:28",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र त्यही दिन भयो जब यहवेले मित्स्रयिमको देशमा मोशेसँग बोल्नुभयो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "त्यही दिन"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "बोल्नुभयो जब"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "मשה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "मצרים",
+      "gloss": "मित्स्रयिमको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:05:54.949899624Z",
+  "model": "glm-5.3"
+}

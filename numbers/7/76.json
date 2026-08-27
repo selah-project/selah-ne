@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 76,
+  "ref": "numbers 7:76",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एउटा बाख्राको भाले, पापबलिको निम्ति।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "बाख्राको भाले"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्रा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलिको निम्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T20:39:52.604748098Z",
+  "model": "glm-5.3"
+}

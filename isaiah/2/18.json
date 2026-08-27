@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "isaiah 2:18",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र ⟨ה⟩मूर्तिहरू पूरै रूपमा नामेट हुनेछन्।",
+  "tokens": [
+    {
+      "surface": "והאלילים",
+      "gloss": "र ⟨ה⟩मूर्तिहरू"
+    },
+    {
+      "surface": "כליל",
+      "gloss": "पूरै रूपमा"
+    },
+    {
+      "surface": "יחלף",
+      "gloss": "नामेट हुनेछन्"
+    }
+  ],
+  "timestamp": "2026-08-26T22:23:01.147561965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,47 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "leviticus 9:11",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र ⟨את⟩ मासु र ⟨את⟩ छाला शिविरबाहिर आगोमा जलाइयो।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "मासु"
+    },
+    {
+      "surface": "הבשר",
+      "gloss": "मासु"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "छाला"
+    },
+    {
+      "surface": "העור",
+      "gloss": "छाला"
+    },
+    {
+      "surface": "שרף",
+      "gloss": "जलाइयो"
+    },
+    {
+      "surface": "באש",
+      "gloss": "आगोमा"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "शिविर"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:30.426837254Z",
+  "model": "glm-5.3"
+}

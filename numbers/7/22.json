@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "numbers 7:22",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बाख्राका भालेहरूमध्ये एउटा पापबलिका लागि।",
+  "tokens": [
+    {
+      "surface": "שעיר",
+      "gloss": "भाले"
+    },
+    {
+      "surface": "עזים",
+      "gloss": "बाख्राका"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एउटा"
+    },
+    {
+      "surface": "לחטאת",
+      "gloss": "पापबलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:54.176670392Z",
+  "model": "glm-5.3"
+}

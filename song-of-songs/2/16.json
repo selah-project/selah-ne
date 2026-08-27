@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "song-of-songs 2:16",
+  "book": "song-of-songs",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "मेरो प्रेमी मेरो हो, र म उसको हूँ — ⟨the⟩ उहाँ शोशनफूलहरूमा चराउने गर्नुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "דודי",
+      "gloss": "मेरो प्रेमी"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मेरो हो"
+    },
+    {
+      "surface": "ואני",
+      "gloss": "र म"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसको हूँ"
+    },
+    {
+      "surface": "הרעה",
+      "gloss": "चराउने गर्नुहुन्छ"
+    },
+    {
+      "surface": "בשושנים",
+      "gloss": "शोशनफूलहरूमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:44:17.506505185Z",
+  "model": "glm-5.3"
+}

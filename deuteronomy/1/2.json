@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 1:2",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "अघारबेटी दिन⟨को यात्रा⟩ होरेबदेखि, सेइर पर्वत⟨को⟩ बाटो हुँदै, कादेश-बार्नेयासम्म।",
+  "tokens": [
+    {
+      "surface": "אחד",
+      "gloss": "अघार"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बेटी"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "מחרב",
+      "gloss": "होरेबदेखि"
+    },
+    {
+      "surface": "דרך",
+      "gloss": "बाटो"
+    },
+    {
+      "surface": "הר",
+      "gloss": "पर्वत"
+    },
+    {
+      "surface": "שעיר",
+      "gloss": "सेइर"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "קדש",
+      "gloss": "कादेश"
+    },
+    {
+      "surface": "ברנע",
+      "gloss": "बार्नेया"
+    }
+  ],
+  "timestamp": "2026-08-26T20:53:20.641291401Z",
+  "model": "glm-5.3"
+}

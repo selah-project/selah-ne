@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 1:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "यफेतका छोराहरू: गोमेर, मागोग, मादाइ, यावान, तुवल, मेशेख र तिरास।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "यफेतका"
+    },
+    {
+      "surface": "גמר",
+      "gloss": "गोमेर"
+    },
+    {
+      "surface": "ומגוג",
+      "gloss": "मागोग"
+    },
+    {
+      "surface": "ומדי",
+      "gloss": "मादाइ"
+    },
+    {
+      "surface": "ויון",
+      "gloss": "यावान"
+    },
+    {
+      "surface": "ותבל",
+      "gloss": "तुवल"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "मेशेख"
+    },
+    {
+      "surface": "ותירס",
+      "gloss": "तिरास"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:13.496989591Z",
+  "model": "glm-5.3"
+}

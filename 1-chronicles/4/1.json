@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "1-chronicles 4:1",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "यहूदाका छोराहरू: पेरेत्स, खेत्स्रोन, र कार्मी, र खूर, र शोभाल।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "פרץ",
+      "gloss": "पेरेत्स"
+    },
+    {
+      "surface": "חצרון",
+      "gloss": "खेत्स्रोन"
+    },
+    {
+      "surface": "וכרמי",
+      "gloss": "र कार्मी"
+    },
+    {
+      "surface": "וחור",
+      "gloss": "र खूर"
+    },
+    {
+      "surface": "ושובל",
+      "gloss": "र शोभाल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:04.633521924Z",
+  "model": "glm-5.3"
+}

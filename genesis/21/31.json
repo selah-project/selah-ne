@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "genesis 21:31",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "त्यसैले त्यस स्थानलाई बेर-शेभा भनियो, किनभने त्यहाँ तिनीहरू दुवैले शपथ लिए।",
+  "tokens": [
+    {
+      "surface": "על",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "כן",
+      "gloss": "त्यसकारण"
+    },
+    {
+      "surface": "קרא",
+      "gloss": "भनियो"
+    },
+    {
+      "surface": "למקום",
+      "gloss": "स्थानलाई"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेभा"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "נשבעו",
+      "gloss": "शपथ लिए"
+    },
+    {
+      "surface": "שניהם",
+      "gloss": "तिनीहरू दुवैले"
+    }
+  ],
+  "timestamp": "2026-08-26T19:48:34.926304902Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 5:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "र गादका छोराहरू तिनीहरूको सामुन्ने बाशान देशमा, सल्खा नजिकैसम्म बसे।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "גד",
+      "gloss": "गादका"
+    },
+    {
+      "surface": "לנגדם",
+      "gloss": "तिनीहरूको सामुन्ने"
+    },
+    {
+      "surface": "ישבו",
+      "gloss": "बसे"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "देशमा"
+    },
+    {
+      "surface": "הבשן",
+      "gloss": "बाशान"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "סלכה",
+      "gloss": "सल्खा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:18:26.573633244Z",
+  "model": "glm-5.3"
+}

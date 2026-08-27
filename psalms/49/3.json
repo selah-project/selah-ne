@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 49:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "त्यसैगरी मानिसका छोराहरू, त्यसैगरी पुरुषका छोराहरू, एकसाथ, धनी र गरिब।",
+  "tokens": [
+    {
+      "surface": "גם",
+      "gloss": "त्यसैगरी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानिसका"
+    },
+    {
+      "surface": "גם",
+      "gloss": "त्यसैगरी"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "איש",
+      "gloss": "पुरुषका"
+    },
+    {
+      "surface": "יחד",
+      "gloss": "एकसाथ"
+    },
+    {
+      "surface": "עשיר",
+      "gloss": "धनी"
+    },
+    {
+      "surface": "ואביון",
+      "gloss": "र गरिब"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:08.589135320Z",
+  "model": "glm-5.3"
+}

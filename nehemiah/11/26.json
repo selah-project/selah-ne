@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "nehemiah 11:26",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र येशूआमा, र मोलादामा, र बेथ-पालेटमा।",
+  "tokens": [
+    {
+      "surface": "ובישוע",
+      "gloss": "र येशूआमा"
+    },
+    {
+      "surface": "ובמולדה",
+      "gloss": "र मोलादामा"
+    },
+    {
+      "surface": "ובבית",
+      "gloss": "र बेथ…मा"
+    },
+    {
+      "surface": "פלט",
+      "gloss": "पालेटमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:14:40.679624584Z",
+  "model": "glm-5.3"
+}

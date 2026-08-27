@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "isaiah 27:2",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "त्यस दिनमा — एउटा चित्त तान्ने द्राक्षाबारी! तिनलाई गाउ।",
+  "tokens": [
+    {
+      "surface": "ביום",
+      "gloss": "त्यस दिनमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "כרם",
+      "gloss": "द्राक्षाबारी"
+    },
+    {
+      "surface": "חמד",
+      "gloss": "चित्त तान्ने"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "गाउ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "तिनलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T22:30:39.705066896Z",
+  "model": "glm-5.3"
+}

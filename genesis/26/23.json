@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "genesis 26:23",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "र उसले त्यहाँबाट बेएर-शेभा तर्फ माथि गयो।",
+  "tokens": [
+    {
+      "surface": "ויעל",
+      "gloss": "र माथि गयो"
+    },
+    {
+      "surface": "משם",
+      "gloss": "त्यहाँबाट"
+    },
+    {
+      "surface": "באר",
+      "gloss": "बेएर"
+    },
+    {
+      "surface": "שבע",
+      "gloss": "शेभा"
+    }
+  ],
+  "timestamp": "2026-08-26T19:50:49.136370889Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "joshua 18:23",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "र हाअव्वीम, र हापारा, र ओफ्रा;",
+  "tokens": [
+    {
+      "surface": "והעוים",
+      "gloss": "र हाअव्वीम"
+    },
+    {
+      "surface": "והפרה",
+      "gloss": "र हापारा"
+    },
+    {
+      "surface": "ועפרה",
+      "gloss": "र ओफ्रा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:55.990283251Z",
+  "model": "glm-5.3"
+}

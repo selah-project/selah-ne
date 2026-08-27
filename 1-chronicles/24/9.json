@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 24:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "पाँचौँ मल्खियालाई, छैटौँ मियामिनलाई।",
+  "tokens": [
+    {
+      "surface": "למלכיה",
+      "gloss": "मल्खियालाई"
+    },
+    {
+      "surface": "החמישי",
+      "gloss": "पाँचौँ"
+    },
+    {
+      "surface": "למימן",
+      "gloss": "मियामिनलाई"
+    },
+    {
+      "surface": "हששי",
+      "gloss": "छैटौँ"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:30.175350309Z",
+  "model": "glm-5.3"
+}

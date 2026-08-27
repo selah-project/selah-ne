@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "1-samuel 3:4",
+  "book": "1-samuel",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र यहवेले शमुएललाई बोलाउनुभयो, र उनले भने — म यहाँ छु।",
+  "tokens": [
+    {
+      "surface": "ויקרא",
+      "gloss": "बोलाउनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "שמואל",
+      "gloss": "शमुएल"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "र भने"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "म यहाँ छु"
+    }
+  ],
+  "timestamp": "2026-08-26T21:30:57.081087619Z",
+  "model": "glm-5.3"
+}

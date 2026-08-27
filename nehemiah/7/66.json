@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 66,
+  "ref": "nehemiah 7:66",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "सम्पूर्ण सभा ⟨एकजस्तै⟩ चालीस हजार दुई सय तीस हो।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הקהל",
+      "gloss": "सभा"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एकजस्तै"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चालीस"
+    },
+    {
+      "surface": "רבוא",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "दुई सय"
+    },
+    {
+      "surface": "שלש",
+      "gloss": ""
+    },
+    {
+      "surface": "מאות",
+      "gloss": ""
+    },
+    {
+      "surface": "וששים",
+      "gloss": "तीस"
+    }
+  ],
+  "timestamp": "2026-08-27T01:13:17.933857656Z",
+  "model": "glm-5.3"
+}

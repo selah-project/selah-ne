@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 61,
+  "ref": "joshua 15:61",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "मरुभूमिमा: बेत-हा-अराबा, मिद्दीन र सेकाका —",
+  "tokens": [
+    {
+      "surface": "במדבר",
+      "gloss": "मरुभूमिमा"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेत"
+    },
+    {
+      "surface": "הערבה",
+      "gloss": "हा-अराबा"
+    },
+    {
+      "surface": "מדין",
+      "gloss": "मिद्दीन"
+    },
+    {
+      "surface": "וסככה",
+      "gloss": "र सेकाका"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:24.023532243Z",
+  "model": "glm-5.3"
+}

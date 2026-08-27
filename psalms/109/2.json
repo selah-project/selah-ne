@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 109:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 109,
+  "translation": "किनभने दुष्टको मुख र छलको मुख ममाथि खुलेका छन्; उनीहरूले झूटो जिब्रोले म⟨את⟩ बोले।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "פי",
+      "gloss": "मुख"
+    },
+    {
+      "surface": "רשע",
+      "gloss": "दुष्टको"
+    },
+    {
+      "surface": "ופי",
+      "gloss": "र मुख"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छलको"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    },
+    {
+      "surface": "פתחו",
+      "gloss": "खुलेका छन्"
+    },
+    {
+      "surface": "דברו",
+      "gloss": "बोले"
+    },
+    {
+      "surface": "אתי",
+      "gloss": "⟨את⟩",
+      "marks": "म"
+    },
+    {
+      "surface": "לשון",
+      "gloss": "जिब्रोले"
+    },
+    {
+      "surface": "שקר",
+      "gloss": "झूटो"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:14.994925942Z",
+  "model": "glm-5.3"
+}

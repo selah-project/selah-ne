@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "psalms 50:19",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 50,
+  "translation": "तेरो मुखलाई खराबीमा पठायौ, र तेरो जिभ्रोले छल गाँस्छ।",
+  "tokens": [
+    {
+      "surface": "פיך",
+      "gloss": "तेरो मुखलाई"
+    },
+    {
+      "surface": "שלחת",
+      "gloss": "पठायौ"
+    },
+    {
+      "surface": "ברעה",
+      "gloss": "खराबीमा"
+    },
+    {
+      "surface": "ולשונך",
+      "gloss": "र तेरो जिभ्रोले"
+    },
+    {
+      "surface": "תצמיד",
+      "gloss": "गाँस्छ"
+    },
+    {
+      "surface": "מרמה",
+      "gloss": "छल"
+    }
+  ],
+  "timestamp": "2026-08-26T23:58:17.141991766Z",
+  "model": "glm-5.3"
+}

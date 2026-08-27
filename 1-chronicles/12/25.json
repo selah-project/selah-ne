@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "1-chronicles 12:25",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "यहूदाका छोराहरू, ठालो र भाला बोक्नेहरू, छ हजार र आठ सय, युद्धका लागि सज्जित योद्धा।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יהודה",
+      "gloss": "यहूदाका"
+    },
+    {
+      "surface": "נשאי",
+      "gloss": "बोक्नेहरू"
+    },
+    {
+      "surface": "צנה",
+      "gloss": "ठालो"
+    },
+    {
+      "surface": "ורמח",
+      "gloss": "र भाला"
+    },
+    {
+      "surface": "ששת",
+      "gloss": "छ"
+    },
+    {
+      "surface": "אלפים",
+      "gloss": "हजार"
+    },
+    {
+      "surface": "ושמונה",
+      "gloss": "र आठ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "חלוצי",
+      "gloss": "सज्जित"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "युद्धका लागि योद्धा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:23.651301299Z",
+  "model": "glm-5.3"
+}

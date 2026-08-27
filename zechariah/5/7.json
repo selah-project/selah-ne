@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "zechariah 5:7",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "अनि हेर, सिसाको एक गोल टुकडा उठाइएको थियो, र यो एउटी स्त्री हो, एपाको बीचमा बसेकी।",
+  "tokens": [
+    {
+      "surface": "והנה",
+      "gloss": "अनि हेर"
+    },
+    {
+      "surface": "ככר",
+      "gloss": "गोल टुकडा"
+    },
+    {
+      "surface": "עפרת",
+      "gloss": "सिसाको"
+    },
+    {
+      "surface": "נשאת",
+      "gloss": "उठाइएको थियो"
+    },
+    {
+      "surface": "וזאת",
+      "gloss": "र यो"
+    },
+    {
+      "surface": "אשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "אחת",
+      "gloss": "एउटी"
+    },
+    {
+      "surface": "יושבת",
+      "gloss": "बसेकी"
+    },
+    {
+      "surface": "בתוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "האיפה",
+      "gloss": "एपाको"
+    }
+  ],
+  "timestamp": "2026-08-26T23:45:53.880414207Z",
+  "model": "glm-5.3"
+}

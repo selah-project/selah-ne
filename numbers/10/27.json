@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "numbers 10:27",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र नाफ्तालीका छोराहरूको कुलको सेनामा एनानको छोरा अखिरा ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "ועל",
+      "gloss": "र …मा"
+    },
+    {
+      "surface": "צבא",
+      "gloss": "सेना"
+    },
+    {
+      "surface": "מטה",
+      "gloss": "कुलको"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "נפתלי",
+      "gloss": "नाफ्ताली"
+    },
+    {
+      "surface": "אחירע",
+      "gloss": "अखिरा"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עינן",
+      "gloss": "एनान"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:34.888497046Z",
+  "model": "glm-5.3"
+}

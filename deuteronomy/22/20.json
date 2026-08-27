@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "deuteronomy 22:20",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "र यदि सत्य कुरा भयो — युवतीका लागि कुमारीपनका चिह्न भेटिएनन् —",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "र यदि"
+    },
+    {
+      "surface": "אמת",
+      "gloss": "सत्य"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "कुरा"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "נמצאו",
+      "gloss": "भेटिएनन्"
+    },
+    {
+      "surface": "בתולים",
+      "gloss": "कुमारीपनका चिह्न"
+    },
+    {
+      "surface": "לנער",
+      "gloss": "युवतीका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:29.792538706Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 31:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 31,
+  "translation": "यहवेले मोशेलाई भन्नुभयो ⟨भनेर⟩,",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "⟨भनेर⟩"
+    }
+  ],
+  "timestamp": "2026-08-26T20:49:37.116897147Z",
+  "model": "glm-5.3"
+}

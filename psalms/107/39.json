@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 39,
+  "ref": "psalms 107:39",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 107,
+  "translation": "तिनीहरू घट्न गए र झुके — दमन, विपत्ति र शोकले।",
+  "tokens": [
+    {
+      "surface": "וימעטו",
+      "gloss": "घट्न गए"
+    },
+    {
+      "surface": "וישחו",
+      "gloss": "झुके"
+    },
+    {
+      "surface": "מעצר",
+      "gloss": "दमन"
+    },
+    {
+      "surface": "רעה",
+      "gloss": "विपत्ति"
+    },
+    {
+      "surface": "ויגון",
+      "gloss": "शोक"
+    }
+  ],
+  "timestamp": "2026-08-27T02:16:52.532232237Z",
+  "model": "glm-5.3"
+}

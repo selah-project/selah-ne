@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 9:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "त्यसपछि नोआख महाप्रलयपछि तीन सय पचास वर्ष बाँच्यन्।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्यन्"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोआख"
+    },
+    {
+      "surface": "אחר",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "महाप्रलय"
+    },
+    {
+      "surface": "שלש",
+      "gloss": "तीन"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "वחמשים",
+      "gloss": "र पचास"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    }
+  ],
+  "timestamp": "2026-08-27T01:48:37.824516960Z",
+  "model": "glm-5.3"
+}

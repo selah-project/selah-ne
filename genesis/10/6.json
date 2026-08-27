@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "genesis 10:6",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र खामका छोराहरू छवे, मित्स्रायिम, पुत र कनान थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खामका"
+    },
+    {
+      "surface": "כוש",
+      "gloss": "छवे"
+    },
+    {
+      "surface": "ומצרים",
+      "gloss": "मित्स्रायिम"
+    },
+    {
+      "surface": "ופוט",
+      "gloss": "पुत"
+    },
+    {
+      "surface": "וכנען",
+      "gloss": "र कनान"
+    }
+  ],
+  "timestamp": "2026-08-27T01:48:49.228643299Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 3:2",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "तब स्त्रीले सर्पलाई भनी, \"बगैंचाका रूखहरूको फल हामी खान्छौँ ।\"",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "तब …ले भनी"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "הנחש",
+      "gloss": "सर्प"
+    },
+    {
+      "surface": "מפרי",
+      "gloss": "फल…बाट"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "הגן",
+      "gloss": "बगैंचाका"
+    },
+    {
+      "surface": "נאכל",
+      "gloss": "हामी खान्छौँ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:11.138876023Z",
+  "model": "glm-5.3"
+}

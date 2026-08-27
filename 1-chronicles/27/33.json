@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 33,
+  "ref": "1-chronicles 27:33",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र अखितोफेल राजाका सल्लाहकार थिए, र हुशाइ ⟨the⟩ अर्की-वासी राजाका मित्र थिए।",
+  "tokens": [
+    {
+      "surface": "ואחיתפל",
+      "gloss": "र अखितोफेल"
+    },
+    {
+      "surface": "יועץ",
+      "gloss": "सल्लाहकार थिए"
+    },
+    {
+      "surface": "למלך",
+      "gloss": "राजाका"
+    },
+    {
+      "surface": "וחושי",
+      "gloss": "र हुशाइ"
+    },
+    {
+      "surface": "הארכי",
+      "gloss": "⟨the⟩ अर्की-वासी"
+    },
+    {
+      "surface": "רע",
+      "gloss": "मित्र थिए"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:29:23.015237513Z",
+  "model": "glm-5.3"
+}

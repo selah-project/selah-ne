@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 27:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र मोशेले यहवेसँग बोले, भन्दै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोले"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…सँग"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:48:44.401765007Z",
+  "model": "glm-5.3"
+}

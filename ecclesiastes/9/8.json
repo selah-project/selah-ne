@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "ecclesiastes 9:8",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "हरेक समय तिम्रा लुगाहरू सेता हुन्, र तिम्रो टाउकोमा तेल कहिल्यै नघटोस्।",
+  "tokens": [
+    {
+      "surface": "בכל",
+      "gloss": "हरेक"
+    },
+    {
+      "surface": "עת",
+      "gloss": "समय"
+    },
+    {
+      "surface": "יהיו",
+      "gloss": "हुन्"
+    },
+    {
+      "surface": "בגדיך",
+      "gloss": "तिम्रा लुगाहरू"
+    },
+    {
+      "surface": "לבנים",
+      "gloss": "सेता"
+    },
+    {
+      "surface": "ושמן",
+      "gloss": "र तेल"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "ראשך",
+      "gloss": "तिम्रो टाउको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יחסר",
+      "gloss": "कहिल्यै घटोस्"
+    }
+  ],
+  "timestamp": "2026-08-27T00:51:49.898811792Z",
+  "model": "glm-5.3"
+}

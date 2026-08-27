@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "proverbs 5:9",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "कि नतर तँ आफ्नो वैभव अरूलाई दिनेछस्, र आफ्ना वर्षहरू निर्दयीलाई।",
+  "tokens": [
+    {
+      "surface": "פן",
+      "gloss": "कि नतर"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "दिनेछस्"
+    },
+    {
+      "surface": "לאחרים",
+      "gloss": "अरूलाई"
+    },
+    {
+      "surface": "הודך",
+      "gloss": "आफ्नो वैभव"
+    },
+    {
+      "surface": "ושנתיך",
+      "gloss": "र आफ्ना वर्षहरू"
+    },
+    {
+      "surface": "לאכזרי",
+      "gloss": "निर्दयीलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:07.047389128Z",
+  "model": "glm-5.3"
+}

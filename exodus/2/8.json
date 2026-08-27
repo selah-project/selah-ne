@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "exodus 2:8",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "र फराओकी छोरीले उसलाई भनिन्: जाऊ। र त्यो किशोरी गई, र ⟨את⟩ बच्चाकी आमालाई बोलाई।",
+  "tokens": [
+    {
+      "surface": "ותאמר",
+      "gloss": "र भनिन्"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरीले"
+    },
+    {
+      "surface": "פרעה",
+      "gloss": "फराओकी"
+    },
+    {
+      "surface": "לכי",
+      "gloss": "जाऊ"
+    },
+    {
+      "surface": "ותלך",
+      "gloss": "र गई"
+    },
+    {
+      "surface": "העלמה",
+      "gloss": "किशोरी"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "र बोलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "बच्चाकी आमालाई"
+    },
+    {
+      "surface": "אם",
+      "gloss": "आमालाई"
+    },
+    {
+      "surface": "הילד",
+      "gloss": "बच्चाकी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:04:28.324117436Z",
+  "model": "glm-5.3"
+}

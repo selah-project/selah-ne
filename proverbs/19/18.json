@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "proverbs 19:18",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "आशा ⟨हुँदा⟩ आफ्नो छोरालाई ताडना दे, र उसलाई मार्नेतर्फ आफ्नो नेफेश नउठाऊ।",
+  "tokens": [
+    {
+      "surface": "יסר",
+      "gloss": "ताडना दे"
+    },
+    {
+      "surface": "בנך",
+      "gloss": "आफ्नो छोरालाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "יש",
+      "gloss": "छ"
+    },
+    {
+      "surface": "תקוה",
+      "gloss": "आशा"
+    },
+    {
+      "surface": "ואל",
+      "gloss": "र ... न"
+    },
+    {
+      "surface": "המיתו",
+      "gloss": "उसलाई मार्ने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תשא",
+      "gloss": "उठाऊ"
+    },
+    {
+      "surface": "נפשך",
+      "gloss": "आफ्नो नेफेश"
+    }
+  ],
+  "timestamp": "2026-08-27T00:24:56.346504786Z",
+  "model": "glm-5.3"
+}

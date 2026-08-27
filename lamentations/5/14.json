@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "lamentations 5:14",
+  "book": "lamentations",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "बुढाहरू द्वारबाट बन्द भए, जवानहरू ⟨तिनका⟩ सङ्गीतबाट।",
+  "tokens": [
+    {
+      "surface": "זקנים",
+      "gloss": "बुढाहरू"
+    },
+    {
+      "surface": "משער",
+      "gloss": "द्वारबाट"
+    },
+    {
+      "surface": "שבתו",
+      "gloss": "बन्द भए"
+    },
+    {
+      "surface": "בחורים",
+      "gloss": "जवानहरू"
+    },
+    {
+      "surface": "מנגינתם",
+      "gloss": "⟨तिनका⟩ सङ्गीतबाट"
+    }
+  ],
+  "timestamp": "2026-08-27T00:48:22.342318642Z",
+  "model": "glm-5.3"
+}

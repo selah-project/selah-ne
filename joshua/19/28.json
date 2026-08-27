@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "joshua 19:28",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र एब्रोन, र रेखोभ, र हम्मोन, र काना, ठूलो त्सिदोनसम्म।",
+  "tokens": [
+    {
+      "surface": "ועברן",
+      "gloss": "र एब्रोन"
+    },
+    {
+      "surface": "ורחב",
+      "gloss": "र रेखोभ"
+    },
+    {
+      "surface": "וחמון",
+      "gloss": "र हम्मोन"
+    },
+    {
+      "surface": "וקנה",
+      "gloss": "र काना"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "צידון",
+      "gloss": "त्सिदोन"
+    },
+    {
+      "surface": "רבה",
+      "gloss": "ठूलो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:17:14.992546786Z",
+  "model": "glm-5.3"
+}

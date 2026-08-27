@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "1-chronicles 11:16",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "त्यति बेला दाउद गढमा थियो, र पलिश्तीहरूको चौकी त्यति बेला बेथ-लेखेममा थियो।",
+  "tokens": [
+    {
+      "surface": "ודויד",
+      "gloss": "र दाउद"
+    },
+    {
+      "surface": "אז",
+      "gloss": "त्यति बेला"
+    },
+    {
+      "surface": "במצודה",
+      "gloss": "गढमा"
+    },
+    {
+      "surface": "ונציב",
+      "gloss": "र चौकी"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीहरूको"
+    },
+    {
+      "surface": "אז",
+      "gloss": "त्यति बेला"
+    },
+    {
+      "surface": "בבית",
+      "gloss": "बेथ-लेखेममा"
+    },
+    {
+      "surface": "לחם",
+      "gloss": ""
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:06.566129467Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "leviticus 18:2",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "इस्राएलका छोराहरूसँग बोल्, र तिनीहरूसँग भन् ः म ⟨हुँ⟩ यहवे, तिमीहरूको एलोहीम।",
+  "tokens": [
+    {
+      "surface": "דבר",
+      "gloss": "बोल्"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएल"
+    },
+    {
+      "surface": "ואמרת",
+      "gloss": "र...भन्"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "तिनीहरूसँग"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהיכם",
+      "gloss": "तिमीहरूको एलोहीम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:30:13.307421053Z",
+  "model": "glm-5.3"
+}

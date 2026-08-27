@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ecclesiastes 7:9",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "आफ्नो रुआखमा रिसाउन हतारो नगर्नु, किनकि रिस मूर्खहरूको काँखमा विश्राम लिन्छ।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבהל",
+      "gloss": "हतारो गर्नु"
+    },
+    {
+      "surface": "ברוחך",
+      "gloss": "आफ्नो रुआखमा"
+    },
+    {
+      "surface": "לכעוס",
+      "gloss": "रिसाउन"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כעס",
+      "gloss": "रिस"
+    },
+    {
+      "surface": "בחיק",
+      "gloss": "काँखमा"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खहरूको"
+    },
+    {
+      "surface": "ינוח",
+      "gloss": "विश्राम लिन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:21.331547716Z",
+  "model": "glm-5.3"
+}

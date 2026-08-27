@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ecclesiastes 8:7",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "किनकि ऊ जान्दैन के हुनेछ, किनकि जस्तो हुनेछ त्यसलाई कसले उसलाई बताउनेछ?",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "איננו",
+      "gloss": "ऊ ... छैन"
+    },
+    {
+      "surface": "ידע",
+      "gloss": "जान्ने"
+    },
+    {
+      "surface": "मה",
+      "gloss": "के"
+    },
+    {
+      "surface": "שיהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "कי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כאשר",
+      "gloss": "जस्तो"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "מי",
+      "gloss": "कसले"
+    },
+    {
+      "surface": "יגיד",
+      "gloss": "बताउनेछ"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:36.689042281Z",
+  "model": "glm-5.3"
+}

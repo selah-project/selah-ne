@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "psalms 57:11",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 57,
+  "translation": "किनभने हजुरको खेसेद आकाश⟨सम्म⟩ ठूलो छ, र हजुरको सत्यता बादल⟨सम्म⟩।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "ठूलो छ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "…सम्म"
+    },
+    {
+      "surface": "שמים",
+      "gloss": "आकाश"
+    },
+    {
+      "surface": "חסדך",
+      "gloss": "हजुरको खेसेद"
+    },
+    {
+      "surface": "ועד",
+      "gloss": "र …सम्म"
+    },
+    {
+      "surface": "שחקים",
+      "gloss": "बादल"
+    },
+    {
+      "surface": "אמתך",
+      "gloss": "हजुरको सत्यता"
+    }
+  ],
+  "timestamp": "2026-08-26T23:59:33.060359923Z",
+  "model": "glm-5.3"
+}

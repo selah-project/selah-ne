@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 5:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "केनान सत्तरी वर्ष बाँच्यो, र उसले ⟨את⟩ महललेललाई जन्म दियो।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्यो"
+    },
+    {
+      "surface": "קינן",
+      "gloss": "केनान"
+    },
+    {
+      "surface": "שבעים",
+      "gloss": "सत्तरी"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दियो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "महललेल"
+    },
+    {
+      "surface": "מהללאל",
+      "gloss": "महललेल"
+    }
+  ],
+  "timestamp": "2026-08-26T19:41:59.879732849Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "2-samuel 12:2",
+  "book": "2-samuel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "धनीसँग निकै धेरै थरी बाख्रा र गाईवस्तु हुन्थे।",
+  "tokens": [
+    {
+      "surface": "לעשיר",
+      "gloss": "धनीसँग"
+    },
+    {
+      "surface": "היה",
+      "gloss": "हुन्थे"
+    },
+    {
+      "surface": "צאן",
+      "gloss": "थरी बाख्रा"
+    },
+    {
+      "surface": "ובקר",
+      "gloss": "र गाईवस्तु"
+    },
+    {
+      "surface": "הרבה",
+      "gloss": "निकै धेरै"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्तै"
+    }
+  ],
+  "timestamp": "2026-08-26T21:48:13.960799561Z",
+  "model": "glm-5.3"
+}

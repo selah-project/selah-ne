@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "ezekiel 29:1",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "दशौँ वर्षमा, ⟨दशौँ⟩ महिनाको बाह्रौँ ⟨दिनमा⟩, यहवेको वचन मतिर भयो, भन्दै।",
+  "tokens": [
+    {
+      "surface": "בשנה",
+      "gloss": "वर्षमा"
+    },
+    {
+      "surface": "העשירית",
+      "gloss": "दशौँ"
+    },
+    {
+      "surface": "בעשרי",
+      "gloss": "बाह्रौँमा"
+    },
+    {
+      "surface": "בשנים",
+      "gloss": "बाह्रैमा"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "बाह्र"
+    },
+    {
+      "surface": "לחדש",
+      "gloss": "महिनाको"
+    },
+    {
+      "surface": "היה",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "वचन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मतिर"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T23:23:23.458749704Z",
+  "model": "glm-5.3"
+}

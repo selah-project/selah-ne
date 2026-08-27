@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "psalms 34:9",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "चाखेर हेर कि यहवे असल हुनुहुन्छ; त्यो व्यक्ति धन्य छ जसले उहाँमा शरण लिन्छ।",
+  "tokens": [
+    {
+      "surface": "טעמו",
+      "gloss": "चाखेर"
+    },
+    {
+      "surface": "וראו",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "कि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אשרי",
+      "gloss": "धन्य"
+    },
+    {
+      "surface": "הגבר",
+      "gloss": "त्यो व्यक्ति"
+    },
+    {
+      "surface": "יחסה",
+      "gloss": "शरण लिन्छ"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उहाँमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:54:35.278148536Z",
+  "model": "glm-5.3"
+}

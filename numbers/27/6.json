@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 27:6",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "र यहवेले मोशेलाई भन्नुभयो, तराईं भन्नु:",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेलाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "तराईं भन्नु"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:15.617754459Z",
+  "model": "glm-5.3"
+}

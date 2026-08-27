@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 12:17",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र बिन्यामिन र यहूदाका छोराहरूमध्येबाट केही दाविदको गढीसम्म आए।",
+  "tokens": [
+    {
+      "surface": "ויבאו",
+      "gloss": "र आए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूमध्ये"
+    },
+    {
+      "surface": "בנימן",
+      "gloss": "बिन्यामिनका"
+    },
+    {
+      "surface": "ויהודה",
+      "gloss": "र यहूदाका"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "למצד",
+      "gloss": "गढीमा"
+    },
+    {
+      "surface": "לדויד",
+      "gloss": "दाविदको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:23:23.587067115Z",
+  "model": "glm-5.3"
+}

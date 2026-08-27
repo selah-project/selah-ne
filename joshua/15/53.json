@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "joshua 15:53",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "र यानुम, र बेथ-तप्पुआख, र अफेकाह —",
+  "tokens": [
+    {
+      "surface": "וינים",
+      "gloss": "र यानुम"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "תפוח",
+      "gloss": "तप्पुआख"
+    },
+    {
+      "surface": "ואפקה",
+      "gloss": "र अफेकाह"
+    }
+  ],
+  "timestamp": "2026-08-26T21:15:28.466871592Z",
+  "model": "glm-5.3"
+}

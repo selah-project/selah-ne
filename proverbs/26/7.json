@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "proverbs 26:7",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 26,
+  "translation": "लङ्गाका खुट्टा लुखुक्क हुन्छन्, र मूर्खहरूको मुखमा उखान ⟨छ⟩।",
+  "tokens": [
+    {
+      "surface": "דליו",
+      "gloss": "लुखुक्क हुन्छन्"
+    },
+    {
+      "surface": "שקים",
+      "gloss": "खुट्टा"
+    },
+    {
+      "surface": "מפסח",
+      "gloss": "लङ्गाका"
+    },
+    {
+      "surface": "ומשל",
+      "gloss": "र उखान"
+    },
+    {
+      "surface": "בפי",
+      "gloss": "मुखमा"
+    },
+    {
+      "surface": "כסילים",
+      "gloss": "मूर्खहरूको"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:37.727000469Z",
+  "model": "glm-5.3"
+}

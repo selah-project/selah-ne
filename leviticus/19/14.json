@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "leviticus 19:14",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "बधिरलाई गाली नगर, र अन्धाको अगाडि अड्काउने वस्तु नराख; तिम्रा एलोहीमबाट डराऊ — म यहवे हुँ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תקלल",
+      "gloss": "गाली गर"
+    },
+    {
+      "surface": "חרש",
+      "gloss": "बधिरलाई"
+    },
+    {
+      "surface": "ולפני",
+      "gloss": "र ... को अगाडि"
+    },
+    {
+      "surface": "עור",
+      "gloss": "अन्धा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתן",
+      "gloss": "राख"
+    },
+    {
+      "surface": "מכשל",
+      "gloss": "अड्काउने वस्तु"
+    },
+    {
+      "surface": "ויראת",
+      "gloss": "र डराऊ"
+    },
+    {
+      "surface": "מאלהיך",
+      "gloss": "तिम्रा एलोहीमबाट"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:41.416365939Z",
+  "model": "glm-5.3"
+}

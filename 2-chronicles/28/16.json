@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "2-chronicles 28:16",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "त्यही समयमा राजा अखाजले अस्सूरका राजाहरूकहाँ आफ्नैलाई सहायता गर्न पठायो।",
+  "tokens": [
+    {
+      "surface": "בעת",
+      "gloss": "समयमा"
+    },
+    {
+      "surface": "ההיא",
+      "gloss": "त्यही"
+    },
+    {
+      "surface": "שלח",
+      "gloss": "पठायो"
+    },
+    {
+      "surface": "המלך",
+      "gloss": "राजाले"
+    },
+    {
+      "surface": "אחז",
+      "gloss": "अखाजले"
+    },
+    {
+      "surface": "על",
+      "gloss": "-कहाँ"
+    },
+    {
+      "surface": "מלכי",
+      "gloss": "राजाहरू"
+    },
+    {
+      "surface": "אשור",
+      "gloss": "अस्सूरका"
+    },
+    {
+      "surface": "לעזר",
+      "gloss": "सहायता गर्न"
+    },
+    {
+      "surface": "לו",
+      "gloss": "आफ्नैलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:41:54.559972077Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "numbers 25:10",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "यहवेले मोशेसँग बोल्नुभयो, भन्नुहोस्:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्नुहोस्"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:47.817515212Z",
+  "model": "glm-5.3"
+}

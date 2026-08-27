@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "exodus 40:28",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 40,
+  "translation": "र उनले त्रुटको ढोकाको पर्दा ⟨את⟩ राखे।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "राखे"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "पर्दा"
+    },
+    {
+      "surface": "מסך",
+      "gloss": "पर्दा"
+    },
+    {
+      "surface": "ह्प्तख",
+      "gloss": "ढोकाको"
+    },
+    {
+      "surface": "למש्छन",
+      "gloss": "त्रुटको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:21:10.590792083Z",
+  "model": "glm-5.3"
+}

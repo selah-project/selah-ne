@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "proverbs 2:12",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "दुष्ट बाटोबाट र विकृत कुरा बोल्ने मानिसबाट तिमीलाई छुटाउन।",
+  "tokens": [
+    {
+      "surface": "להצילך",
+      "gloss": "तिमीलाई छुटाउन"
+    },
+    {
+      "surface": "מדרך",
+      "gloss": "बाटोबाट"
+    },
+    {
+      "surface": "רע",
+      "gloss": "दुष्ट"
+    },
+    {
+      "surface": "מאיש",
+      "gloss": "मानिसबाट"
+    },
+    {
+      "surface": "מדבר",
+      "gloss": "बोल्ने"
+    },
+    {
+      "surface": "תהפכות",
+      "gloss": "विकृत कुरा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:50.427459378Z",
+  "model": "glm-5.3"
+}

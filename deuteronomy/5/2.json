@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "deuteronomy 5:2",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "यहवे, हाम्रा एलोहीम, होरेबमा हामीसित करार काटिबक्सनुभयो।",
+  "tokens": [
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אלהינו",
+      "gloss": "हाम्रा एलोहीम"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "काटिबक्सनुभयो"
+    },
+    {
+      "surface": "עמנו",
+      "gloss": "हामीसित"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "करार"
+    },
+    {
+      "surface": "בחרב",
+      "gloss": "होरेबमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:55:03.977830679Z",
+  "model": "glm-5.3"
+}

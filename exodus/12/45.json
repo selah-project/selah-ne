@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 45,
+  "ref": "exodus 12:45",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "बसाइंदार र भाडाको कामदारले त्यसमा खानेछैनन्।",
+  "tokens": [
+    {
+      "surface": "תושב",
+      "gloss": "बसाइंदार"
+    },
+    {
+      "surface": "ושכिनר",
+      "gloss": "भाडाको कामदार"
+    },
+    {
+      "surface": "לא",
+      "gloss": "खानेछैनन्"
+    },
+    {
+      "surface": "יאכל",
+      "gloss": "खानेछैनन्"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:08:50.614706625Z",
+  "model": "glm-5.3"
+}

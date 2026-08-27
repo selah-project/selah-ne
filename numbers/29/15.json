@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 29:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "र एक चेलाका निम्ति एक इस्रोन, चौध चेलाहरूका निम्ति —",
+  "tokens": [
+    {
+      "surface": "ועשרון",
+      "gloss": "र एक इस्रोन"
+    },
+    {
+      "surface": "עשרון",
+      "gloss": "इस्रोन"
+    },
+    {
+      "surface": "לכבש",
+      "gloss": "एक चेलाका निम्ति"
+    },
+    {
+      "surface": "האחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "לארבעה",
+      "gloss": "चौधका निम्ति"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "(दश)"
+    },
+    {
+      "surface": "כבשים",
+      "gloss": "चेलाहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T20:49:39.958304069Z",
+  "model": "glm-5.3"
+}

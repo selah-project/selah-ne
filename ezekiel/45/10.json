@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "ezekiel 45:10",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 45,
+  "translation": "न्यायी तराजु, न्यायी एपा र न्यायी बाथ ⟨होऊन्⟩ तिमीहरूका लागि।",
+  "tokens": [
+    {
+      "surface": "מאזני",
+      "gloss": "तराजु"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "ואיפת",
+      "gloss": "र एपा"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "ובת",
+      "gloss": "र बाथ"
+    },
+    {
+      "surface": "צדק",
+      "gloss": "न्यायी"
+    },
+    {
+      "surface": "יהי",
+      "gloss": "⟨होऊन्⟩"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "तिमीहरूका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T23:31:10.486912932Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 30,
+  "ref": "numbers 3:30",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "र केहाती कुलहरूका पितृ-गृहको प्रमुख उज्जिएलका छोरा एलित्साफान हुनेछन्।",
+  "tokens": [
+    {
+      "surface": "ונשיא",
+      "gloss": "र प्रमुख"
+    },
+    {
+      "surface": "בית",
+      "gloss": "गृह"
+    },
+    {
+      "surface": "אב",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "למשפחת",
+      "gloss": "कुलहरूका"
+    },
+    {
+      "surface": "הקהתי",
+      "gloss": "केहाती"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "एलित्साफान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עזיאל",
+      "gloss": "उज्जिएल"
+    }
+  ],
+  "timestamp": "2026-08-26T20:36:52.765439472Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "1-chronicles 4:13",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र केनाजका छोराहरू ओतनीएल र सेरायाह थिए; र ओतनीएलका छोराहरू हतात थिए।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "קנז",
+      "gloss": "केनाज"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ओतनीएल"
+    },
+    {
+      "surface": "ושריה",
+      "gloss": "र सेरायाह"
+    },
+    {
+      "surface": "ובני",
+      "gloss": "र …का छोराहरू"
+    },
+    {
+      "surface": "עתניאל",
+      "gloss": "ओतनीएलका"
+    },
+    {
+      "surface": "חתת",
+      "gloss": "हतात"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:56.571710901Z",
+  "model": "glm-5.3"
+}

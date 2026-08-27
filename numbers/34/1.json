@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "numbers 34:1",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "र यहवेले मोशेलाई यो भन्नुभयो —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र … बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "यो भन्न"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:44.726644272Z",
+  "model": "glm-5.3"
+}

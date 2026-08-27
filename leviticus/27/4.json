@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "leviticus 27:4",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 27,
+  "translation": "अनि यदि ऊ स्त्री हो, तब तिम्रो मूल्याङ्कन ⟨is⟩ तीस शेकेल।",
+  "tokens": [
+    {
+      "surface": "ואם",
+      "gloss": "अनि यदि"
+    },
+    {
+      "surface": "נקבה",
+      "gloss": "स्त्री हो"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "והיה",
+      "gloss": "तब ⟨is⟩"
+    },
+    {
+      "surface": "ערכך",
+      "gloss": "तिम्रो मूल्याङ्कन"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שקל",
+      "gloss": "शेकेल"
+    }
+  ],
+  "timestamp": "2026-08-27T01:53:18.710167866Z",
+  "model": "glm-5.3"
+}

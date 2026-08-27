@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "nehemiah 12:18",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "बिल्गाहका शम्मुआ; शेमायाहका यहोनातन।",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "बिल्गाहका"
+    },
+    {
+      "surface": "שמוע",
+      "gloss": "शम्मुआ"
+    },
+    {
+      "surface": "לשמעיה",
+      "gloss": "शेमायाहका"
+    },
+    {
+      "surface": "יהונתן",
+      "gloss": "यहोनातन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:15:04.410041073Z",
+  "model": "glm-5.3"
+}

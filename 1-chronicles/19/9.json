@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "1-chronicles 19:9",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "अम्मोनका छोराहरू निस्किए र नगरको प्रवेशद्वारमा युद्ध सजाए, र आएका राजाहरू खेतमा आफै थिए।",
+  "tokens": [
+    {
+      "surface": "ויצאו",
+      "gloss": "निस्किए"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "עמון",
+      "gloss": "अम्मोन"
+    },
+    {
+      "surface": "ויערכו",
+      "gloss": "सजाए"
+    },
+    {
+      "surface": "מלחמה",
+      "gloss": "युद्ध"
+    },
+    {
+      "surface": "פתח",
+      "gloss": "प्रवेशद्वारमा"
+    },
+    {
+      "surface": "העיר",
+      "gloss": "नगरको"
+    },
+    {
+      "surface": "והמלכים",
+      "gloss": "र राजाहरू"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "באו",
+      "gloss": "आएका"
+    },
+    {
+      "surface": "לבדם",
+      "gloss": "आफै"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेतमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:26:55.879959380Z",
+  "model": "glm-5.3"
+}

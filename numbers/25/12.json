@@ -1,0 +1,46 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "numbers 25:12",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "त्यसैले भन्: हेर, म उसलाई मेरो शान्तिको ⟨את⟩ करार दिँदैछु।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "त्यसैले"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्"
+    },
+    {
+      "surface": "הנני",
+      "gloss": "हेर, म ... छु"
+    },
+    {
+      "surface": "נתן",
+      "gloss": "दिँदैछु"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "मेरो शान्तिको करार"
+    },
+    {
+      "surface": "בריתי",
+      "gloss": "मेरो ... करार"
+    },
+    {
+      "surface": "שלום",
+      "gloss": "शान्तिको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:47:47.817884967Z",
+  "model": "glm-5.3"
+}

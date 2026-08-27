@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "exodus 39:4",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 39,
+  "translation": "काँधाहरू उनीहरूले त्यसका लागि बनाए, जोडिएका — त्यसका दुई छेउमा जोडियो।",
+  "tokens": [
+    {
+      "surface": "כתפת",
+      "gloss": "काँधाहरू"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यसका लागि"
+    },
+    {
+      "surface": "חברת",
+      "gloss": "जोडिएका"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "שני",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "קצוותו",
+      "gloss": "त्यसका छेउहरू"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "जोडियो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:21:39.884107589Z",
+  "model": "glm-5.3"
+}

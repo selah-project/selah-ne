@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 8:8",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "गहुँ र जौको देश, दाखबारी र भुइँकटहार र अनारको देश; जैतूनको तेल र महको देश।",
+  "tokens": [
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "חטה",
+      "gloss": "गहुँ"
+    },
+    {
+      "surface": "ושערה",
+      "gloss": "र जौ"
+    },
+    {
+      "surface": "וגפן",
+      "gloss": "दाखबारी"
+    },
+    {
+      "surface": "ותאנה",
+      "gloss": "भुइँकटहार"
+    },
+    {
+      "surface": "ורמון",
+      "gloss": "अनार"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "זית",
+      "gloss": "जैतून"
+    },
+    {
+      "surface": "שמן",
+      "gloss": "तेल"
+    },
+    {
+      "surface": "ודבש",
+      "gloss": "र मह"
+    }
+  ],
+  "timestamp": "2026-08-26T20:56:48.013175945Z",
+  "model": "glm-5.3"
+}

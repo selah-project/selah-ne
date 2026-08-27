@@ -1,0 +1,72 @@
+{
+  "tier": "glm-5.2",
+  "verse": 32,
+  "ref": "genesis 5:32",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "नोआख पाँच सय वर्षका छोरा भए, र नोआखले ⟨את⟩ शेमलाई, ⟨את⟩ खामलाई र ⟨את⟩ येफेतलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भए"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोआख"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "חמש",
+      "gloss": "पाँच"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्षका"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "נח",
+      "gloss": "नोआखले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "शेम"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेमलाई"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "खाम"
+    },
+    {
+      "surface": "חם",
+      "gloss": "खामलाई"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "येफेत"
+    },
+    {
+      "surface": "יפת",
+      "gloss": "येफेतलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:34.967441748Z",
+  "model": "glm-5.3"
+}

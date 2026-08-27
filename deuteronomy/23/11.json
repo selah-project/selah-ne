@@ -1,0 +1,89 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "deuteronomy 23:11",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "जब तिमीहरूमा कुनै मानिस हुनेछ जो रातको घटनाले शुद्ध हुनेछैन, तब ऊ शिविरबाट बाहिर निस्किनेछ; ऊ शिविरको बीचमा भित्रिने छैन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "בך",
+      "gloss": "तिमीहरूमा"
+    },
+    {
+      "surface": "איש",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "טהור",
+      "gloss": "शुद्ध"
+    },
+    {
+      "surface": "מקרה",
+      "gloss": "घटनाबाट"
+    },
+    {
+      "surface": "לילה",
+      "gloss": "रातको"
+    },
+    {
+      "surface": "ויצא",
+      "gloss": "निस्किनेछ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "तिर"
+    },
+    {
+      "surface": "מחוץ",
+      "gloss": "बाहिर"
+    },
+    {
+      "surface": "למחנה",
+      "gloss": "शिविरबाट"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "भित्रिने"
+    },
+    {
+      "surface": "אל",
+      "gloss": "भित्र"
+    },
+    {
+      "surface": "תוך",
+      "gloss": "बीचमा"
+    },
+    {
+      "surface": "המחנה",
+      "gloss": "शिविरको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:23.235811980Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "exodus 16:27",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "सातौँ दिनमा मानिसहरूमध्ये केही टिप्न निस्कए, तर उनीहरूले केही भेटाएनन्।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השביעי",
+      "gloss": "सातौँ"
+    },
+    {
+      "surface": "יצאו",
+      "gloss": "निस्कए"
+    },
+    {
+      "surface": "מן",
+      "gloss": "मध्येबाट"
+    },
+    {
+      "surface": "העם",
+      "gloss": "मानिसहरूका"
+    },
+    {
+      "surface": "ללקט",
+      "gloss": "टिप्न"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "तर छैन"
+    },
+    {
+      "surface": "מצאו",
+      "gloss": "भेटाए"
+    }
+  ],
+  "timestamp": "2026-08-26T20:10:14.683177453Z",
+  "model": "glm-5.3"
+}

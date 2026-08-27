@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "proverbs 24:13",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "हे मेरा छोरा, मह खाऊ, किनकि ⟨यो⟩ असल हो; र मौरीको त्याप ⟨तिम्रो⟩ मुखमा गुलियो छ।",
+  "tokens": [
+    {
+      "surface": "אכל",
+      "gloss": "खाऊ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "हे मेरा छोरा"
+    },
+    {
+      "surface": "דבש",
+      "gloss": "मह"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "טוב",
+      "gloss": "असल"
+    },
+    {
+      "surface": "ונפת",
+      "gloss": "र मौरीको त्याप"
+    },
+    {
+      "surface": "מתוק",
+      "gloss": "गुलियो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "חכך",
+      "gloss": "तिम्रो तालु"
+    }
+  ],
+  "timestamp": "2026-08-27T00:26:58.395388368Z",
+  "model": "glm-5.3"
+}

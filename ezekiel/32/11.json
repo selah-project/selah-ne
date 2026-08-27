@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "ezekiel 32:11",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "किनकि यसो भन्नुभयो अदोनाइ यहवेले: बाबेलका राजाको तरवार तिमीमाथि आउनेछ;",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "חרב",
+      "gloss": "तरवार"
+    },
+    {
+      "surface": "מלך",
+      "gloss": "राजाको"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेलका"
+    },
+    {
+      "surface": "תבואך",
+      "gloss": "तिमीमाथि आउनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:24:27.094663974Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "deuteronomy 19:16",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "जब हिंस्रो साक्षी कुनै मानिसविरुद्ध उठ्छ, ⟨त्यो⟩ उसविरुद्ध विपथताको साक्षी दिन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "जब"
+    },
+    {
+      "surface": "יקום",
+      "gloss": "उठ्छ"
+    },
+    {
+      "surface": "עד",
+      "gloss": "साक्षी"
+    },
+    {
+      "surface": "חמס",
+      "gloss": "हिंस्रो"
+    },
+    {
+      "surface": "באיש",
+      "gloss": "कुनै मानिसविरुद्ध"
+    },
+    {
+      "surface": "לענות",
+      "gloss": "साक्षी दिन"
+    },
+    {
+      "surface": "בו",
+      "gloss": "उसविरुद्ध"
+    },
+    {
+      "surface": "סרה",
+      "gloss": "विपथता"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:51.723662768Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 20:8",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "राजा न्यायको सिंहासनमाथि बस्ने — आफ्नो आँखाले सबै नराम्राइलाई छर्छ।",
+  "tokens": [
+    {
+      "surface": "מלך",
+      "gloss": "राजा"
+    },
+    {
+      "surface": "יושב",
+      "gloss": "बस्ने"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "כסא",
+      "gloss": "सिंहासन"
+    },
+    {
+      "surface": "דין",
+      "gloss": "न्यायको"
+    },
+    {
+      "surface": "מזרה",
+      "gloss": "छर्छ"
+    },
+    {
+      "surface": "בעיניו",
+      "gloss": "आफ्नो आँखाले"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "רע",
+      "gloss": "नराम्राइलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:04.441264896Z",
+  "model": "glm-5.3"
+}

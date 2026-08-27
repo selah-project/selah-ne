@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "deuteronomy 1:9",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "र त्यस समयमा मैले तिमीहरूलाई यो भनेँ: म एक्लै ⟨את⟩ तिमीहरूलाई बोक्न सक्दिनँ।",
+  "tokens": [
+    {
+      "surface": "ואמר",
+      "gloss": "र भनेँ"
+    },
+    {
+      "surface": "אלכם",
+      "gloss": "तिमीहरूलाई"
+    },
+    {
+      "surface": "בעת",
+      "gloss": "समयमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यो भन्दै"
+    },
+    {
+      "surface": "לא",
+      "gloss": "सक्दिनँ"
+    },
+    {
+      "surface": "אוכל",
+      "gloss": "सक्नु"
+    },
+    {
+      "surface": "לבדי",
+      "gloss": "म एक्लै"
+    },
+    {
+      "surface": "שאת",
+      "gloss": "बोक्न"
+    },
+    {
+      "surface": "אתכם",
+      "gloss": "⟨את⟩ तिमीहरूलाई",
+      "marks": "तिमीहरूलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T20:52:49.993404202Z",
+  "model": "glm-5.3"
+}

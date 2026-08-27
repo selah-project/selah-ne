@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "genesis 49:16",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "दान आफ्नो जातिलाई न्याय गर्नेछ, इस्राएलका गटहरूमध्ये एक ⟨tribe⟩ झैँ।",
+  "tokens": [
+    {
+      "surface": "דן",
+      "gloss": "दान"
+    },
+    {
+      "surface": "ידין",
+      "gloss": "न्याय गर्नेछ"
+    },
+    {
+      "surface": "עמו",
+      "gloss": "आफ्नो जातिलाई"
+    },
+    {
+      "surface": "כאחד",
+      "gloss": "एक झैँ"
+    },
+    {
+      "surface": "שבטי",
+      "gloss": "गटहरूमध्ये"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-26T20:02:52.508544070Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "exodus 17:15",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "अनि मोशेले एउटा वेदी बनाए, र त्यसको नाउँ यहवे-निस्सी राखे।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनाए"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "מזבח",
+      "gloss": "एउटा वेदी"
+    },
+    {
+      "surface": "ויקרא",
+      "gloss": "र राखे"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "त्यसको नाउँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "נסי",
+      "gloss": "निस्सी"
+    }
+  ],
+  "timestamp": "2026-08-26T20:10:28.870024557Z",
+  "model": "glm-5.3"
+}

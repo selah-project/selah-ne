@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "job 32:10",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "यसकारण मैले भनेँ: मलाई सुन, म पनि आफ्नो ज्ञान देखाउँछु।",
+  "tokens": [
+    {
+      "surface": "לכן",
+      "gloss": "यसकारण"
+    },
+    {
+      "surface": "אמרתי",
+      "gloss": "मैले भनेँ"
+    },
+    {
+      "surface": "שמעה",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "אחוה",
+      "gloss": "देखाउँछु"
+    },
+    {
+      "surface": "דעי",
+      "gloss": "आफ्नो ज्ञान"
+    },
+    {
+      "surface": "אף",
+      "gloss": "पनि"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    }
+  ],
+  "timestamp": "2026-08-27T00:38:58.764816502Z",
+  "model": "glm-5.3"
+}

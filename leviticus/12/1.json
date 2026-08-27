@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "leviticus 12:1",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "र यहवेले मोशेसँग बोल्नुभयो, भन्नुहुँदै:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र … बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुहुँदै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:26:42.861161001Z",
+  "model": "glm-5.3"
+}

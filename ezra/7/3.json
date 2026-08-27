@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "ezra 7:3",
+  "book": "ezra",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अमर्याको छोरा, अजर्याको छोरा, मेरायोतको छोरा —",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "אמריה",
+      "gloss": "अमर्या"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "עזריה",
+      "gloss": "अजर्या"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מריות",
+      "gloss": "मेरायोत"
+    }
+  ],
+  "timestamp": "2026-08-27T01:06:50.399454247Z",
+  "model": "glm-5.3"
+}

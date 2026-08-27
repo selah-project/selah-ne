@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "jeremiah 49:27",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "म दमिश्कको पर्खालमा आगो बाल्नेछु, र त्यसले बेन-हददका दरबारहरू खानेछ।",
+  "tokens": [
+    {
+      "surface": "והצתי",
+      "gloss": "र म बाल्नेछु"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगो"
+    },
+    {
+      "surface": "בחומת",
+      "gloss": "पर्खालमा"
+    },
+    {
+      "surface": "דמשק",
+      "gloss": "दमिश्कको"
+    },
+    {
+      "surface": "ואכלה",
+      "gloss": "र त्यसले खानेछ"
+    },
+    {
+      "surface": "ארמנות",
+      "gloss": "दरबारहरू"
+    },
+    {
+      "surface": "בן",
+      "gloss": "बेन"
+    },
+    {
+      "surface": "הדד",
+      "gloss": "हदद"
+    }
+  ],
+  "timestamp": "2026-08-26T23:07:35.545215833Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "proverbs 13:10",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "केवल घमण्डबाट झगडा उत्पन्न हुन्छ, र सल्लाह लिनेहरूसँग ⟨את⟩ बुद्धि ⟨is⟩।",
+  "tokens": [
+    {
+      "surface": "רק",
+      "gloss": "केवल"
+    },
+    {
+      "surface": "בזדון",
+      "gloss": "घमण्डबाट"
+    },
+    {
+      "surface": "יתן",
+      "gloss": "उत्पन्न हुन्छ"
+    },
+    {
+      "surface": "מצה",
+      "gloss": "झगडा"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "⟨את⟩",
+      "marks": "बुद्धि"
+    },
+    {
+      "surface": "נועצים",
+      "gloss": "सल्लाह लिनेहरूसँग"
+    },
+    {
+      "surface": "חכמה",
+      "gloss": "बुद्धि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:22:38.820315347Z",
+  "model": "glm-5.3"
+}

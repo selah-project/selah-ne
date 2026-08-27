@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "1-chronicles 10:11",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 10,
+  "translation": "र याबेश गिलादका सबैले सुने ⟨את⟩ त्यो सबै कुरा जुन पलिश्तीहरूले शाउललाई गरेका थिए।",
+  "tokens": [
+    {
+      "surface": "וישמעו",
+      "gloss": "सुने"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "יביש",
+      "gloss": "याबेश"
+    },
+    {
+      "surface": "גלעד",
+      "gloss": "गिलादका"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सबै कुरा"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "עשו",
+      "gloss": "गरेका थिए"
+    },
+    {
+      "surface": "פלשתים",
+      "gloss": "पलिश्तीहरूले"
+    },
+    {
+      "surface": "לשאול",
+      "gloss": "शाउललाई"
+    }
+  ],
+  "timestamp": "2026-08-27T01:21:27.509717965Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 31,
+  "ref": "1-chronicles 7:31",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र बेरियाका छोराहरू: खेबेर र मल्खिएल — ⟨he⟩ बिर्जोतको पिता हो।",
+  "tokens": [
+    {
+      "surface": "ובני",
+      "gloss": "र छोराहरू"
+    },
+    {
+      "surface": "בריעה",
+      "gloss": "बेरियाका"
+    },
+    {
+      "surface": "חבר",
+      "gloss": "खेबेर"
+    },
+    {
+      "surface": "ומלכיאל",
+      "gloss": "र मल्खिएल"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "⟨he⟩"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "ברזות",
+      "gloss": "बिर्जोतको"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:25.515860902Z",
+  "model": "glm-5.3"
+}

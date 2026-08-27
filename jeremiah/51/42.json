@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 42,
+  "ref": "jeremiah 51:42",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 51,
+  "translation": "बाबेलमाथि समुद्र चढ्यो; त्यसका लहरहरूको भीडले त्यो ढाकियो।",
+  "tokens": [
+    {
+      "surface": "עלה",
+      "gloss": "चढ्यो"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "בבל",
+      "gloss": "बाबेल"
+    },
+    {
+      "surface": "הים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "בהמון",
+      "gloss": "भीडमा"
+    },
+    {
+      "surface": "גליו",
+      "gloss": "त्यसका लहरहरूको"
+    },
+    {
+      "surface": "נכסתה",
+      "gloss": "ढाकियो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:09:52.484648977Z",
+  "model": "glm-5.3"
+}

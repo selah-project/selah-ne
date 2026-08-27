@@ -1,0 +1,25 @@
+{
+  "tier": "glm-5.2",
+  "verse": 43,
+  "ref": "joshua 19:43",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र एलोन, र तिम्नाताह, र एक्रोन।",
+  "tokens": [
+    {
+      "surface": "ואילון",
+      "gloss": "र एलोन"
+    },
+    {
+      "surface": "ותמנתה",
+      "gloss": "र तिम्नाताह"
+    },
+    {
+      "surface": "ועקרון",
+      "gloss": "र एक्रोन"
+    }
+  ],
+  "timestamp": "2026-08-26T21:16:32.271836178Z",
+  "model": "glm-5.3"
+}

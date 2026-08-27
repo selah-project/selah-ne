@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 10,
+  "ref": "genesis 7:10",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "र सात दिन बित्दा प्रलयका पानीहरू पृथ्वीमाथि आए।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "र भयो"
+    },
+    {
+      "surface": "לשבעת",
+      "gloss": "सातको"
+    },
+    {
+      "surface": "הימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "ומי",
+      "gloss": "र पानी"
+    },
+    {
+      "surface": "המבול",
+      "gloss": "प्रलयका"
+    },
+    {
+      "surface": "היו",
+      "gloss": "भए"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "हארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-26T19:42:41.124286657Z",
+  "model": "glm-5.3"
+}

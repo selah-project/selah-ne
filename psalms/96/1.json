@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 96:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 96,
+  "translation": "यहवेलाई गाउ नयाँ गीत, गाउ यहवेलाई, ⟨सिँगो⟩ पृथ्वी।",
+  "tokens": [
+    {
+      "surface": "שירו",
+      "gloss": "गाउ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "שיר",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "חדש",
+      "gloss": "नयाँ"
+    },
+    {
+      "surface": "שירו",
+      "gloss": "गाउ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "הארץ",
+      "gloss": "पृथ्वी"
+    }
+  ],
+  "timestamp": "2026-08-27T00:09:09.733005371Z",
+  "model": "glm-5.3"
+}

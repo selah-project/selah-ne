@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "deuteronomy 33:4",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 33,
+  "translation": "व्यवस्था मोशेले हामीलाई आज्ञा गर्नुभयो — याकोभको सभाको ⟨the⟩ उत्तराधिकार।",
+  "tokens": [
+    {
+      "surface": "תורה",
+      "gloss": "व्यवस्था"
+    },
+    {
+      "surface": "צוה",
+      "gloss": "आज्ञा गर्नुभयो"
+    },
+    {
+      "surface": "לנו",
+      "gloss": "हामीलाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशेले"
+    },
+    {
+      "surface": "מורשה",
+      "gloss": "उत्तराधिकार"
+    },
+    {
+      "surface": "קהלת",
+      "gloss": "सभाको"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:08:42.335993499Z",
+  "model": "glm-5.3"
+}

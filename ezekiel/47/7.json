@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "ezekiel 47:7",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 47,
+  "translation": "म फर्काइएँ, र हेर — खोलाको किनारमा अत्यन्त धेरै रूख, यसतर्फ र त्यसतर्फ।",
+  "tokens": [
+    {
+      "surface": "בשובני",
+      "gloss": "म फर्काइएँ"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "שפת",
+      "gloss": "किनार"
+    },
+    {
+      "surface": "हנחל",
+      "gloss": "खोलाको"
+    },
+    {
+      "surface": "עץ",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "רב",
+      "gloss": "धेरै"
+    },
+    {
+      "surface": "מאד",
+      "gloss": "अत्यन्त"
+    },
+    {
+      "surface": "מזה",
+      "gloss": "यसतर्फ"
+    },
+    {
+      "surface": "ומזה",
+      "gloss": "र त्यसतर्फ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:31:07.130040078Z",
+  "model": "glm-5.3"
+}

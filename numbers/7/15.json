@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "numbers 7:15",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "एक बथानको बाच्छा, एक भाले भेडा, एक वर्षको लोख्रो, जलाउने बलिका लागि।",
+  "tokens": [
+    {
+      "surface": "पर",
+      "gloss": "बाच्छा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…को सन्तान"
+    },
+    {
+      "surface": "בקר",
+      "gloss": "गाईवस्तुको"
+    },
+    {
+      "surface": "איל",
+      "gloss": "भाले भेडा"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "כבש",
+      "gloss": "लोख्रो"
+    },
+    {
+      "surface": "אחד",
+      "gloss": "एक"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…उमेरको"
+    },
+    {
+      "surface": "שנתו",
+      "gloss": "एक वर्ष"
+    },
+    {
+      "surface": "לעלה",
+      "gloss": "जलाउने बलिका लागि"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:47.316108620Z",
+  "model": "glm-5.3"
+}

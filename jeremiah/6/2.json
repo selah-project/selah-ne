@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "jeremiah 6:2",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "⟨जो⟩ सुन्दर र कोमल ⟨छ⟩, सियोनकी छोरी, मैले नष्ट गर्छु ⟨उसलाई⟩।",
+  "tokens": [
+    {
+      "surface": "הנוה",
+      "gloss": "सुन्दर"
+    },
+    {
+      "surface": "והמענגה",
+      "gloss": "र कोमल"
+    },
+    {
+      "surface": "דמיתי",
+      "gloss": "मैले नष्ट गर्छु"
+    },
+    {
+      "surface": "בת",
+      "gloss": "छोरी"
+    },
+    {
+      "surface": "ציון",
+      "gloss": "सियोनकी"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:43.823731055Z",
+  "model": "glm-5.3"
+}

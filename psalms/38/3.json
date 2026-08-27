@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "psalms 38:3",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 38,
+  "translation": "किनभने तपाईंका बाणहरू मभित्र गाडिए र तपाईंको हात ममाथि थिचियो।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनभने"
+    },
+    {
+      "surface": "חציך",
+      "gloss": "तपाईंका बाणहरू"
+    },
+    {
+      "surface": "נחתו",
+      "gloss": "गाडिए"
+    },
+    {
+      "surface": "בי",
+      "gloss": "मभित्र"
+    },
+    {
+      "surface": "ותנחת",
+      "gloss": "र थिचियो"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "ममाथि"
+    },
+    {
+      "surface": "ידך",
+      "gloss": "तपाईंको हात"
+    }
+  ],
+  "timestamp": "2026-08-26T23:56:03.052444546Z",
+  "model": "glm-5.3"
+}

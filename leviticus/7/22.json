@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 22,
+  "ref": "leviticus 7:22",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "अनि यहवेले मोशेसँग वाणी गर्नुभयो, यसो भन्दै —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "अनि वाणी गर्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "यसो भन्दै"
+    }
+  ],
+  "timestamp": "2026-08-26T20:24:59.596330311Z",
+  "model": "glm-5.3"
+}

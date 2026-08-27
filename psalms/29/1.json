@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "psalms 29:1",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 29,
+  "translation": "दाऊदको जपरूपका — यहवेलाई देऊ, एलहरूका छोराहरू, यहवेलाई देऊ काभोद र शक्ति।",
+  "tokens": [
+    {
+      "surface": "מזמור",
+      "gloss": "जपरूपका"
+    },
+    {
+      "surface": "לדוד",
+      "gloss": "दाऊदको"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אלים",
+      "gloss": "एलहरूका"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "देऊ"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेलाई"
+    },
+    {
+      "surface": "כבוד",
+      "gloss": "काभोद"
+    },
+    {
+      "surface": "ועז",
+      "gloss": "र शक्ति"
+    }
+  ],
+  "timestamp": "2026-08-26T23:53:45.708532576Z",
+  "model": "glm-5.3"
+}

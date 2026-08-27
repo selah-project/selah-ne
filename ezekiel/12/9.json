@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "ezekiel 12:9",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "मानव-पुत्र, के इस्राएलको घराना, विद्रोहको घरानाले, तिमीलाई भनेनन् — तिमी के गर्दैछौ?",
+  "tokens": [
+    {
+      "surface": "בן",
+      "gloss": "पुत्र"
+    },
+    {
+      "surface": "אדם",
+      "gloss": "मानव"
+    },
+    {
+      "surface": "הלא",
+      "gloss": "के…न"
+    },
+    {
+      "surface": "אמרו",
+      "gloss": "भनेनन्"
+    },
+    {
+      "surface": "אליך",
+      "gloss": "तिमीलाई"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलको"
+    },
+    {
+      "surface": "בית",
+      "gloss": "घराना"
+    },
+    {
+      "surface": "המרי",
+      "gloss": "विद्रोहको"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "אתה",
+      "gloss": "तिमी"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "गर्दैछौ"
+    }
+  ],
+  "timestamp": "2026-08-26T23:14:03.830302698Z",
+  "model": "glm-5.3"
+}

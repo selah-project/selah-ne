@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "jeremiah 7:8",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "हेर, तिमीहरू आफैलाई झूटा कुराहरूमा भरोसा दिँदैछौ, जसले कुनै लाभ दिँदैन।",
+  "tokens": [
+    {
+      "surface": "הנה",
+      "gloss": "हेर"
+    },
+    {
+      "surface": "אתם",
+      "gloss": "तिमीहरू"
+    },
+    {
+      "surface": "בטחים",
+      "gloss": "भरोसा दिँदैछौ"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आफैलाई"
+    },
+    {
+      "surface": "על",
+      "gloss": "मा"
+    },
+    {
+      "surface": "דברי",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "השקר",
+      "gloss": "झूटा"
+    },
+    {
+      "surface": "לבלתי",
+      "gloss": "कुनै ... न"
+    },
+    {
+      "surface": "הועיל",
+      "gloss": "लाभ दिने"
+    }
+  ],
+  "timestamp": "2026-08-26T22:47:40.805000416Z",
+  "model": "glm-5.3"
+}

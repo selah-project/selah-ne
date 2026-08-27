@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "nehemiah 11:8",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र त्यसपछि गब्बाइ, सल्लाइ — नौ सय बीस र आठ।",
+  "tokens": [
+    {
+      "surface": "ואחריו",
+      "gloss": "र त्यसपछि"
+    },
+    {
+      "surface": "גבי",
+      "gloss": "गब्बाइ"
+    },
+    {
+      "surface": "סלי",
+      "gloss": "सल्लाइ"
+    },
+    {
+      "surface": "תשע",
+      "gloss": "नौ"
+    },
+    {
+      "surface": "מאות",
+      "gloss": "सय"
+    },
+    {
+      "surface": "עשרים",
+      "gloss": "बीस"
+    },
+    {
+      "surface": "ושמנה",
+      "gloss": "र आठ"
+    }
+  ],
+  "timestamp": "2026-08-27T02:21:42.254536622Z",
+  "model": "glm-5.3"
+}

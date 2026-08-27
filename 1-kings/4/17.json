@@ -1,0 +1,29 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-kings 4:17",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "यहोशाफात, पारुखको छोरा, यिस्साखारमा ⟨थियो⟩।",
+  "tokens": [
+    {
+      "surface": "יהושפט",
+      "gloss": "यहोशाफात"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "פרוח",
+      "gloss": "पारुख"
+    },
+    {
+      "surface": "ביששכר",
+      "gloss": "यिस्साखारमा"
+    }
+  ],
+  "timestamp": "2026-08-26T21:57:56.974404681Z",
+  "model": "glm-5.3"
+}

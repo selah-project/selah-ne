@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "isaiah 7:7",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "यसो भन्नुहुन्छ अदोनाइ यहवेले: त्यो टिक्नेछैन, र त्यो हुनेछैन।",
+  "tokens": [
+    {
+      "surface": "כה",
+      "gloss": "यसो"
+    },
+    {
+      "surface": "אמר",
+      "gloss": "भन्नुहुन्छ"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "לא",
+      "gloss": "टिक्नेछैन"
+    },
+    {
+      "surface": "תקום",
+      "gloss": "त्यो उठ्नेछैन"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र होइन"
+    },
+    {
+      "surface": "תהיה",
+      "gloss": "हुनेछैन"
+    }
+  ],
+  "timestamp": "2026-08-26T22:24:47.821408850Z",
+  "model": "glm-5.3"
+}

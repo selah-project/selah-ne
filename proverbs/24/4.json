@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 4,
+  "ref": "proverbs 24:4",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "र ज्ञानले कोठाहरू ⟨सबै⟩ मूल्यवान् र मनोरम धनले भरिन्छन्।",
+  "tokens": [
+    {
+      "surface": "ובדעת",
+      "gloss": "र ज्ञानले"
+    },
+    {
+      "surface": "חדरים",
+      "gloss": "कोठाहरू"
+    },
+    {
+      "surface": "ימלאו",
+      "gloss": "भरिन्छन्"
+    },
+    {
+      "surface": "כל",
+      "gloss": "⟨सबै⟩"
+    },
+    {
+      "surface": "הון",
+      "gloss": "धन"
+    },
+    {
+      "surface": "יקר",
+      "gloss": "मूल्यवान्"
+    },
+    {
+      "surface": "ונעים",
+      "gloss": "र मनोरम"
+    }
+  ],
+  "timestamp": "2026-08-27T00:25:41.641387718Z",
+  "model": "glm-5.3"
+}

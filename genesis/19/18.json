@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 19:18",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र लोटले तिनीहरूलाई भन्यो: होइन, अदोनाइ, ⟨होइन⟩!",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "र भन्यो"
+    },
+    {
+      "surface": "לוט",
+      "gloss": "लोट"
+    },
+    {
+      "surface": "אלהם",
+      "gloss": "तिनीहरूलाई"
+    },
+    {
+      "surface": "אל",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "נא",
+      "gloss": "अनुग्रह गरेर"
+    },
+    {
+      "surface": "אדני",
+      "gloss": "अदोनाइ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:47:36.439901891Z",
+  "model": "glm-5.3"
+}

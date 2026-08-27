@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "2-chronicles 6:11",
+  "book": "2-chronicles",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "र मैले त्यहाँ ⟨את⟩ सन्दुक राखें, जसमा छ यहवेको करार, जो उहाँले इस्राएलका छोराहरूसित गर्नुभएको थियो।",
+  "tokens": [
+    {
+      "surface": "ואשים",
+      "gloss": "राखें"
+    },
+    {
+      "surface": "שם",
+      "gloss": "त्यहाँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "सन्दुक"
+    },
+    {
+      "surface": "הארון",
+      "gloss": "सन्दुक"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसमा"
+    },
+    {
+      "surface": "שם",
+      "gloss": "छ"
+    },
+    {
+      "surface": "ברית",
+      "gloss": "करार"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "כרת",
+      "gloss": "गर्नुभएको थियो"
+    },
+    {
+      "surface": "עם",
+      "gloss": "सित"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:31:41.221179702Z",
+  "model": "glm-5.3"
+}

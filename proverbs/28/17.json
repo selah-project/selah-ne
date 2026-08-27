@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "proverbs 28:17",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 28,
+  "translation": "रगतको ⟨सख्तीले⟩ दबिएको मानिस खाडलसम्म भाग्नेछ; त्यसलाई कसैले टेको नदिओस्।",
+  "tokens": [
+    {
+      "surface": "אדם",
+      "gloss": "मानिस"
+    },
+    {
+      "surface": "עשק",
+      "gloss": "दबिएको"
+    },
+    {
+      "surface": "בדם",
+      "gloss": "रगतको"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राणको"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "בור",
+      "gloss": "खाडल"
+    },
+    {
+      "surface": "ינוס",
+      "gloss": "भाग्नेछ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "יתמכו",
+      "gloss": "टेको दिओस्"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसलाई"
+    }
+  ],
+  "timestamp": "2026-08-27T00:28:14.513616192Z",
+  "model": "glm-5.3"
+}

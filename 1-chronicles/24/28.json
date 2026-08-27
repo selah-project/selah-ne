@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "1-chronicles 24:28",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "मखलीका ⟨त⟩ एलाजार; तर उसका छोराहरू थिएनन्।",
+  "tokens": [
+    {
+      "surface": "למחלי",
+      "gloss": "मखलीका"
+    },
+    {
+      "surface": "אלעזר",
+      "gloss": "एलाजार"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "तर ... थिएनन्"
+    },
+    {
+      "surface": "היה",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसका"
+    },
+    {
+      "surface": "בנים",
+      "gloss": "छोराहरू"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:42.543828160Z",
+  "model": "glm-5.3"
+}

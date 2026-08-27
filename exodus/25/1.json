@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "exodus 25:1",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 25,
+  "translation": "यहवेले मोशेलाई वचन गर्नुभयो, भन्दै हुनुहुन्छ —",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "वचन गर्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "אל",
+      "gloss": "…लाई"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאमר",
+      "gloss": "भन्दै हुनुहुन्छ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:14:02.057704052Z",
+  "model": "glm-5.3"
+}

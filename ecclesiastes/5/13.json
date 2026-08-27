@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "ecclesiastes 5:13",
+  "book": "ecclesiastes",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "त्यो धन खराब सङ्कटमा नष्ट भयो, र उसले छोरा जन्मायो, तर उसको हातमा केही पनि छैन।",
+  "tokens": [
+    {
+      "surface": "ואבד",
+      "gloss": "नष्ट भयो"
+    },
+    {
+      "surface": "העשר",
+      "gloss": "त्यो धन"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यो"
+    },
+    {
+      "surface": "בענין",
+      "gloss": "सङ्कटमा"
+    },
+    {
+      "surface": "רע",
+      "gloss": "खराब"
+    },
+    {
+      "surface": "והוליד",
+      "gloss": "जन्मायो"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "בידו",
+      "gloss": "उसको हातमा"
+    },
+    {
+      "surface": "מאומה",
+      "gloss": "केही पनि"
+    }
+  ],
+  "timestamp": "2026-08-27T00:50:11.284855226Z",
+  "model": "glm-5.3"
+}

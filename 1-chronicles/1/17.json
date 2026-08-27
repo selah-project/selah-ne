@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "1-chronicles 1:17",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 1,
+  "translation": "शेमका छोराहरू: एलाम, अश्शूर, अर्पक्शद, लूद, अराम, उत्स, हूल, गेथेर र मेशेख।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "שם",
+      "gloss": "शेमका"
+    },
+    {
+      "surface": "עילם",
+      "gloss": "एलाम"
+    },
+    {
+      "surface": "ואשור",
+      "gloss": "अश्शूर"
+    },
+    {
+      "surface": "וארפכשד",
+      "gloss": "अर्पक्शद"
+    },
+    {
+      "surface": "ולוד",
+      "gloss": "लूद"
+    },
+    {
+      "surface": "וארם",
+      "gloss": "अराम"
+    },
+    {
+      "surface": "ועוץ",
+      "gloss": "उत्स"
+    },
+    {
+      "surface": "וחול",
+      "gloss": "हूल"
+    },
+    {
+      "surface": "וגתר",
+      "gloss": "गेथेर"
+    },
+    {
+      "surface": "ומשך",
+      "gloss": "मेशेख"
+    }
+  ],
+  "timestamp": "2026-08-27T01:16:28.975536154Z",
+  "model": "glm-5.3"
+}

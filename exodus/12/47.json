@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 47,
+  "ref": "exodus 12:47",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 12,
+  "translation": "यिस्राएलको सम्पूर्ण मण्डलीले त्यो ⟨את⟩ गर्नेछ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सम्पूर्ण"
+    },
+    {
+      "surface": "עדת",
+      "gloss": "मण्डली"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलको"
+    },
+    {
+      "surface": "יעשו",
+      "gloss": "गर्नेछ"
+    },
+    {
+      "surface": "אתו",
+      "gloss": "⟨את⟩",
+      "marks": "त्यो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:08:50.615032994Z",
+  "model": "glm-5.3"
+}

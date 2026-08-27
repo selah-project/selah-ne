@@ -1,0 +1,60 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "leviticus 8:8",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र उहाँमाथि ⟨את⟩ छातीपट्ट राखिदिए, र छातीपट्टमा ⟨את⟩ उरिम र ⟨את⟩ तुम्मिम राखिदिए।",
+  "tokens": [
+    {
+      "surface": "וישם",
+      "gloss": "र राखिदिए"
+    },
+    {
+      "surface": "עליו",
+      "gloss": "उहाँमाथि"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "छातीपट्ट"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छातीपट्ट"
+    },
+    {
+      "surface": "ויתן",
+      "gloss": "र राखिदिए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "החשן",
+      "gloss": "छातीपट्ट"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "उरिम"
+    },
+    {
+      "surface": "האורים",
+      "gloss": "उरिम"
+    },
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "तुम्मिम"
+    },
+    {
+      "surface": "התמים",
+      "gloss": "तुम्मिम"
+    }
+  ],
+  "timestamp": "2026-08-26T20:25:17.148965036Z",
+  "model": "glm-5.3"
+}

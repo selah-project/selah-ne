@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-kings 6:14",
+  "book": "1-kings",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "त्यसैले शेलोमोहले ⟨את⟩ ⟨the⟩ भवन बनायो र त्यसलाई पूरा गर्‍यो।",
+  "tokens": [
+    {
+      "surface": "ויבן",
+      "gloss": "बनायो"
+    },
+    {
+      "surface": "שלמה",
+      "gloss": "शेलोमोहले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "भवन"
+    },
+    {
+      "surface": "הבית",
+      "gloss": "भवन"
+    },
+    {
+      "surface": "ויכלהו",
+      "gloss": "र त्यसलाई पूरा गर्‍यो"
+    }
+  ],
+  "timestamp": "2026-08-26T21:58:51.764387334Z",
+  "model": "glm-5.3"
+}

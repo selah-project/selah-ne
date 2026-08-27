@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "1-chronicles 8:27",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र यारेशेयाह, र एलियाह, र जिख्री — येरोखामका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "ויערשיה",
+      "gloss": "र यारेशेयाह"
+    },
+    {
+      "surface": "ואליה",
+      "gloss": "र एलियाह"
+    },
+    {
+      "surface": "וזכרי",
+      "gloss": "र जिख्री"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ירחם",
+      "gloss": "येरोखामका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:00.774416261Z",
+  "model": "glm-5.3"
+}

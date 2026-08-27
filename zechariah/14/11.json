@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 11,
+  "ref": "zechariah 14:11",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र ⟨they⟩ त्यसमा बस्नेछन्, र सर्वनाश अब हुनेछैन, र येरुशालाइम सुरक्षितरूपमा बस्नेछ।",
+  "tokens": [
+    {
+      "surface": "וישבו",
+      "gloss": "र बस्नेछन्"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यसमा"
+    },
+    {
+      "surface": "וחרם",
+      "gloss": "र सर्वनाश"
+    },
+    {
+      "surface": "לא",
+      "gloss": "हुनेछैन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    },
+    {
+      "surface": "וישבה",
+      "gloss": "र बस्नेछ"
+    },
+    {
+      "surface": "ירושלם",
+      "gloss": "येरुशालाइम"
+    },
+    {
+      "surface": "לבטח",
+      "gloss": "सुरक्षितरूपमा"
+    }
+  ],
+  "timestamp": "2026-08-26T23:48:58.720139151Z",
+  "model": "glm-5.3"
+}

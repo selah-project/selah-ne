@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 36,
+  "ref": "1-chronicles 7:36",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "त्सोपाखका छोराहरू सुख, खर्नेफेर, शुआल, बेरी र यिम्रा थिए।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "צופח",
+      "gloss": "त्सोपाखका"
+    },
+    {
+      "surface": "סוח",
+      "gloss": "सुख"
+    },
+    {
+      "surface": "וחרנפר",
+      "gloss": "र खर्नेफेर"
+    },
+    {
+      "surface": "ושועל",
+      "gloss": "र शुआल"
+    },
+    {
+      "surface": "וברי",
+      "gloss": "र बेरी"
+    },
+    {
+      "surface": "וימרה",
+      "gloss": "र यिम्रा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:19:31.450173723Z",
+  "model": "glm-5.3"
+}

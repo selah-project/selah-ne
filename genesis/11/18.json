@@ -1,0 +1,42 @@
+{
+  "tier": "glm-5.2",
+  "verse": 18,
+  "ref": "genesis 11:18",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र पेलेगले तीस वर्ष बाँच्नुभयो, र उनले ⟨את⟩ रेउलाई जन्म दिए।",
+  "tokens": [
+    {
+      "surface": "ויחי",
+      "gloss": "बाँच्नुभयो"
+    },
+    {
+      "surface": "פלג",
+      "gloss": "पेलेग"
+    },
+    {
+      "surface": "שלשים",
+      "gloss": "तीस"
+    },
+    {
+      "surface": "שנה",
+      "gloss": "वर्ष"
+    },
+    {
+      "surface": "ויולד",
+      "gloss": "जन्म दिए"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "रेउलाई"
+    },
+    {
+      "surface": "רעו",
+      "gloss": "रेउ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:44.075511825Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "genesis 49:2",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 49,
+  "translation": "भेला होओ र सुनौ, हे याकोभका छोराहरू, र सुनौ आफ्ना पिता यिस्राएललाई।",
+  "tokens": [
+    {
+      "surface": "הקבצו",
+      "gloss": "भेला होओ"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "र सुनौ"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभका"
+    },
+    {
+      "surface": "ושמעו",
+      "gloss": "र सुनौ"
+    },
+    {
+      "surface": "אל",
+      "gloss": "लाई"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    },
+    {
+      "surface": "אביכם",
+      "gloss": "आफ्ना पिता"
+    }
+  ],
+  "timestamp": "2026-08-26T20:03:43.876032741Z",
+  "model": "glm-5.3"
+}

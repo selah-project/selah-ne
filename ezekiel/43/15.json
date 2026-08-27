@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "ezekiel 43:15",
+  "book": "ezekiel",
+  "lang": "ne",
+  "chapter": 43,
+  "translation": "र हर-एल ⟨उचाइमा⟩ चार हात; र अरएलदेखि माथितिर चार सिङ्गा ⟨छन्⟩ ।",
+  "tokens": [
+    {
+      "surface": "וההראל",
+      "gloss": "र हर-एल"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    },
+    {
+      "surface": "אמות",
+      "gloss": "हात"
+    },
+    {
+      "surface": "ומהאראיל",
+      "gloss": "र अरएलदेखि"
+    },
+    {
+      "surface": "ולמעלה",
+      "gloss": "र माथितिर"
+    },
+    {
+      "surface": "הקרנות",
+      "gloss": "सिङ्गाहरू"
+    },
+    {
+      "surface": "ארבע",
+      "gloss": "चार"
+    }
+  ],
+  "timestamp": "2026-08-26T23:30:09.635426700Z",
+  "model": "glm-5.3"
+}

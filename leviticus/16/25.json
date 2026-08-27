@@ -1,0 +1,34 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "leviticus 16:25",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 16,
+  "translation": "र पापबलिको ⟨את⟩ बोसो वेदीमा धूप बनाई बाल्नेछ।",
+  "tokens": [
+    {
+      "surface": "ואת",
+      "gloss": "र ⟨את⟩",
+      "marks": "बोसो"
+    },
+    {
+      "surface": "חלב",
+      "gloss": "बोसो"
+    },
+    {
+      "surface": "החטאת",
+      "gloss": "पापबलिको"
+    },
+    {
+      "surface": "יקטיר",
+      "gloss": "धूप बनाई बाल्नेछ"
+    },
+    {
+      "surface": "המזבחה",
+      "gloss": "वेदीमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:29:48.699471376Z",
+  "model": "glm-5.3"
+}

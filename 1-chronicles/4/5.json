@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 5,
+  "ref": "1-chronicles 4:5",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "र तेकोआका पिता अश्खूरका दुई स्त्रीहरू थिए — खेलआह र नाअराह।",
+  "tokens": [
+    {
+      "surface": "ולאשחור",
+      "gloss": "र अश्खूरका"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "תקוע",
+      "gloss": "तेकोआका"
+    },
+    {
+      "surface": "היו",
+      "gloss": "थिए"
+    },
+    {
+      "surface": "שתי",
+      "gloss": "दुई"
+    },
+    {
+      "surface": "נשים",
+      "gloss": "स्त्रीहरू"
+    },
+    {
+      "surface": "חלאה",
+      "gloss": "खेलआह"
+    },
+    {
+      "surface": "ונערה",
+      "gloss": "र नाअराह"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:46.447392469Z",
+  "model": "glm-5.3"
+}

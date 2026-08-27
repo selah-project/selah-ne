@@ -1,0 +1,65 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "deuteronomy 23:8",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 23,
+  "translation": "एदोमीलाई घृणा नगर, किनकि ऊ तेरो दाजुभाइ हो; मिस्रीलाई घृणा नगर, किनकि तँ उसको देशमा आगन्तुक थिइस्।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "घृणा गर"
+    },
+    {
+      "surface": "אדמי",
+      "gloss": "एदोमीलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אחיך",
+      "gloss": "तेरो दाजुभाइ"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ हो"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תתעב",
+      "gloss": "घृणा गर"
+    },
+    {
+      "surface": "מצרי",
+      "gloss": "मिस्रीलाई"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "גר",
+      "gloss": "आगन्तुक"
+    },
+    {
+      "surface": "היית",
+      "gloss": "थिइस्"
+    },
+    {
+      "surface": "בארצו",
+      "gloss": "उसको देशमा"
+    }
+  ],
+  "timestamp": "2026-08-27T01:54:30.879391004Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "psalms 109:23",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 109,
+  "translation": "ढल्कने छायाँझैँ म हिँडेँ, झिँगाझैँ म उझर्टिएँ।",
+  "tokens": [
+    {
+      "surface": "כצל",
+      "gloss": "छायाँझैँ"
+    },
+    {
+      "surface": "כנטותו",
+      "gloss": "ढल्कने"
+    },
+    {
+      "surface": "נהלכתי",
+      "gloss": "म हिँडेँ"
+    },
+    {
+      "surface": "ננערתי",
+      "gloss": "म उझर्टिएँ"
+    },
+    {
+      "surface": "כארבה",
+      "gloss": "झिँगाझैँ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:10.010604837Z",
+  "model": "glm-5.3"
+}

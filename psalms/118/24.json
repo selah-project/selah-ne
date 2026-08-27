@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 24,
+  "ref": "psalms 118:24",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 118,
+  "translation": "यो ⟨the⟩ दिन यहवेले बनाउनुभयो; हामी यसमा रमाऔं र आनन्द मनाऔं।",
+  "tokens": [
+    {
+      "surface": "זה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "היום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "बनाउनुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "नגילה",
+      "gloss": "हामी रमाऔं"
+    },
+    {
+      "surface": "ונשמחה",
+      "gloss": "र आनन्द मनाऔं"
+    },
+    {
+      "surface": "בו",
+      "gloss": "यसमा"
+    }
+  ],
+  "timestamp": "2026-08-27T00:13:01.913465868Z",
+  "model": "glm-5.3"
+}

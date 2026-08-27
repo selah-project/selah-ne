@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "numbers 6:6",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 6,
+  "translation": "यहवेको लागि आफ्नो संयमका सबै दिनहरूमा मृतकको ⟨नजिक⟩ नजानेछ।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "ימי",
+      "gloss": "दिनहरूमा"
+    },
+    {
+      "surface": "הזירו",
+      "gloss": "आफ्नो संयम"
+    },
+    {
+      "surface": "ליהוה",
+      "gloss": "यहवेको लागि"
+    },
+    {
+      "surface": "על",
+      "gloss": "⟨नजिक⟩"
+    },
+    {
+      "surface": "נפש",
+      "gloss": "प्राणी"
+    },
+    {
+      "surface": "מת",
+      "gloss": "मृतक"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "יבא",
+      "gloss": "जानेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T20:38:10.687700356Z",
+  "model": "glm-5.3"
+}

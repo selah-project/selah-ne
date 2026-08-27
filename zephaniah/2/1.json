@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zephaniah 2:1",
+  "book": "zephaniah",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "जम्मा होओ, अझ जम्मा होओ, हे इच्छा नगरिएको राष्ट्र!",
+  "tokens": [
+    {
+      "surface": "התקוששו",
+      "gloss": "जम्मा होओ"
+    },
+    {
+      "surface": "וקושו",
+      "gloss": "अझ जम्मा होओ"
+    },
+    {
+      "surface": "הגוי",
+      "gloss": "हे राष्ट्र"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "נכסף",
+      "gloss": "इच्छित"
+    }
+  ],
+  "timestamp": "2026-08-26T23:44:09.049628545Z",
+  "model": "glm-5.3"
+}

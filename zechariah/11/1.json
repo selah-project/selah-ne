@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "zechariah 11:1",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "लबनोन हो, तिम्रा ढोकाहरू खोल, र आगाले तिम्रा देवदारहरू खाओस्।",
+  "tokens": [
+    {
+      "surface": "פתח",
+      "gloss": "खोल"
+    },
+    {
+      "surface": "לבנון",
+      "gloss": "लबनोन हो"
+    },
+    {
+      "surface": "דלתיך",
+      "gloss": "तिम्रा ढोकाहरू"
+    },
+    {
+      "surface": "ותאכל",
+      "gloss": "र … खाओस्"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगाले"
+    },
+    {
+      "surface": "בארזיך",
+      "gloss": "तिम्रा देवदारहरू"
+    }
+  ],
+  "timestamp": "2026-08-26T23:47:40.676915297Z",
+  "model": "glm-5.3"
+}

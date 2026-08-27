@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 13,
+  "ref": "deuteronomy 9:13",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र यहवेले मलाई भन्नुभयो: मैले ⟨את⟩ यो जनतालाई देखेँ, र हेर, यो कडा-घाँटी भएको जनता हो।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אלי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भनेर"
+    },
+    {
+      "surface": "ראיתי",
+      "gloss": "देखेँ"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो जनतालाई"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यो"
+    },
+    {
+      "surface": "והנה",
+      "gloss": "र हेर"
+    },
+    {
+      "surface": "עם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "קשה",
+      "gloss": "कडा"
+    },
+    {
+      "surface": "ערף",
+      "gloss": "घाँटी"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "हो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:57:31.764845914Z",
+  "model": "glm-5.3"
+}

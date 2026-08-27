@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 7,
+  "ref": "nahum 2:7",
+  "book": "nahum",
+  "lang": "ne",
+  "chapter": 2,
+  "translation": "नदीहरूका ढोकाहरू खोलिए, र ⟨त्यो⟩ हाइकाल पग्लियो।",
+  "tokens": [
+    {
+      "surface": "שערי",
+      "gloss": "ढोकाहरू"
+    },
+    {
+      "surface": "הנהרות",
+      "gloss": "नदीहरूका"
+    },
+    {
+      "surface": "נפתחו",
+      "gloss": "खोलिए"
+    },
+    {
+      "surface": "וההיכל",
+      "gloss": "र ⟨त्यो⟩ हाइकाल"
+    },
+    {
+      "surface": "נמוג",
+      "gloss": "पग्लियो"
+    }
+  ],
+  "timestamp": "2026-08-26T23:41:32.493497297Z",
+  "model": "glm-5.3"
+}

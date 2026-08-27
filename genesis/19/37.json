@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 37,
+  "ref": "genesis 19:37",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "र जेठी छोरीले छोरा जन्मिन्, र उसले उसको नाउँ मोआब राखिन्; ऊ आजसम्म मोआबीहरूको पिता हो।",
+  "tokens": [
+    {
+      "surface": "ותלד",
+      "gloss": "र जन्मिन्"
+    },
+    {
+      "surface": "הבכिनה",
+      "gloss": "जेठी ⟨छोरी⟩"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "ותקרא",
+      "gloss": "र राखिन्"
+    },
+    {
+      "surface": "שמו",
+      "gloss": "उसको नाउँ"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआब"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "ऊ"
+    },
+    {
+      "surface": "אבי",
+      "gloss": "पिता"
+    },
+    {
+      "surface": "מואב",
+      "gloss": "मोआबीहरूको"
+    },
+    {
+      "surface": "עד",
+      "gloss": "सम्म"
+    },
+    {
+      "surface": "היום",
+      "gloss": "आज"
+    }
+  ],
+  "timestamp": "2026-08-26T19:47:23.639302006Z",
+  "model": "glm-5.3"
+}

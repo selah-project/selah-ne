@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "jeremiah 15:12",
+  "book": "jeremiah",
+  "lang": "ne",
+  "chapter": 15,
+  "translation": "के फलामले तोड्न सक्छ — उत्तरको फलाम र तामालाई?",
+  "tokens": [
+    {
+      "surface": "הירע",
+      "gloss": "के तोड्न सक्छ"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "फलामले"
+    },
+    {
+      "surface": "ברזל",
+      "gloss": "फलाम"
+    },
+    {
+      "surface": "מצפון",
+      "gloss": "उत्तरको"
+    },
+    {
+      "surface": "ונחשת",
+      "gloss": "र तामालाई"
+    }
+  ],
+  "timestamp": "2026-08-26T22:52:00.964035464Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 15,
+  "ref": "proverbs 4:15",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "त्यसबाट अलि बस; त्यसमाथि नपार; त्यसबाट बाङ्गिई जाऊ पार।",
+  "tokens": [
+    {
+      "surface": "פרעהו",
+      "gloss": "त्यसबाट अलि बस"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעבר",
+      "gloss": "नपार"
+    },
+    {
+      "surface": "בו",
+      "gloss": "त्यसमाथि"
+    },
+    {
+      "surface": "שטה",
+      "gloss": "बाङ्गिई"
+    },
+    {
+      "surface": "मעליו",
+      "gloss": "त्यसबाट"
+    },
+    {
+      "surface": "ועבור",
+      "gloss": "र जाऊ पार"
+    }
+  ],
+  "timestamp": "2026-08-27T00:19:34.694500367Z",
+  "model": "glm-5.3"
+}

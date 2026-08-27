@@ -1,0 +1,69 @@
+{
+  "tier": "glm-5.2",
+  "verse": 29,
+  "ref": "joshua 24:29",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "यी कुराहरू पछि यहोशुआ नूनको छोरा, यहवेको सेवक, एक सय दश वर्षको भएर मर्यो।",
+  "tokens": [
+    {
+      "surface": "ויהי",
+      "gloss": "भयो"
+    },
+    {
+      "surface": "אחרי",
+      "gloss": "पछि"
+    },
+    {
+      "surface": "הדברים",
+      "gloss": "कुराहरू"
+    },
+    {
+      "surface": "האלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "וימת",
+      "gloss": "मर्यो"
+    },
+    {
+      "surface": "יהושע",
+      "gloss": "यहोशुआ"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "נון",
+      "gloss": "नूनको"
+    },
+    {
+      "surface": "עבד",
+      "gloss": "सेवक"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "מאה",
+      "gloss": "एक सय"
+    },
+    {
+      "surface": "ועשר",
+      "gloss": "दस"
+    },
+    {
+      "surface": "שנים",
+      "gloss": "वर्षको"
+    }
+  ],
+  "timestamp": "2026-08-26T21:19:03.196475337Z",
+  "model": "glm-5.3"
+}

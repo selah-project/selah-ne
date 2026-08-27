@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "genesis 14:3",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "यी सबै ⟨the⟩ सिद्दिमको उपत्यकामा भेला भए, त्यो नै ⟨the⟩ नूनको समुद्र हो।",
+  "tokens": [
+    {
+      "surface": "כל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "חברו",
+      "gloss": "भेला भए"
+    },
+    {
+      "surface": "אל",
+      "gloss": "मा"
+    },
+    {
+      "surface": "עמק",
+      "gloss": "उपत्यका"
+    },
+    {
+      "surface": "השדים",
+      "gloss": "सिद्दिमको"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो नै"
+    },
+    {
+      "surface": "ים",
+      "gloss": "समुद्र"
+    },
+    {
+      "surface": "המלח",
+      "gloss": "नूनको"
+    }
+  ],
+  "timestamp": "2026-08-26T19:44:47.285398902Z",
+  "model": "glm-5.3"
+}

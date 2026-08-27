@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "exodus 35:3",
+  "book": "exodus",
+  "lang": "ne",
+  "chapter": 35,
+  "translation": "शब्बातको दिनमा तिमीहरूका सबै बासस्थानहरूमा आगो बाल्नेछैनौ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "छैनौ"
+    },
+    {
+      "surface": "תבערו",
+      "gloss": "बाल्नेछैनौ"
+    },
+    {
+      "surface": "אש",
+      "gloss": "आगो"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "सबै"
+    },
+    {
+      "surface": "משבתיכם",
+      "gloss": "बासस्थानहरूमा"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "दिनमा"
+    },
+    {
+      "surface": "השבת",
+      "gloss": "शब्बातको"
+    }
+  ],
+  "timestamp": "2026-08-26T20:19:32.383552560Z",
+  "model": "glm-5.3"
+}

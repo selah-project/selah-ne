@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 3:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "हादामले भन्यो, \"तिम्रो मेरो सँग राख्नुभएकी त्यो स्त्रीले नै मलाई रूखबाट दिइन्, र मैले खाएँ।\"",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्यो"
+    },
+    {
+      "surface": "האדם",
+      "gloss": "हादाम"
+    },
+    {
+      "surface": "האשה",
+      "gloss": "स्त्री"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जुन"
+    },
+    {
+      "surface": "נתתה",
+      "gloss": "राख्नुभयो"
+    },
+    {
+      "surface": "עמדי",
+      "gloss": "मेरो सँग"
+    },
+    {
+      "surface": "הוא",
+      "gloss": "त्यो…नै"
+    },
+    {
+      "surface": "נתנה",
+      "gloss": "दिइन्"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    },
+    {
+      "surface": "מן",
+      "gloss": "…बाट"
+    },
+    {
+      "surface": "העץ",
+      "gloss": "रूख"
+    },
+    {
+      "surface": "ואכל",
+      "gloss": "र खाएँ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:40:53.170289188Z",
+  "model": "glm-5.3"
+}

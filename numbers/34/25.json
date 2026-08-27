@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 25,
+  "ref": "numbers 34:25",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 34,
+  "translation": "अनि जबूलूनका छोराहरूको कुलका ⟨the⟩ नासी ⟨the⟩ एलित्साफान, पारनाखको छोरा।",
+  "tokens": [
+    {
+      "surface": "ולמטה",
+      "gloss": "कुलका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरूको"
+    },
+    {
+      "surface": "זבולן",
+      "gloss": "जबूलून"
+    },
+    {
+      "surface": "נשיא",
+      "gloss": "नासी"
+    },
+    {
+      "surface": "אליצפן",
+      "gloss": "एलित्साफान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "छोरा"
+    },
+    {
+      "surface": "פרנך",
+      "gloss": "पारनाख"
+    }
+  ],
+  "timestamp": "2026-08-26T20:51:27.438548655Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "isaiah 8:20",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "तोरातर्फ र साक्षीतर्फ! यदि तिनीहरू यस वचनअनुसार नबोल्नेभए — जसमा त्यसको भोर छैन।",
+  "tokens": [
+    {
+      "surface": "לתורה",
+      "gloss": "तोरातर्फ"
+    },
+    {
+      "surface": "ולתעודה",
+      "gloss": "र साक्षीतर्फ"
+    },
+    {
+      "surface": "אם",
+      "gloss": "कि"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "बोल्छन्"
+    },
+    {
+      "surface": "כדבר",
+      "gloss": "वचनअनुसार"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "यस"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जसमा"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "לו",
+      "gloss": "त्यसको"
+    },
+    {
+      "surface": "שחר",
+      "gloss": "भोर"
+    }
+  ],
+  "timestamp": "2026-08-27T02:04:26.766748592Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "zechariah 14:6",
+  "book": "zechariah",
+  "lang": "ne",
+  "chapter": 14,
+  "translation": "र त्यस दिनमा हुनेछ ⟨कि⟩ उज्यालो हुनेछैन — चम्किला ⟨पिण्डहरू⟩ जम्नेछन्।",
+  "tokens": [
+    {
+      "surface": "והיה",
+      "gloss": "र हुनेछ"
+    },
+    {
+      "surface": "ביום",
+      "gloss": "त्यस दिनमा"
+    },
+    {
+      "surface": "ההוא",
+      "gloss": "त्यस"
+    },
+    {
+      "surface": "לא",
+      "gloss": "होइन"
+    },
+    {
+      "surface": "יהיה",
+      "gloss": "हुनेछ"
+    },
+    {
+      "surface": "אור",
+      "gloss": "उज्यालो"
+    },
+    {
+      "surface": "יקרות",
+      "gloss": "चम्किला ⟨पिण्डहरू⟩"
+    },
+    {
+      "surface": "יקפאון",
+      "gloss": "जम्नेछन्"
+    }
+  ],
+  "timestamp": "2026-08-26T23:49:00.245764520Z",
+  "model": "glm-5.3"
+}

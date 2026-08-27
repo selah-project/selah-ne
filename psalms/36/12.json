@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 36:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "गर्वको खुट्टा ममाथि नआओस्, र दुष्टहरूको हातले मलाई नहराओस्।",
+  "tokens": [
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תבואני",
+      "gloss": "ममाथि आओस्"
+    },
+    {
+      "surface": "רגל",
+      "gloss": "खुट्टा"
+    },
+    {
+      "surface": "גאוה",
+      "gloss": "गर्वको"
+    },
+    {
+      "surface": "ויד",
+      "gloss": "र हातले"
+    },
+    {
+      "surface": "רשעים",
+      "gloss": "दुष्टहरूको"
+    },
+    {
+      "surface": "אל",
+      "gloss": "न"
+    },
+    {
+      "surface": "תנדני",
+      "gloss": "मलाई हराओस्"
+    }
+  ],
+  "timestamp": "2026-08-26T23:55:33.674785254Z",
+  "model": "glm-5.3"
+}

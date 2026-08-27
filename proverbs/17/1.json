@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "proverbs 17:1",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 17,
+  "translation": "सुक्खा टुक्रा ⟨र⟩ त्यससँग शान्ति भनेको, कलहका बलिहरूले भरिएको घरभन्दा राम्रो हो।",
+  "tokens": [
+    {
+      "surface": "טוב",
+      "gloss": "राम्रो"
+    },
+    {
+      "surface": "פת",
+      "gloss": "टुक्रा"
+    },
+    {
+      "surface": "חרבה",
+      "gloss": "सुक्खा"
+    },
+    {
+      "surface": "ושלוה",
+      "gloss": "र ⟨शान्ति⟩"
+    },
+    {
+      "surface": "בה",
+      "gloss": "त्यससँग"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "घरभन्दा"
+    },
+    {
+      "surface": "מלא",
+      "gloss": "भरिएको"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलिहरूले"
+    },
+    {
+      "surface": "ריב",
+      "gloss": "कलहका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:23:32.474517858Z",
+  "model": "glm-5.3"
+}

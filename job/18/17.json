@@ -1,0 +1,53 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "job 18:17",
+  "book": "job",
+  "lang": "ne",
+  "chapter": 18,
+  "translation": "उसको सम्झना पृथ्वीबाट नाश हुनेछ, र उसको नाम बाहिरको सतहमा रहनेछैन।",
+  "tokens": [
+    {
+      "surface": "זכרו",
+      "gloss": "उसको सम्झना"
+    },
+    {
+      "surface": "אבד",
+      "gloss": "नाश हुनेछ"
+    },
+    {
+      "surface": "מני",
+      "gloss": "बाट"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "पृथ्वी"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "र ... छैन"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाम"
+    },
+    {
+      "surface": "לו",
+      "gloss": "उसको"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि"
+    },
+    {
+      "surface": "פני",
+      "gloss": "सतह"
+    },
+    {
+      "surface": "חוץ",
+      "gloss": "बाहिर"
+    }
+  ],
+  "timestamp": "2026-08-27T00:34:36.620836709Z",
+  "model": "glm-5.3"
+}

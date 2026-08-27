@@ -1,0 +1,49 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "deuteronomy 22:27",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 22,
+  "translation": "किनकि खेतमा उसलाई ऊ भेट्न पुग्यो — सङ्गीकृत कन्याले चिच्याई, र उसलाई बचाउने कोही थिएन।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "בשדה",
+      "gloss": "खेतमा"
+    },
+    {
+      "surface": "מצאה",
+      "gloss": "उसलाई भेट्यो"
+    },
+    {
+      "surface": "צעקה",
+      "gloss": "चिच्याई"
+    },
+    {
+      "surface": "הנער",
+      "gloss": "कन्याले"
+    },
+    {
+      "surface": "המארשה",
+      "gloss": "सङ्गीकृत"
+    },
+    {
+      "surface": "ואין",
+      "gloss": "र छैन"
+    },
+    {
+      "surface": "מושיע",
+      "gloss": "बचाउने"
+    },
+    {
+      "surface": "לה",
+      "gloss": "उसलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T21:03:21.194570013Z",
+  "model": "glm-5.3"
+}

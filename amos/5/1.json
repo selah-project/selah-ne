@@ -1,0 +1,58 @@
+{
+  "tier": "glm-5.2",
+  "verse": 1,
+  "ref": "amos 5:1",
+  "book": "amos",
+  "lang": "ne",
+  "chapter": 5,
+  "translation": "सुन, बेइत यिस्राएल, ⟨את⟩ ⟨the⟩ वचन ⟨the⟩ यो, जो म ⟨the⟩ तिमीहरूमाथि उठाउँछु — किना:",
+  "tokens": [
+    {
+      "surface": "שמעו",
+      "gloss": "सुन"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "⟨the⟩ वचन"
+    },
+    {
+      "surface": "הדבר",
+      "gloss": "⟨the⟩ वचन"
+    },
+    {
+      "surface": "הזה",
+      "gloss": "⟨the⟩ यो"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "जो"
+    },
+    {
+      "surface": "אנכי",
+      "gloss": "म"
+    },
+    {
+      "surface": "נשא",
+      "gloss": "उठाउँछु"
+    },
+    {
+      "surface": "עליכם",
+      "gloss": "तिमीहरूमाथि"
+    },
+    {
+      "surface": "קינה",
+      "gloss": "किना"
+    },
+    {
+      "surface": "בית",
+      "gloss": "बेइत"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएल"
+    }
+  ],
+  "timestamp": "2026-08-26T23:38:37.116822964Z",
+  "model": "glm-5.3"
+}

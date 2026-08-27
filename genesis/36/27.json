@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 27,
+  "ref": "genesis 36:27",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 36,
+  "translation": "यी हुन् एत्सेरका छोराहरू: बिल्हान र जावान र अकान।",
+  "tokens": [
+    {
+      "surface": "אלה",
+      "gloss": "यी"
+    },
+    {
+      "surface": "बני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "אצר",
+      "gloss": "एत्सेर"
+    },
+    {
+      "surface": "בלהן",
+      "gloss": "बिल्हान"
+    },
+    {
+      "surface": "וזעון",
+      "gloss": "र जावान"
+    },
+    {
+      "surface": "ועקן",
+      "gloss": "र अकान"
+    }
+  ],
+  "timestamp": "2026-08-26T19:55:45.721895590Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 19,
+  "ref": "judges 20:19",
+  "book": "judges",
+  "lang": "ne",
+  "chapter": 20,
+  "translation": "इस्राएलका छोराहरू बिहान उठे र गिबियाविरुद्ध डेरा बसाए।",
+  "tokens": [
+    {
+      "surface": "ויקומו",
+      "gloss": "उठे"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "इस्राएलका"
+    },
+    {
+      "surface": "בבקר",
+      "gloss": "बिहान"
+    },
+    {
+      "surface": "ויחנו",
+      "gloss": "डेरा बसाए"
+    },
+    {
+      "surface": "על",
+      "gloss": "विरुद्ध"
+    },
+    {
+      "surface": "הגבעה",
+      "gloss": "गिबिया"
+    }
+  ],
+  "timestamp": "2026-08-26T21:29:15.913807425Z",
+  "model": "glm-5.3"
+}

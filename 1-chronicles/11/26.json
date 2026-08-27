@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 26,
+  "ref": "1-chronicles 11:26",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 11,
+  "translation": "र सेनाका वीरहरू थिए: असाहेल, योआवको भाइ; एलखानान, दोदोको छोरा, बेत-लेखेमको।",
+  "tokens": [
+    {
+      "surface": "וגבורי",
+      "gloss": "र वीरहरू"
+    },
+    {
+      "surface": "החילים",
+      "gloss": "सेनाका"
+    },
+    {
+      "surface": "עשה",
+      "gloss": "असाहेल"
+    },
+    {
+      "surface": "אל",
+      "gloss": ""
+    },
+    {
+      "surface": "אחי",
+      "gloss": "…को भाइ"
+    },
+    {
+      "surface": "יואב",
+      "gloss": "योआव"
+    },
+    {
+      "surface": "אלחנן",
+      "gloss": "एलखानान"
+    },
+    {
+      "surface": "בן",
+      "gloss": "…को छोरा"
+    },
+    {
+      "surface": "דודו",
+      "gloss": "दोदो"
+    },
+    {
+      "surface": "מבית",
+      "gloss": "…बाट"
+    },
+    {
+      "surface": "לחם",
+      "gloss": "बेत-लेखेम"
+    }
+  ],
+  "timestamp": "2026-08-27T01:20:07.203247770Z",
+  "model": "glm-5.3"
+}

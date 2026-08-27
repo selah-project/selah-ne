@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "genesis 32:28",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "र ⟨he⟩ उनलाई भन्नुभयो, तिम्रो नाम के हो? र उनले भने, याकोभ।",
+  "tokens": [
+    {
+      "surface": "ויאמר",
+      "gloss": "भन्नुभयो"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उनलाई"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "שמך",
+      "gloss": "तिम्रो नाम"
+    },
+    {
+      "surface": "ויאמר",
+      "gloss": "भने"
+    },
+    {
+      "surface": "יעקב",
+      "gloss": "याकोभ"
+    }
+  ],
+  "timestamp": "2026-08-26T19:53:55.929098237Z",
+  "model": "glm-5.3"
+}

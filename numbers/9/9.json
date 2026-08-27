@@ -1,0 +1,33 @@
+{
+  "tier": "glm-5.2",
+  "verse": 9,
+  "ref": "numbers 9:9",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 9,
+  "translation": "र यहवेले मोशेसँग बोल्नुभयो, भन्नुभएको यस्तो थियो ⟨कि⟩:",
+  "tokens": [
+    {
+      "surface": "וידבר",
+      "gloss": "र बोल्नुभयो"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेले"
+    },
+    {
+      "surface": "אל",
+      "gloss": "सँग"
+    },
+    {
+      "surface": "משה",
+      "gloss": "मोशे"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "भन्नुभएको यस्तो थियो"
+    }
+  ],
+  "timestamp": "2026-08-26T20:40:21.780790514Z",
+  "model": "glm-5.3"
+}

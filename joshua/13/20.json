@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 20,
+  "ref": "joshua 13:20",
+  "book": "joshua",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "र बेथ-पेओर, र हापिस्गाका ढालहरू, र बेथ-हयेशिमोत।",
+  "tokens": [
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "पेओर"
+    },
+    {
+      "surface": "ואשדות",
+      "gloss": "र ढालहरू"
+    },
+    {
+      "surface": "הפסגה",
+      "gloss": "हापिस्गाका"
+    },
+    {
+      "surface": "ובית",
+      "gloss": "र बेथ"
+    },
+    {
+      "surface": "הישמोת",
+      "gloss": "हयेशिमोत"
+    }
+  ],
+  "timestamp": "2026-08-26T21:14:22.925098559Z",
+  "model": "glm-5.3"
+}

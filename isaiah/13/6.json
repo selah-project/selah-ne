@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 6,
+  "ref": "isaiah 13:6",
+  "book": "isaiah",
+  "lang": "ne",
+  "chapter": 13,
+  "translation": "विलाप गर, किनकि नजिक छ यहवेको दिन; शद्दाइबाट आउने विनाशझैँ आउनेछ।",
+  "tokens": [
+    {
+      "surface": "הילילו",
+      "gloss": "विलाप गर"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "קרוב",
+      "gloss": "नजिक छ"
+    },
+    {
+      "surface": "יום",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "כשד",
+      "gloss": "विनाशझैँ"
+    },
+    {
+      "surface": "משדי",
+      "gloss": "शद्दाइबाट"
+    },
+    {
+      "surface": "יבוא",
+      "gloss": "आउनेछ"
+    }
+  ],
+  "timestamp": "2026-08-26T22:26:22.799349605Z",
+  "model": "glm-5.3"
+}

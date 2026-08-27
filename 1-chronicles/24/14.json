@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 14,
+  "ref": "1-chronicles 24:14",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 24,
+  "translation": "पन्ध्रौँ बिल्गालाई, सोह्रौँ इम्मेरलाई।",
+  "tokens": [
+    {
+      "surface": "לבלגה",
+      "gloss": "बिल्गालाई"
+    },
+    {
+      "surface": "חמשה",
+      "gloss": "पन्ध्रौँ"
+    },
+    {
+      "surface": "עשר",
+      "gloss": "⟨पन्ध्रौँभित्रको -teen⟩"
+    },
+    {
+      "surface": "לאמר",
+      "gloss": "इम्मेरलाई"
+    },
+    {
+      "surface": "ששה",
+      "gloss": "सोह्रौँ"
+    },
+    {
+      "surface": "עשर",
+      "gloss": "⟨सोह्रौँभित्रको -teen⟩"
+    }
+  ],
+  "timestamp": "2026-08-27T01:27:55.444933526Z",
+  "model": "glm-5.3"
+}

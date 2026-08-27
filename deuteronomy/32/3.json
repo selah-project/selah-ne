@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 3,
+  "ref": "deuteronomy 32:3",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 32,
+  "translation": "किनकि म यहवेको नाउँ बोलाउनेछु; हाम्रा एलोहीमलाई महिमा दिऊ।",
+  "tokens": [
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "שם",
+      "gloss": "नाउँ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवेको"
+    },
+    {
+      "surface": "אקרא",
+      "gloss": "म बोलाउनेछु"
+    },
+    {
+      "surface": "הבו",
+      "gloss": "दिऊ"
+    },
+    {
+      "surface": "גדל",
+      "gloss": "महिमा"
+    },
+    {
+      "surface": "לאלהינו",
+      "gloss": "हाम्रा एलोहीमलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T21:07:20.127896782Z",
+  "model": "glm-5.3"
+}

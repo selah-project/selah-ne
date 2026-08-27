@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 53,
+  "ref": "nehemiah 7:53",
+  "book": "nehemiah",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बक्बुकका छोराहरू, चकुफाका छोराहरू, चर्चुरका छोराहरू।",
+  "tokens": [
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "בקבוק",
+      "gloss": "बक्बुकका"
+    },
+    {
+      "surface": "בני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חקופא",
+      "gloss": "चकुफाका"
+    },
+    {
+      "surface": "बני",
+      "gloss": "छोराहरू"
+    },
+    {
+      "surface": "חרחור",
+      "gloss": "चर्चुरका"
+    }
+  ],
+  "timestamp": "2026-08-27T01:12:42.334012382Z",
+  "model": "glm-5.3"
+}

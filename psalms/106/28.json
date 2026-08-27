@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 28,
+  "ref": "psalms 106:28",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 106,
+  "translation": "र तिनीहरू बाल-पेओरसँग जोडिए, र मरेकाहरूका बलिहरू खाए।",
+  "tokens": [
+    {
+      "surface": "ויצמדו",
+      "gloss": "र जोडिए"
+    },
+    {
+      "surface": "לבעל",
+      "gloss": "बाल-सँग"
+    },
+    {
+      "surface": "פעור",
+      "gloss": "पेओर"
+    },
+    {
+      "surface": "ויאכלו",
+      "gloss": "र खाए"
+    },
+    {
+      "surface": "זבחי",
+      "gloss": "बलिहरू"
+    },
+    {
+      "surface": "מתים",
+      "gloss": "मरेकाहरूका"
+    }
+  ],
+  "timestamp": "2026-08-27T00:11:01.700525809Z",
+  "model": "glm-5.3"
+}

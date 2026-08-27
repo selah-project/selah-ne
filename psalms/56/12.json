@@ -1,0 +1,45 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "psalms 56:12",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 56,
+  "translation": "एलोहीममा मैले भरोसा गरेँ; डराउनेछुइनँ — मानिसले मलाई के गर्न सक्छ?",
+  "tokens": [
+    {
+      "surface": "באלהים",
+      "gloss": "एलोहीममा"
+    },
+    {
+      "surface": "בטחתי",
+      "gloss": "मैले भरोसा गरेँ"
+    },
+    {
+      "surface": "לא",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "אירא",
+      "gloss": "म डराउँछु"
+    },
+    {
+      "surface": "מה",
+      "gloss": "के"
+    },
+    {
+      "surface": "יעשה",
+      "gloss": "गर्न सक्छ"
+    },
+    {
+      "surface": "आדם",
+      "gloss": "मानिसले"
+    },
+    {
+      "surface": "לי",
+      "gloss": "मलाई"
+    }
+  ],
+  "timestamp": "2026-08-26T23:59:51.294123091Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,41 @@
+{
+  "tier": "glm-5.2",
+  "verse": 8,
+  "ref": "proverbs 7:8",
+  "book": "proverbs",
+  "lang": "ne",
+  "chapter": 7,
+  "translation": "बजारमा हिँड्दै, त्यसको कुनामा, र त्यसको घरतिरको बाटोमा चाल बढाउँदै।",
+  "tokens": [
+    {
+      "surface": "עבר",
+      "gloss": "हिँड्दै"
+    },
+    {
+      "surface": "בשוק",
+      "gloss": "बजारमा"
+    },
+    {
+      "surface": "אצל",
+      "gloss": "नजिक"
+    },
+    {
+      "surface": "פנה",
+      "gloss": "त्यसको कुना"
+    },
+    {
+      "surface": "ודרך",
+      "gloss": "र बाटोमा"
+    },
+    {
+      "surface": "ביתה",
+      "gloss": "त्यसको घरतिर"
+    },
+    {
+      "surface": "יצעד",
+      "gloss": "चाल बढाउँदै"
+    }
+  ],
+  "timestamp": "2026-08-27T00:20:11.695541450Z",
+  "model": "glm-5.3"
+}

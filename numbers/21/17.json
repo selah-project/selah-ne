@@ -1,0 +1,54 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "numbers 21:17",
+  "book": "numbers",
+  "lang": "ne",
+  "chapter": 21,
+  "translation": "तब यिस्राएलले ⟨את⟩ यो गीत गायो — हे कुवा, उठ! तिमीहरू त्यसको लागि गाऊ।",
+  "tokens": [
+    {
+      "surface": "אז",
+      "gloss": "तब"
+    },
+    {
+      "surface": "ישיר",
+      "gloss": "गायो"
+    },
+    {
+      "surface": "ישראל",
+      "gloss": "यिस्राएलले"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "यो गीत"
+    },
+    {
+      "surface": "השירה",
+      "gloss": "गीत"
+    },
+    {
+      "surface": "הזאת",
+      "gloss": "यो"
+    },
+    {
+      "surface": "עלי",
+      "gloss": "उठ"
+    },
+    {
+      "surface": "באר",
+      "gloss": "कुवा"
+    },
+    {
+      "surface": "ענו",
+      "gloss": "गाऊ"
+    },
+    {
+      "surface": "לה",
+      "gloss": "त्यसको लागि"
+    }
+  ],
+  "timestamp": "2026-08-27T01:52:45.002722096Z",
+  "model": "glm-5.3"
+}

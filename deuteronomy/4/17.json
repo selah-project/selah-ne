@@ -1,0 +1,61 @@
+{
+  "tier": "glm-5.2",
+  "verse": 17,
+  "ref": "deuteronomy 4:17",
+  "book": "deuteronomy",
+  "lang": "ne",
+  "chapter": 4,
+  "translation": "कुनै पशुको रूप ⟨जुन⟩ पृथ्वीमा छ, कुनै पंखी चराको रूप ⟨जुन⟩ आकाशमण्डलमा उड्छ,",
+  "tokens": [
+    {
+      "surface": "תבנית",
+      "gloss": "रूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "בהמה",
+      "gloss": "पशु"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जुन⟩"
+    },
+    {
+      "surface": "בארץ",
+      "gloss": "पृथ्वीमा"
+    },
+    {
+      "surface": "תבנית",
+      "gloss": "रूप"
+    },
+    {
+      "surface": "כל",
+      "gloss": "कुनै"
+    },
+    {
+      "surface": "צפור",
+      "gloss": "चरा"
+    },
+    {
+      "surface": "כנף",
+      "gloss": "पंखी"
+    },
+    {
+      "surface": "אשר",
+      "gloss": "⟨जुन⟩"
+    },
+    {
+      "surface": "תעוף",
+      "gloss": "उड्छ"
+    },
+    {
+      "surface": "בשמים",
+      "gloss": "आकाशमण्डलमा"
+    }
+  ],
+  "timestamp": "2026-08-26T20:54:54.557557064Z",
+  "model": "glm-5.3"
+}

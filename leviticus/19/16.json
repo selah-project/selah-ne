@@ -1,0 +1,57 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "leviticus 19:16",
+  "book": "leviticus",
+  "lang": "ne",
+  "chapter": 19,
+  "translation": "आफ्नो जनतामा गन्यार भएर नहिँड; आफ्नो नाइटेको रगतमा नउभि; म यहवे हुँ।",
+  "tokens": [
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תלך",
+      "gloss": "हिँड"
+    },
+    {
+      "surface": "רכיל",
+      "gloss": "गन्यार भएर"
+    },
+    {
+      "surface": "בעמיך",
+      "gloss": "आफ्नो जनतामा"
+    },
+    {
+      "surface": "לא",
+      "gloss": "न"
+    },
+    {
+      "surface": "תעמד",
+      "gloss": "उभि"
+    },
+    {
+      "surface": "על",
+      "gloss": "माथि\/विरुद्ध"
+    },
+    {
+      "surface": "דם",
+      "gloss": "रगत"
+    },
+    {
+      "surface": "רעך",
+      "gloss": "आफ्नो नाइटेको"
+    },
+    {
+      "surface": "אני",
+      "gloss": "म"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    }
+  ],
+  "timestamp": "2026-08-26T20:31:41.416700774Z",
+  "model": "glm-5.3"
+}

@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 23,
+  "ref": "1-chronicles 3:23",
+  "book": "1-chronicles",
+  "lang": "ne",
+  "chapter": 3,
+  "translation": "नेअर्याहका छोराहरू एल्योएनाइ, खिज्कियाह र अज्रिकाम — तीन।",
+  "tokens": [
+    {
+      "surface": "ובן",
+      "gloss": "…का छोराहरू"
+    },
+    {
+      "surface": "נעריה",
+      "gloss": "नेअर्याहका"
+    },
+    {
+      "surface": "אליועיני",
+      "gloss": "एल्योएनाइ"
+    },
+    {
+      "surface": "וחזקיה",
+      "gloss": "र खिज्कियाह"
+    },
+    {
+      "surface": "ועזריקם",
+      "gloss": "र अज्रिकाम"
+    },
+    {
+      "surface": "שלשה",
+      "gloss": "तीन"
+    }
+  ],
+  "timestamp": "2026-08-27T01:17:28.304326574Z",
+  "model": "glm-5.3"
+}

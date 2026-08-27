@@ -1,0 +1,66 @@
+{
+  "tier": "glm-5.2",
+  "verse": 12,
+  "ref": "genesis 8:12",
+  "book": "genesis",
+  "lang": "ne",
+  "chapter": 8,
+  "translation": "र उसले अरू सात दिन अझ पर्खिरह्यो, र परेवालाई ⟨את⟩ पठायो; तर ऊ अब उसकहाँ फर्किन थपिनेन।",
+  "tokens": [
+    {
+      "surface": "וייחל",
+      "gloss": "र उसले पर्खिरह्यो"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अझ"
+    },
+    {
+      "surface": "שבעת",
+      "gloss": "सात"
+    },
+    {
+      "surface": "ימים",
+      "gloss": "दिन"
+    },
+    {
+      "surface": "אחרים",
+      "gloss": "अरू"
+    },
+    {
+      "surface": "וישלח",
+      "gloss": "र पठायो"
+    },
+    {
+      "surface": "את",
+      "gloss": "⟨את⟩",
+      "marks": "परेवालाई"
+    },
+    {
+      "surface": "היונה",
+      "gloss": "परेवालाई"
+    },
+    {
+      "surface": "ולא",
+      "gloss": "तर…न"
+    },
+    {
+      "surface": "יספה",
+      "gloss": "थपिनेन"
+    },
+    {
+      "surface": "שוב",
+      "gloss": "फर्किन"
+    },
+    {
+      "surface": "אליו",
+      "gloss": "उसकहाँ"
+    },
+    {
+      "surface": "עוד",
+      "gloss": "अब"
+    }
+  ],
+  "timestamp": "2026-08-26T19:43:47.063486725Z",
+  "model": "glm-5.3"
+}

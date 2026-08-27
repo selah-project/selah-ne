@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 16,
+  "ref": "psalms 147:16",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 147,
+  "translation": "बरफ ऊनजस्तै दिनुहुन्छ; तुषारो खरानीजस्तै छर्नुहुन्छ।",
+  "tokens": [
+    {
+      "surface": "הנתן",
+      "gloss": "दिनुहुन्छ"
+    },
+    {
+      "surface": "שלג",
+      "gloss": "बरफ"
+    },
+    {
+      "surface": "כצמר",
+      "gloss": "ऊनजस्तै"
+    },
+    {
+      "surface": "כפור",
+      "gloss": "तुषारो"
+    },
+    {
+      "surface": "כאפר",
+      "gloss": "खरानीजस्तै"
+    },
+    {
+      "surface": "יפזר",
+      "gloss": "छर्नुहुन्छ"
+    }
+  ],
+  "timestamp": "2026-08-27T00:18:35.947228222Z",
+  "model": "glm-5.3"
+}

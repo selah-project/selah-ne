@@ -1,0 +1,37 @@
+{
+  "tier": "glm-5.2",
+  "verse": 2,
+  "ref": "psalms 115:2",
+  "book": "psalms",
+  "lang": "ne",
+  "chapter": 115,
+  "translation": "किन ⟨हे⟩ जातिहरूले भनून् — कहाँ छ ⟨अब⟩ उनीहरूका देवता?",
+  "tokens": [
+    {
+      "surface": "למה",
+      "gloss": "किन"
+    },
+    {
+      "surface": "יאמרו",
+      "gloss": "भनून्"
+    },
+    {
+      "surface": "הגוים",
+      "gloss": "जातिहरूले"
+    },
+    {
+      "surface": "איה",
+      "gloss": "कहाँ छ"
+    },
+    {
+      "surface": "נא",
+      "gloss": "⟨अब⟩"
+    },
+    {
+      "surface": "אלהיהם",
+      "gloss": "उनीहरूका देवता"
+    }
+  ],
+  "timestamp": "2026-08-27T00:12:46.365975932Z",
+  "model": "glm-5.3"
+}
