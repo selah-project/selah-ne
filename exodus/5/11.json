@@ -5,8 +5,57 @@
   "book": "exodus",
   "lang": "ne",
   "chapter": 5,
-  "translation": "placeholder",
-  "tokens": [],
-  "timestamp": "2026-08-26T20:05:26.018478036Z",
+  "translation": "तिमीहरू आफै जाओ, जहाँ पाउँछौ आफैका लागि पराल बटुलो, किनकि तिमीहरूको श्रमबाट एउटै थोक पनि घटाइनेछैन।",
+  "tokens": [
+    {
+      "surface": "אתם",
+      "gloss": "तिमीहरू"
+    },
+    {
+      "surface": "לכו",
+      "gloss": "जाओ"
+    },
+    {
+      "surface": "קחו",
+      "gloss": "बटुलो"
+    },
+    {
+      "surface": "לכם",
+      "gloss": "आफैका लागि"
+    },
+    {
+      "surface": "תבן",
+      "gloss": "पराल"
+    },
+    {
+      "surface": "מאשר",
+      "gloss": "जहाँ"
+    },
+    {
+      "surface": "תמצאו",
+      "gloss": "पाउँछौ"
+    },
+    {
+      "surface": "כי",
+      "gloss": "किनकि"
+    },
+    {
+      "surface": "אין",
+      "gloss": "छैन"
+    },
+    {
+      "surface": "נגרע",
+      "gloss": "घटाइनेछैन"
+    },
+    {
+      "surface": "מעבדתכם",
+      "gloss": "तिमीहरूको श्रमबाट"
+    },
+    {
+      "surface": "דבר",
+      "gloss": "एउटै थोक"
+    }
+  ],
+  "timestamp": "2026-08-27T02:49:47.697760790Z",
   "model": "glm-5.3"
 }

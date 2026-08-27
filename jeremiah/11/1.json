@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 1,
-  "ref": "jeremiah 11:1",
-  "book": "jeremiah",
-  "lang": "ne",
-  "chapter": 11,
-  "translation": "यहवेहबाट यिर्मियाहुलाई भएको वचन, भन्नुहोस् भनी ⟨म⟩",
-  "tokens": [],
-  "timestamp": "2026-08-26T22:49:37.790877245Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":1,"ref":"jeremiah 11:1","book":"jeremiah","lang":"ne","chapter":11,"translation":"जुन वचन यिर्मियाहूकहाँ यहवेको ⟨את⟩-तर्फबाट आयो, भन्दै —","tokens":[{"surface":"הדבר","gloss":"वचन"},{"surface":"אשר","gloss":"जुन"},{"surface":"היה","gloss":"आयो"},{"surface":"אל","gloss":"…कहाँ"},{"surface":"ירמיהו","gloss":"यिर्मियाहू"},{"surface":"מאת","gloss":"⟨את⟩-तर्फबाट","marks":"यहवे"},{"surface":"יהוה","gloss":"यहवे"},{"surface":"לאמר","gloss":"भन्दै"}],"timestamp":"2026-08-27T03:23:04.997225912Z","model":"glm-5.3"}

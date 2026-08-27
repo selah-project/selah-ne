@@ -5,15 +5,15 @@
   "book": "genesis",
   "lang": "ne",
   "chapter": 36,
-  "translation": "र एसाव सेइर पहाडमा बस्यो; एसाव ⟨is⟩ एदोम।",
+  "translation": "र एसाभ शेइर पहाडमा बसोबास गर्न थाल्यो; एसाभ नै ⟨हो⟩ एदोम।",
   "tokens": [
     {
       "surface": "וישב",
-      "gloss": "र बस्यो"
+      "gloss": "बसोबास गर्न थाल्यो"
     },
     {
       "surface": "עשו",
-      "gloss": "एसाव"
+      "gloss": "एसाभ"
     },
     {
       "surface": "בהר",
@@ -21,21 +21,21 @@
     },
     {
       "surface": "שעיר",
-      "gloss": "सेइर"
+      "gloss": "शेइर"
     },
     {
       "surface": "עשו",
-      "gloss": "एसाव"
+      "gloss": "एसाभ"
     },
     {
       "surface": "הוא",
-      "gloss": "उही"
+      "gloss": "नै"
     },
     {
       "surface": "אדום",
       "gloss": "एदोम"
     }
   ],
-  "timestamp": "2026-08-26T19:56:21.478804246Z",
+  "timestamp": "2026-08-27T02:47:00.333716364Z",
   "model": "glm-5.3"
 }

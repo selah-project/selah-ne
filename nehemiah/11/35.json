@@ -5,7 +5,7 @@
   "book": "nehemiah",
   "lang": "ne",
   "chapter": 11,
-  "translation": "लोद, ओनो, र ⟨the⟩",
+  "translation": "लोद, ओनो, चानाखरूपको तल्लो भूभाग।",
   "tokens": [
     {
       "surface": "לד",
@@ -17,13 +17,13 @@
     },
     {
       "surface": "גי",
-      "gloss": "गए"
+      "gloss": "तल्लो भूभाग"
     },
     {
-      "surface": "हחרשים",
-      "gloss": "हाखाराशिम"
+      "surface": "החרשים",
+      "gloss": "चानाखरूपको"
     }
   ],
-  "timestamp": "2026-08-27T01:15:01.189307872Z",
+  "timestamp": "2026-08-27T03:39:14.235856363Z",
   "model": "glm-5.3"
 }

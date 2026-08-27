@@ -5,28 +5,28 @@
   "book": "amos",
   "lang": "ne",
   "chapter": 5,
-  "translation": "सुन, बेइत यिस्राएल, ⟨את⟩ ⟨the⟩ वचन ⟨the⟩ यो, जो म ⟨the⟩ तिमीहरूमाथि उठाउँछु — किना:",
+  "translation": "सुन्नुहोस् ⟨את⟩ यो वचन जुन म तिमीहरूमाथि उठाउँछु — विलाप, इस्राएलको घर हो।",
   "tokens": [
     {
       "surface": "שמעו",
-      "gloss": "सुन"
+      "gloss": "सुन्नुहोस्"
     },
     {
       "surface": "את",
       "gloss": "⟨את⟩",
-      "marks": "⟨the⟩ वचन"
+      "marks": "यो वचन"
     },
     {
       "surface": "הדבר",
-      "gloss": "⟨the⟩ वचन"
+      "gloss": "वचन"
     },
     {
       "surface": "הזה",
-      "gloss": "⟨the⟩ यो"
+      "gloss": "यो"
     },
     {
       "surface": "אשר",
-      "gloss": "जो"
+      "gloss": "जुन"
     },
     {
       "surface": "אנכי",
@@ -42,17 +42,17 @@
     },
     {
       "surface": "קינה",
-      "gloss": "किना"
+      "gloss": "विलाप"
     },
     {
       "surface": "בית",
-      "gloss": "बेइत"
+      "gloss": "घर"
     },
     {
       "surface": "ישראל",
-      "gloss": "यिस्राएल"
+      "gloss": "इस्राएल"
     }
   ],
-  "timestamp": "2026-08-26T23:38:37.116822964Z",
+  "timestamp": "2026-08-27T10:22:44.825233244Z",
   "model": "glm-5.3"
 }

@@ -5,8 +5,41 @@
   "book": "exodus",
   "lang": "ne",
   "chapter": 5,
-  "translation": "placeholder",
-  "tokens": [],
-  "timestamp": "2026-08-26T20:05:26.018648990Z",
+  "translation": "तब जनता मिस्र देशभरि छरियो, तिनीहरूले परालको सट्टा खरले झार टिप्न।",
+  "tokens": [
+    {
+      "surface": "ויפץ",
+      "gloss": "तब छरियो"
+    },
+    {
+      "surface": "העם",
+      "gloss": "जनता"
+    },
+    {
+      "surface": "בכל",
+      "gloss": "भरि"
+    },
+    {
+      "surface": "ארץ",
+      "gloss": "देश"
+    },
+    {
+      "surface": "מצרים",
+      "gloss": "मिस्र"
+    },
+    {
+      "surface": "לקשש",
+      "gloss": "टिप्न"
+    },
+    {
+      "surface": "קש",
+      "gloss": "खरले झार"
+    },
+    {
+      "surface": "לתבן",
+      "gloss": "परालको सट्टा"
+    }
+  ],
+  "timestamp": "2026-08-27T02:49:47.697941022Z",
   "model": "glm-5.3"
 }

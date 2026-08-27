@@ -5,15 +5,15 @@
   "book": "isaiah",
   "lang": "ne",
   "chapter": 38,
-  "translation": "तब यहवेको ⟨the⟩ वचन यशायाहूकहाँ आयो, यो भन्न:",
+  "translation": "र यहवेको वचन यशैयाहकहाँ आयो, भन्दै,",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "तब …भयो"
+      "gloss": "र भयो"
     },
     {
       "surface": "דבר",
-      "gloss": "⟨the⟩ वचन"
+      "gloss": "वचन"
     },
     {
       "surface": "יהוה",
@@ -25,13 +25,13 @@
     },
     {
       "surface": "ישעיהו",
-      "gloss": "यशायाहू"
+      "gloss": "यशैयाह"
     },
     {
-      "surface": "לאमר",
-      "gloss": "यो भन्न"
+      "surface": "לאמר",
+      "gloss": "भन्दै"
     }
   ],
-  "timestamp": "2026-08-26T22:35:19.514352525Z",
+  "timestamp": "2026-08-27T03:45:50.098847970Z",
   "model": "glm-5.3"
 }

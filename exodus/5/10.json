@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 10,
-  "ref": "exodus 5:10",
-  "book": "exodus",
-  "lang": "ne",
-  "chapter": 5,
-  "translation": "र जान-thumped गर्ने",
-  "tokens": [],
-  "timestamp": "2026-08-26T20:05:26.018324696Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":10,"ref":"exodus 5:10","book":"exodus","lang":"ne","chapter":5,"translation":"जबरजस्ती गर्ने हाकिमहरू र तिनीहरूका अधिकारीहरू जनताकहाँ निस्किए र जनतालाई भन्न लागे: यसो भन्छ फारो: म तिमीहरूलाई पराल दिँदिनँ।","tokens":[{"surface":"ויצאו","gloss":"निस्किए"},{"surface":"נגשי","gloss":"जबरजस्ती गर्ने हाकिमहरू"},{"surface":"העם","gloss":"जनताका"},{"surface":"ושטריו","gloss":"र तिनीहरूका अधिकारीहरू"},{"surface":"ויאמרו","gloss":"भने"},{"surface":"אל","gloss":"लाई"},{"surface":"העם","gloss":"जनतालाई"},{"surface":"לאמר","gloss":"भन्न लागे"},{"surface":"כה","gloss":"यसो"},{"surface":"אמר","gloss":"भन्छ"},{"surface":"פרעה","gloss":"फारो"},{"surface":"אינני","gloss":"म छैन"},{"surface":"נתן","gloss":"दिने"},{"surface":"לכם","gloss":"तिमीहरूलाई"},{"surface":"תבן","gloss":"पराल"}],"timestamp":"2026-08-27T13:02:16.731539023Z","model":"glm-5.3"}

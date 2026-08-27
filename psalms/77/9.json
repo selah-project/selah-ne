@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 9,
-  "ref": "psalms 77:9",
-  "book": "psalms",
-  "lang": "ne",
-  "chapter": 77,
-  "translation": "के सदाका लागि सकियो उहाँको खेसेद? पुस्ता-पुस्तासम्म समाप्त भयो ⟨ה⟩ ⟨वचन⟩?",
-  "tokens": [],
-  "timestamp": "2026-08-27T00:03:45.932842789Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":9,"ref":"psalms 77:9","book":"psalms","lang":"ne","chapter":77,"translation":"के उहाँको खेसेद सधैँको लागि सकियो? के उहाँको वचन पुस्तादेखि पुस्तासम्म अन्त्य भयो?","tokens":[{"surface":"האפס","gloss":"के ... सकियो"},{"surface":"לנצח","gloss":"सधैँको लागि"},{"surface":"חסדו","gloss":"उहाँको खेसेद"},{"surface":"גמר","gloss":"अन्त्य भयो"},{"surface":"אמר","gloss":"वचन"},{"surface":"לדר","gloss":"पुस्तादेखि"},{"surface":"ודר","gloss":"पुस्तासम्म"}],"timestamp":"2026-08-27T03:33:48.417961477Z","model":"glm-5.3"}

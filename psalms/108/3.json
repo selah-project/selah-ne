@@ -5,29 +5,29 @@
   "book": "psalms",
   "lang": "ne",
   "chapter": 108,
-  "translation": "जाग, हे नेभेल र किनोर; म जगाउनेछु ⟨the⟩ भोरलाई।",
+  "translation": "होस्, नेबेल र किन्नोर! म उषालाई जगाउँछु।",
   "tokens": [
     {
       "surface": "עורה",
-      "gloss": "जाग"
+      "gloss": "होस्"
     },
     {
-      "surface": "हנבל",
-      "gloss": "हे नेभेल"
+      "surface": "הנבל",
+      "gloss": "नेबेल"
     },
     {
       "surface": "וכנור",
-      "gloss": "र किनोर"
+      "gloss": "र किन्नोर"
     },
     {
       "surface": "אעירה",
-      "gloss": "म जगाउनेछु"
+      "gloss": "म जगाउँछु"
     },
     {
       "surface": "שחר",
-      "gloss": "भोरलाई"
+      "gloss": "उषा"
     }
   ],
-  "timestamp": "2026-08-27T00:12:12.766501359Z",
+  "timestamp": "2026-08-27T03:34:55.564481172Z",
   "model": "glm-5.3"
 }

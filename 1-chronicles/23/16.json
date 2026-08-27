@@ -5,7 +5,7 @@
   "book": "1-chronicles",
   "lang": "ne",
   "chapter": 23,
-  "translation": "गेर्शोमका छोराहरू: शेबुएल ⟨the⟩ प्रमुख।",
+  "translation": "गेर्शोमका छोराहरू: शेबुएल ⟨सरदार⟩।",
   "tokens": [
     {
       "surface": "בני",
@@ -21,9 +21,9 @@
     },
     {
       "surface": "הראש",
-      "gloss": "प्रमुख"
+      "gloss": "सरदार"
     }
   ],
-  "timestamp": "2026-08-27T01:28:03.359822660Z",
+  "timestamp": "2026-08-27T03:41:07.792167167Z",
   "model": "glm-5.3"
 }

@@ -1,12 +1,1 @@
-{
-  "tier": "glm-5.2",
-  "verse": 12,
-  "ref": "isaiah 33:12",
-  "book": "isaiah",
-  "lang": "ne",
-  "chapter": 33,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-26T22:32:27.296053555Z",
-  "model": "glm-5.3"
-}
+{"tier":"glm-5.2","verse":12,"ref":"isaiah 33:12","book":"isaiah","lang":"ne","chapter":33,"translation":"र हुनेछन् जातिहरू चुना-पोल्ने जस्तै; काँडाहरू जस्तै काटिएका — आगोमा बल्नेछन्।","tokens":[{"surface":"והיו","gloss":"र हुनेछन्"},{"surface":"עמים","gloss":"जातिहरू"},{"surface":"משרפות","gloss":"चुना-पोल्ने जस्तै"},{"surface":"שיד","gloss":"चुना"},{"surface":"קוצים","gloss":"काँडाहरू"},{"surface":"כסוחים","gloss":"जस्तै काटिएका"},{"surface":"באש","gloss":"आगोमा"},{"surface":"יצתו","gloss":"बल्नेछन्"}],"timestamp":"2026-08-27T03:22:33.953954342Z","model":"glm-5.3"}

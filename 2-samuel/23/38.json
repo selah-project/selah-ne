@@ -5,7 +5,7 @@
   "book": "2-samuel",
   "lang": "ne",
   "chapter": 23,
-  "translation": "इरा ⟨the⟩ यित्री, गारेभ ⟨the⟩ यित्री।",
+  "translation": "इरा हयिथ्री, गारेभ हयिथ्री।",
   "tokens": [
     {
       "surface": "עירא",
@@ -13,7 +13,7 @@
     },
     {
       "surface": "היתרי",
-      "gloss": "यित्री"
+      "gloss": "हयिथ्री"
     },
     {
       "surface": "גרב",
@@ -21,9 +21,9 @@
     },
     {
       "surface": "היתרי",
-      "gloss": "यित्री"
+      "gloss": "हयिथ्री"
     }
   ],
-  "timestamp": "2026-08-26T21:55:34.921229958Z",
+  "timestamp": "2026-08-27T03:14:45.725945737Z",
   "model": "glm-5.3"
 }

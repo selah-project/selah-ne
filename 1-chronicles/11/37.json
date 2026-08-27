@@ -5,29 +5,29 @@
   "book": "1-chronicles",
   "lang": "ne",
   "chapter": 11,
-  "translation": "खेत्स्रो ⟨the⟩ कार्मेली, नाराय एज्बाईको छोरा।",
+  "translation": "हेस्रो हकर्मेली, नाराइ अज्रबाईको छोरा।",
   "tokens": [
     {
       "surface": "חצרו",
-      "gloss": "खेत्स्रो"
+      "gloss": "हेस्रो"
     },
     {
       "surface": "הכרמלי",
-      "gloss": "कार्मेली"
+      "gloss": "हकर्मेली"
     },
     {
       "surface": "נערי",
-      "gloss": "नाराय"
+      "gloss": "नाराइ"
     },
     {
-      "surface": "बן",
+      "surface": "בן",
       "gloss": "छोरा"
     },
     {
       "surface": "אזבי",
-      "gloss": "एज्बाई"
+      "gloss": "अज्रबाई"
     }
   ],
-  "timestamp": "2026-08-27T01:20:58.140527899Z",
+  "timestamp": "2026-08-27T03:40:41.182698608Z",
   "model": "glm-5.3"
 }

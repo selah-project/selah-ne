@@ -5,8 +5,41 @@
   "book": "isaiah",
   "lang": "ne",
   "chapter": 33,
-  "translation": "",
-  "tokens": [],
-  "timestamp": "2026-08-26T22:32:27.295747558Z",
+  "translation": "अब म उठ्छु, भन्नुहुन्छ यहवे; अब म उच्च हुन्छु; अब म आफैलाई उठाउँछु।",
+  "tokens": [
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אקום",
+      "gloss": "म उठ्छु"
+    },
+    {
+      "surface": "יאמר",
+      "gloss": "भन्नुहुन्छ"
+    },
+    {
+      "surface": "יהוה",
+      "gloss": "यहवे"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "ארומם",
+      "gloss": "म उच्च हुन्छु"
+    },
+    {
+      "surface": "עתה",
+      "gloss": "अब"
+    },
+    {
+      "surface": "אנשא",
+      "gloss": "म आफैलाई उठाउँछु"
+    }
+  ],
+  "timestamp": "2026-08-27T03:22:33.953664144Z",
   "model": "glm-5.3"
 }

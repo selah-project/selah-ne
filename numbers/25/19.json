@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ne",
   "chapter": 25,
-  "translation": "र महामारीपछि ⟨it came to pass⟩ —",
+  "translation": "र महामारीपछि यस्तो भयो।",
   "tokens": [
     {
       "surface": "ויהי",
-      "gloss": "र-भयो"
+      "gloss": "र …भयो"
     },
     {
       "surface": "אחרי",
@@ -20,6 +20,6 @@
       "gloss": "महामारी"
     }
   ],
-  "timestamp": "2026-08-26T20:47:32.309692707Z",
+  "timestamp": "2026-08-27T03:03:44.954627260Z",
   "model": "glm-5.3"
 }

@@ -5,25 +5,25 @@
   "book": "2-samuel",
   "lang": "ne",
   "chapter": 23,
-  "translation": "खेत्स्रो ⟨the⟩ कार्मेली, पाअराइ ⟨the⟩ अर्बी।",
+  "translation": "खेस्रो हकार्मेली, पाराइ हार्बी।",
   "tokens": [
     {
       "surface": "חצרו",
-      "gloss": "खेत्स्रो"
+      "gloss": "खेस्रो"
     },
     {
-      "surface": "הכרमלי",
-      "gloss": "कार्मेली"
+      "surface": "הכרמלי",
+      "gloss": "हकार्मेली"
     },
     {
-      "surface": "पערי",
-      "gloss": "पाअराइ"
+      "surface": "פערי",
+      "gloss": "पाराइ"
     },
     {
       "surface": "הארבי",
-      "gloss": "अर्बी"
+      "gloss": "हार्बी"
     }
   ],
-  "timestamp": "2026-08-27T01:59:51.355292704Z",
+  "timestamp": "2026-08-27T03:14:45.725076834Z",
   "model": "glm-5.3"
 }

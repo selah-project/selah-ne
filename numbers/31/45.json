@@ -5,11 +5,11 @@
   "book": "numbers",
   "lang": "ne",
   "chapter": 31,
-  "translation": "र ⟨the⟩ गधहरू तीस हजार र पाँच सय,",
+  "translation": "र ⟨את⟩ गधाहरू तीस हजार र पाँच सय।",
   "tokens": [
     {
       "surface": "וחמרים",
-      "gloss": "र गधहरू"
+      "gloss": "र गधाहरू"
     },
     {
       "surface": "שלשים",
@@ -20,7 +20,7 @@
       "gloss": "हजार"
     },
     {
-      "surface": "वחמש",
+      "surface": "וחמש",
       "gloss": "र पाँच"
     },
     {
@@ -28,6 +28,6 @@
       "gloss": "सय"
     }
   ],
-  "timestamp": "2026-08-26T20:50:19.977847844Z",
+  "timestamp": "2026-08-27T03:03:16.037682388Z",
   "model": "glm-5.3"
 }
