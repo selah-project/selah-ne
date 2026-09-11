@@ -63,3 +63,8 @@
 स्रोतहरूसँग र पङ्क्तिबद्धतासँग जाँच्छन् — स्वीकार गर्न, तपाईंसँगै
 पकाउन, थप प्रमाण पर्खन, वा कारण देखाई अस्वीकार गर्न सक्छन्।
 मूल्याङ्कन हुने शब्द हो — मान्छे होइन।
+
+## Conduct
+
+Be honest, be kind, show your evidence. Distinguish certainty from
+suggestion. The maintainers weigh and decide.
