@@ -12,7 +12,7 @@
 - त्रुटि र सुधार दुवै छर्लङ्ग छन् भने — **Pull request**
   खोल्नुहोस्।
 - सफ्टवेयर वा सुरक्षा/खाता/गोपनीयताका कुराहरूमा —
-  [Selah Support](https://selahproject.com/support)।
+  [Selah Support](https://s33k3r.com/learn/support)।
 
 ## के-के समेट्दा उपयोगी हुन्छ
 
